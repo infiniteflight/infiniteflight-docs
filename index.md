@@ -1,3 +1,10 @@
+---
+title: How to fly a plane
+meta: This page tells you how to fly a plane
+author: Cam
+---
+
+
 # How to fly a plane
 
 ## What is a plane?

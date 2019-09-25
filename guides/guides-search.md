@@ -1,6 +1,6 @@
 ---
-id: search
 title: Enabling Search
+meta: This page tells you how to fly a plane
 ---
 
 Docusaurus supports search using [Algolia DocSearch](https://community.algolia.com/docsearch/). Once your website is online, you can [submit it to DocSearch](https://community.algolia.com/docsearch/). Algolia will then send you credentials you can add to your `siteConfig.js`.

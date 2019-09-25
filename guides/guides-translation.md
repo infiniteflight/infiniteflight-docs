@@ -1,6 +1,6 @@
 ---
-id: translation
 title: Translations & Localization
+meta: This page tells you how to fly a plane
 ---
 
 Docusaurus allows for easy translation functionality using [Crowdin](https://crowdin.com/). Documentation files written in English are uploaded to Crowdin for translation by users within a community. Top-level pages written with English strings can be translated by wrapping any strings you want to translate in a `<translate>` tag. Other titles and labels will also be found and properly translated.

@@ -1,6 +1,6 @@
 ---
-id: versioning
 title: Versioning
+meta: This page tells you how to fly a plane
 ---
 
 You can use the `version` script to cut a new documentation version based on the latest content in the `docs` directory. That specific set of documentation will then be preserved and accessible even as the documentation in the `docs` directory changes moving forward.
