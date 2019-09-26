@@ -1,0 +1,5 @@
+---
+ordering:
+  - getting-started
+  - guides
+---
