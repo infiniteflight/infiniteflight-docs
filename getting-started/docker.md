@@ -1,6 +1,7 @@
 ---
 id: docker
 title: Docker
+meta: This page tells you how to fly a plane
 ---
 
 [Docker](https://www.docker.com/) is a tool that enables you to create, deploy, and manage lightweight, stand-alone packages that contain everything needed to run an application. It can help us to avoid conflicting dependencies & unwanted behavior when running Docusaurus.

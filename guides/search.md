@@ -1,4 +1,5 @@
 ---
+id: search
 title: Enabling Search
 meta: This page tells you how to fly a plane
 ---

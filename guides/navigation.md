@@ -1,6 +1,7 @@
 ---
 id: navigation
 title: Navigation and Sidebars
+meta: This page tells you how to fly a plane
 ---
 
 ## Referencing Site Documents

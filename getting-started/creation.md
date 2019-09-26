@@ -1,6 +1,7 @@
 ---
 id: site-creation
 title: Creating your site
+meta: This page tells you how to fly a plane
 ---
 
 Docusaurus was created to hopefully make it super simple for you to create a site and documentation for your open source project.

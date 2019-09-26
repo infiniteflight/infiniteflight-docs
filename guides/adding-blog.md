@@ -1,6 +1,7 @@
 ---
 id: adding-blog
 title: Adding a Blog
+meta: This page tells you how to fly a plane
 ---
 
 ## Initial Setup

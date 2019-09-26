@@ -1,6 +1,8 @@
 ---
 id: publishing
 title: Publishing your site
+meta: This page tells you how to fly a plane
+meta: This page tells you how to fly a plane
 ---
 
 You should now have a [site up and running locally](getting-started-site-creation.md). Once you have [customized](api-site-config.md) it to your liking, it's time to publish it. Docusaurus generates a static HTML website that is ready to be served by your favorite web server or online hosting solution.

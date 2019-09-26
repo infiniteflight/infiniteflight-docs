@@ -1,4 +1,5 @@
 ---
+id: translation
 title: Translations & Localization
 meta: This page tells you how to fly a plane
 ---

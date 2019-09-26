@@ -1,5 +1,5 @@
 ---
-id: site-preparation
+id: preparation
 title: Site Preparation
 ---
 
