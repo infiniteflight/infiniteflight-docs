@@ -55,7 +55,7 @@ Step 3
 
 #### 1.2.2: Navigating the Home Screen
 
-_home screen image_
+![Infinite Flight Home Screen](_images/getting-started-1.jpg)
 
 Welcome to the home screen of your newly downloaded Infinite Flight App. Below you’ll find everything you need to know about this page and how to navigate your way through it.
 
