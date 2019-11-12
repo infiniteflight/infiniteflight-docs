@@ -5,85 +5,57 @@ meta: This page tells you how to fly a plane
 author: Cam
 ---
 
-**SUGGESTED STRUCTURE:**
+# Document Title
 
-**DOCUMENT TITLE**
+## Section X: Main Section Title
 
-	
+### X.X: Subsection Title
 
-**SECTION X: MAIN SECTION TITLE**
+#### X.X.X: Paragraph Title
 
-		
+----
 
-**X.X: SUBSECTION TITLE**
+_Example:_
 
+# Quick User Guide
+
+## Section 1: Install
+
+### 1.1: Before You Download**
+
+ - Make sure you own a phone.
 			
+#### 1.1.1: Minimum Device Requirements for Install
 
-**X.X.X: Paragraph Title**
+ - A phone.
 
-**EXAMPLE:**
+#### 1.1.2: How to Download the App**
 
-**QUICK USER GUIDE**
+ - Use the phone.
 
-	
+### 1.2: After Downloading
 
-**SECTION 1: INSTALL**
+ - Open the app			
 
-		
+#### 1.2.1: Starting the App
 
-**1.1: BEFORE YOU DOWNLOAD**
+** STEP BY STEP (standard ‘step by step’ graphic plus boxing?) **
 
-			
 
-**1.1.1: Minimum Device Requirements for Install**
-
-**	**
-
-**	**Information as required
-
-**			**
-
-**1.1.2: How to Download the App**
-
-	
-
-	Information as required
-
-		
-
-**1.2: AFTER DOWNLOADING**
-
-			
-
-**1.2.1: Starting the App**
-
-			
-
-STEP BY STEP *(standard ‘step by step’ graphic plus boxing?)*
-
-				
-
-Step 1: Return to your device home screen and find the Infinite Flight Icon
+Step 1
+: Return to your device home screen and find the Infinite Flight Icon
 
 *Infinite Flight Icon Graphic*
 
-				
+Step 2
+: Tap on the Icon
 
-Step 2: Tap on the Icon
+Step 3
+: Welcome to Infinite Flight, enjoy!
 
-				
+#### 1.2.2: Navigating the Home Screen
 
-Step 3: Welcome to Infinite Flight, enjoy!
-
-			
-
-**1.2.2: Navigating the Home Screen**
-
-			
-
-				![image alt text](image_0.jpg)
-
-				
+_home screen image_
 
 Welcome to the home screen of your newly downloaded Infinite Flight App. Below you’ll find everything you need to know about this page and how to navigate your way through it.
 
