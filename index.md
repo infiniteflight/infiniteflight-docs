@@ -21,7 +21,7 @@ _Example:_
 
 ## Section 1: Install
 
-### 1.1: Before You Download**
+### 1.1: Before You Download
 
  - Make sure you own a phone.
 			
@@ -29,7 +29,7 @@ _Example:_
 
  - A phone.
 
-#### 1.1.2: How to Download the App**
+#### 1.1.2: How to Download the App
 
  - Use the phone.
 
@@ -44,8 +44,6 @@ _Example:_
 
 Step 1
 : Return to your device home screen and find the Infinite Flight Icon
-
-*Infinite Flight Icon Graphic*
 
 Step 2
 : Tap on the Icon
