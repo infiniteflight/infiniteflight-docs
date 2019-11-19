@@ -14,7 +14,7 @@ Our documentation is written in Markdown, hosted in GitHub and rendered using ou
 
   A Section is defined in the repository as a folder.
 
-   ![image-20191119151331021](_images\image-20191119151331021.png)
+   ![image-20191119151331021](_images/image-20191119151331021.png)
 
 - **Article**
 
@@ -53,7 +53,7 @@ Our documentation is written in Markdown, hosted in GitHub and rendered using ou
 
 1. **Create a `Fork` of this repository.**
 
-   ![image-20191119155543647](_images\image-20191119155543647.png)
+   ![image-20191119155543647](_images/image-20191119155543647.png)
 
    This creates a version of the repository that allows you to make your changes, before integrating them to the main repository. 
 
@@ -63,7 +63,7 @@ Our documentation is written in Markdown, hosted in GitHub and rendered using ou
 
 2. **Clone your `Fork` to your local computer.**
 
-   ![image-20191119155947062](_images\image-20191119155947062.png)
+   ![image-20191119155947062](_images/image-20191119155947062.png)
 
    ​	Select your forked repository (in this case, `carmichaelalonso/infiniteflight-docs`), and then press **"Clone"** at the bottom.
 
@@ -75,17 +75,17 @@ Our documentation is written in Markdown, hosted in GitHub and rendered using ou
 
 1. **Open the cloned folder in Typora.**
 
-   ![image-20191119160444608](_images\image-20191119160444608.png)
+   ![image-20191119160444608](_images/image-20191119160444608.png)
 
    ​	In my case, I select the ``Documents\GitHub\infiniteflight-docs` folder, which will look like this:
 
-   ​	![image-20191119160558562](_images\image-20191119160558562.png)
+   ​	![image-20191119160558562](_images/image-20191119160558562.png)
 
    
 
 2. **Toggle Tree View**.
 
-   ![image-20191119160941433](_images\image-20191119160941433.png)
+   ![image-20191119160941433](_images/image-20191119160941433.png)
 
    ​	Tree View allows you to see all files as they are represented by section in the repository.
 
@@ -129,7 +129,7 @@ Our documentation is written in Markdown, hosted in GitHub and rendered using ou
 
    Press `Fetch Origin` in the top menu bar to see if there are new changes.
 
-   ![image-20191119161354615](_images\image-20191119161354615.png)
+   ![image-20191119161354615](_images/image-20191119161354615.png)
 
    *If there are changes*, it will show a count of commits, alongside `Pull Changes`. Do this before continuing (this may give some errors if there are file conflicts, if so, contact Cam for help).
 
@@ -137,7 +137,7 @@ Our documentation is written in Markdown, hosted in GitHub and rendered using ou
 
 2. **Commit your changes.**
 
-   ![image-20191119161735977](_images\image-20191119161735977.png)
+   ![image-20191119161735977](_images/image-20191119161735977.png)
 
    
 
@@ -151,7 +151,7 @@ Our documentation is written in Markdown, hosted in GitHub and rendered using ou
 
 3. **Push your changes**.
 
-   ![image-20191119162015898](_images\image-20191119162015898.png)
+   ![image-20191119162015898](_images/image-20191119162015898.png)
 
    Press `Push origin` to push your commit to GitHub.
 
@@ -253,7 +253,7 @@ See  `_template.md` for an example on how to style a new article.
    : Welcome to Infinite Flight, enjoy!
    ```
 
-   ![image-20191119152902493](_images\image-20191119152902493.png)
+   ![image-20191119152902493](_images/image-20191119152902493.png)
 
    
 
@@ -289,13 +289,13 @@ See  `_template.md` for an example on how to style a new article.
     ![Alternative Text](_images/image-20191119152902493.png "Alternative Text")
     ```
 
-    > ![Alternative Text](_images\image-20191119152902493.png "Alternative Text")
+    > ![Alternative Text](_images/image-20191119152902493.png "Alternative Text")
 
     If you are using Typora, it is recommended that you paste in an image, then use the `Copy Image To...` function (shown when you paste the image, or by right-clicking on the image).
 
     Make sure the path is **relative**, that is, it must begin with `_images/`.
 
-    ![image-20191119154554666](_images\image-20191119154554666.png)
+    ![image-20191119154554666](_images/image-20191119154554666.png)
 
 
 
