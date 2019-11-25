@@ -45,8 +45,6 @@ _Example:_
 Step 1
 : Return to your device home screen and find the Infinite Flight Icon
 
-*Infinite Flight Icon Graphic*
-
 Step 2
 : Tap on the Icon
 
