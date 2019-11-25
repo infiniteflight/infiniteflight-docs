@@ -1,5 +1,0 @@
----
-ordering:
-  - terms
-  - privacy
----
