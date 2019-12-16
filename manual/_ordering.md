@@ -1,6 +1,5 @@
 ---
 ordering:
-  - index
-  - getting-started
-  - guides
+  - installing-the-app
+  - home-screen
 ---
