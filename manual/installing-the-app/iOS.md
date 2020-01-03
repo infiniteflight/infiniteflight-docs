@@ -1,10 +1,8 @@
-```
 ---
 id: iOS
 title: Installing on iOS
 meta: See device requirements and how to install Infinite Flight on iOS
 ---
-```
 
 # Installing on iOS
 

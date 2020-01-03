@@ -1,10 +1,8 @@
-```
 ---
 id: home-screen
 title: Home Screen
 meta: Guide on how to navigate the home screen on Infinite Flight
 ---
-```
 
 # Home Screen
 
