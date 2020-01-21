@@ -7,11 +7,7 @@ order: 6
 
 # Replays
 
-
-
-Insert ‘replay screenshot’ graphic**
-
- 
+ ![Replay page](_images\manual\replay-page.png)
 
 All flights and controlling sessions are recorded automatically and you can revisit them any time! You can also:
 
@@ -43,31 +39,7 @@ The following screen will appear for pilot replays:
 
 **Insert ‘example pilot replay screenshot’ graphic**
 
- 
 
-*1 –* *ATC log*
-
-​           *2 –* *Mini map*
-
-​           *3 –* *Pause/play replay*
-
-​           *4 –* *Back 15 seconds*
-
-*5 –* *Forward 15 seconds*
-
-​           *6 –* *Replay timeline*
-
-​          *7 –* *Take screenshot*
-
-*8* – *Show/hide the mini map*
-
-*9 –* *Change views*
-
-*10 –* *App menu*
-
-*11 –* Hide bar
-
- 
 
 **1**        ATC log with mute and auto scroll options. Pressing on an ATC command will fast forward to that spot.
 
@@ -99,29 +71,7 @@ The following screen will appear for controller replays:
 
 **Insert ‘example controller replay screenshot’ graphic**
 
- 
 
-*1 –* *ATC log*
-
-​           *2 –* *Pause/play replay*
-
-​           *3 –* *Back 15 seconds*
-
-*4 –* *Forward 15 seconds*
-
-​           *5 –* *Take screenshot*
-
-*6* – *Show/hide radar*
-
-*7 –* *Change views*
-
-*8 –* *App menu*
-
-*9 – Timeline*
-
-*10 – Radar* 
-
- 
 
 **1**        ATC log. Press on the message to go to it in the timeline.
 

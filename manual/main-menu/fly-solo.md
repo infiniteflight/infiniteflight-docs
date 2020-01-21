@@ -7,19 +7,9 @@ order: 3
 
 # Fly Solo
 
+![Solo Page](_images\manual\solo-page.png)
 
 
-**Insert ‘fly solo’ screenshot\* (labelled 1 – 3)*
-
- 
-
-*1 – Aircraft Selection*
-
-*2 – Airport and Gate Selection*
-
-*3 – Fly*
-
- 
 
 **1**        Pick your aircraft using the Aircraft Selection button **Insert ‘Home Screen User Interface – Fly Solo –* *Aircraft Selection’ hyperlink**
 
@@ -73,15 +63,7 @@ There are loads of different aircraft and liveries to choose from, maybe it’s 
 
 **Airport and Gate Selection**
 
- 
-
-*Insert ‘whole world’ screenshot* (labelled 1 – 4)
-
- 
-
-*Insert ‘zoomed airport and gate’ screenshot* (labelled 5 – 7)
-
- 
+![Map Zoomed Out](_images\manual\map-zoomed-out.png)
 
 *1 – Search Function*
 
@@ -117,7 +99,11 @@ The entire globe is ready for you to explore, you can either use the features be
 
 **3**        Magenta dots signify uncontrolled airports. If you’re about to fly online, there are different colours showing the weather just like the blue dots. Check out the table above.
 
- 
+
+
+![Map Zoomed In](_images\manual\map-zoomed-in.png)
+
+
 
 **4**        Zoomed in too much? No problem, just tap ‘Reset Zoom’ if you want to zoom out again.
 

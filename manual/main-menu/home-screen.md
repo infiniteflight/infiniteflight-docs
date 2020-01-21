@@ -9,7 +9,7 @@ order: 0
 
 Welcome to the home screen of your newly downloaded Infinite Flight app. Below you’ll find everything you need to know about this page and how to navigate your way through it.
 
- 
+![Home Screen](_images\manual\home-screen.png)
 
 **1**        In the top right hand corner you’ll find your username, tap it to see your profile. Want more info? **Insert ‘Home Screen User Interface – User Profile’ hyperlink**
 
