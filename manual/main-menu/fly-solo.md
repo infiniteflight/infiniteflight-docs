@@ -2,6 +2,7 @@
 id: fly-solo
 title: Fly Solo
 meta: Learn how to start a flight in Solo on Infinite Flight
+order: 3
 ---
 
 # Fly Solo
