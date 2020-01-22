@@ -37,7 +37,7 @@ Step 3
 
 
 
-![Infinite Flight on the App Store](_images/manual/install-ios.png)
+![Infinite Flight on the App Store](_images/manual/frames/app-store.png)
 
 
 

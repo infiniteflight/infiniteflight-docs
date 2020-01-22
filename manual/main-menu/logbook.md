@@ -9,7 +9,7 @@ order: 7
 
 
 
-**Insert ‘logbook screenshot’ graphic**
+![Logbook Page](_images\manual\frames\logbook.png)
 
  
 
