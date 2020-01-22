@@ -9,7 +9,7 @@ order: 1
 
 
 
-![User Profile Page](_images\manual\frames\user-profile.png)
+![User Profile Page](_images/manual/frames/user-profile.png)
 
 ​           
 
@@ -39,7 +39,7 @@ Your User Profile is a way of keeping track whilst you’re flying or controllin
 
  
 
- ![Grade Table](_images\manual\frames\grade-table.png)
+ ![Grade Table](_images/manual/frames/grade-table.png)
 
  
 

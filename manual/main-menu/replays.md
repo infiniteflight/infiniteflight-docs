@@ -7,7 +7,7 @@ order: 6
 
 # Replays
 
- ![Replay page](_images\manual\frames\replay-page.png)
+ ![Replay page](_images/manual/frames/replay-page.png)
 
 All flights and controlling sessions are recorded automatically and you can revisit them any time! You can also:
 

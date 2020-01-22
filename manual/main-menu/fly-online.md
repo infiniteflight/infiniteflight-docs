@@ -7,7 +7,7 @@ order: 4
 
 # Fly Online
 
-![Online Page](_images\manual\frames\fly-online.png)
+![Online Page](_images/manual/frames/fly-online.png)
 
  
 
@@ -47,7 +47,7 @@ order: 4
 
  
 
-![Server Page](_images\manual\frames\server-page.png)
+![Server Page](_images/manual/frames/server-page.png)
 
  
 

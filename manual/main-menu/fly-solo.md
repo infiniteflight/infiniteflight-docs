@@ -7,19 +7,19 @@ order: 3
 
 # Fly Solo
 
-![Solo Page](_images\manual\frames\fly-solo.png)
+![Solo Page](_images/manual/frames/fly-solo.png)
 
 
 
-1. Pick your aircraft using the Aircraft Selection button **Insert ‘Home Screen User Interface – Fly Solo –* *Aircraft Selection’ hyperlink**
-
-   
-
-2. Pick your starting point using the Airport and Gate Selection button **Insert ‘Home Screen User Interface – Fly Solo –* *Airport and Gate Selection’ hyperlink**
+1. [Pick your aircraft using the Aircraft Selection button](#aircraft-selection)
 
    
 
-3. Ready to go flying? Tap on the Fly button to begin **Insert ‘Pilot User Interface – Fly’ hyperlink**
+2. [Pick your starting point using the Airport and Gate Selection button](#airport-and-gate-selection)
+
+   
+
+3. Ready to go flying? Tap on the Fly button to begin!
 
  
 
@@ -51,7 +51,7 @@ There are loads of different aircraft and liveries to choose from, maybe it’s 
 
 ## Airport and Gate Selection
 
-![Map Zoomed Out](_images\manual\frames\map-zoomed-out.png)
+![Map Zoomed Out](_images/manual/frames/map-zoomed-out.png)
 
 
 
@@ -75,7 +75,7 @@ The entire globe is ready for you to explore, you can either use the features be
 
 
 
-![Map Zoomed In](_images\manual\frames\map-zoomed-in.png)
+![Map Zoomed In](_images/manual/frames/map-zoomed-in.png)
 
 
 
