@@ -29,7 +29,7 @@ order: 3
 
 
 
-There are loads of different aircraft and liveries to choose from, maybe it’s your favourite airline, or the aircraft you just completed your Private Pilots License in, the choices are endless! Below is a break down of how to select your next aircraft.
+There are loads of different aircraft and liveries to choose from, maybe it’s your favorite airline, or the aircraft you just completed your Private Pilots License in, the choices are endless! Below is a break down of how to select your next aircraft.
 
 
 
@@ -63,15 +63,11 @@ The entire globe is ready for you to explore, you can either use the features be
 
    
 
-2. Blue dots signify airports that have a tower facility (although it may not necessarily have active ATC). If you’re about to fly online, we also use a variety of colours to give you an idea of what the weather is like. Check out the table below:
+2. Blue dots signify airports that have a tower facility (although it may not necessarily have active ATC).
 
  
 
-**Insert ‘weather colour code table’ graphic**
-
- 
-
-3. Magenta dots signify uncontrolled airports. If you’re about to fly online, there are different colours showing the weather just like the blue dots. Check out the table above.
+3. Magenta dots signify uncontrolled airports.
 
 
 
@@ -83,15 +79,23 @@ The entire globe is ready for you to explore, you can either use the features be
 
    
 
-5. Runway colour codes help you know where the wind is coming from and which runways are ‘most likely’ in use. But watch out, sometimes controllers will be using a different runway than you’re expecting, make sure to look out for traffic! Check out the table below:
+5. Runway color codes help you know where the wind is coming from and which runways are ‘most likely’ in use. But watch out, sometimes controllers will be using a different runway than you’re expecting, make sure to look out for traffic! Check out the table below:		
+
+    | Indication                                                 | Meaning                                      |
+    | ---------------------------------------------------------- | -------------------------------------------- |
+    | ![Green Runway](_images/manual/tables/weather-green.png)   | Headwind under 3kts - runway recommended     |
+    | ![Orange Runway](_images/manual/tables/weather-orange.png) | Crosswind above 3kts                         |
+    | ![Red Runway](_images/manual/tables/weather-red.png)       | Tailwind above 3kts - runway not recommended |
 
  
 
-​			*Insert ‘runway colour code table’ graphic*
+6. In solo mode you can park wherever you want, but in online mode all parking positions are size restricted. If the parking positions are red, you’re too big! 
 
- 
+   
 
-6. In solo mode you can park wherever you want, but in online mode all parking positions are size restricted. If the parking positions are red, you’re too big! TOP TIP: Select the aircraft you want to fly before selecting a parking position, then you’ll be able to see where you can and can’t park.
+   Top Tip
+
+   : Select the aircraft you want to fly before selecting a parking position, then you’ll be able to see where you can and can’t park.
 
    
 

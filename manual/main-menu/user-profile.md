@@ -31,7 +31,11 @@ Your User Profile is a way of keeping track whilst you’re flying or controllin
 
 4. Flight Time is displayed here from all flights that are completed online.  
 
-> **TOP TIP:** Don’t forget to hit ‘exit flight’ when you’re done, otherwise this data might not get recorded!
+   
+
+   Top Tip
+
+   : Don’t forget to hit ‘exit flight’ when you’re done, otherwise this data might not get recorded!
 
  
 
@@ -45,10 +49,18 @@ Your User Profile is a way of keeping track whilst you’re flying or controllin
 
 6. Your total number of online flights is shown here.
 
-> **TOP TIP:** Don’t forget to hit ‘exit flight’ when you’re done, otherwise this data might not get recorded!
+   
+
+   Top Tip
+   
+   : Don’t forget to hit ‘exit flight’ when you’re done, otherwise this data might not get recorded!
 
  
 
 7. Your total number of online landings is shown here. 
 
-> **TOP TIP:** Don’t forget to hit ‘exit flight’ when you’re done, otherwise this data might not get recorded!
+   
+
+   Top Tip
+   
+   : Don’t forget to hit ‘exit flight’ when you’re done, otherwise this data might not get recorded!

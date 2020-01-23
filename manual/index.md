@@ -1,7 +1,7 @@
 ---
 id: index
 title: Manual
-meta: Tips and tricks on how to use Infinite Flight
+meta: Learn how to get the most out of Infinite Flight with our online manual
 ---
 
 
@@ -15,13 +15,43 @@ Infinite Flight offers the most comprehensive flight simulation experience on mo
 ## Features:
 
 - Dozens of aircraft in a diverse fleet of airliners, general aviation and military aircraft (subscribe to Infinite Flight Pro to unlock all aircraft)
+
+  
+
 - Multiple regions featuring high definition satellite imagery, accurate topography and all major airports with precise runway and taxiway layouts
+
+  
+
 - Customizable time of day and weather conditions (real time or custom)
+
+  
+
 - Realistic atmospherics with the sun, moon, stars, and low-level fog.
+
+  
+
 - Autopilot (supports control of all flight parameters, NAV mode to follow your flight plan, and auto land on select aircraft)
+
+  
+
 - Easy-to-use flight planning system with accurate fixes and Navigational Aids
+
+  
+
 - Engine startup and shutdown
+
+  
+
 - Instrument Landing System (ILS)
+
+  
+
 - Advanced replay system
+
+  
+
 - Weight and balance configuration
+
+  
+
 - Aircraft cockpit and door animations, suspension animations, and wing flex, on select aircraft.

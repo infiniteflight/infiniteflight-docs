@@ -41,7 +41,26 @@ order: 4
 
 [See "Main Menu - Fly Solo - Airport and Gate Selection"](/docs/manual/main-menu/fly-solo#airport-and-gate-selection) 
 
- 
+
+
+If you’re about to fly online, we also use a variety of colours to give you an idea of what the weather is like:
+
+| Indication                                      | Meaning                      |
+| ----------------------------------------------- | ---------------------------- |
+| ![VFR](_images/manual/tables/weather-vfr.png)   | Visual Flight Rules          |
+| ![MVFR](_images/manual/tables/weather-mvfr.png) | Marginal Visual Flight Rules |
+| ![IFR](_images/manual/tables/weather-ifr.png)   | Instrument Flight Rules      |
+
+
+
+Runway color codes help you know where the wind is coming from and which runways are ‘most likely’ in use. But watch out, sometimes controllers will be using a different runway than you’re expecting, make sure to look out for traffic! Check out the table below:
+
+| Indication                                                   | Meaning                                      |
+| ------------------------------------------------------------ | -------------------------------------------- |
+| ![Green Runway](_images/manual/tables/weather-green.png) | Headwind under 3kts - runway recommended     |
+| ![Orange Runway](_images/manual/tables/weather-orange.png)                                                           | Crosswind above 3kts                         |
+| ![Red Runway](_images/manual/tables/weather-red.png)                                                           | Tailwind above 3kts - runway not recommended |
+
 
 ## Server
 
