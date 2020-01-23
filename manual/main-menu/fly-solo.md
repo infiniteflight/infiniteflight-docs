@@ -25,7 +25,7 @@ order: 3
 
 ## Aircraft Selection
 
-![Aircraft Page](_images\manual\frames\aircraft-page.png)
+![Aircraft Page](_images/manual/frames/aircraft-page.png)
 
 
 
