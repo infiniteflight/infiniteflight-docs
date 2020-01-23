@@ -41,11 +41,11 @@ Step 2
 
  
 
-The following screen will appear for pilot replays:
+## Pilot Replays
 
- 
 
-**Insert ‘example pilot replay screenshot’ graphic**
+
+ ![Pilot Replay page](_images/manual/frames/replay-pilot.png)
 
 
 
@@ -93,11 +93,11 @@ The following screen will appear for pilot replays:
 
  
 
-The following screen will appear for controller replays:
+## Air Traffic Control Replays
 
- 
 
-**Insert ‘example controller replay screenshot’ graphic**
+
+ ![ATC Replay page](_images/manual/frames/replay-atc.png)
 
 
 

@@ -35,9 +35,14 @@ Selecting frequencies is very similar to selecting an airport and parking positi
 
 2. Blue dots signify airports that have a tower facility (although it may not necessarily have active ATC). We also use a variety of colours to give you an idea of what the weather is like. Check out the table below:
 
- 
+   
 
-**Insert ‘weather colour code table’ graphic**
+
+| Indication | Meaning                                      |
+|------------|----------------------------------------------|
+| 24         | Headwind under 3kts - runway recommended     |
+| 24         | Crosswind above 3kts                         |
+| 24         | Tailwind above 3kts - runway not recommended |
 
 
 
@@ -53,7 +58,11 @@ Selecting frequencies is very similar to selecting an airport and parking positi
 
  
 
-*Insert ‘runway colour code table’ graphic*
+| Indication |                                      Meaning |
+| :--------- | -------------------------------------------: |
+| 24         |     Headwind under 3kts - runway recommended |
+| 24         |                         Crosswind above 3kts |
+| 24         | Tailwind above 3kts - runway not recommended |
 
  
 
