@@ -93,7 +93,7 @@ The entire globe is ready for you to explore, you can either use the features be
 
    
 
-   Top Tip
+   Tip
 
    : Select the aircraft you want to fly before selecting a parking position, then you’ll be able to see where you can and can’t park.
 

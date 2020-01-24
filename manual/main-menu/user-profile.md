@@ -33,7 +33,7 @@ Your User Profile is a way of keeping track whilst you’re flying or controllin
 
    
 
-   Top Tip
+   Tip
 
    : Don’t forget to hit ‘exit flight’ when you’re done, otherwise this data might not get recorded!
 
@@ -51,7 +51,7 @@ Your User Profile is a way of keeping track whilst you’re flying or controllin
 
    
 
-   Top Tip
+   Tip
    
    : Don’t forget to hit ‘exit flight’ when you’re done, otherwise this data might not get recorded!
 
@@ -61,6 +61,6 @@ Your User Profile is a way of keeping track whilst you’re flying or controllin
 
    
 
-   Top Tip
+   Tip
    
    : Don’t forget to hit ‘exit flight’ when you’re done, otherwise this data might not get recorded!
