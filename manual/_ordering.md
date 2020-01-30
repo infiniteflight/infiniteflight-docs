@@ -1,5 +1,8 @@
 ---
 ordering:
   - installing-the-app
-  - main-menu
+  - home-screen
+  - in-game-screen
+  - pause-screen
+  - atc-screen
 ---
