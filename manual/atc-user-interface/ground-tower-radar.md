@@ -91,7 +91,7 @@ Ground, Tower & Radar frequencies all share an interface in common, with each mo
 
 ## Messages On Other Frequencies
 
-![Messages On Other Frequencies](_images/manual/frames/atc-message-on-other-frequencies.png)
+![Messages On Other Frequencies](_images/manual/frames/atc-messages-on-other-frequencies.png)
 
 
 
@@ -116,5 +116,4 @@ Ground, Tower & Radar frequencies all share an interface in common, with each mo
 
 
 1. The drag and vector tool can be used on any radar frequency (e.g. approach and departure) by pressing, holding and then dragging from the aircraft towards the direction you want to vector the aircraft in.
-
-   Information as you drag is displayed that shows the heading, distance, time it will take to reach (at the aircrafts current speed) and the terrain. When you release, options to send the message to the aircraft will be displayed.
+Information as you drag is displayed that shows the heading, distance, time it will take to reach (at the aircrafts current speed) and the terrain. When you release, options to send the message to the aircraft will be displayed.
