@@ -24,8 +24,6 @@ Below are the minimum requirements for a successful install on your device. In a
 
 ## How to Download the App
 
-**iOS**
-
 Step 1
 :  Open the App Store by finding and clicking on the App Store icon on your device home screen
 
@@ -42,8 +40,6 @@ Step 3
 
 
 ## After Downloading
-
-**Starting the App**
 
 Step 1
 : Return to your device home screen and find the Infinite Flight app icon

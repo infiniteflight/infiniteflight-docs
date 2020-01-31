@@ -26,8 +26,6 @@ Below are the minimum requirements for a successful install on your device. In a
 
 ## How to Download the App
 
-Android
-
 Step 1
 : Open the Play Store by finding and clicking on the Play Store icon on your device home screen
 
@@ -39,9 +37,11 @@ Step 3
 
 
 
-## After Downloading
+![Infinite Flight on the Play Store](_images/manual/frames/play-store.png)
 
-**Starting the App**
+
+
+## After Downloading
 
 Step 1
 : Return to your device home screen and find the Infinite Flight app icon
