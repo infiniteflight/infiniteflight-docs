@@ -7,11 +7,7 @@ order: 10
 
 # Autopilot
 
-_\*Insert &#39;autopilot with an option box appearing to the side (by pressing and holding on screen)&#39; screenshot\* (labelled 1 – 2)_
-
-_1 – AP Symbol_
-
-_2 – Option Box appearing next to AP symbol_
+![Autopilot](_images/manual/frames/autopilot.png)
 
 
 
@@ -33,4 +29,4 @@ Step 3
 
 Step 4
 
-: The altitude and heading selections have turquoise bugs which appear on the HUD. These values can be pre-set before engagement of the Autopilot. Want more info? _\*Insert &#39;Pilot User Interface – Fly – HUD&#39; hyperlink\*_
+: The altitude and heading selections have turquoise bugs which appear on the HUD. These values can be pre-set before engagement of the Autopilot. Want more info? See [Pilot User Interface - HUD](/docs/manual/pilot-user-interface/hud).

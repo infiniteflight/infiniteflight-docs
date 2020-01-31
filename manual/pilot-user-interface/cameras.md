@@ -7,6 +7,8 @@ order: 8
 
 # Camera
 
+**show vimeo video here**
+
 
 
 1. The camera symbol allows you to select between numerous angles.

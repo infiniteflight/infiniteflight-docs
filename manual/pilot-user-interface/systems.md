@@ -7,17 +7,7 @@ order: 9
 
 # Systems
 
-_\*Insert &#39;systems with an option box appearing to the side (by pressing and holding on screen)&#39; screenshot\* (labelled 1 – 4)_
-
-_1 – Systems Symbol_
-
-_2 – Option Box appearing next to System box with solid orange box_
-
-_3 – Option Box appearing next to System box with hollow orange box_
-
-_4 – System box (e.g. Misc, electrical, etc)_
-
-
+**show vimeo video here**
 
 1. The systems symbol allows you to select between different aircraft systems, these vary between aircraft variants.
 
