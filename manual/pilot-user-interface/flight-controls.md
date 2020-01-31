@@ -5,7 +5,7 @@ meta: Learn how to use Flight Controls, Gear, Spoilers, Trim, Flaps and Brakes i
 order: 11
 ---
 
-## Flight Controls
+# Flight Controls
 
 ![Flight Controls](_images/manual/frames/flight-controls.png)
 

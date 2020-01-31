@@ -7,17 +7,7 @@ order: 5
 
 # Communication
 
-_\*Insert &#39;communication box open showing some active frequencies and unicoms&#39; screenshot\* (labelled 1 – 5)_
-
-_1 – Current Frequency, Controller Details and METAR_
-
-_2 – Summary of headings/altitude/speed issued by controllers_
-
-_3 – Tune out button/active freq/Unicom boxes_
-
-_4 – Communication log_
-
-_5 – Most recent message sent by ATC displayed at the top of the screen_
+![Communication](_images/manual/frames/communication.png)
 
 
 

@@ -7,11 +7,11 @@ order: 7
 
 # Status Bar
 
-@[vimeo](388270858)
+@[vimeo](388347259)
 
 
 
-1. The customisation bar allows you to select 7 different options to be displayed at any one time, these can be changed at any time and can provide you with loads of information.
+1. The status bar allows you to select 7 different options to be displayed at any one time, these can be changed at any time and can provide you with loads of information.
 
    
 
