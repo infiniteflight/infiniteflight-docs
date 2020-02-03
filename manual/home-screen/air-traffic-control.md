@@ -71,4 +71,4 @@ Selecting frequencies is very similar to selecting an airport and parking positi
 
 ## Server
 
-[See "Main Menu - Fly Online - Server"](/docs/manual/main-menu/fly-online#server) 
+[See "Main Menu - Fly Online - Server"](/docs/manual/home-screen/fly-online#server) 

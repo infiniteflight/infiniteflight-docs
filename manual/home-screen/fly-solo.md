@@ -73,17 +73,15 @@ The entire globe is ready for you to explore, you can either use the features be
 
 3. Magenta dots signify uncontrolled airports.
 
+   ![Map Zoomed In](_images/manual/frames/map-zoomed-in.png)
 
-
-![Map Zoomed In](_images/manual/frames/map-zoomed-in.png)
-
-
+   
 
 4. Zoomed in too much? No problem, just tap ‘Reset Zoom’ if you want to zoom out again.
 
    
 
-5. Runway color codes help you know where the wind is coming from and which runways are ‘most likely’ in use. But watch out, sometimes controllers will be using a different runway than you’re expecting, make sure to look out for traffic! Check out the table below:		
+5. Runway color codes help you know where the wind is coming from and which runways are ‘most likely’ in use. But watch out, sometimes controllers will be using a different runway than you’re expecting, make sure to look out for traffic! Check out the table below:
 
     | Indication                                                 | Meaning                                      |
     | ---------------------------------------------------------- | -------------------------------------------- |
@@ -91,17 +89,17 @@ The entire globe is ready for you to explore, you can either use the features be
     | ![Orange Runway](_images/manual/tables/weather-orange.png) | Crosswind above 3kts                         |
     | ![Red Runway](_images/manual/tables/weather-red.png)       | Tailwind above 3kts - runway not recommended |
 
- 
+    
 
 6. In solo mode you can park wherever you want, but in online mode all parking positions are size restricted. If the parking positions are red, you’re too big! 
 
-   
+    
 
-   Tip
+    Tip
 
-   : Select the aircraft you want to fly before selecting a parking position, then you’ll be able to see where you can and can’t park.
+    : Select the aircraft you want to fly before selecting a parking position, then you’ll be able to see where you can and can’t park.
 
-   
+    
 
 7. Once you’ve decided on your spawn point, you’ll be able to see what airport and gate has been selected in the bottom right hand corner.
 

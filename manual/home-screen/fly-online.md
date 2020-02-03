@@ -11,11 +11,11 @@ order: 4
 
  
 
-1. [Pick your aircraft using the Aircraft Selection button](/docs/manual/main-menu/fly-solo#aircraft-selection)
+1. [Pick your aircraft using the Aircraft Selection button](/docs/manual/home-screen/fly-solo#aircraft-selection)
 
    
 
-2. [Pick your starting point using the Airport and Gate Selection button](/docs/manual/main-menu/fly-solo#airport-and-gate-selection)
+2. [Pick your starting point using the Airport and Gate Selection button](/docs/manual/home-screen/fly-solo#airport-and-gate-selection)
 
    
 
@@ -39,7 +39,7 @@ order: 4
 
 ## Airport and Gate Selection
 
-[See "Main Menu - Fly Solo - Airport and Gate Selection"](/docs/manual/main-menu/fly-solo#airport-and-gate-selection) 
+[See "Main Menu - Fly Solo - Airport and Gate Selection"](/docs/manual/home-screen/fly-solo#airport-and-gate-selection) 
 
 
 
