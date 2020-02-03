@@ -45,7 +45,11 @@ There are loads of different aircraft and liveries to choose from, maybe it’s 
 
    
 
-4.  If you have re-installed the app or paid for a Pro Subscription, tap ‘Restore Purchases’ to make sure you have all of your purchased aircraft available for download.
+4. Infintie Flight has been in constant development, and some of our earlier aircraft aren't the same standard as the latest aircraft in our fleet. If this box is ticked, all of our aircraft (including older, legacy aircraft) are shown on your list.
+
+   
+
+5. If you have re-installed the app or paid for a Pro Subscription, tap ‘Restore Purchases’ to make sure you have all of your purchased aircraft available for download.
 
  
 

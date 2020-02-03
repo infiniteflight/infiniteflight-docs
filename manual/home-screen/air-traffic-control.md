@@ -13,7 +13,7 @@ order: 5
 
    
 
-2. There are various servers for different experiences, select the [Server button](/docs/manual/main-menu/fly-online#server) to pick the best fit for you (note that the Expert Server has restricted access for controlling).
+2. There are various servers for different experiences, select the [Server button](/docs/manual/home-screen/fly-online#server) to pick the best fit for you (note that the Expert Server has restricted access for controlling).
 
    
 

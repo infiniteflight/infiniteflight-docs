@@ -33,7 +33,7 @@ order: 4
 
 ## Aircraft Selection
 
-[See "Main Menu - Fly Solo - Aircraft Selection"](/docs/manual/main-menu/fly-solo#aircraft-selection) 
+[See "Main Menu - Fly Solo - Aircraft Selection"](/docs/manual/home-screen/fly-solo#aircraft-selection) 
 
  
 

@@ -18,3 +18,4 @@ order: 2
    Tip
 
    : Get into a comfortable position before tapping the screen so that the aircraft is configured properly. Need to recalibrate? No problem, just visit the pause screen! See [Pilot User Interface - Pause Menu](/docs/manual/pilot-user-interface/pause-menu).
+

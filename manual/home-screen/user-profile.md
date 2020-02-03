@@ -41,18 +41,18 @@ Your User Profile is a way of keeping track whilst you’re flying or controllin
 
 5. Your Infinite Flight Grade is displayed here. Grades are determined from your total stats, your behaviour whilst online, and your activity. Check out the table below:
 
- 
+   
 
- ![Grade Table](_images/manual/frames/grade-table.png)
+    ![Grade Table](_images/manual/frames/grade-table.png)
 
- 
+   
 
 6. Your total number of online flights is shown here.
 
    
 
    Tip
-   
+
    : Don’t forget to hit ‘exit flight’ when you’re done, otherwise this data might not get recorded!
 
  
