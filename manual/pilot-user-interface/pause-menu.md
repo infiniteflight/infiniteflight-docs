@@ -64,7 +64,13 @@ The time setting is available in all modes, on all servers and can be set to you
 
  
 
-4. The typical fuel burn of your selected aircraft is displayed here to help you decide how much you need, as well as an estimated endurance time. TOP TIP: Always take more fuel than you need, especially on the live servers. Extensive delays can be expected with active ATC when it is busy!
+4. The typical fuel burn of your selected aircraft is displayed here to help you decide how much you need, as well as an estimated endurance time.
+
+   
+
+   Tip
+
+   : Always take more fuel than you need, especially on the live servers. Extensive delays can be expected with active ATC when it is busy!
 
  
 

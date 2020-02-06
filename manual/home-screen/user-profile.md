@@ -13,7 +13,7 @@ order: 1
 
 ​           
 
-Your User Profile is a way of keeping track whilst you’re flying or controlling the skies of Infinite Flight, below is everything you need to know about what it records!
+Your User Profile is a way of keeping track whilst you’re flying or controlling the skies of Infinite Flight. Below is everything you need to know about what it records!
 
  
 

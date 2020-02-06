@@ -17,12 +17,12 @@ order: 7
 
 Step 1
 
-: To change one of the displays on the status bar, press and hold the one you wish to change
+: To change one of the displays on the status bar, press and hold the one you wish to change.
 
 Step 2
 
-: An option box will appear above the status bar, and the current selection will have a solid orange box next to it
+: An option box will appear above the status bar, and the current selection will have a solid orange box next to it.
 
 Step 3
 
-: There are 8 different categories and within these, multiple options that can be chosen. Whilst continuing to hold your finger on the screen, slide between the categories, and then between the different options within the category. A hollow orange box will move, and once you have highlighted the option you want displayed, release your finger
+: There are 8 different categories and within these, multiple options that can be chosen. Whilst continuing to hold your finger on the screen, slide between the categories, and then between the different options within the category. A hollow orange box will move, and once you have highlighted the option you want displayed, release your finger.

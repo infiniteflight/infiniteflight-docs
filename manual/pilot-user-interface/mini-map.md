@@ -15,4 +15,4 @@ order: 4
 
    
 
-2. Customisable settings, the zoom in/out function and a centre screen button are always available on the mini map by just tapping it.
+2. Customizable settings, the zoom in/out function and a centre screen button are available on the mini map by just tapping it.

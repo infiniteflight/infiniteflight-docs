@@ -7,7 +7,9 @@ order: 9
 
 # Systems
 
-**show vimeo video here**
+@[vimeo](389045630)
+
+
 
 1. The systems symbol allows you to select between different aircraft systems, these vary between aircraft variants.
 
@@ -19,12 +21,12 @@ Step 1
 
 Step 2
 
-: When you press and hold, an option box and the selected system box will appear next to the systems button. The current system will have a solid orange box next to it ( **2** )
+: When you press and hold, an option box and the selected system box will appear next to the systems button. The current system will have a solid orange box next to it.
 
 Step 3
 
-: There are 5 different systems, but the options available vary dependant on the aircraft variant. Whilst continuing to hold your finger on the screen, slide between the aircraft systems in the option box. A hollow orange box will move, and once you have highlighted the system you want displayed, release your finger ( **3** )
+: There are 5 different systems, but the options available vary dependent on the aircraft variant. Whilst continuing to hold your finger on the screen, slide between the aircraft systems in the option box. A hollow orange box will move, and once you have highlighted the system you want displayed, release your finger.
 
 Step 4
 
-: The system box will change to the selected system, and various options within this system can then be selected ( **4** )
+: The system box will change to the selected system, and various options within this system can then be selected.

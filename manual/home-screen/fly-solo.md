@@ -11,15 +11,15 @@ order: 3
 
 
 
-1. [Pick your aircraft using the Aircraft Selection button](#aircraft-selection)
+1. Pick your aircraft using the [Aircraft Selection button](#aircraft-selection)
 
    
 
-2. [Pick your starting point using the Airport and Gate Selection button](#airport-and-gate-selection)
+2. [Pick your starting point using the [Airport and Gate Selection button](#airport-and-gate-selection)
 
    
 
-3. Ready to go flying? Tap on the Fly button to begin!
+3. Ready to go flying? Tap on the [Fly button](/docs/manual/pilot-user-interface/fly) to begin!
 
  
 
@@ -45,7 +45,7 @@ There are loads of different aircraft and liveries to choose from, maybe it’s 
 
    
 
-4. Infintie Flight has been in constant development, and some of our earlier aircraft aren't the same standard as the latest aircraft in our fleet. If this box is ticked, all of our aircraft (including older, legacy aircraft) are shown on your list.
+4. Infinite Flight has been in constant development, and some of our earlier aircraft aren't the same standard as the latest aircraft in our fleet. If this box is ticked, all of our aircraft (including older, legacy aircraft) are shown on your list.
 
    
 

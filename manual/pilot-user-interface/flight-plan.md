@@ -26,7 +26,13 @@ order: 6
 
 
 
-3. The search function can be used to find any airport or waypoint in the database as well as any latitude/longitude coordinate. TOP TIP: If you already have a route you want to fly, paste the route into the search function and it will automatically be populated into you Flight Plan.
+3. The search function can be used to find any airport or waypoint in the database as well as any latitude/longitude coordinate. 
+
+   
+
+   Tip
+
+   : If you already have a route you want to fly, paste the route into the search function and it will automatically be populated into you Flight Plan.
 
    
 

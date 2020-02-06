@@ -61,7 +61,7 @@ Ground, Tower & Radar frequencies all share an interface in common, with each mo
 
    
 
-2. Any messages received or set will be logged in the message box beneath the menu.
+2. Any messages received or sent will be logged in the message box beneath the menu.
 
 
 
@@ -69,15 +69,15 @@ Ground, Tower & Radar frequencies all share an interface in common, with each mo
 
 
 
-1. When an aircraft sends a message to the controller, the aircraft strip and aircraft will flash amber provided the controller has that frequency displayed.
+3. When an aircraft sends a message to the controller, the aircraft strip and aircraft will flash amber provided the controller has that frequency displayed.
 
    
 
-2. The message sent will also populate the message box in the bottom right hand corner of the screen. This message box will show all messages between all aircraft.
+4. The message sent will also populate the message box in the bottom right hand corner of the screen. This message box will show all messages between all aircraft.
 
    
 
-3. Customisable settings, the zoom in/out function and a centre screen button are always available here.
+5. Customisable settings, the zoom in/out function and a centre screen button are always available here.
 
 
 
@@ -85,7 +85,7 @@ Ground, Tower & Radar frequencies all share an interface in common, with each mo
 
 
 
-1. When the message menu is opened, controllers can see what messages were previously sent to that specific aircraft, and on what frequency.
+6. When the message menu is opened, controllers can see what messages were previously sent to that specific aircraft, and on what frequency.
 
 
 

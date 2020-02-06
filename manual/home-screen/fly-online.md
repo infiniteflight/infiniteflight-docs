@@ -11,15 +11,15 @@ order: 4
 
  
 
-1. [Pick your aircraft using the Aircraft Selection button](/docs/manual/home-screen/fly-solo#aircraft-selection)
+1. Pick your aircraft using the [Aircraft Selection button](/docs/manual/home-screen/fly-solo#aircraft-selection)
 
    
 
-2. [Pick your starting point using the Airport and Gate Selection button](/docs/manual/home-screen/fly-solo#airport-and-gate-selection)
+2. Pick your starting point using the [Airport and Gate Selection button](/docs/manual/home-screen/fly-solo#airport-and-gate-selection)
 
    
 
-3. There are various servers for different experiences, [select the Server button to pick the best fit for you.](#server)
+3. There are various servers for different experiences, select the [Server button](#server) to pick the best fit for you.
 
    
 
@@ -27,19 +27,19 @@ order: 4
 
    
 
-5. Ready to go flying? Tap on the Fly button to begin!
+5. Ready to go flying? Tap on the [Fly button](/docs/manual/pilot-user-interface/fly) to begin!
 
  
 
 ## Aircraft Selection
 
-[See "Main Menu - Fly Solo - Aircraft Selection"](/docs/manual/home-screen/fly-solo#aircraft-selection) 
+[See "Home Screen - Fly Solo - Aircraft Selection"](/docs/manual/home-screen/fly-solo#aircraft-selection) 
 
  
 
 ## Airport and Gate Selection
 
-[See "Main Menu - Fly Solo - Airport and Gate Selection"](/docs/manual/home-screen/fly-solo#airport-and-gate-selection) 
+[See "Home Screen - Fly Solo - Airport and Gate Selection"](/docs/manual/home-screen/fly-solo#airport-and-gate-selection) 
 
 
 

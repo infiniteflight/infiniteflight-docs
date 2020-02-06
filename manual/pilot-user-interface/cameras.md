@@ -7,7 +7,7 @@ order: 8
 
 # Camera
 
-**show vimeo video here**
+@[vimeo](389091484)
 
 
 
@@ -21,8 +21,8 @@ Step 1
 
 Step 2
 
-: When you press and hold, an option box will appear above the camera symbol, and the current selection will have a solid orange box next to it ( **2** )
+: When you press and hold, an option box will appear above the camera symbol, and the current selection will have a solid orange box next to it.
 
 Step 3
 
-: There are 7 different categories and within these, multiple options that can be chosen. Whilst continuing to hold your finger on the screen, slide between the categories, and then between the different options within the category. A hollow orange box will move, and once you have highlighted the option you want displayed, release your finger ( **3** )
+: There are 7 different categories and within these, multiple options that can be chosen. Whilst continuing to hold your finger on the screen, slide between the categories, and then between the different options within the category. A hollow orange box will move, and once you have highlighted the option you want displayed, release your finger.

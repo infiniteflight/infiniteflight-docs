@@ -17,7 +17,7 @@ order: 10
 
 Step 1
 
-: To engage the autopilot, tap the &#39;AP OFF&#39; button (you must be airborne for the autopilot functions to work correctly). The button will be highlighted by an orange hollow box and will change to &#39;AP ON&#39; ( **2** )
+: To engage the autopilot, tap the &#39;AP OFF&#39; button (you must be airborne for the autopilot functions to work correctly). The button will be highlighted by an orange hollow box and will change to &#39;AP ON'
 
 Step 2
 
