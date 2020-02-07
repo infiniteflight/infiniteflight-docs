@@ -1,7 +1,7 @@
 ---
 id: calibration-screen
 title: Calibration Screen
-meta: Learn how to calibrate your device in Infinite Flight
+meta: Learn how to calibrate your device in Infinite Flight.
 order: 2
 ---
 

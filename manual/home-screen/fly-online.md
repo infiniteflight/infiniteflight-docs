@@ -1,7 +1,7 @@
 ---
 id: fly-online
 title: Fly Online
-meta: Learn how to start a flight online on Infinite Flight
+meta: Learn how to start a flight online on Infinite Flight.
 order: 4
 ---
 

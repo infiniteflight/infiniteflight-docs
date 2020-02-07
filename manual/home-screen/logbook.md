@@ -1,7 +1,7 @@
 ---
 id: logbook
 title: Logbook
-meta: Learn how to explore the built-in logbook in Infinite Flight
+meta: Learn how to explore the built-in logbook in Infinite Flight.
 order: 7
 ---
 

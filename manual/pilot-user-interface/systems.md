@@ -1,7 +1,7 @@
 ---
 id: systems
 title: Systems
-meta: Learn how to interact with aircraft systems in Infinite Flight
+meta: Learn how to interact with aircraft systems in Infinite Flight.
 order: 9
 ---
 

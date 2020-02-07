@@ -1,7 +1,7 @@
 ---
 id: hud
 title: Head Up Display (HUD)
-meta: Learn how to use the HUD in Infinite Flight
+meta: Learn how to use the HUD in Infinite Flight.
 order: 3
 ---
 

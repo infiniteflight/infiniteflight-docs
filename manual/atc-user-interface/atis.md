@@ -1,7 +1,7 @@
 ---
 id: atis
 title: ATIS
-meta: Learn how to use ATIS in Air Traffic Control mode in Infinite Flight
+meta: Learn how to use ATIS in Air Traffic Control mode in Infinite Flight.
 order: 2
 
 ---

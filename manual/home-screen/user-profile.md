@@ -1,7 +1,7 @@
 ---
 id: user-profile
 title: User Profile
-meta: Learn how to interact with your user profile in Infinite Flight
+meta: Learn how to interact with your user profile in Infinite Flight.
 order: 1
 ---
 

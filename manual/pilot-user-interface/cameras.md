@@ -1,7 +1,7 @@
 ---
 id: cameras
 title: Cameras
-meta: Learn how to change cameras in Infinite Flight
+meta: Learn how to change cameras in Infinite Flight.
 order: 8
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: settings
 title: Settings
-meta: Learn how to use the Settings page in Infinite Flight to customise your flying experience
+meta: Learn how to use the Settings page in Infinite Flight to customise your flying experience.
 order: 8
 ---
 

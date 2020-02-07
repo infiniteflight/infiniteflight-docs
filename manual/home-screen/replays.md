@@ -1,7 +1,7 @@
 ---
 id: replays
 title: Replays
-meta: Learn how to use use Replays in Infinite Flight
+meta: Learn how to use use Replays in Infinite Flight.
 order: 6
 ---
 
