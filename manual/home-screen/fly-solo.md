@@ -85,9 +85,9 @@ The entire globe is ready for you to explore, you can either use the features be
 
     | Indication                                                 | Meaning                                      |
     | ---------------------------------------------------------- | -------------------------------------------- |
-    | ![Green Runway](_images/manual/tables/weather-green.jpg)   | Headwind under 3kts - runway recommended     |
-    | ![Orange Runway](_images/manual/tables/weather-orange.jpg) | Crosswind above 3kts                         |
-    | ![Red Runway](_images/manual/tables/weather-red.jpg)       | Tailwind above 3kts - runway not recommended |
+    | ![Green Runway](_images/manual/tables/weather-green.png)   | Headwind under 3kts - runway recommended     |
+    | ![Orange Runway](_images/manual/tables/weather-orange.png) | Crosswind above 3kts                         |
+    | ![Red Runway](_images/manual/tables/weather-red.png)       | Tailwind above 3kts - runway not recommended |
 
     
 
