@@ -1,7 +1,7 @@
 ---
 id: mini-map
 title: Mini Map
-meta: Learn how to use the Mini Map in Infinite Flight
+meta: Learn how to use the Mini Map in Infinite Flight.
 order: 4
 ---
 

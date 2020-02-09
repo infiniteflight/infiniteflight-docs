@@ -1,7 +1,7 @@
 ---
 id: atc
 title: Ground, Tower & Radar
-meta: Learn how to use Ground, Tower & Radar in ATC mode in Infinite Flight
+meta: Learn how to use Ground, Tower & Radar in ATC mode in Infinite Flight.
 order: 3
 ---
 

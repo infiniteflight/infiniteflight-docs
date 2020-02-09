@@ -1,7 +1,7 @@
 ---
 id: android
 title: Installing on Android
-meta: See device requirements and how to install Infinite Flight on Android
+meta: See device requirements and how to install Infinite Flight on Android.
 ---
 
 # Installing on Android

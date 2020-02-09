@@ -1,7 +1,7 @@
 ---
 id: fly-solo
 title: Fly Solo
-meta: Learn how to start a flight in Solo on Infinite Flight
+meta: Learn how to start a flight in Solo on Infinite Flight.
 order: 3
 ---
 
@@ -15,7 +15,7 @@ order: 3
 
    
 
-2. [Pick your starting point using the [Airport and Gate Selection button](#airport-and-gate-selection)
+2. Pick your starting point using the [Airport and Gate Selection button](#airport-and-gate-selection)
 
    
 

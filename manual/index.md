@@ -1,18 +1,18 @@
 ---
 id: index
-title: Manual
-meta: Learn how to get the most out of Infinite Flight with our online manual
+title: Documentation
+meta: Learn how to get the most out of Infinite Flight with our online documentation.
 ---
 
 
 
-# Welcome to the Infinite Flight Manual!
+# Welcome to the Infinite Flight Documentation!
 
 Infinite Flight offers the most comprehensive flight simulation experience on mobile devices, whether you are a curious novice or a decorated pilot. Explore high definition scenery in regions from around the world with our diverse inventory of detailed aircraft, tailoring each flight by choosing your time of day, weather conditions, and aircraft weight configuration.
 
 
 
-## Features:
+## Features
 
 - Dozens of aircraft in a diverse fleet of airliners, general aviation and military aircraft (subscribe to Infinite Flight Pro to unlock all aircraft)
 

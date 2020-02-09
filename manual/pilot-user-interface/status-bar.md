@@ -1,7 +1,7 @@
 ---
 id: status-bar
 title: Status Bar
-meta: Learn how to use the Status Bar in Infinite Flight
+meta: Learn how to use the Status Bar in Infinite Flight.
 order: 7
 ---
 

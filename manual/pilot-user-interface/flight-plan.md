@@ -1,7 +1,7 @@
 ---
 id: flight-plan
 title: Flight Plan Screen
-meta: Learn how to use the Flight Plan Screen in Infinite Flight
+meta: Learn how to use the Flight Plan Screen in Infinite Flight.
 order: 6
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: flight-controls
 title: Flight Controls
-meta: Learn how to use Flight Controls, Gear, Spoilers, Trim, Flaps and Brakes in Infinite Flight
+meta: Learn how to use Flight Controls, Gear, Spoilers, Trim, Flaps and Brakes in Infinite Flight.
 order: 11
 ---
 

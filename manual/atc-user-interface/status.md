@@ -1,7 +1,7 @@
 ---
 id: status
 title: Status
-meta: Learn how to use the Status page in Air Traffic Control mode in Infinite Flight
+meta: Learn how to use the Status page in Air Traffic Control mode in Infinite Flight.
 order: 1
 
 ---

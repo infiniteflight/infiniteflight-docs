@@ -1,7 +1,7 @@
 ---
 id: home-screen
 title: Home Screen
-meta: Learn how to navigate the home screen on Infinite Flight
+meta: Learn how to navigate the home screen on Infinite Flight.
 order: 0
 ---
 

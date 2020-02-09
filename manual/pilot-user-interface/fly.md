@@ -1,7 +1,7 @@
 ---
 id: fly-screen
 title: Fly Screen
-meta: Learn how to use the pilot interface on Infinite Flight
+meta: Learn how to use the pilot interface on Infinite Flight.
 order: 1
 ---
 

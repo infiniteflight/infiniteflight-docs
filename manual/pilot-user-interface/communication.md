@@ -1,7 +1,7 @@
 ---
 id: communication
 title: Communication
-meta: Learn how to communicate with ATC as a pilot in Infinite Flight
+meta: Learn how to communicate with ATC as a pilot in Infinite Flight.
 order: 5
 ---
 
