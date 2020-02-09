@@ -7,7 +7,7 @@ order: 10
 
 # Autopilot
 
-![Autopilot](_images/manual/frames/autopilot.png)
+![Autopilot](_images/manual/frames/autopilot.jpg)
 
 
 

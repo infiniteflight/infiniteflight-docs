@@ -7,7 +7,7 @@ order: 1
 
 # Fly Screen
 
-![Fly Screen](_images/manual/frames/hud-screen.png)
+![Fly Screen](_images/manual/frames/hud-screen.jpg)
 
 
 

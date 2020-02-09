@@ -37,7 +37,7 @@ Step 3
 
 
 
-![Infinite Flight on the Play Store](_images/manual/frames/play-store.png)
+![Infinite Flight on the Play Store](_images/manual/frames/play-store.jpg)
 
 
 

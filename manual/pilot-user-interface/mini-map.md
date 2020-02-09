@@ -7,7 +7,7 @@ order: 4
 
 # Mini Map
 
-![Mini Map](_images/manual/frames/mini-map.png)
+![Mini Map](_images/manual/frames/mini-map.jpg)
 
 
 

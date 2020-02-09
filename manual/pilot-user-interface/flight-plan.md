@@ -7,7 +7,7 @@ order: 6
 
 # Flight Plan Screen
 
-![Flight Plan Screen](_images/manual/frames/flight-plan-screen.png)
+![Flight Plan Screen](_images/manual/frames/flight-plan-screen.jpg)
 
 
 

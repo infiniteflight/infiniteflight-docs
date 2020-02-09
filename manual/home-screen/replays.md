@@ -7,7 +7,7 @@ order: 6
 
 # Replays
 
- ![Replay page](_images/manual/frames/replay-page.png)
+ ![Replay page](_images/manual/frames/replay-page.jpg)
 
 All flights and controlling sessions are recorded automatically and you can revisit them any time! You can also:
 
@@ -45,7 +45,7 @@ Step 2
 
 
 
- ![Pilot Replay page](_images/manual/frames/replay-pilot.png)
+ ![Pilot Replay page](_images/manual/frames/replay-pilot.jpg)
 
 
 
@@ -97,7 +97,7 @@ Step 2
 
 
 
- ![ATC Replay page](_images/manual/frames/replay-atc.png)
+ ![ATC Replay page](_images/manual/frames/replay-atc.jpg)
 
 
 

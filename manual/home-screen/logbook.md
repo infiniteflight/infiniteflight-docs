@@ -9,7 +9,7 @@ order: 7
 
 
 
-![Logbook Page](_images/manual/frames/logbook.png)
+![Logbook Page](_images/manual/frames/logbook.jpg)
 
  
 

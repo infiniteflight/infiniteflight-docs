@@ -7,7 +7,7 @@ order: 3
 
 # Head Up Display (HUD)
 
-![Head Up Display](_images/manual/frames/hud.png)
+![Head Up Display](_images/manual/frames/hud.jpg)
 
 
 

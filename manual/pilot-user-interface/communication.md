@@ -7,7 +7,7 @@ order: 5
 
 # Communication
 
-![Communication](_images/manual/frames/communication.png)
+![Communication](_images/manual/frames/communication.jpg)
 
 
 

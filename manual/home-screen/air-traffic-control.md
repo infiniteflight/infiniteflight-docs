@@ -7,7 +7,7 @@ order: 5
 
 # Air Traffic Control
 
-![ATC Page](_images/manual/frames/atc.png)
+![ATC Page](_images/manual/frames/atc.jpg)
 
 1. Pick your frequencies using the [Station Selection button](#station-selection).
 
@@ -25,7 +25,7 @@ order: 5
 
 ## Station Selection
 
- ![ATC Map Page](_images/manual/frames/atc-map.png)
+ ![ATC Map Page](_images/manual/frames/atc-map.jpg)
 
 Selecting frequencies is very similar to selecting an airport and parking position if you were about to fly. The globe is displayed in the same way, and you can either use the features below to choose where to begin, or zoom in with your fingers!
 
@@ -37,9 +37,9 @@ Selecting frequencies is very similar to selecting an airport and parking positi
 
     | Indication                                      | Meaning                      |
     | ----------------------------------------------- | ---------------------------- |
-    | ![VFR](_images/manual/tables/weather-vfr.png)   | Visual Flight Rules          |
-    | ![MVFR](_images/manual/tables/weather-mvfr.png) | Marginal Visual Flight Rules |
-    | ![IFR](_images/manual/tables/weather-ifr.png)   | Instrument Flight Rules      |
+    | ![VFR](_images/manual/tables/weather-vfr.jpg)   | Visual Flight Rules          |
+    | ![MVFR](_images/manual/tables/weather-mvfr.jpg) | Marginal Visual Flight Rules |
+    | ![IFR](_images/manual/tables/weather-ifr.jpg)   | Instrument Flight Rules      |
 
 
 
@@ -55,9 +55,9 @@ Selecting frequencies is very similar to selecting an airport and parking positi
 
     | Indication                                                   | Meaning                                      |
     | ------------------------------------------------------------ | -------------------------------------------- |
-    | ![Green Runway](_images/manual/tables/weather-green.png) | Headwind under 3kts - runway recommended     |
-    | ![Orange Runway](_images/manual/tables/weather-orange.png)                                                           | Crosswind above 3kts                         |
-    | ![Red Runway](_images/manual/tables/weather-red.png)                                                           | Tailwind above 3kts - runway not recommended |
+    | ![Green Runway](_images/manual/tables/weather-green.jpg) | Headwind under 3kts - runway recommended     |
+    | ![Orange Runway](_images/manual/tables/weather-orange.jpg)                                                           | Crosswind above 3kts                         |
+    | ![Red Runway](_images/manual/tables/weather-red.jpg)                                                           | Tailwind above 3kts - runway not recommended |
     
      
     

@@ -7,7 +7,7 @@ order: 3
 
 # Fly Solo
 
-![Solo Page](_images/manual/frames/fly-solo.png)
+![Solo Page](_images/manual/frames/fly-solo.jpg)
 
 
 
@@ -25,7 +25,7 @@ order: 3
 
 ## Aircraft Selection
 
-![Aircraft Page](_images/manual/frames/aircraft-page.png)
+![Aircraft Page](_images/manual/frames/aircraft-page.jpg)
 
 
 
@@ -55,7 +55,7 @@ There are loads of different aircraft and liveries to choose from, maybe it’s 
 
 ## Airport and Gate Selection
 
-![Map Zoomed Out](_images/manual/frames/map-zoomed-out.png)
+![Map Zoomed Out](_images/manual/frames/map-zoomed-out.jpg)
 
 
 
@@ -73,7 +73,7 @@ The entire globe is ready for you to explore, you can either use the features be
 
 3. Magenta dots signify uncontrolled airports.
 
-   ![Map Zoomed In](_images/manual/frames/map-zoomed-in.png)
+   ![Map Zoomed In](_images/manual/frames/map-zoomed-in.jpg)
 
    
 
@@ -85,9 +85,9 @@ The entire globe is ready for you to explore, you can either use the features be
 
     | Indication                                                 | Meaning                                      |
     | ---------------------------------------------------------- | -------------------------------------------- |
-    | ![Green Runway](_images/manual/tables/weather-green.png)   | Headwind under 3kts - runway recommended     |
-    | ![Orange Runway](_images/manual/tables/weather-orange.png) | Crosswind above 3kts                         |
-    | ![Red Runway](_images/manual/tables/weather-red.png)       | Tailwind above 3kts - runway not recommended |
+    | ![Green Runway](_images/manual/tables/weather-green.jpg)   | Headwind under 3kts - runway recommended     |
+    | ![Orange Runway](_images/manual/tables/weather-orange.jpg) | Crosswind above 3kts                         |
+    | ![Red Runway](_images/manual/tables/weather-red.jpg)       | Tailwind above 3kts - runway not recommended |
 
     
 
