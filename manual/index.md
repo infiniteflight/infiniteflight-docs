@@ -1,12 +1,12 @@
 ---
 id: index
-title: Documentation
+title: Introduction
 meta: Learn how to get the most out of Infinite Flight with our online documentation.
 ---
 
 
 
-# Welcome to the Infinite Flight Documentation!
+# Welcome to the Infinite Flight User Guide!
 
 Infinite Flight offers the most comprehensive flight simulation experience on mobile devices, whether you are a curious novice or a decorated pilot. Explore high definition scenery in regions from around the world with our diverse inventory of detailed aircraft, tailoring each flight by choosing your time of day, weather conditions, and aircraft weight configuration.
 

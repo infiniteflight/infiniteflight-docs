@@ -1,5 +1,6 @@
 ---
 ordering:
+  - meta
   - installing-the-app
   - home-screen
   - pilot-user-interface
