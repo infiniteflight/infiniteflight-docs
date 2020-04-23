@@ -1,0 +1,4 @@
+---
+ordering:
+  - store-issues
+---
