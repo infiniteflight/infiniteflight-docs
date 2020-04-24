@@ -1,4 +1,5 @@
 ---
 ordering:
+  - meta
   - store-issues
 ---
