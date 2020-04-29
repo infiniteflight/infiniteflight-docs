@@ -1,5 +1,5 @@
 ---
 ordering:
   - meta
-  - phases-of-flight
+  - on-the-ground
 ---
