@@ -19,7 +19,7 @@ order: 3
 
    
 
-3. Ready to go flying? Tap on the [Fly button](/docs/manual/pilot-user-interface/fly) to begin!
+3. Ready to go flying? Tap on the [Fly button](/guide/manual/pilot-user-interface/fly) to begin!
 
  
 

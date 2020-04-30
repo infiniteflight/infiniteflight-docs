@@ -13,13 +13,13 @@ order: 5
 
    
 
-2. There are various servers for different experiences, select the [Server button](/docs/manual/home-screen/fly-online#server) to pick the best fit for you (note that the Expert Server has restricted access for controlling).
+2. There are various servers for different experiences, select the [Server button](/guide/manual/home-screen/fly-online#server) to pick the best fit for you (note that the Expert Server has restricted access for controlling).
 
    
 
-3. The [Airspace Status](/docs/manual/atc-user-interface/status) table helps show you how many aircraft are inbound to a particular airport and if it has active ATC. You can tap the refresh button to make sure it’s up to date before you decide where to control
+3. The [Airspace Status](/guide/manual/atc-user-interface/status) table helps show you how many aircraft are inbound to a particular airport and if it has active ATC. You can tap the refresh button to make sure it’s up to date before you decide where to control
 
-4.  Ready to go control? Tap on the [Control button](/docs/manual/atc-user-interface/ground-tower-radar) to begin!
+4.  Ready to go control? Tap on the [Control button](/guide/manual/atc-user-interface/ground-tower-radar) to begin!
 
  
 
@@ -77,4 +77,4 @@ Selecting frequencies is very similar to selecting an airport and parking positi
 
 ## Server
 
-[See "Main Menu - Fly Online - Server"](/docs/manual/home-screen/fly-online#server) 
+[See "Main Menu - Fly Online - Server"](/guide/manual/home-screen/fly-online#server) 

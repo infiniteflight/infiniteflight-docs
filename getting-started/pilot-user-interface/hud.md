@@ -23,11 +23,11 @@ order: 3
 
    
 
-4. The Attitude Indicator displays the aircrafts attitude in relation to the horizon, and also provides a Flight Path Vector (a green circle enabled in the [Systems menu](/docs/manual/pilot-user-interface/systems)).
+4. The Attitude Indicator displays the aircrafts attitude in relation to the horizon, and also provides a Flight Path Vector (a green circle enabled in the [Systems menu](/guide/manual/pilot-user-interface/systems)).
 
    
 
-5. The altitude tape shows the aircraft altitude, current vertical speed is displayed at the bottom of the tap and a turquoise bug represents the altitude that is selected on the aircraft Flight Control Unit (FCU) within the [Autopilot](/docs/manual/pilot-user-interface/autopilot).
+5. The altitude tape shows the aircraft altitude, current vertical speed is displayed at the bottom of the tap and a turquoise bug represents the altitude that is selected on the aircraft Flight Control Unit (FCU) within the [Autopilot](/guide/manual/pilot-user-interface/autopilot).
 
    
 

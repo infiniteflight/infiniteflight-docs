@@ -11,31 +11,31 @@ Welcome to the home screen of your newly downloaded Infinite Flight app. Below y
 
 ![Home Screen](_images/manual/frames/home-screen.jpg)
 
-1. In the top right hand corner you’ll find your username, [tap it to see your profile](/docs/manual/home-screen/user-profile).
+1. In the top right hand corner you’ll find your username, [tap it to see your profile](/guide/manual/home-screen/user-profile).
 
    
 
-2. Solo mode is offline, allowing you to practice without anyone else around, in weather conditions of your choosing. [See "Fly Solo".](/docs/manual/home-screen/fly-solo)
+2. Solo mode is offline, allowing you to practice without anyone else around, in weather conditions of your choosing. [See "Fly Solo".](/guide/manual/home-screen/fly-solo)
 
    
 
-3. Our three live servers allow you to choose the experience you want, but with some company too. [See "Fly Online".](/docs/manual/home-screen/fly-online)
+3. Our three live servers allow you to choose the experience you want, but with some company too. [See "Fly Online".](/guide/manual/home-screen/fly-online)
 
    
 
-4. Don’t want to fly? Here you can control aircraft instead on our live servers! [See "Air Traffic Control"](/docs/manual/home-screen/air-traffic-control).
+4. Don’t want to fly? Here you can control aircraft instead on our live servers! [See "Air Traffic Control"](/guide/manual/home-screen/air-traffic-control).
 
    
 
-5. All controlling and flights you do are recorded, and stored here when you want to look back. Want more info? [See "Replays".](/docs/manual/home-screen/replays)
+5. All controlling and flights you do are recorded, and stored here when you want to look back. Want more info? [See "Replays".](/guide/manual/home-screen/replays)
 
    
 
-6. As well as replays, all information is automatically logged when you fly or control so that you can keep track [in the Logbook](/docs/manual/home-screen/logbook)! 
+6. As well as replays, all information is automatically logged when you fly or control so that you can keep track [in the Logbook](/guide/manual/home-screen/logbook)! 
 
    
 
-7. Our default settings are sure to get you going, but if you want to, you can [customize your experience here](/docs/manual/home-screen/settings).
+7. Our default settings are sure to get you going, but if you want to, you can [customize your experience here](/guide/manual/home-screen/settings).
 
    
 

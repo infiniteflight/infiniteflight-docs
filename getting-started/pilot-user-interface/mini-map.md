@@ -11,7 +11,7 @@ order: 4
 
 
 
-1. The mini map is a great tool to be able to see where other aircraft are, to view your flight plan, and to discover your surroundings whilst you fly – just scroll your finger around the map to explore. Want more info? See [Pilot User Interface - Flight Plan](/docs/manual/pilot-user-interface/flight-plan).
+1. The mini map is a great tool to be able to see where other aircraft are, to view your flight plan, and to discover your surroundings whilst you fly – just scroll your finger around the map to explore. Want more info? See [Pilot User Interface - Flight Plan](/guide/manual/pilot-user-interface/flight-plan).
 
    
 
