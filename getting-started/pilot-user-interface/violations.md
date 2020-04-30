@@ -13,7 +13,7 @@ order: 13
 
  
 
-Violations can either be automatically generated (Level 1) or issued by ATC (Level 2 or 3) and are a way to moderate pilot behavior on the Training and Expert Servers **(Insert hyperlink to ‘Home Screen User Interface – Fly Online – Server’)**. **Level 1** Violations can be received on both servers, however **Level 2** and **Level 3** Violations can only be issued on the Expert Server. Each server has its own set of rules and minimum grade **(Insert hyperlink to ‘Home Screen User Interface – User Profile’)** requirements, but the Expert Server is for serious users only. If the server rules and procedures are not followed, ATC will strictly enforce this and pilots could be issued a Violation. 
+Violations can either be automatically generated (Level 1) or issued by ATC (Level 2 or 3) and are a way to moderate pilot behavior on the [Training and Expert Servers](/guide/getting-started/home-screen/fly-online#server). **Level 1** Violations can be received on both servers, however **Level 2** and **Level 3** Violations can only be issued on the Expert Server. Each server has its own set of rules and minimum grade **(Insert hyperlink to ‘Home Screen User Interface – User Profile’)** requirements, but the Expert Server is for serious users only. If the server rules and procedures are not followed, ATC will strictly enforce this and pilots could be issued a Violation. 
 
  
 
