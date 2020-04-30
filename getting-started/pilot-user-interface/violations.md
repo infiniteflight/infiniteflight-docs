@@ -13,7 +13,7 @@ order: 13
 
  
 
-Violations can either be automatically generated (Level 1) or issued by ATC (Level 2 or 3) and are a way to moderate pilot behavior on the Training and Expert Servers **(Insert hyperlink to ‘Home Screen User Interface – Fly Online – Server’)**. **Level 1** Violations can be received on both servers, however **Level 2** and **Level 3** Violations can only be issued on the Expert Server. Each server has its own set of rules and minimum grade **(Insert hyperlink to ‘Home Screen User Interface – User Profile’)** requirements, but the Expert Server is for serious users only. If the server rules and procedures are not followed, ATC will strictly enforce this and pilots could be issued with a Violation. 
+Violations can either be automatically generated (Level 1) or issued by ATC (Level 2 or 3) and are a way to moderate pilot behavior on the Training and Expert Servers **(Insert hyperlink to ‘Home Screen User Interface – Fly Online – Server’)**. **Level 1** Violations can be received on both servers, however **Level 2** and **Level 3** Violations can only be issued on the Expert Server. Each server has its own set of rules and minimum grade **(Insert hyperlink to ‘Home Screen User Interface – User Profile’)** requirements, but the Expert Server is for serious users only. If the server rules and procedures are not followed, ATC will strictly enforce this and pilots could be issued a Violation. 
 
  
 
@@ -41,7 +41,7 @@ Level 1 Violation
 
 Level 2 Violation (Amber)
 
-: The pilot is made invisible for the current session but may return to the Expert Server immediately by starting a new flight.
+: The pilot is disconnected from the server but can continue the flight offline. The pilot may return to the Expert Server immediately by starting a new flight provided the amount of Level 2 and 3 Violations remain under the server allowed limits.
 
  
 
@@ -77,7 +77,7 @@ Level 2 Violation (Amber)
 
 Level 3 Violation (Red)
 
-: The pilot is made invisible for the current session and Expert Server access is restricted for 7 days following this.
+: The pilot is disconnected from the server but can continue the flight offline. The pilot will not be able to return to the Expert Server after the flight has been ended, with access being restricted for 7 days following this.
 
 
 
