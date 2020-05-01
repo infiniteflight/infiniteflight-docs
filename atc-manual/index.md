@@ -1,3 +1,9 @@
+---
+id: introduction
+title: Introduction
+meta: Learn how to get the most out of Infinite Flight with our online documentation.
+---
+
 # Introduction
 
  
