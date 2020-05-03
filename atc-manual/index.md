@@ -1,7 +1,7 @@
 ---
 id: introduction
 title: Introduction
-meta: Learn how to get the most out of Infinite Flight with our online documentation.
+meta: Introduction to the Infinite Flight Air Traffic Controller (IFATC) Manual.
 ---
 
 # Introduction
@@ -10,7 +10,7 @@ meta: Learn how to get the most out of Infinite Flight with our online documenta
 
 ### 1.1.1
 
-This guide is designed to help new entrants and current controllers with IFATC procedures, as well as cover the fundamental principles associated with all controlling facilities on Infinite Flight. **All controllers are expected to familiarise themselves with this guide and continue to do so during their time with IFATC.**
+Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is designed to help new entrants and current controllers with IFATC procedures, as well as cover the fundamental principles associated with all controlling facilities on Infinite Flight. **All controllers are expected to familiarise themselves with this manual and continue to do so during their time with IFATC.**
 
 
 
