@@ -9,6 +9,10 @@ order: 4
 
 
 
+Insert Tyler's Take-Off Procedures Tutorial 
+
+
+
 Tip
 
 : You will rarely require full power for take-off; your weight, environmental factors such as altitude and temperature, and the runway length will effect how much thrust is required

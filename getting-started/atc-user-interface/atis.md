@@ -46,4 +46,4 @@ order: 2
 
    Tip
 
-   : Don&#39;t forget to keep your ATIS up to date! When the weather, runways/frequencies in use, remarks or NOTAMS change, update your ATIS and publish with the next letter of the phonetic alphabet.
+   : Don&#39;t forget to keep your ATIS up to date! When the weather, runways/frequencies in use, REMARKS or NOTAMS change, update your ATIS and publish with the next letter of the phonetic alphabet.
