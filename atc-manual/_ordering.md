@@ -1,12 +1,12 @@
 ---
 ordering:
   - meta
-  - 2.-new-entrants
-  - 3.-violations
-  - 4.-ground
-  - 5.-tower
-  - 6.-atis
-  - 7.-on-guard-procedures
-  - 8.-radar
-  - 9.-recruitment-and-training
+  - 1a.-new-entrants
+  - 1b.-violations
+  - 2.-ground
+  - 3.-tower
+  - 4.-atis
+  - 5.-airspace
+  - 6.-radar
+  - 7.-recruitment-and-training
 ---
