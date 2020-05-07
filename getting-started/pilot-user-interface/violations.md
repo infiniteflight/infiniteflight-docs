@@ -47,7 +47,7 @@ Level 1 Violation
 
 Level 2 Violation (Amber)
 
-: The pilot is disconnected from the server but can continue the flight offline. The pilot may return to the Expert Server immediately by starting a new flight provided the amount of Level 2 and 3 Violations remain under the server allowed limits.
+: The pilot is disconnected from the server but can continue the flight offline. The pilot may return to the Expert Server immediately by starting a new flight provided the number of Level 2 and 3 Violations remain under the server allowed limits.
 
  
 
@@ -119,7 +119,7 @@ If you do still find that you receive violations try to find out why, and learn 
 
  
 
-We recommend that you only appeal **Level 3** Violations as these prevent access to the Expert Server, whereas **Level 2** Violations allow you to start a new flight (provided you have not exceeded the total amount of Violations allowed). However, if you believe a Violation was issued in error, you can appeal at any time by following the steps below:
+We recommend that you only appeal **Level 3** Violations as these prevent access to the Expert Server, whereas **Level 2** Violations allow you to start a new flight (provided you have not exceeded the total number of Violations allowed). However, if you believe a Violation was issued in error, you can appeal at any time by following the steps below:
 
  
 
