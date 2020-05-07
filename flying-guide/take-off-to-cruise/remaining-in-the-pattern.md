@@ -9,7 +9,7 @@ order: 8
 
 
 
-Insert Tyler's Pattern Work Tutorial
+@[vimeo](416103249)
 
 
 
