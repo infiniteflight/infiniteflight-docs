@@ -137,7 +137,7 @@ Step 2
 
 Step 3
 
-: Visit [community.infiniteflight.com](https://community.infiniteflight.com/) and send a private message to the controller with your callsign, date of Violation and as much detail as you can provide about the event. If you cannot find the controller or if you are a new user, you can send the appeal to @reports instead
+: Visit [community.infiniteflight.com](https://community.infiniteflight.com/) and send a private message to the controller with your callsign, date of Violation and as much detail as you can provide about the event. If you cannot find the controller or if you are a new user, you can send the appeal to @appeals instead
 
  
 

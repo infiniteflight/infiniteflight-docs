@@ -6,17 +6,28 @@ meta: Introduction to the Infinite Flight Air Traffic Controller (IFATC) Manual.
 
 # Introduction
 
- 
+
+
+**LAST UPDATE		08th May 2020**		Summary of Changes
+
+
+
+| **NOTICE BEFORE READING THIS MANUAL** |                                                              |
+| ------------------------------------- | ------------------------------------------------------------ |
+| **Must**{.red}                        | The use of **must**{.red} or **must not**{.red} are considered **MANDATORY**{.red} and strict compliance is **REQUIRED**{.red} |
+| **Should**{.red}                      | The use of **should**{.red} or **should not**{.red} are considered **ADVISORY**{.red} and compliance is **STRONGLY RECOMMENDED**{.red} |
+
+
 
 ### 1.1.1
 
-Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is designed to help new entrants and current controllers with IFATC procedures, as well as cover the fundamental principles associated with all controlling facilities on Infinite Flight. **All controllers are expected to familiarise themselves with this manual and continue to do so during their time with IFATC.**
+Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is designed to help new entrants and current controllers with IFATC procedures, as well as cover the fundamental principles associated with all controlling facilities on Infinite Flight. **All controllers are expected to familiarize themselves with this manual and continue to do so during their time with IFATC.**{.red}
 
 
 
 ### 1.1.2   
 
-The IFATC Tutorials on the Infinite Flight Community (IFC) Channels and FAA 7110.65 are additional tools that controllers **should** utilise.
+The IFATC Tutorials on the Infinite Flight Community (IFC) Channels and FAA 7110.65 are additional tools that controllers **should**{.red} utilize.
 
 
 
@@ -28,7 +39,7 @@ Feedback on this manual is welcome and should be sent to @RAH via the IFC or the
 
 ### 1.1.4    
 
-A site designed by one of our controllers and is dedicated to help with controlling can be found at [https://www.ifatc.org/](https://www.ifatc.org/). The features are extensive and updated regularly, thus are not covered within this manual but controllers **should** utilise the tools this site offers.
+A site designed by one of our controllers and is dedicated to help with controlling can be found at [https://www.ifatc.org/](https://www.ifatc.org/). The features are extensive and updated regularly, thus are not covered within this manual but controllers **should**{.red} utilize the tools this site offers.
 
  
 
@@ -70,7 +81,7 @@ All abbreviations contained within this manual are listed below with their assoc
 | IRL              | In Real Life                              |
 | Kts              | Knots                                     |
 | LLC              | Limited Liability Company                 |
-| LOC              | Localiser                                 |
+| LOC              | Localizer                                 |
 | LUAW             | Line Up And Wait                          |
 | METAR            | Meteorological Aerodrome Report           |
 | MSA              | Minimum Sector Altitude                   |
