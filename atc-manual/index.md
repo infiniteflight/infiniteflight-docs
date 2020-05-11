@@ -7,8 +7,15 @@ meta: Introduction to the Infinite Flight Air Traffic Controller (IFATC) Manual.
 # Introduction
 
 
++++ Summary of changes
 
-**LAST UPDATE		08th May 2020**		Summary of Changes
+**Last Updated: 08th May 2020**
+
+ - Added new content
+ - Made existing content better
+ - Deleted bad content
+
++++
 
 
 
