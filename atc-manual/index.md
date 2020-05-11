@@ -8,9 +8,9 @@ meta: Introduction to the Infinite Flight Air Traffic Controller (IFATC) Manual.
 
 +++ Summary of changes
 
-**LAST UPDATED: 11 May 2020**
+**LAST UPDATED: 111930ZMAY20**
 
- - 1.1.5 - 'IRL', 'SID', and 'VNAV' abbreviations added
+ - 1.1.5 - 'IRL', 'SID', 'TOD', and 'VNAV' abbreviations added
  - 1A.1 - Slack Slash Commands moved and */mystats* added
  - 1A.2.1 - Controllers that had the ATIS frequency open at an airport must provide the last ATIS letter when closing
  - 1A.2.1 - Clarification on reserving frequencies
@@ -21,10 +21,11 @@ meta: Introduction to the Infinite Flight Air Traffic Controller (IFATC) Manual.
  - 1B.1.6 - Violation reasons expanded to include VNAV
  - 1B.1.7 - Clarity added for dealing with callsigns/usernames that are related to sensitive topics
  - 1B.2.1 - Controllers must keep replays for a MINIMUM of 7 days
- - 1B.2.2 - Introduction of @appeals when addedin a moderator to DMs on the IFC Forum
+ - 1B.2.2 - Introduction of @appeals when adding a moderator to DMs on the IFC Forum
+ - 3.2.2 - Intersection departures not required for the use of LUAW to multiple aircraft
  - 3.3.1 - Pattern Work requirements reworded for clarity
- - 3.3.4 - Clarfication on VFR separation requirements
- - 4.1.1 - Clarfication on the use of ALL runways
+ - 3.3.4 - Clarification on VFR separation requirements
+ - 4.1.1 - Clarification on the use of ALL runways
  - 4.1.6 - 'No Pattern Work' and 'No Light Aircraft' ATIS REMARKS reworded for clarity
  - 4.1.6 - 'SID/STAR Use Rcmd/Req' ATIS REMARKS added
  - Section 5 - New Airspace
@@ -116,6 +117,7 @@ All abbreviations contained within this manual are listed below with their assoc
 | SID              | Standard Instrument Departure             |
 | STAR             | Standard Terminal Arrival Route           |
 | TAF              | Terminal Aerodrome Forecast               |
+| TOD              | Top of Descent                            |
 | TWC              | Tailwind Component                        |
 | UFN              | Until Further Notice                      |
 | UTC              | Coordinated Universal Time                |
