@@ -1,5 +1,5 @@
 # This is where you'll find information and frequently asked questions related to our PRO subscription. 
-If you can't find the answer to your question, please contact our support team at support@infiniteflight.com 
+If you can't find the answer to your question below, please contact our support team at support@infiniteflight.com 
 
 
 ## How much is a PRO subscription and what is included? 
