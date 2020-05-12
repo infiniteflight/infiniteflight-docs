@@ -1,0 +1,12 @@
+---
+ordering:
+  - meta
+  - 1a.-new-entrants
+  - 1b.-violations
+  - 2.-ground
+  - 3.-tower
+  - 4.-atis
+  - 5.-airspace
+  - 6.-radar
+  - 7.-recruitment-and-training
+---
