@@ -1,5 +1,5 @@
 # This is where you will find help about your online experience in Infinite Flight
-If your question is not answered below, reach out to our support team at support@infiniteflight.com for further assistance.
+If you can't find the answer to your question below, please contact our support team at support@infiniteflight.com 
 
 
 ## Can i play Infinite Flight offline? 
