@@ -1,0 +1,1 @@
+Fast devices are cool
