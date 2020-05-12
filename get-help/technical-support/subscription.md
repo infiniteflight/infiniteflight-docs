@@ -1,4 +1,8 @@
-# How much is a PRO subscription and what is included? 
+# This is where you'll find information and frequently asked questions related to our PRO subscription. 
+If you can't find the answer to your question, please contact our support team at support@infiniteflight.com 
+
+
+## How much is a PRO subscription and what is included? 
 - 1 Month - $9.99
 
 - 6 Months - $49.99 
@@ -16,7 +20,7 @@ Android: Google Play Store customers can now purchase a subscription with a rede
 
 Apple: iTunes customers can use redeem cards or account credits without a credit card to purchase a Pro Subscription. iTunes customers will not renew automatically and are prompted to accept or decline renewals upon subscription expiration.
 
-# I have now purchased a subscription, but it says i do not have a subscription? 
+## I have now purchased a subscription, but it says i do not have a subscription? 
 
 If you purchased a new subscription or renewed an existing one but cannot access your online account please try the following steps:
 
@@ -41,7 +45,7 @@ If you are still unable to access your subscription after completing the steps a
 - Device
 - Complete Purchase Receipt showing date, item, and item number (Beginning with GPA if Android User)
 
-# How do i cancel my PRO subscription? 
+## How do i cancel my PRO subscription? 
 
 Auto-Renew can be cancelled directly from your App Store or Play Store app. Please find the instructions for your store below:
 
