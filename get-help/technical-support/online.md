@@ -1,3 +1,10 @@
+---
+id: online
+title: Online
+meta: Help about your online experience in Infinite Flight
+---
+
+
 # This is where you will find help about your online experience in Infinite Flight
 If you can't find the answer to your question below, please contact our support team at support@infiniteflight.com 
 
