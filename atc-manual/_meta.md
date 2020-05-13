@@ -1,6 +1,6 @@
 ---
 id: atc-manual
 title: ATC Manual
-description: Make planes turn and go higher and lower
+description: Whether you're a qualified controller or just beginning your journey, the ATC Manual will be your guide to controlling the skies of Infinite Flight.
 order: 3
 ---
