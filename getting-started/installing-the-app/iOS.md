@@ -14,11 +14,11 @@ Infinite Flight is available for download on the App Store.
 
 Below are the minimum requirements for a successful install on your device. In addition to this, we recommend that your device has at least 1GB+ of internal device memory (RAM):
 
-\-    64 bit device
+ -    64 bit device
 
-\-    iOS 10 operating system or later
+ -    iOS 10 operating system or later
 
-\-    [Click here to see full list of devices supported](https://community.infiniteflight.com/t/device-compatibility-thread-19-4-built-by-us-for-you/323610)
+ -    [Click here to see full list of devices supported](https://community.infiniteflight.com/t/device-compatibility-thread-19-4-built-by-us-for-you/323610)
 
 
 

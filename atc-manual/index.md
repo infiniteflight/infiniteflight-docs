@@ -6,9 +6,13 @@ meta: Introduction to the Infinite Flight Air Traffic Controller (IFATC) Manual.
 
 # Introduction
 
-+++ Summary of changes
 
-**LAST UPDATED: 111930ZMAY20**
+
+## Last Updated: 121130ZMAY20
+
+
+
++++ Summary of changes
 
  - 1.1.5 - 'IRL', 'SID', 'TOD', and 'VNAV' abbreviations added
  - 1A.1 - Slack Slash Commands moved and */mystats* added
@@ -45,25 +49,25 @@ meta: Introduction to the Infinite Flight Air Traffic Controller (IFATC) Manual.
 
 ### 1.1.1
 
-Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is designed to help new entrants and current controllers with IFATC procedures, as well as cover the fundamental principles associated with all controlling facilities on Infinite Flight. **All controllers are expected to familiarize themselves with this manual and continue to do so during their time with IFATC.**{.red}
+Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is designed to help new entrants and current Controllers with IFATC procedures, as well as cover the fundamental principles associated with all controlling facilities on Infinite Flight. **All Controllers are expected to familiarize themselves with this manual and continue to do so during their time with IFATC.**{.red}
 
 
 
 ### 1.1.2   
 
-The IFATC Tutorials on the Infinite Flight Community (IFC) Channels and FAA 7110.65 are additional tools that controllers **should**{.red} utilize.
+The [Infinite Flight User Guide](/guide), [IFC Forum](https://community.infiniteflight.com/) and [FAA 7110.65](https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.current/documentnumber/7110.65) are additional tools that Controllers **should**{.red} utilize.
 
 
 
 ### 1.1.3    
 
-Feedback on this manual is welcome and should be sent to @RAH via the IFC or the IFATC Slack.
+Feedback on this manual is welcome and should be sent to the User Guide Author (@RAH) via the IFC or the IFATC Slack.
 
 
 
 ### 1.1.4    
 
-A site designed by one of our controllers and is dedicated to help with controlling can be found at [https://www.ifatc.org/](https://www.ifatc.org/). The features are extensive and updated regularly, thus are not covered within this manual but controllers **should**{.red} utilize the tools this site offers.
+A site designed by one of our Controllers and is dedicated to help with controlling can be found at [https://www.ifatc.org/](https://www.ifatc.org/). The features are extensive and updated regularly, thus are not covered within this manual but Controllers **should**{.red} utilize the tools this site offers.
 
  
 
