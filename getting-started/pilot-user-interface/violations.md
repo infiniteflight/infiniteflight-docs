@@ -7,10 +7,9 @@ order: 13
 
 # Violations
 
-​               
+
 
 ## What are Violations?
-
  
 
 Violations can either be automatically generated (Level 1) or issued by ATC (Level 2 or 3) and are a way to moderate pilot behavior on the [Training and Expert Servers](/guide/getting-started/home-screen/fly-online#server). **Level 1** Violations can be received on both servers, however **Level 2** and **Level 3** Violations can only be issued on the Expert Server. Each server has its own set of rules and minimum [grade](/guide/getting-started/home-screen/user-profile) requirements, but the Expert Server is for serious users only. If the server rules and procedures are not followed, ATC will strictly enforce this and pilots could be issued a Violation. 
@@ -137,7 +136,7 @@ Step 2
 
 Step 3
 
-: Visit [community.infiniteflight.com](https://community.infiniteflight.com/) and send a private message to the controller with your callsign, date of Violation and as much detail as you can provide about the event. If you cannot find the controller or if you are a new user, you can send the appeal to @appeals instead
+: [Send a private message on our community forum](https://community.infiniteflight.com) to the controller with your callsign, date of Violation and as much detail as you can provide about the event. If you cannot find the controller or if you are a new user, you can [send the appeal to our @appeals group](https://community.infiniteflight.com/new-message?groupname=appeals&title=Violation%20Appeal&body=%23%23%20Violation%20Appeal%20Process%0A%0AThank%20you%20for%20taking%20the%20time%20to%20find%20out%20how%20to%20Appeal%20a%20recent%20Level%202%20or%203%20Violation.%20Please%20fill%20in%20the%20template%20below%20with%20as%20much%20detail%20as%20possible%20-%20%2A%2Awithout%20this%20information%20we%20won%27t%20be%20able%20to%20help%20you.%2A%2A%0A%0A%2APlease%20note%20that%20you%20cannot%20appeal%20Level%201%20Violations%2C%20these%20are%20automatically%20generated%20based%20on%20your%20flying%2C%20for%20more%20information%20please%20click%20%5Bhere%5D%28https%3A%2F%2Fstaging.infiniteflight.com%2Fguide%2Fgetting-started%2Fpilot-user-interface%2Fviolations%23violations%29.%2A%0A%0A%23%23%20What%20is%20your%20callsign%3F%0A_Type%20your%20response%20next%20to%20the%20%60%3E%60.%20Make%20sure%20you%20give%20us%20your%20current%20callsign%20%28as%20well%20as%20the%20callsign%20you%20used%20when%20you%20received%20a%20violation_%0A%3E%0A---%0A%23%23%20When%20did%20you%20get%20the%20violation%3F%0A%3E%0A---%0A%23%23%20What%20was%20the%20name%20of%20the%20controller%3F%0A%3E%0A---%0A---%0A%23%23%20What%27s%20the%20link%20to%20your%20replay%20file%3F%0A_Upload%20your%20replay%20to%20%5Bsharemyinfiniteflight.com%5D%28https%3A%2F%2Fsharemyinfiniteflight.com%2F%29%20and%20paste%20the%20link%20below_%0A%3E%0A---%0A%23%23%20Additional%20Details%3A%0A_Let%20us%20know%20additional%20details%20so%20we%20can%20investigate%20as%20quickly%20as%20possible_%0A%3E) instead.
 
  
 
