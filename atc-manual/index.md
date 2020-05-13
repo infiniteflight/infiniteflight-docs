@@ -21,7 +21,7 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 
 
 
-## Last Updated: 132045ZMAY20
+## Last Updated: 132135ZMAY20
 
 
 
@@ -67,7 +67,7 @@ Feedback on this manual is welcome and should be sent to the User Guide Author (
 
 ### 1.1.4    
 
-A site designed by one of our Controllers and is dedicated to help with controlling can be found at [https://www.ifatc.org/](https://www.ifatc.org/). The features are extensive and updated regularly, thus are not covered within this manual but Controllers **should**{.red} utilize the tools this site offers.
+A site designed by one of our Controllers and dedicated to help with controlling can be found at [https://www.ifatc.org/](https://www.ifatc.org/). The features are extensive and updated regularly, thus are not covered within this manual but Controllers **should**{.red} utilize the tools this site offers.
 
  
 
