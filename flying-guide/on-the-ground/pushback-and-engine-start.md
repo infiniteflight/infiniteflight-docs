@@ -2,7 +2,7 @@
 id: pushback-and-engine-start
 title: Pushback and Engine Start
 meta: Learn how to pushback and start engines in Infinite Flight.
-order: 2
+order: 3
 ---
 
 
@@ -134,7 +134,11 @@ The start sequence for the engine you have selected will begin.
 
  
 
-Tip:   For a realistic experience, start one engine at a time - wait for the % N1 to be green before starting the next engine.
+Tip
+
+
+
+:   For a realistic experience, start one engine at a time - wait for the % N1 to be green before starting the next engine.
 
  
 

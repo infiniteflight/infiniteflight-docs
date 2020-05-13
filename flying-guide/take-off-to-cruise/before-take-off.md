@@ -21,7 +21,7 @@ Step 1
 
 Step 2
 
-: Tune to the active frequency and [request take-off](/guide/getting-started/pilot-user-interface/communication#communication) when you're ready for departure, or if there is no active ATC, tune to the Unicom frequency
+: Tune to the active frequency and [report ready for departure](/guide/getting-started/pilot-user-interface/communication#communication), or if there is no active ATC, tune to the Unicom frequency
 
   
 

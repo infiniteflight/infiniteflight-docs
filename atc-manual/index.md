@@ -4,7 +4,20 @@ title: Introduction
 meta: Introduction to the Infinite Flight Air Traffic Controller (IFATC) Manual.
 ---
 
-# Introduction
+# Welcome to the ATC Manual!
+
+
+
+## Introduction
+
+### 1.1.1
+
+Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is designed to help new entrants and current Controllers with IFATC procedures, as well as cover the fundamental principles associated with all controlling facilities on Infinite Flight. **All Controllers are expected to familiarize themselves with this manual and continue to do so during their time with IFATC.**{.red}
+
+| **NOTICE BEFORE READING THIS MANUAL** |                                                              |
+| ------------------------------------- | ------------------------------------------------------------ |
+| **Must**{.red}                        | The use of **must**{.red} or **must not**{.red} are considered **MANDATORY**{.red} and strict compliance is **REQUIRED**{.red} |
+| **Should**{.red}                      | The use of **should**{.red} or **should not**{.red} are considered **ADVISORY**{.red} and compliance is **STRONGLY RECOMMENDED**{.red} |
 
 
 
@@ -40,19 +53,6 @@ meta: Introduction to the Infinite Flight Air Traffic Controller (IFATC) Manual.
 
 
 
-| **NOTICE BEFORE READING THIS MANUAL** |                                                              |
-| ------------------------------------- | ------------------------------------------------------------ |
-| **Must**{.red}                        | The use of **must**{.red} or **must not**{.red} are considered **MANDATORY**{.red} and strict compliance is **REQUIRED**{.red} |
-| **Should**{.red}                      | The use of **should**{.red} or **should not**{.red} are considered **ADVISORY**{.red} and compliance is **STRONGLY RECOMMENDED**{.red} |
-
-
-
-### 1.1.1
-
-Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is designed to help new entrants and current Controllers with IFATC procedures, as well as cover the fundamental principles associated with all controlling facilities on Infinite Flight. **All Controllers are expected to familiarize themselves with this manual and continue to do so during their time with IFATC.**{.red}
-
-
-
 ### 1.1.2   
 
 The [Infinite Flight User Guide](/guide), [IFC Forum](https://community.infiniteflight.com/) and [FAA 7110.65](https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.current/documentnumber/7110.65) are additional tools that Controllers **should**{.red} utilize.
@@ -85,7 +85,7 @@ All abbreviations contained within this manual are listed below with their assoc
 | ATC              | Air Traffic Control                       |
 | ATIS             | Automatic Terminal Information Service    |
 | DM               | Direct Message                            |
-| FAA              | Federal Aviation Authority                |
+| FAA              | Federal Aviation Administration           |
 | FF               | Flight Following                          |
 | FNF              | Friday Night Flight                       |
 | FPL              | Flight Plan                               |

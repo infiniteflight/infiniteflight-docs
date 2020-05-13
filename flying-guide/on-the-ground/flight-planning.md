@@ -2,7 +2,7 @@
 id: flight-planning
 title: Flight Planning
 meta: Learn how to prepare for your flight in Infinite Flight.
-order: 4
+order: 2
 ---
 
 
@@ -48,7 +48,7 @@ The Automatic Terminal Information Service, more commonly known as ATIS, will di
 
 
 
-What to know what everything in the ATIS means? Visit our [ATC Manual](/guide/atc-manual/6.-atis/6.1-atis#6.1-atis) to find out!
+What to know what everything in the ATIS means? Visit our [ATC Manual](/guide/atc-manual/4.-atis/4.1-atis#4.1-atis) to find out!
 
 
 

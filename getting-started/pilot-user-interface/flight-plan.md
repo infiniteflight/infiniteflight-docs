@@ -40,4 +40,4 @@ order: 6
 
    
 
-5. In the bottom right of the screen is settings, centre screen and zoom in/out functions. Additionally, you can cycle the display between just the Map, Flight Plan, or both displayed.
+5. In the bottom right of the screen is settings, center screen and zoom in/out functions. Additionally, you can cycle the display between just the Map, Flight Plan, or both displayed.

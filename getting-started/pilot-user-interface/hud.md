@@ -15,7 +15,7 @@ order: 3
 
    
 
-2. The speed tape shows the aircraft speed. Dependant on what aircraft you are flying, it may also show colours to signify flying too slow/fast (red) or at the correct speed (green).
+2. The speed tape shows the aircraft speed. Dependent on what aircraft you are flying, it may also show colors to signify flying too slow/fast (red) or at the correct speed (green).
 
    
 
@@ -23,11 +23,11 @@ order: 3
 
    
 
-4. The Attitude Indicator displays the aircrafts attitude in relation to the horizon, and also provides a Flight Path Vector (a green circle enabled in the [Systems menu](/guide/manual/pilot-user-interface/systems)).
+4. The Attitude Indicator displays the aircrafts attitude in relation to the horizon, and also provides a Flight Path Vector (a green circle enabled in the [Systems menu](/guide/getting-started/pilot-user-interface/systems#systems)).
 
    
 
-5. The altitude tape shows the aircraft altitude, current vertical speed is displayed at the bottom of the tap and a turquoise bug represents the altitude that is selected on the aircraft Flight Control Unit (FCU) within the [Autopilot](/guide/manual/pilot-user-interface/autopilot).
+5. The altitude tape shows the aircraft altitude, current vertical speed is displayed at the bottom of the tap and a turquoise bug represents the altitude that is selected on the aircraft Flight Control Unit (FCU) within the [Autopilot](/guide/getting-started/pilot-user-interface/autopilot#autopilot).
 
    
 

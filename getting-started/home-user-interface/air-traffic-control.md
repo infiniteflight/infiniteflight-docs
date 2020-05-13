@@ -13,21 +13,25 @@ order: 5
 
    
 
-2. There are various servers for different experiences, select the [Server button](/guide/manual/home-screen/fly-online#server) to pick the best fit for you (note that the Expert Server has restricted access for controlling).
+2. There are various servers for different experiences, select the [Server button](/guide/getting-started/home-screen/air-traffic-control#server) to pick the best fit for you (note that the Expert Server has restricted access for controlling).
 
    
 
-3. The [Airspace Status](/guide/manual/atc-user-interface/status) table helps show you how many aircraft are inbound to a particular airport and if it has active ATC. You can tap the refresh button to make sure it’s up to date before you decide where to control
+3. The [Airspace Status](/guide/getting-started/atc-user-interface/status#status) table helps show you how many aircraft are inbound to a particular airport and if it has active ATC. You can tap the refresh button to make sure it’s up to date before you decide where to control
 
-4.  Ready to go control? Tap on the [Control button](/guide/manual/atc-user-interface/ground-tower-radar) to begin!
+   
+
+4. Ready to go control? Tap on the [Control button](/guide/getting-started/atc-user-interface/ground-tower-radar#ground%2C-tower-%26-radar) to begin!
 
  
 
 ## Station Selection
 
+Selecting frequencies is very similar to selecting an airport and parking position if you were about to fly. The globe is displayed in the same way, and you can either use the features below to choose where to begin, or zoom in with your fingers!
+
  ![ATC Map Page](_images/manual/frames/atc-map.jpg)
 
-Selecting frequencies is very similar to selecting an airport and parking position if you were about to fly. The globe is displayed in the same way, and you can either use the features below to choose where to begin, or zoom in with your fingers!
+
 
 1. The search function allows you to find the airport you want with ease. If you know the ICAO four letter code (e.g. KSFO for San Francisco Intl.) then you can type some or all of this, and a list of options will appear. Alternatively, just type in some or all of the city/airport name. 
 
@@ -77,4 +81,4 @@ Selecting frequencies is very similar to selecting an airport and parking positi
 
 ## Server
 
-[See "Main Menu - Fly Online - Server"](/guide/manual/home-screen/fly-online#server) 
+See ["Home User Interface - Fly Online - Server"](/guide/getting-started/home-screen/fly-online#server)

@@ -11,15 +11,17 @@ Welcome to the home screen of your newly downloaded Infinite Flight app. Below y
 
 ![Home Screen](_images/manual/frames/home-screen.jpg)
 
+
+
 1. In the top right hand corner you’ll find your username, [tap it to see your profile](/guide/manual/home-screen/user-profile).
 
    
 
-2. Solo mode is offline, allowing you to practice without anyone else around, in weather conditions of your choosing. [See "Fly Solo".](/guide/manual/home-screen/fly-solo)
+2. Solo mode is offline, allowing you to practice without anyone else around, in weather conditions of your choosing. [See "Fly Solo"](/guide/manual/home-screen/fly-solo).
 
    
 
-3. Our three live servers allow you to choose the experience you want, but with some company too. [See "Fly Online".](/guide/manual/home-screen/fly-online)
+3. Our three live servers allow you to choose the experience you want, but with some company too. [See "Fly Online"](/guide/manual/home-screen/fly-online).
 
    
 
@@ -27,7 +29,7 @@ Welcome to the home screen of your newly downloaded Infinite Flight app. Below y
 
    
 
-5. All controlling and flights you do are recorded, and stored here when you want to look back. Want more info? [See "Replays".](/guide/manual/home-screen/replays)
+5. All controlling and flights you do are recorded, and stored here when you want to look back. Want more info? [See "Replays"](/guide/manual/home-screen/replays).
 
    
 
@@ -35,7 +37,7 @@ Welcome to the home screen of your newly downloaded Infinite Flight app. Below y
 
    
 
-7. Our default settings are sure to get you going, but if you want to, you can [customize your experience here](/guide/manual/home-screen/settings).
+7. Our default settings are sure to get you going, but if you want to, you can customize your experience here.
 
    
 

@@ -77,7 +77,7 @@ Ground, Tower & Radar frequencies all share an interface in common, with each mo
 
    
 
-5. Customisable settings, the zoom in/out function and a centre screen button are always available here.
+5. Customizable settings, the zoom in/out function and a center screen button are always available here.
 
 
 

@@ -22,3 +22,4 @@ order: 11
 2. The rudder is controlled with the RUD BRAKES symbol in the bottom right of the screen. Press and hold the symbol, and then move it left or right to move the rudder in the same direction.
 
    In addition, the rudder offers differential braking to the undercarriage. To do this, press and hold the symbol, and drag your finger towards the bottom of the screen, a percentage will show indicating the level of braking being achieved.
+
