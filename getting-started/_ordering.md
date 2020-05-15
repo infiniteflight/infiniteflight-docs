@@ -2,7 +2,7 @@
 ordering:
   - meta
   - installing-the-app
-  - home-screen
+  - home-user-interface
   - pilot-user-interface
   - atc-user-interface 
 ---
