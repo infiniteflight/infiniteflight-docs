@@ -35,11 +35,7 @@ Your User Profile is a way of keeping track whilst you’re flying or controllin
 
  
 
-5. Your Infinite Flight Grade is displayed here. Grades are determined from your total stats, your behaviour whilst online, and your activity. Check out the table below:
-
-   
-
-    ![Grade Table](_images/manual/frames/grade-table.jpg)
+5. Your Infinite Flight Grade is displayed here. Grades are determined from your total stats, your behavior whilst online, and your activity.  Tap the information link next to your Grade to display your Grade Table.
 
    
 
@@ -60,3 +56,78 @@ Your User Profile is a way of keeping track whilst you’re flying or controllin
    Tip
    
    : Don’t forget to hit ‘exit flight’ when you’re done, otherwise this data might not get recorded!
+
+
+
+## The Grade Table
+
+The Grade Table is broken up into 4 sections, these are:
+
+
+
+- General Pilot Stats
+- Level 1 Violations
+- Level 2 Violations
+- Level 3 Violations
+
+
+
+![Grade Table](_images/manual/frames/grade-table.jpg)
+
+
+
+Replace Image with 'grade table screenshot', see issue for details. Image labelled 1 - 4
+
+1 - The first column (on the left)
+
+2 - The second column (middle)
+
+3 - The third column (on the right)
+
+4 - Show Violation History
+
+
+
+1. The first column lists the parameters that determine you grade, these are listed in the table below
+
+   
+
+2. This column (displayed in white) shows what you have currently logged/received as a pilot
+
+   
+
+3. The final column shows the requirements that you need to meet in order to progress to the next grade:
+
+   - green parameters mean you have met the requirements for the next grade
+   - orange parameters mean that you are yet to meet the requirement, this may be due to a deficiency, or if you have exceeded the limitation
+
+   
+
+4. The 'Show Violation History' tab will open a log which shows all violations, why they were received and if issued by a Controller, their name. This can then be used when wanting to [appeal a Level 2 or Level 3 Violation](/guide/getting-started/pilot-user-interface/violations#appealing-a-level-2-or-3-violation) if you believe it was issued in error.
+
+
+
+Below is a table that outlines all the Grade Table parameters and a brief description of them:
+
+| Parameter                              | Description                                                  |
+| -------------------------------------- | ------------------------------------------------------------ |
+| XP                                     | This number is calculated through landings and flight time. This does not represent skill |
+| Total Flight Time                      | This is the total flight time you have accumulated represented in hours (hrs) and minutes (mn) |
+| Total Landings                         | This is the total number of recorded landings that you have  |
+| Flight Time (90 days)                  | Number of hours accumulated in the last 90 days              |
+| Landings (90 days)                     | Number of landings recorded in the last 90 days              |
+| Level 1 Violations (24 hours)          | Total number of Level 1 Violations accumulated in the last 24 hrs |
+| Level 1 Violations (7 days)            | Total number of Level 1 Violations accumulated in the last 7 days |
+| Level 1 Violations/Landing (12 months) | Your total amount of Level 1 Violations is divided by your Landings (in the last 12 months) to determine a *Violation to Landing ratio. |
+| Level 2 Violations (1 year)            | Total number of Level 2 Violations accumulated in the last 1 year |
+| Level 3 Violations (7 days)            | Total number of Level 3 Violations in the last 7 days        |
+| Level 3 Violations (1 year)            | Total number of Level 3 Violations accumulated in the last 1 year |
+| All Violations (1 year)                | Total number of Level 2 and Level 3 Violations in the last 1 year |
+
+
+
+*Examples of Violation to Landing Ratios:
+
+- 10 Level 1 Violations (total) and 20 Landings (12 months) would give a ratio of **0.50**
+- 10 Level 1 Violations (total) and 10 Landings (12 months) would give a ratio of **1.00**
+- 20 Level 1 Violations (total) and 10 Landings (12 months) would give a ratio of **1.50**

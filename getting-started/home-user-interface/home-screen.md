@@ -45,6 +45,6 @@ Welcome to the home screen of your newly downloaded Infinite Flight app. Below y
 
    
 
-9. Subscribe to our social media pages and YouTube channel to see the latest.
+9. Subscribe to our social media pages and [YouTube channel](https://www.youtube.com/user/infiniteflightapp) to see the latest.
 
  
