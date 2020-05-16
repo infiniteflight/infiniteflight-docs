@@ -76,18 +76,6 @@ The Grade Table is broken up into 4 sections, these are:
 
 
 
-Replace Image with 'grade table screenshot', see issue for details. Image labelled 1 - 4
-
-1 - The first column (on the left)
-
-2 - The second column (middle)
-
-3 - The third column (on the right)
-
-4 - Show Violation History
-
-
-
 1. The first column lists the parameters that determine you grade, these are listed in the table below
 
    

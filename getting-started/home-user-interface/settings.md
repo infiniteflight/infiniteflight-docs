@@ -10,23 +10,7 @@ order: 8
 The Settings menu allows you to customize your Infinite Flight experience before and during play. Below is a guide to help you navigate your way around and to find the best settings for you!
 
 
-
-*Insert ‘general settings screenshot' numbered 1 - 6
-
-
-
-1-Category on the left of the screen, maybe 'General'
-
-2-Next to one of the settings such as Auto-Coordination
-
-3-Next to a box that has been ticked
-
-4-Next to kilograms/pounds to show a label instead of a box
-
-5-Back
-
-6-About
-
+![Settings Page](_images/manual/frames/settings-main.jpg)
 
 
 1. On the left hand side of the screen are 5 categories that split the settings up, tap each one to find settings within
@@ -89,7 +73,7 @@ Tip
 
  
 
-*Insert ‘live settings screenshot'*
+![Live Settings Page](_images/manual/frames/settings-live.jpg)
 
 
 
@@ -118,7 +102,7 @@ There are two sliders that adjust the SFX and ATC Volume. Slide your finger alon
 
 
 
-*Insert ‘audio settings screenshot'*
+![Audio Settings Page](_images/manual/frames/settings-audio.jpg)
 
 
 
@@ -137,7 +121,7 @@ ATC Volume (Air Traffic Control Volume)
 Tip
 
 : For both of these settings, try to find a happy medium where you can enjoy the sounds of the aircraft whilst being able to hear Controllers and not miss a radio call. In addition, you will also be able to use your device volume to adjust the overall volume
-
+ 
 
 
 ## Graphics
@@ -146,7 +130,7 @@ Infinite Flight supports both iOS and Android device; because of this, the graph
 
 
 
-*Insert ‘graphics settings screenshot'*
+![Graphics Settings Page](_images/manual/frames/settings-graphics.jpg)
 
 
 
@@ -191,17 +175,7 @@ Throttle
 : Throttle is your power levers that you will use to adjust the amount of thrust provided by the engines
 
 
-
-*Insert ‘controls settings screenshot'* labelled 1 - 3
-
-
-
-1 - Places between the Axes and Commands headers
-
-2- Sensitivity
-
-3 - Restore Defaults/Show Devices/Setup Tutorial
-
+![Control Settings Page](_images/manual/frames/settings-controls.jpg)
 
 
 Tip
