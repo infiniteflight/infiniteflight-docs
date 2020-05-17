@@ -68,7 +68,7 @@ The Settings menu allows you to customize your Infinite Flight experience before
 | Invert Internal Cameras Vertical Motion | Inverts the vertical motion of the internal cameras (tower and cockpit) |
 | Automatically Set Start Airport         | Automatically sets the start airport to where the last flight ended |
 | Auto-Coordination                       | Automatically couples the ailerons and the rudder (on the ground only) |
-| Enable ForeFlight Link                  | Sends Position/Altitude/Traffic data to local devices running ForeFlight (for more info click here) |
+| Enable ForeFlight Link                  | Sends Position/Altitude/Traffic data to local devices running ForeFlight (for more info click [here](/guide/getting-started/home-user-interface/settings#foreflight)) |
 | Enable Infinite Flight Connect          | Enables Infinite Flight Connect API System (toggle this on to allow Infinite Flight and third party apps such as InFlight Assistant and Fly-By-Wire to bridge if they are on the same network) |
 | Show Touches                            | Useful when recording videos/tutorials                       |
 | Enable Automatic Low Power              | Enters low power mode during longer flights to save battery (this intentionally reduces frame rates to be more efficient with power consumption - it is normal to see lower quality frame rates with this setting) |

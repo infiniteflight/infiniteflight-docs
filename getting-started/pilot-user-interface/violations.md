@@ -130,7 +130,7 @@ Step 1
 
 Step 2
 
-: Tap the Violation History Log, this will show all Violations, and specifically the controller’s name associated with the Violation you wish to appeal
+: Tap the [Violation History Log](/guide/getting-started/home-user-interface/user-profile#the-grade-table), this will show all Violations, and specifically the controller’s name associated with the Violation you wish to appeal
 
  
 
