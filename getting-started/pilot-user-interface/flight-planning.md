@@ -48,7 +48,7 @@ order: 6
 
 
 
- *Insert screenshot (labelled 1-5)*
+ *Insert 'map 1' screenshot (labelled 1-5)*
 
 
 
@@ -102,7 +102,7 @@ order: 6
 
  
 
-*Insert ‘video showing tapping close to PHKO, selecting PHKO from the list and then cycling between ‘info’, ‘weather’, ‘runways’ and 'procedures'*
+*Insert ‘video clip' showing tapping close to PHKO, selecting PHKO from the list and then cycling between ‘info’, ‘weather’, ‘runways’ and 'procedures'*
 
 
 
@@ -128,7 +128,7 @@ Step 3
 
  
 
-*Insert video showing opening the 'procedures' menu, selecting an arrival & transition and then approach & transition.*
+*Insert 'video clip' showing opening the 'procedures' menu, selecting an arrival & transition and then approach & transition.*
 
 
 

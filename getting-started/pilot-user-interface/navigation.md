@@ -37,7 +37,7 @@ Step 3
 
  
 
-*Insert ‘video of tuning ILS at PHKO*
+*Insert ‘video clip' of tuning ILS at PHKO*
 
 
 
@@ -171,7 +171,7 @@ Step 2
 
  
 
-**Insert ‘Image 2.2 screenshot\* (labelled 1 – 4)*
+**Insert ‘TCAS screenshot\* (labelled 1 – 4)*
 
  
 
@@ -185,7 +185,7 @@ Step 2
 
 
 
-1. On both the Map and Mini Map, your aircraft is displayed with a white aircraft symbol. These symbols vary in size dependent on what aircraft you are flying
+1. On both the Map and Mini Map, your aircraft is displayed with a white aircraft symbol. These symbols vary in size/shape dependent on what aircraft you are flying
 
    
 
@@ -215,7 +215,7 @@ Step 2
 
    
 
-**Manual pilot intervention is required if a TCAS Alert** **(** **red**{.red} **)** **is generated, below is a table to help you know what to do:**
+**Manual pilot intervention is required if a TCAS Alert (red) is generated, below is a table to help you know what to do:**
 
  
 

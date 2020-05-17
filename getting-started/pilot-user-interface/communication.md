@@ -41,7 +41,7 @@ order: 5
 
  
 
-*Insert ‘video of selecting active freq at airport*
+*Insert ‘video clip' of selecting active freq at airport using the mini map*
 
 
 
