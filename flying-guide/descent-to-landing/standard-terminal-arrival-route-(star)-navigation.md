@@ -2,7 +2,7 @@
 id: standard-terminal-arrival-route-(star)-navigation
 title: Standard Terminal Arrival Route (STAR) Navigation
 meta: Learn fly a STAR in Infinite Flight.
-order: 2
+order: 3
 ---
 
 # Standard Terminal Arrival Route (STAR) Navigation
