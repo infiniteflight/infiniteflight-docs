@@ -1,7 +1,7 @@
 ---
 id: navigation
 title: Navigation
-meta: Learn how to navigate in Infinite Flight including getting to know your Map and Mini Map, tuning to navigation aids, and TCAS.
+meta: Learn how to navigate in Infinite Flight including tuning to navigation aids, and the use of TCAS.
 order: 4
 ---
 
@@ -9,131 +9,27 @@ order: 4
 
 
 
-## Map
+## GPS Navigation
 
-*Insert ‘Image 2.1 screenshot (labelled 1 – 5)*
-
- 
-
-*1 – Airport (PHKO)*
-
-*2 – VOR (UPP located at the north of the island)*
-
-*3 – ADF (NDB BSF located just left of PHSF)*
-
-*4 – Fix (VINIE located southeast of PHSF)*
-
-*5 – Settings, Centre-screen function, zoom in/out and MAP/FPL toggle function*
-
- 
-
-1. Airports are always represented by either blue or magenta dots, if you’re flying online they may also have a colored dot in the middle for reference to the weather. See "Home User Interface – Fly Online – Airport and Gate Selection" for more info.
-
-   
-
-2. VOR (Very High Frequency [VHF] Omnidirectional Range) navigation aids are represented by this symbol. They can be tuned to either NAV 1 or 2, if fitted on your selected aircraft.
-
-   
-
-3. NDB (Non Directional Beacon) navigation aids are represented by this symbol. They can be tuned to ADF 1 (Automatic Direction Finder), if fitted on your selected aircraft.
-
-   
-
-4. A GPS (Global Positioning System) Fix is represented by this symbol.
-
-   
-
-5. In the bottom right of the screen is settings, center screen and zoom in/out functions. Additionally, you can cycle the display between just the Map, Flight Plan, or both displayed
-
-   
-
-## Mini Map
-
-![Mini Map](_images/manual/frames/mini-map.jpg)
-
-
-
-1. The mini map is a great tool to be able to see where other aircraft are, to view your flight plan, and to discover your surroundings whilst you fly – just scroll your finger around the map to explore. 
-
-   
-
-2. Customizable settings, the zoom in/out function and a center screen button are available on the mini map by just tapping it.
-
-
-
-## Getting more from your Map and Mini Map
-
- 
-
-*Insert ‘video showing tapping close to PHKO, selecting PHKO from the list and then cycling between ‘info’, ‘weather’, ‘runways’ and 'procedures'*
+Once airborne, and provided you have a flight plan, GPS Navigation will be available.
 
 
 
 Step 1
 
-: By tapping close to an airport, navigation aid or fix, a drop down list will appear on the map
-
- 
-
-Step 2
-
-: You can select which one you want from the list for more info, tap the ‘+’ symbol to add it to your Flight Plan, or the symbol next to this to perform a ‘direct to’ function
-
- 
-
-Step 3
-
-: The information tab is always displayed initially; but the weather, runway and procedure tabs can be displayed by tapping on them
-
-
-
-## Selecting Departure, Arrival and Approach Procedures
-
- 
-
-*Insert video showing opening the 'procedures' menu, selecting an arrival & transition and then approach & transition.*
-
-
-
-Step 1
-
-: Open the procedures tab by following the step by step guide in "Getting more from your Map and Mini Map"
+: Ensure when tapping the NAV button that SOURCE is set to GPS under the Avionics tab
 
 
 
 Step 2
 
-: You have the option to select Approach (what approach you want to fly), Arrival (the STAR) or Departure (the SID)
+: A magenta Course Select Pointer (this is the radial to your next waypoint) and Radial Deviation Bar (indicates deviation from the required track) will appear on the [HSI](/guide/getting-started/pilot-user-interface/hud#head-up-display-(hud)). By keeping these inline, you will remain on track to your next waypoint. As you approach the waypoint on your map the flight plan will automatically cycle to the next waypoint and the Course Select Pointer will move so that you can follow the new course
 
 
 
 Step 3
 
-: Selecting Approach will give you a list of approaches for the different runways at your selected airport and  a preview will display on the map as you cycle through them. Tap 'select' at the bottom when you have your desired approach
-
-
-
-Tip
-
-: Make sure to select one of the approaches that has been broadcast as in use on the ATIS (if ATC are present); or if uncontrolled, the approach that favors the weather and current traffic levels
-
-
-
-Step 4
-
-: Some approaches may give you a further option called Transitions. These usually start the approach from a navigation aid such as a VOR, but if you would prefer, you can just select 'Vectors to Final' and the transition will not be included. 
-
-
-
-Step 5
-
-: Once you're happy with your selection you can tap 'Add to Flight Plan'. The 'Back' button is available if you change your mind
-
-
-
-Step 6
-
-: You can now select an arrival and departure using the same technique as above
+: If you engage the [Autopilot](/guide/getting-started/pilot-user-interface/autopilot#autopilot) and NAV, the aircraft will continue to follow your flight plan
 
 
 
@@ -339,29 +235,3 @@ Step 2
 Tip
 
 : The minimum aircraft separation that you must maintain at all times is 3nm of each other laterally, or 1000ft vertically. When under active ATC they will ensure this separation is maintained. In busy airspace it is common to see lots of Amber aircraft - don’t overreact, just keep a good eye on your mini map whilst flying!
-
- 
-
-## Communication using the Map and Mini Map
-
- 
-
-*Insert ‘video of selecting active freq at airport*
-
-
-
-Step 1
-
-: Select the airport you want using the technique shown in "Getting more from your Map"
-
- 
-
-Step 2
-
-: The info tab will show all active frequencies, the one you are currently tuned to will be highlighted green and labelled ‘COM 1’
-
- 
-
-Step 3
-
-: Tap ‘TUNE’ next to any frequency to make it COM 1 (you must be within range of an airport to tune to its frequencies and you can only tune to radar frequencies when airborne

@@ -34,3 +34,29 @@ order: 5
    
 
 5. As well as the communication box, when messages are sent or received by ATC, they will appear for a short time at the top of the screen. If a message is sent to you by the controller, it will appear in orange and the communication symbol in the bottom left of the screen will flash as a prompt for you to open the box and reply.
+
+
+
+## Communication using the Map and Mini Map
+
+ 
+
+*Insert ‘video of selecting active freq at airport*
+
+
+
+Step 1
+
+: Select the airport you want using the technique shown in "Getting more from your Map"
+
+ 
+
+Step 2
+
+: The info tab will show all active frequencies, the one you are currently tuned to will be highlighted green and labelled ‘COM 1’
+
+ 
+
+Step 3
+
+: Tap ‘TUNE’ next to any frequency to make it COM 1 (you must be within range of an airport to tune to its frequencies and you can only tune to radar frequencies when airborne

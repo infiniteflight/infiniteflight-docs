@@ -35,4 +35,4 @@ order: 3
 
    
 
-7. The Horizontal Situation Indicator (HSI) is displayed here and is used for Navigation. There is a turquoise bug just like the altitude tape, which displays the selected heading on the aircraft FCU.
+7. The Horizontal Situation Indicator (HSI) is displayed here and is used for [Navigation](/guide/getting-started/pilot-user-interface/navigation#navigation). There is a turquoise bug just like the altitude tape, which displays the selected heading on the aircraft FCU.
