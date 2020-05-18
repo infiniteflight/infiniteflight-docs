@@ -54,7 +54,7 @@ Step 2
 
 Step 3
 
-: Once you have clearance and it is clear, access the [Autopilot](/guide/getting-started/pilot-user-interface/autopilot#autopilot) FCU and tap VNAV to arm this function. Your altitude and VS will change colour to magenta to indicate that VNAV is armed
+: Once you have clearance and it is clear, access the [Autopilot](/guide/getting-started/pilot-user-interface/autopilot#autopilot) FCU and tap VNAV to arm this function. Your altitude and VS will change color to magenta to indicate that VNAV is armed
 
 
 
@@ -91,7 +91,7 @@ Once VNAV has captured the desired altitude it will do one of two things:
 
 
 - The Autopilot will level off and display the new distance to TOD (indicating where your next TOD is for that segment of the Flight Plan provided there are more altitude restrictions programmed in)
-- Or, the Autopilot will continue dscending if it determins that you will be at or above the 2 degree Flight Path Angle (FPA) when you arrive at that altitude
+- Or, the Autopilot will continue descending if it determines that you will be at or above the 2 degree Flight Path Angle (FPA) when you arrive at that altitude
 
 
 
@@ -121,7 +121,7 @@ Step 3
 
 Step 4
 
-: Ensure that your navaids are tuned for the approach that you are expecting to fly
+: Ensure that your Navaids are tuned for the approach that you are expecting to fly
 
 
 
