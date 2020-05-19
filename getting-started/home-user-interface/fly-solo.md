@@ -19,17 +19,15 @@ order: 3
 
    
 
-3. Ready to go flying? Tap on the [Fly button](/guide/manual/pilot-user-interface/fly) to begin!
+3. Ready to go flying? Tap on the [Fly button](/guide/getting-started/pilot-user-interface/fly#fly-screen) to begin!
 
  
 
 ## Aircraft Selection
 
-![Aircraft Page](_images/manual/frames/aircraft-page.jpg)
-
-
-
 There are loads of different aircraft and liveries to choose from, maybe it’s your favorite airline, or the aircraft you just completed your Private Pilots License in, the choices are endless! Below is a break down of how to select your next aircraft.
+
+![Aircraft Page](_images/manual/frames/aircraft-page.jpg)
 
 
 
@@ -55,11 +53,9 @@ There are loads of different aircraft and liveries to choose from, maybe it’s 
 
 ## Airport and Gate Selection
 
-![Map Zoomed Out](_images/manual/frames/map-zoomed-out.jpg)
-
-
-
 The entire globe is ready for you to explore, you can either use the features below to choose where to begin, or zoom in with your fingers!
+
+![Map Zoomed Out](_images/manual/frames/map-zoomed-out.jpg)
 
  
 

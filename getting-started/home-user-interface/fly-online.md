@@ -11,11 +11,11 @@ order: 4
 
  
 
-1. Pick your aircraft using the [Aircraft Selection button](/guide/manual/home-screen/fly-solo#aircraft-selection)
+1. Pick your aircraft using the [Aircraft Selection button](/guide/getting-started/home-screen/fly-online#aircraft-selection)
 
    
 
-2. Pick your starting point using the [Airport and Gate Selection button](/guide/manual/home-screen/fly-solo#airport-and-gate-selection)
+2. Pick your starting point using the [Airport and Gate Selection button](/guide/getting-started/home-screen/fly-online#airport-and-gate-selection)
 
    
 
@@ -27,23 +27,23 @@ order: 4
 
    
 
-5. Ready to go flying? Tap on the [Fly button](/guide/manual/pilot-user-interface/fly) to begin!
+5. Ready to go flying? Tap on the [Fly button](/guide/getting-started/pilot-user-interface/fly#fly-screen) to begin!
 
  
 
 ## Aircraft Selection
 
-[See "Home Screen - Fly Solo - Aircraft Selection"](/guide/manual/home-screen/fly-solo#aircraft-selection) 
+See ["Home User Interface - Fly Solo - Aircraft Selection"](/guide/getting-started/home-screen/fly-solo#aircraft-selection)
 
  
 
 ## Airport and Gate Selection
 
-[See "Home Screen - Fly Solo - Airport and Gate Selection"](/guide/manual/home-screen/fly-solo#airport-and-gate-selection) 
+See ["Home User Interface - Fly Solo - Airport and Gate Selection"](/guide/getting-started/home-screen/fly-solo#airport-and-gate-selection)
 
 
 
-If you’re about to fly online, we also use a variety of colours to give you an idea of what the weather is like:
+If you’re about to fly online, we also use a variety of colors to give you an idea of what the weather is like:
 
 | Indication                                      | Meaning                      |
 | ----------------------------------------------- | ---------------------------- |
@@ -64,12 +64,8 @@ Runway color codes help you know where the wind is coming from and which runways
 
 ## Server
 
- 
+ The various live servers available to use are displayed here. Each server has its own set of rules and minimum grade requirements, make sure to check these before trying to join! Tap on the one you want to fly in and then tap the ‘back’ button.
 
 ![Server Page](_images/manual/frames/server-page.jpg)
-
- 
-
-The various live servers available to use are displayed here. Each server has its own set of rules and minimum grade requirements, make sure to check these before trying to join! Tap on the one you want to fly in and then tap the ‘back’ button.
 
  

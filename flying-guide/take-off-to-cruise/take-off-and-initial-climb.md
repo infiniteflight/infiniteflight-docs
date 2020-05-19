@@ -49,7 +49,7 @@ Tip
 
 Step 4
 
-: Once stable at 15 degrees, then adjust pitch to maintain V2+10 to V2+20kts (e.g. if V2 is 145kts, your target speed would be 155-165kts)
+: Once stable at 15 degrees, adjust pitch to maintain V2+10 to V2+20kts (e.g. if V2 is 145kts, your target speed would be 155-165kts)
 
 
 

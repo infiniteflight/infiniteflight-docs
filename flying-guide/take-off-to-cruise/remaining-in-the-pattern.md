@@ -17,7 +17,7 @@ order: 8
 
 
 
-The traffic pattern is a standard flight path followed by aircraft when taking-off and landing while maintaining visual contact with the airport. It is a great way to practice and improve your flying, and to increase the amount of landings in your logbook!
+The traffic pattern is a standard flight path followed by aircraft when taking-off and landing while maintaining visual contact with the airport. It is a great way to practice and improve your flying, and to increase the amount of landings in your [logbook](/guide/getting-started/home-screen/logbook#logbook)!
 
 
 
@@ -25,7 +25,7 @@ In Infinite Flight the pattern altitude is 1000ft AAL (above aerodrome level) fo
 
 
 
-Jason Graphic - Insert picture showing the legs of a pattern (upwind/crosswind/downwind/base/final)
+![The Traffic Pattern](_images/manual/graphics/atc-traffic-pattern.jpg)
 
 
 
@@ -39,7 +39,7 @@ Ready to go? Follow the steps below:
 
 Step 1
 
-: Check out the [Before Take-Off](/guide/flying-guide/take-off-to-cruise/before-take-off#before-take-off) and Take-Off and Initial Climb pages on how to get rolling
+: Check out the [Before Take-Off](/guide/flying-guide/take-off-to-cruise/before-take-off#before-take-off) and [Take-Off and Initial Climb](/guide/flying-guide/take-off-to-cruise/take-off-and-initial-climb#take-off-and-initial-climb) pages on how to get rolling
 
 
 

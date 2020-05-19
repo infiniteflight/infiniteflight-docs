@@ -25,13 +25,13 @@ Possible reasons to Go-Around can include:
 
 
 
-- An unstable approach (both pilot induced or due to environental factors)
-- Landing or intersecting runway blocked by another aircraft
+- An unstable approach (both pilot induced or due to environmental factors)
+- Landing/intersecting runway blocked by another aircraft
 - Or loss of separation with the aircraft ahead
 
 
 
-It is important to note that the responsibilty for a go-around lies equally with the pilot and the controller, if ATC is present. Therefore if you're not happy with your final approach, the conditions, or a potential loss of separation, anticipate a go-around and then promptly initiate it if required.
+It is important to note that the responsibility for a go-around lies equally with the pilot and the controller, if ATC is present. Therefore if you're not happy with your final approach, the conditions, or a potential loss of separation, anticipate a go-around and then promptly initiate it if required.
 
 
 
@@ -39,7 +39,7 @@ It is important to note that the responsibilty for a go-around lies equally with
 
 
 
-To perform a Go-Around, following the steps below, take note that step 1 to 3 are normally commenced symmultaneously:
+To perform a Go-Around, following the steps below, take note that step 1 to 3 are normally commenced simultaneously:
 
 
 
@@ -69,7 +69,7 @@ Step 3
 
 Tip
 
-: Once you have stabilised the climb, monitor your speed and then adjust pitch to maintain. Your target speed is either VAPP (Final Approach Speed) or the speed at which you initiated a Go-Around, whichever is higher
+: Once you have stabilized the climb, monitor your speed and then adjust pitch to maintain. Your target speed is either VAPP (Final Approach Speed) or the speed at which you initiated a Go-Around, whichever is higher
 
 
 
@@ -81,7 +81,7 @@ Step 4
 
 Step 5
 
-: Initally maintain runway heading unless you have been instructed to fly a particular heading
+: Initially maintain runway heading unless you have been instructed to fly a particular heading
 
 
 

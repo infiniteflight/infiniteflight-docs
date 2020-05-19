@@ -43,7 +43,7 @@ A cruising altitude is the en-route phase of flight where an aircraft usually sp
 
 - Direction of flight (what heading)
 - Length of flight (short flights will tend to cruise lower)
-- Airspace or airways restrictions
+- Airspace or airway restrictions
 - Traffic
 - Technical defects
 
