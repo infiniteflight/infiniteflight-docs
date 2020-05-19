@@ -1,11 +1,10 @@
 ---
-id: subscriptions
-title: Subscriptions
-meta: Get help with your subscription in Infinite Flight
+id: subscription
+title: Subscription questions
+meta: Help surrounding our PRO subscription
 ---
 
-# Subscriptions
-
+# This is where you'll find information and frequently asked questions related to our subscriptions
 This is where you'll find information and frequently asked questions related to our PRO subscription. 
 
 If you can't find the answer to your question below, please contact our support team at support@infiniteflight.com 
