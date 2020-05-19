@@ -26,9 +26,9 @@ This is something you can see when you have yet to create an account in Infinite
 This is most likely because the aircraft they are flying, is not downloaded to your device.
 Go to Settings in the app, then select the “Live” tab & adjust the “Airplane count” to an appropriate amount.
 
-<b>IMPORTANT:</b> The higher you have the airplane count set to, the more performance demanding on your device.
+**Important:** The higher you have the airplane count set to, the more performance demanding it will be for your device.
 
-Additionally, if you are using cellular you need to make sure to have “Automatic airplane download on cellular” checked!
+Additionally, if you are using cellular you need to make sure to have the “Automatic airplane download on cellular” box checked!
 
 ## I'm receiving an error saying that my account is being used on another device?
 

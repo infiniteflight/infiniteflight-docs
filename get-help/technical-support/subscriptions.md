@@ -1,8 +1,10 @@
 ---
-id: subscriptions
-title: Subscriptions
-meta: Get help with your subscription in Infinite Flight
+id: subscription
+title: Subscription questions
+meta: Help surrounding our PRO subscription
 ---
+
+
 
 # Subscriptions
 
