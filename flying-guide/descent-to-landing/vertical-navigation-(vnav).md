@@ -25,7 +25,7 @@ Provided your flight plan has at least one waypoint with an altitude restriction
 
 
 
-## How do I calculate my Top of Descent (TOD)?
+## What does Top of Descent (TOD) mean?
 
 Top of Descent, also known as TOD; is the point at which you initiate a descent from cruising altitude to another altitude in preparation for the arrival phase of flight. TOD is displayed in time and distance can can be found in two places, these are:
 
@@ -33,6 +33,10 @@ Top of Descent, also known as TOD; is the point at which you initiate a descent 
 
 - Within the VNAV button on the [Autopilot](/guide/getting-started/pilot-user-interface/autopilot#autopilot) Flight Control Unit (FCU)
 - And also on the [Status Bar](/guide/getting-started/pilot-user-interface/status-bar#status-bar) if this option has been selected
+
+
+
+You can also manually calculate your TOD, click here to find out how.
 
 
 

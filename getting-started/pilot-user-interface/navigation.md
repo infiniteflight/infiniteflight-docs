@@ -193,7 +193,7 @@ Step 2
 
    
 
-3. Aircraft will turn **Amber**{.amber} as a Warning if the following conditions are met:
+3. Aircraft will turn **Amber** as a Traffic Advisory (TA) Alert if the following conditions are met:
 
    
 
@@ -205,17 +205,17 @@ Step 2
 
    
 
-4. Aircraft will turn **Red**{.red} as an Alert if the following conditions are met:
+4. Aircraft will turn **Red** as a Resolution Advisory (RA) Alert if the following conditions are met:
 
    
 
-   \-    All conditions for an Amber warning are met
+   \-    All conditions for an TCAS TA Alert (amber) are met
 
    \-    The altitude difference is less than 600ft
 
    
 
-**Manual pilot intervention is required if a TCAS Alert (red) is generated, below is a table to help you know what to do:**
+**Manual pilot intervention is required if a TCAS RA Alert (red) is generated, below is a table to help you know what to do:**
 
  
 
@@ -223,7 +223,7 @@ Step 2
 
  
 
-| **Example** | **Meaning**                      | **Pilot  Actions**                                           |
+| **Example** | **Meaning**                      | **Pilot Actions**                                            |
 | ----------- | -------------------------------- | ------------------------------------------------------------ |
 | Blue +30    | The aircraft is 3000ft above you | No action required                                           |
 | Amber +10   | The aircraft is 1000ft above you | Air Traffic Controllers will ensure 3 miles  lateral or 1000ft vertical separation at all times. No action required |

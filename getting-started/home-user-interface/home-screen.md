@@ -37,11 +37,11 @@ Welcome to the home screen of your newly downloaded Infinite Flight app. Below y
 
    
 
-7. Our default settings are sure to get you going, but if you want to, you can customize your experience here.
+7. Our default settings are sure to get you going, but if you want to, you can customize your experience [here](/guide/getting-started/home-user-interface/settings#settings).
 
    
 
-8. Rookie or professional, our tutorials are there to help any experience level.
+8. Rookie or professional, our [User Guide](/guide) is here to help any experience level.
 
    
 

@@ -25,7 +25,7 @@ Step 2
 
 Step 3
 
-: Altitude (ALT), vertical speed (VS), navigation (NAV), speed (SPD) and heading (HDG) can be engaged or disengaged by tapping each symbol. By pressing and holding on each symbol (with the exception of the AP and NAV), and then moving your finger up or down, the value can be changed
+: Altitude (ALT), vertical speed (VS), speed (SPD), heading (HDG), vertical navigation (VNAV), lateral navigation (LNAV) and approach mode (APPR) can be engaged or disengaged by tapping each symbol. By pressing and holding on each symbol (with the exception of the AP, VNAV, LNAV and APPR), and then moving your finger up or down, the value can be changed
 
 Step 4
 
