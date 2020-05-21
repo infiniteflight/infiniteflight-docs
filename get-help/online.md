@@ -2,6 +2,7 @@
 id: online
 title: Online
 meta: Get help with your online experience in Infinite Flight
+order: 4
 ---
 
 # Online
