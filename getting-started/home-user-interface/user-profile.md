@@ -29,11 +29,6 @@ Your User Profile is a way of keeping track whilst you’re flying or controllin
 
    
 
-   Tip
-
-   : Don’t forget to hit ‘exit flight’ when you’re done, otherwise this data might not get recorded!
-
- 
 
 5. Your Infinite Flight Grade is displayed here. Grades are determined from your total stats, your behavior whilst online, and your activity.  Tap the information link next to your Grade to display your Grade Table.
 
@@ -43,19 +38,13 @@ Your User Profile is a way of keeping track whilst you’re flying or controllin
 
    
 
-   Tip
-
-   : Don’t forget to hit ‘exit flight’ when you’re done, otherwise this data might not get recorded!
-
- 
-
-7. Your total number of online landings is shown here. 
+7.  Your total number of online landings is shown here.
 
    
 
-   Tip
-   
-   : Don’t forget to hit ‘exit flight’ when you’re done, otherwise this data might not get recorded!
+Tip
+
+: Don't forget to hit 'exit flight' when you're done, otherwise data might not get recorded! 
 
 
 
@@ -104,7 +93,7 @@ Below is a table that outlines all the Grade Table parameters and a brief descri
 | Total Landings                         | This is the total number of recorded landings that you have  |
 | Flight Time (90 days)                  | Number of hours accumulated in the last 90 days              |
 | Landings (90 days)                     | Number of landings recorded in the last 90 days              |
-| Level 1 Violations (24 hours)          | Total number of Level 1 Violations accumulated in the last 24 hrs |
+| Level 1 Violations (24 hours)          | Total number of Level 1 Violations accumulated in the last 24 hours |
 | Level 1 Violations (7 days)            | Total number of Level 1 Violations accumulated in the last 7 days |
 | Level 1 Violations/Landing (12 months) | Your total amount of Level 1 Violations is divided by your Landings (in the last 12 months) to determine a *Violation to Landing ratio. |
 | Level 2 Violations (1 year)            | Total number of Level 2 Violations accumulated in the last 1 year |

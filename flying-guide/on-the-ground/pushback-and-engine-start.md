@@ -136,8 +136,6 @@ The start sequence for the engine you have selected will begin.
 
 Tip
 
-
-
 :   For a realistic experience, start one engine at a time - wait for the % N1 to be green before starting the next engine.
 
  

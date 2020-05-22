@@ -10,4 +10,4 @@ order: 1
 
 @[vimeo](411494452)
 
-The ground is a fun place. But the air is more fun. So let's go there.
+The ground is a fun place but the air is more fun, so let's go there.

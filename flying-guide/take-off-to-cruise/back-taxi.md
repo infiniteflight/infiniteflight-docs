@@ -64,7 +64,7 @@ Tip
 
 Step 5
 
-: If you have just landed and past the last usable exit, you will be cleared to Back-Taxi and contact Ground when off the runway by ATC, wait until you are at a sensible speed before attempting to make a 180 degree turn. 
+: If you have just landed and pass the last usable exit, you will be cleared to Back-Taxi and contact Ground when off the runway by ATC, wait until you are at a sensible speed before attempting to make a 180 degree turn. 
 
 
 
