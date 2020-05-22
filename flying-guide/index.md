@@ -6,14 +6,14 @@ meta: Learn how to get the most out of Infinite Flight with our online documenta
 
 # Welcome to the Flying Guide!
 
-Whether you're a novice with no aviation background, or a professional pilot with thousand's of hours under your belt; our Flying Guide has been designed to help you with all aspects of flying in Infinite Flight.
+Whether you're a novice with no aviation background, or a professional pilot with thousands of hours under your belt; our Flying Guide has been designed to help you with all aspects of flying in Infinite Flight.
 
 
 
-Want to improve your piloting skills? Let's make a start and get ready for departure...
+Want to improve your piloting skills? Let's get started and ready for departure...
 
 
 
 Tip
 
-: New to Infinite Flight? Make sure to check out our [Getting Started Guide](/guide/getting-started#welcome-to-the-infinite-flight-user-guide!) that will help you get to grips with using the app!
+: New to Infinite Flight? Make sure to check out our [Getting Started Guide](/guide/getting-started#welcome-to-the-infinite-flight-user-guide!) that will help you become familiar with using the app!

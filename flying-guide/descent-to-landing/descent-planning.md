@@ -65,7 +65,7 @@ Therefore, with 38,000ft of altitude to lose, the distance required will be 114n
 
 Tip
 
-: Not sure what Top of Descent (TOD) means? Click here
+: Not sure what Top of Descent (TOD) means? Click [here](/guide/flying-guide/descent-to-landing/vertical-navigation-(vnav)#what-does-top-of-descent-(tod)-mean%3F)
 
 
 

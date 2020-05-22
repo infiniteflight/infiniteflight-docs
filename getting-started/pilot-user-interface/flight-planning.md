@@ -134,7 +134,7 @@ Step 3
 
 Step 1
 
-: Open the procedures tab by following the step by step guide in "Getting more from your Map and Mini Map"
+: Open the procedures tab by following the step by step guide in ["Getting more from your Map and Mini Map"](/guide/getting-started/pilot-user-interface/flight-planning#getting-more-from-your-map-and-mini-map)
 
 
 

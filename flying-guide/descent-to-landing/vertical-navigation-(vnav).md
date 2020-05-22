@@ -36,7 +36,7 @@ Top of Descent, also known as TOD; is the point at which you initiate a descent 
 
 
 
-You can also manually calculate your TOD, click here to find out how.
+You can also manually calculate your TOD, click [here](/guide/flying-guide/descent-to-landing/descent-planning#manually-calculating-top-of-descent-(tod)) to find out how.
 
 
 
@@ -101,7 +101,7 @@ Once VNAV has captured the desired altitude it will do one of two things:
 
 ## What do I do when I’m being Vectored?
 
-In general, Radar Controllers will try to let you fly the selected procedure as it reduces their workload, however they may be required to give vectors (almost certain on the Approach). When you do get given vectors and/or altitude assignments it is important that you follow them:
+In general, Radar Controllers will try to let you fly the selected procedure as it reduces their workload, however they may be required to give vectors (almost certain on the Approach). When you are given vectors and/or altitude assignments it is important that you follow them:
 
 
 

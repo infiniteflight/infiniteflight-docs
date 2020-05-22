@@ -13,27 +13,27 @@ Welcome to the home screen of your newly downloaded Infinite Flight app. Below y
 
 
 
-1. In the top right hand corner you’ll find your username, [tap it to see your profile](/guide/manual/home-screen/user-profile).
+1. In the top right hand corner you’ll find your username, [tap it to see your profile](/guide/getting-started/home-user-interface/user-profile#user-profile).
 
    
 
-2. Solo mode is offline, allowing you to practice without anyone else around, in weather conditions of your choosing. [See "Fly Solo"](/guide/manual/home-screen/fly-solo).
+2. Solo mode is offline (no internet connection required), allowing you to practice without anyone else around, in weather conditions of your choosing. [See "Fly Solo"](/guide/getting-started/home-user-interface/fly-solo#fly-solo).
 
    
 
-3. Our three live servers allow you to choose the experience you want, but with some company too. [See "Fly Online"](/guide/manual/home-screen/fly-online).
+3. Our three live servers allow you to choose the experience you want, but with some company too. [See "Fly Online"](/guide/getting-started/home-user-interface/fly-online#fly-online).
 
    
 
-4. Don’t want to fly? Here you can control aircraft instead on our live servers! [See "Air Traffic Control"](/guide/manual/home-screen/air-traffic-control).
+4. Don’t want to fly? Here you can control aircraft instead on our live servers! [See "Air Traffic Control"](/guide/getting-started/home-user-interface/air-traffic-control#air-traffic-control).
 
    
 
-5. All controlling and flights you do are recorded, and stored here when you want to look back. Want more info? [See "Replays"](/guide/manual/home-screen/replays).
+5. All controlling and flights you do are recorded, and stored here when you want to look back. Want more info? [See "Replays"](/guide/getting-started/home-user-interface/replays#replays).
 
    
 
-6. As well as replays, all information is automatically logged when you fly or control so that you can keep track [in the Logbook](/guide/manual/home-screen/logbook)! 
+6. As well as replays, all information is automatically logged when you fly or control so that you can keep track [in the Logbook](/guide/getting-started/home-user-interface/logbook#logbook)! 
 
    
 

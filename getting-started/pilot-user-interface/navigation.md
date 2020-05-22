@@ -43,7 +43,7 @@ Step 3
 
 Step 1
 
-: Select the airport you want using the technique shown in "Getting more from your Map and Mini Map"
+: Select the airport you want using the technique shown in ["Getting more from your Map and Mini Map"](/guide/getting-started/pilot-user-interface/flight-planning#getting-more-from-your-map-and-mini-map)
 
  
 
@@ -61,7 +61,7 @@ Step 3
 
 Step 4
 
-: Tap ‘Set NAV 1’ (you need to be within 25 miles to do this). NAV 1 will display in green by the runway to show it has been tuned successfully
+: Tap ‘Set NAV 1’. NAV 1 will display in green by the runway to show it has been tuned successfully
 
  
 
@@ -109,7 +109,7 @@ Step 1
 
 
 
-: Select the VOR or NDB you want using the technique shown in ‘Getting more from your Map and Mini Map’
+: Select the VOR or NDB you want using the technique shown in [‘Getting more from your Map and Mini Map’](/guide/getting-started/pilot-user-interface/flight-planning#getting-more-from-your-map-and-mini-map)
 
  
 
