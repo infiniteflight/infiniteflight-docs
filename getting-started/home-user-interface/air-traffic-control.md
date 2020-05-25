@@ -57,11 +57,11 @@ Selecting frequencies is very similar to selecting an airport and parking positi
 
 5. Runway color codes help you know where the wind is coming from. However, as the controller you’ll need to pick the runway’s taking into account the airport taxiway layout, where traffic currently is located, what the weather is like now, and what the weather is forecast to become. Check out the table below:
 
-    | Indication                                                   | Meaning                                      |
-    | ------------------------------------------------------------ | -------------------------------------------- |
-    | ![Green Runway](_images/manual/tables/weather-green.png) | Headwind under 3kts - runway recommended     |
-    | ![Orange Runway](_images/manual/tables/weather-orange.png)                                                           | Crosswind above 3kts                         |
-    | ![Red Runway](_images/manual/tables/weather-red.png)                                                           | Tailwind above 3kts - runway not recommended |
+    | Indication                                                 | Meaning                                                 |
+    | ---------------------------------------------------------- | ------------------------------------------------------- |
+    | ![Green Runway](_images/manual/tables/weather-green.png)   | Wind from any direction under 3kts - runway recommended |
+    | ![Orange Runway](_images/manual/tables/weather-orange.png) | Crosswind above 3kts                                    |
+    | ![Red Runway](_images/manual/tables/weather-red.png)       | Tailwind above 3kts - runway not recommended            |
     
      
     
