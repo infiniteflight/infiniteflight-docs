@@ -170,19 +170,7 @@ Step 2
 ## Traffic Collision Avoidance System (TCAS)
 
  
-
-**Insert ‘TCAS screenshot\* (labelled 1 – 4)*
-
- 
-
-*1 – White Aircraft*
-
-*2 – Blue Aircraft*
-
-*3 – Amber Aircraft*
-
-*4 – Red Aircraft*
-
+![TCAS on Map](_images/manual/frames/tcas.jpg) 
 
 
 1. On both the Map and Mini Map, your aircraft is displayed with a white aircraft symbol. These symbols vary in size/shape dependent on what aircraft you are flying
@@ -197,11 +185,11 @@ Step 2
 
    
 
-   \-    Both aircraft are airborne with a speed above 40kts
+   -    Both aircraft are airborne with a speed above 40kts
 
-   \-    The altitude difference is less than 2000ft
+   -    The altitude difference is less than 2000ft
 
-   \-    The other aircraft is within 40 seconds at current speed
+   -    The other aircraft is within 40 seconds at current speed
 
    
 
@@ -209,9 +197,9 @@ Step 2
 
    
 
-   \-    All conditions for an TCAS TA Alert (amber) are met
+   -    All conditions for an TCAS TA Alert (amber) are met
 
-   \-    The altitude difference is less than 600ft
+   -    The altitude difference is less than 600ft
 
    
 
@@ -219,16 +207,12 @@ Step 2
 
  
 
-*Insert TCAS symbols from map into the example section of the table*
-
- 
-
 | **Example** | **Meaning**                      | **Pilot Actions**                                            |
 | ----------- | -------------------------------- | ------------------------------------------------------------ |
-| Blue +30    | The aircraft is 3000ft above you | No action required                                           |
-| Amber +10   | The aircraft is 1000ft above you | Air Traffic Controllers will ensure 3 miles  lateral or 1000ft vertical separation at all times. No action required |
-| Amber -8    | The aircraft is 800ft below you  | Aircraft separation is close to being broken  - if under active ATC, request deviation if no instructions given |
-| Red -1      | The aircraft is 100ft below you  | With or without active ATC – smoothly adjust  your flight path to avoid the aircraft, if they are below you we recommend  climbing, if they are above, we recommend descending |
+| ![](_images/manual/graphics/tcas-1.svg)     | The aircraft is 3000ft above you | No action required                                           |
+| ![](_images/manual/graphics/tcas-2.svg)   | The aircraft is 1000ft above you | Air Traffic Controllers will ensure 3 miles  lateral or 1000ft vertical separation at all times. No action required |
+| ![](_images/manual/graphics/tcas-3.svg)    | The aircraft is 800ft below you  | Aircraft separation is close to being broken  - if under active ATC, request deviation if no instructions given |
+| ![](_images/manual/graphics/tcas-4.svg)      | The aircraft is 100ft below you  | With or without active ATC – smoothly adjust  your flight path to avoid the aircraft, if they are below you we recommend  climbing, if they are above, we recommend descending |
 
  
 

@@ -201,5 +201,4 @@ Tip
 "ForeFlight Link" allows Infinite Flight pilots to use ForeFlight and it’s many features as if they were in a real airplane. Practice approaches and procedures, and fly a route before spending that hard-earned money on fuel! You’ll have maps, approach plates, weather, performance data, traffic and synthetic vision right from your mobile device. With ForeFlight’s new connection method, we’ve put together this video to show you how to get started!
 
 
-
-*Add foreflight tutorial*
+@[vimeo](421197610)

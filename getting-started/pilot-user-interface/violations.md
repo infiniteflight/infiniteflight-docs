@@ -49,19 +49,7 @@ Level 2 Violation (Amber)
 : The pilot is disconnected from the server but can continue the flight offline. The pilot may return to the Expert Server immediately by starting a new flight provided the number of Level 2 and 3 Violations remain under the server allowed limits.
 
  
-
-*Insert Picture of Level 2 Violation Report labelled 1 – 4*
-
- 
-
-*1 – Reason*
-
-*2 – User Guide*
-
-*3 – End Flight*
-
-*4 – Continue Offline*
-
+![Level 2 Violation](_images/manual/frames/violation-level2.jpg) 
  
 
 1. A reason will always be provided when you receive a Violation, although sometimes the information provided in the app can be limited. You can contact the controller on the forum at [community.infiniteflight.com](https://community.infiniteflight.com/) if you wish to find out further information or to appeal the Violation
@@ -85,10 +73,8 @@ Level 3 Violation (Red)
 : The pilot is disconnected from the server but can continue the flight offline. The pilot will not be able to return to the Expert Server after the flight has been ended, with access being restricted for 7 days following this.
 
 
+![Level 3 Violation](_images/manual/frames/violation-level3.jpg) 
 
-*Insert picture of Level 3 Violation*
-
- 
 
 In addition, Violations are kept on a pilot’s record and therefore, if a pilot continues to receive Violations (**Level 2** and **Level 3** only), Expert Server access will be restricted for longer. Currently no more than 5 **Level 2** and/or **Level 3** Violations can be received within a 365 day rolling period for access to the server.
 

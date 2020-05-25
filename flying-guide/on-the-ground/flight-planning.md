@@ -8,10 +8,7 @@ order: 2
 
 # Flight Planning        
 
-
-
-Insert Tyler's Flight Planning Tutorial
-
+@[vimeo](421199522)
 
 
 
@@ -54,6 +51,6 @@ What to know what everything in the ATIS means? Visit our [ATC Manual](/guide/at
 
 ## Flight Plan
 
- 
+![Map Screen](_images/manual/frames/flight-planning-map.jpg)
 
 Once you have spawned at the gate, by tapping on the [Globe](/guide/getting-started/pilot-user-interface/fly#fly-screen) button you can access the [Flight Plan](/guide/getting-started/pilot-user-interface/flight-plan#flight-plan-screen) page where you can build your flight plan. You can also use the [Mini Map](/guide/getting-started/pilot-user-interface/mini-map#mini-map) to make adjustments.
