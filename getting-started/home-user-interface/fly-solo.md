@@ -79,11 +79,11 @@ The entire globe is ready for you to explore, you can either use the features be
 
 5. Runway color codes help you know where the wind is coming from and which runways are ‘most likely’ in use. But watch out, sometimes controllers will be using a different runway than you’re expecting, make sure to look out for traffic! Check out the table below:
 
-    | Indication                                                 | Meaning                                                 |
-    | ---------------------------------------------------------- | ------------------------------------------------------- |
-    | ![Green Runway](_images/manual/tables/weather-green.png)   | Wind from any direction under 3kts - runway recommended |
-    | ![Orange Runway](_images/manual/tables/weather-orange.png) | Crosswind above 3kts                                    |
-    | ![Red Runway](_images/manual/tables/weather-red.png)       | Tailwind above 3kts - runway not recommended            |
+    | Indication                                                 | Meaning                                                      |
+    | ---------------------------------------------------------- | ------------------------------------------------------------ |
+    | ![Green Runway](_images/manual/tables/weather-green.png)   | Headwind above 3kts (or wind from any direction when under 3kts) - runway recommended |
+    | ![Orange Runway](_images/manual/tables/weather-orange.png) | Crosswind above 3kts                                         |
+    | ![Red Runway](_images/manual/tables/weather-red.png)       | Tailwind above 3kts - runway not recommended                 |
 
     
 
