@@ -48,19 +48,7 @@ order: 6
 
 
 
- *Insert 'map 1' screenshot (labelled 1-5)*
-
-
-
-*1 – Airport (PHKO)*
-
-*2 – VOR (UPP located at the north of the island)*
-
-*3 – ADF (NDB BSF located just left of PHSF)*
-
-*4 – Fix (VINIE located southeast of PHSF)*
-
-*5 – Settings, Centre-screen function, zoom in/out and MAP/FPL toggle function*
+![Flight Plan Map](_images/manual/frames/pilot-fpl-map.jpg)
 
  
 

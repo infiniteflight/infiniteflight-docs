@@ -1,6 +1,7 @@
 ---
 ordering:
   - meta
+  - 1.-introduction
   - 1a.-new-entrants
   - 1b.-violations
   - 2.-ground
