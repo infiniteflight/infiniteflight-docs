@@ -95,15 +95,11 @@ Step 4
 
 Step 1
 
-
-
 : Select the VOR or NDB you want using the technique shown in [‘Getting more from your Map and Mini Map’](/guide/getting-started/pilot-user-interface/flight-planning#getting-more-from-your-map-and-mini-map)
 
  
 
 Step 2
-
-
 
 : For VOR’s tap ‘Set NAV 1’ or ‘Set NAV 2’. ‘Tuned to NAV 1 (or 2)’ will display beneath the VOR info. For NDB’s tap ‘Set ADF 1’ and similarly, ‘Tuned to ADF 1’ will be shown
 
