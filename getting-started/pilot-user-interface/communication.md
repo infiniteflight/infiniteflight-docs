@@ -41,10 +41,6 @@ order: 5
 
  
 
-*Insert ‘video clip' of selecting active freq at airport using the mini map*
-
-
-
 Step 1
 
 : Select the airport you want using the technique shown in "Getting more from your Map"

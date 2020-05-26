@@ -35,10 +35,6 @@ Step 3
 
 ## Tuning to an ILS
 
- 
-
-*Insert ‘video clip' of tuning ILS at PHKO*
-
 
 
 Step 1
@@ -66,10 +62,6 @@ Step 4
  
 
 ## Displaying an ILS in your Aircraft
-
-
-
-*Insert ‘video of displaying ILS at PHKO in aircraft’*
 
 
 
@@ -101,10 +93,6 @@ Step 4
 
 
 
-*Insert ‘video of tuning VOR UPP*
-
-
-
 Step 1
 
 
@@ -122,10 +110,6 @@ Step 2
  
 
 ## Displaying a VOR in your Aircraft
-
- 
-
-*Insert ‘video of displaying VOR UPP in aircraft’*
 
  
 
@@ -149,10 +133,6 @@ Step 3
 
 ## Displaying an ADF in your Aircraft
 
- 
-
-*Insert ‘video of displaying NDB BSF in aircraft’*
-
 
 
 Step 1
@@ -169,7 +149,7 @@ Step 2
 
 ## Traffic Collision Avoidance System (TCAS)
 
- 
+
 ![TCAS on Map](_images/manual/frames/tcas.jpg) 
 
 

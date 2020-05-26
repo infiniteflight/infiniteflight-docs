@@ -100,10 +100,6 @@ order: 6
 
 ## Getting more from your Map and Mini Map
 
- 
-
-*Insert ‘video clip' showing tapping close to PHKO, selecting PHKO from the list and then cycling between ‘info’, ‘weather’, ‘runways’ and 'procedures'*
-
 
 
 Step 1
@@ -125,10 +121,6 @@ Step 3
 
 
 ## Selecting Departure, Arrival and Approach Procedures
-
- 
-
-*Insert 'video clip' showing opening the 'procedures' menu, selecting an arrival & transition and then approach & transition.*
 
 
 
