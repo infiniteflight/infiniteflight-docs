@@ -8,8 +8,10 @@ order: 1
 
 # On The Ground
 
-Ground operations are an important aspect of any flight but we know you're here to fly. First however, we need to get you to the runway - this section covers flight planning, pushback, engine start and taxi procedures, let's get going!
-
 
 
 @[vimeo](411494452)
+
+
+
+Ground operations are an important aspect of any flight but we know you're here to fly. First however, we need to get you to the runway - this section covers flight planning, pushback, engine start and taxi procedures, let's get going!
