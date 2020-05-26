@@ -20,9 +20,9 @@ order: 2
 
    | Indication                                                 | Meaning                                      |
    | ---------------------------------------------------------- | -------------------------------------------- |
-   | ![Green Runway](_images/manual/tables/weather-green.png)   | Headwind under 3kts - runway recommended     |
-   | ![Orange Runway](_images/manual/tables/weather-orange.png) | Crosswind above 3kts                         |
-   | ![Red Runway](_images/manual/tables/weather-red.png)       | Tailwind above 3kts - runway not recommended |
+   | ![](_images/manual/tables/weather-green.png)   | Headwind above 3kts (or wind from any direction when under 3kts) - runway recommended   |
+   | ![](_images/manual/tables/weather-orange.png) | Crosswind above 3kts                         |
+   | ![](_images/manual/tables/weather-red.png)       | Tailwind above 3kts - runway not recommended |
 
 3. **REMARKS** can be added to the ATIS to provide pilots with more information such as &#39;No Pattern Work allowed&#39;.
 

@@ -8,6 +8,8 @@ order: 2
 # Vertical Navigation (VNAV)
 
 
+@[vimeo](422519684)
+
 
 ## What is VNAV?
 

@@ -47,9 +47,9 @@ If you’re about to fly online, we also use a variety of colors to give you an 
 
 | Indication                                      | Meaning                      |
 | ----------------------------------------------- | ---------------------------- |
-| ![VFR](_images/manual/tables/weather-vfr.png)   | Visual Flight Rules          |
-| ![MVFR](_images/manual/tables/weather-mvfr.png) | Marginal Visual Flight Rules |
-| ![IFR](_images/manual/tables/weather-ifr.png)   | Instrument Flight Rules      |
+| ![](_images/manual/tables/weather-vfr.png)   | Visual Flight Rules          |
+| ![](_images/manual/tables/weather-mvfr.png) | Marginal Visual Flight Rules |
+| ![](_images/manual/tables/weather-ifr.png)   | Instrument Flight Rules      |
 
 
 
@@ -57,9 +57,9 @@ Runway color codes help you know where the wind is coming from and which runways
 
 | Indication                                                 | Meaning                                                      |
 | ---------------------------------------------------------- | ------------------------------------------------------------ |
-| ![Green Runway](_images/manual/tables/weather-green.png)   | Headwind above 3kts (or wind from any direction when under 3kts) - runway recommended |
-| ![Orange Runway](_images/manual/tables/weather-orange.png) | Crosswind above 3kts                                         |
-| ![Red Runway](_images/manual/tables/weather-red.png)       | Tailwind above 3kts - runway not recommended                 |
+| ![](_images/manual/tables/weather-green.png)   | Headwind above 3kts (or wind from any direction when under 3kts) - runway recommended |
+| ![](_images/manual/tables/weather-orange.png) | Crosswind above 3kts                                         |
+| ![](_images/manual/tables/weather-red.png)       | Tailwind above 3kts - runway not recommended                 |
 
 
 ## Server
