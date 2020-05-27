@@ -100,11 +100,3 @@ Step 7
 Step 8
 
 : Try to control your descent so that you roll out on final, on profile. Don't worry if you're a bit high or low, adjust your pitch and power to get back on profile
-
-
-
-## How to perform a Touch and Go
-
-
-
-Coming Soon
