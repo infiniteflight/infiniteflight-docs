@@ -106,22 +106,17 @@ There are two sliders that adjust the SFX and ATC Volume. Slide your finger alon
 
 
 
-SFX Volume (Sound Effects Volume)
-
-: This volume will adjust aircraft and environmental sounds (engines, flaps, interior, exterior, wind, city etc)
-
-
-
-ATC Volume (Air Traffic Control Volume)
-
-: This volume will adjust how loud/quiet the Air Traffic Controllers are when speaking
+| Setting                                 | What it does                                                 |
+| --------------------------------------- | ------------------------------------------------------------ |
+| SFX Volume (Sound Effects Volume)       | This volume will adjust aircraft and environmental sounds (engines, flaps, interior, exterior, wind, city etc) |
+| ATC Volume (Air Traffic Control Volume) | This volume will adjust how loud/quiet the Air Traffic Controllers are when speaking |
 
 
 
 Tip
 
 : For both of these settings, try to find a happy medium where you can enjoy the sounds of the aircraft whilst being able to hear Controllers and not miss a radio call. In addition, you will also be able to use your device volume to adjust the overall volume
- 
+
 
 
 ## Graphics
@@ -150,32 +145,22 @@ Infinite Flight supports both iOS and Android device; because of this, the graph
 
 
 
-Roll
-
-: Roll is the movement around the longitudinal axis (the longitudinal axis runs from the nose to the tail). This is left/right (banking) motion which is accomplished through the use of the ailerons found on the wings
-
-Pitch
-
-: Pitch is the movement around the lateral axis (the lateral axis runs from one wing tip to the other). This is the nose up/down motion through the use of the elevator as found on the tail
-
-
-
-Yaw is the third axis; however, it is not controlled via an accelerometer. You control Yaw through the use of the [Rud Brakes](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) slider as found on the bottom right corner when you spawn
+| Setting  | What it does                                                 |
+| -------- | ------------------------------------------------------------ |
+| Roll     | Roll is the movement around the longitudinal axis (the longitudinal axis runs from the nose to the tail). This is left/right (banking) motion which is accomplished through the use of the ailerons found on the wings |
+| Pitch    | Pitch is the movement around the lateral axis (the lateral axis runs from one wing tip to the other). This is the nose up/down motion through the use of the elevator as found on the tail |
+| Yaw*     | Yaw is the rotation around the vertical axis. This motion is translated into the form of turning the nose left or right through the rudder on the tail |
+| Throttle | Throttle is your power levers that you will use to adjust the amount of thrust provided by the engines |
 
 
 
-Yaw 
-
-: Yaw is the rotation around the vertical axis. This motion is translated into the form of turning the nose left or right through the rudder on the tail
+**Yaw is the third axis; however, it is not controlled via an accelerometer. You control Yaw through the use of the [Rud Brakes](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) slider as found on the bottom right corner when you spawn*
 
 
-
-Throttle 
-
-: Throttle is your power levers that you will use to adjust the amount of thrust provided by the engines
 
 
 ![Control Settings Page](_images/manual/frames/settings-controls.jpg)
+
 
 
 Tip
@@ -199,6 +184,8 @@ Tip
 ## ForeFlight
 
 "ForeFlight Link" allows Infinite Flight pilots to use ForeFlight and it’s many features as if they were in a real airplane. Practice approaches and procedures, and fly a route before spending that hard-earned money on fuel! You’ll have maps, approach plates, weather, performance data, traffic and synthetic vision right from your mobile device. With ForeFlight’s new connection method, we’ve put together this video to show you how to get started!
+
+
 
 
 @[vimeo](421197610)
