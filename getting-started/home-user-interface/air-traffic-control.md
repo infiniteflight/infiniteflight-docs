@@ -81,4 +81,4 @@ Selecting frequencies is very similar to selecting an airport and parking positi
 
 ## Server
 
-See ["Home User Interface - Fly Online - Server"](/guide/getting-started/home-screen/fly-online#server)
+See ["Home User Interface - Fly Online - Server"](/guide/getting-started/home-user-interface/fly-online#server)
