@@ -100,6 +100,7 @@ Below is a table that outlines the different Grade requirements:
 | Max Level 3 Violations (7 days)                | -    | 5    | 0      | 0      | 0       |
 | Max Level 3 Violations (1 year)                | -    | 10   | 5      | 4      | 2       |
 | Max Combined Level 2 and 3 Violations (1 year) | -    | 10   | 5      | 4      | 2       |
+{.grade-table}
 
 
 
