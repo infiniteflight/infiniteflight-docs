@@ -126,7 +126,7 @@ Step 2
 
 Step 3
 
-: Selecting Approach will give you a list of approaches for the different runways at your selected airport and  a preview will display on the map as you cycle through them. Tap 'select' at the bottom when you have your desired approach
+: Selecting Approach will give you a list of approaches (see tables below) for the different runways at your selected airport and  a preview will display on the map as you cycle through them. Tap 'select' at the bottom when you have your desired approach
 
 
 
@@ -138,7 +138,7 @@ Tip
 
 Step 4
 
-: Some approaches may give you a further option called Transitions. These usually start the approach from a navigation aid such as a VOR, but if you would prefer, you can just select 'Vectors to Final' and the transition will not be included. 
+: Some approaches may give you a further option called a Transition. These usually start the approach from a navigation aid such as a VOR, but if you would prefer, you can just select 'Vectors to Final' and the transition will not be included. 
 
 
 
@@ -151,3 +151,31 @@ Step 5
 Step 6
 
 : You can now select an arrival and departure using the same technique as above
+
+
+
+**The following prefixes are used to help differentiate between the different approaches available at an airport:**
+
+| Prefix | Meaning                 |
+| ------ | ----------------------- |
+| H      | RNAV (RNP) Approach     |
+| I      | ILS Approach            |
+| L      | Localizer Only Approach |
+| R      | RNAV (GPS) Approach     |
+
+
+
+**After the prefix, the runway designator (such as 27 for Runway 27) will be shown. This will then be followed by any associated suffixes, these are shown in the table below:**
+
+| Suffix | Meaning                                                      |
+| ------ | ------------------------------------------------------------ |
+| L      | Left                                                         |
+| R      | Right                                                        |
+| Y or Z | Differentiates between runways that utilize the same guidance |
+
+
+
+**Example:**
+
+H35LZ - RNAV (RNP) Approach for Runway 35L (left), Z (zulu) procedure
+
