@@ -10,18 +10,29 @@ order: 3
 **General tips regardless of device:**
 
 - Turn Limit Frame Rate **ON** (box should be ticked) if you notice that your device tends to heat up or if you are experiencing lag. A device that heats up too much is more likely to suffer performance degradation which could lead to lag and app crashes.
+
 - Infinite Flight doesn’t take up a specific amount of storage, it can change depending on the area you’re flying in, how many aircraft that needs to be downloaded during online flights etc. We therefore recommend that you always have at least **1GB** of storage available on your device.
+
 - Before longer flights, it is advised to reboot your device and close any apps running in the background to enhance your experience.
+
 - It is possible to fly and charge the device at the same time. The key to this is to use less power than being charged. One way to accomplish this is lower your screen brightness and ensure Infinite Flight’s low power mode is enabled.
+
 - Disable active ad or message blocking apps
+
 - Don’t modify, “Root”, or “Jailbreak” your device
+
 - Use a strong WiFi network within a relatively close proximity to your device
-- Lower Infinite Flight graphics and performance settings
-  1. Lower the Rendering Resolution setting.
-  2. Disable Anti-Aliasing.
-  3. Lower the Rendering Quality setting.
-  4. Lower the Texture Quality setting.
-  5. Lower Airplane count.
+
+- Lower Infinite Flight graphics and performance settings in the order listed: 
+
+  - Lower the Rendering Resolution setting.
+
+  - Disable Anti-Aliasing.
+  - Lower the Rendering Quality setting.
+
+  - Lower the Texture Quality setting.
+
+  - Lower Airplane count.
 
 At any point if you’re experiencing decreased performance, “Limit frame rate” should always be ticked. This setting can have a great negative impact on performance unless your device is considered high performance.
 
