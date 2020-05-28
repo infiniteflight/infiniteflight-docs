@@ -7,4 +7,36 @@ order: 3
 
 # Performance
 
-Fast devices are cool
+**General tips regardless of device:**
+
+- Turn Limit Frame Rate **ON** (box should be ticked) if you notice that your device tends to heat up or if you are experiencing lag. A device that heats up too much is more likely to suffer performance degradation which could lead to lag and app crashes.
+- Infinite Flight doesn’t take up a specific amount of storage, it can change depending on the area you’re flying in, how many aircraft that needs to be downloaded during online flights etc. We therefore recommend that you always have at least **1GB** of storage available on your device.
+- Before longer flights, it is advised to reboot your device and close any apps running in the background to enhance your experience.
+- It is possible to fly and charge the device at the same time. The key to this is to use less power than being charged. One way to accomplish this is lower your screen brightness and ensure Infinite Flight’s low power mode is enabled.
+- Disable active ad or message blocking apps
+- Don’t modify, “Root”, or “Jailbreak” your device
+- Use a strong WiFi network within a relatively close proximity to your device
+- Lower Infinite Flight graphics and performance settings
+  1. Lower the Rendering Resolution setting.
+  2. Disable Anti-Aliasing.
+  3. Lower the Rendering Quality setting.
+  4. Lower the Texture Quality setting.
+  5. Lower Airplane count.
+
+At any point if you’re experiencing decreased performance, “Limit frame rate” should always be ticked. This setting can have a great negative impact on performance unless your device is considered high performance.
+
+**General iOS tips:**
+
+- One great thing to do before launching Infinite Flight, is to perform a soft restart of the device. This is a quick and reliable way of making sure your device is operating at peak efficiency. This is done by holding down the power/lock button until you see “Slide to power off”. Then hold down the home button until you’re returned to the home screen. For iOS devices without a Home button, a restart is recommended as the soft restart feature does not exist on those.
+- Make sure you don’t have “Low power mode” on your iPhone. If you have, the battery icon in the top right corner is yellow. This can be deactivated from Settings -> Battery, or from “Control Center” depending on how you have it set up. Having “Low power mode” enabled while using Infinite Flight could result in a performance degradation.
+  **Note**: This is not the same as “Low power mode” in Infinite Flight. This is a device function.
+
+**General Android tips:**
+
+- Make sure you have Android Battery Saver disabled. Having this enabled can cause a lot of degradation in terms of both storage, performance and network.
+- Newer Android devices may work fine with Anti-Aliasing on. Turning this off can help performance for older/less powerful Android models.
+- Some devices (ie Samsung) may have a Game Tuner app to enhance the performance of games. While some users have not seen an issue there is a number who have. It is best to run IF by itself instead of through a game tuner.
+
+**If none of the suggestions above helps:**
+
+As a final resort, reset the device to factory settings. *Be sure to back up all important data on your device first.*
