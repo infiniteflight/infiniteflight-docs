@@ -7,13 +7,17 @@ order: 1
 
 # Get Help
 
-Sometimes things don't work as you'd expect. We'd love to help you get back in the air.
+Sometimes things don't work as you'd expect and we'd love to get you back in the air as soon as possible of course. In here you will find the most common problems our users encounter, together with some helpful tips on how to resolve them. If further assistance is required, don't be afraid to reach out to our support team via e-mail. 
 
-## FAQs
 
- - Subscriptions?
- - Planes?
 
-## Contacting Support
+## Trending
 
- - Email Seb, he doesn't bite
+No trending issues currently tracked.
+
+
+
+## Contact
+
+support@infiniteflight.com 
+

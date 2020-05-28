@@ -17,8 +17,6 @@ All App Stores selling Infinite Flight and it’s associated in-app purchases al
 
 **Note: If none of the above are applicable, a simple uninstall / reinstall often resolves the issue.**
 
----
-
 
 
 ## What are the minimum device requirements for Infinite Flight?
@@ -42,8 +40,6 @@ Additionally, we strongly recommend that you have a device with equipped with a 
 
 *Note: Due to large variety of Android devices there is not a specific list of supported devices. Customers with devices that are not supported at this time will receive a message on the Google Play Store when attempting to download the latest update for Infinite Flight to advise that the device in use is not supported.*
 
----
-
 
 
 ## I want a refund. How should I proceed?
@@ -56,15 +52,11 @@ Please see below how each App Store handles refunds:
 
 **Android:** Google Play Store offers a two hour grace period to request a full refund for any purchase. Following the two hour grace period all refunds need to be requested with the developer by providing a complete copy of the receipt which shows the purchase ID beginning with “GPA”. **Refunds are not guaranteed and will be reviewed on a case by case.**
 
----
-
 
 
 ## Can I recover my purchases if I switch from Apple to Android or vice versa?
 
 Unfortunately purchases made through the App Store or Google Play Store do not transfer to the opposing App Store, whether Apple or Android. Each App Store has control over their own purchases, not allowing them to be honored by the opposite store, much like a game for Xbox would not be recognized by PlayStation.
-
----
 
 
 
@@ -72,15 +64,11 @@ Unfortunately purchases made through the App Store or Google Play Store do not t
 
 Unfortunately new updates will not be released for Amazon devices. We will gauge Amazon demand at a later date to determine whether or not we will continue to support the Amazon App Store updates. The version prior to global flight will remain available at this time.
 
----
-
 
 
 ## How can I join the beta team?
 
 We do not accept direct requests to be an Alpha or Beta Tester or currently do not offer an open beta version of Infinite Flight. Keep an eye out here on the [Community Forum](https://community.infiniteflight.com) for future openings!
-
----
 
 
 
@@ -88,11 +76,9 @@ We do not accept direct requests to be an Alpha or Beta Tester or currently do n
 
 The OIS is an extremely complicated screen to reproduce. Some screens may be added in a future release.
 
----
 
 
-
-## How do I switch cockpits for the 172
+## How do I switch cockpits for the 172?
 
 You change the cockpit by changing the livery. See the table below for a list of which panels go with which livery.
 
@@ -106,8 +92,6 @@ You change the cockpit by changing the livery. See the table below for a list of
 | N456DX              | G1000       |
 | Near North Aviation | Steam Gauge |
 | Yellow Blue         | Steam Gauge |
-
----
 
 
 
@@ -123,7 +107,37 @@ This usually happens when the scenery stream from our servers to your device bec
 
 *Note: In some rare cases, the steps above isn’t enough. If that should be the case, you will have to reinstall Infinite Flight.*
 
----
+
+
+## I can't hear any ATC voices on my device.
+
+### Android
+
+If you are experiencing issues related to voices in Infinite Flight and are using Android, please go to Settings -> Accessibility -> Text to speech output -> Install voice data.
+
+Remove all voices that are possible to remove, then download & install them again. Specifically the English options. That should do the trick!
+
+**Note** :
+Depending on Android version, your TTS settings could be placed a bit differently. If you can’t find them using the steps above, try:
+Settings -> General Management -> Language input -> Text to speech -> Cogwheel next to your preferred TTS engine.
+
+
+
+### iOS
+
+If you are experiencing issues related to voices in Infinite Flight and are using iOS. Please see below: 
+
+1.) Go to your device Settings -> Accessibility -> Voice Over -> Speech -> Voice
+2.) Once here you will see tables for voices broken down by English (US, Australia, India, Ireland, etc.)
+3.) Download the voices by clicking on the cloud icon with the arrow that points downward found on the right of the voice name. *Pro Tip: You have to click on each voice and then tap on the cloud icon to download.*
+
+------
+
+After you have the voices installed on your device go ahead and restart your device & then launch Infinite Flight. You should now see the list of select-able voices under your Live Settings for both Pilot and ATC.
+
+
+
+
 
 
 
