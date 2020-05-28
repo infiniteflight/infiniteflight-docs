@@ -91,8 +91,8 @@ Below is a table that outlines the different Grade requirements:
 | Min Total XP                                   | -    | 2000 | 50,000 | 80,000 | 175,000 |
 | Min Total Flight Time                          | -    | 5    | 50     | 120    | 500     |
 | Min Total Landings                             | -    | 25   | 100    | 400    | 800     |
-| Min Flight Time (90 days)                      | -    | 3    | 20     | 30     | 70      |
-| Min Landings (90 days)                         | -    | 5    | 30     | 120    | 180     |
+| Min Flight Time (90 days)                      | -    | 3    | 15     | 30     | 70      |
+| Min Landings (90 days)                         | -    | 5    | 30     | 100    | 180     |
 | Max Level 1 Violations (24 hours)              | -    | 7    | 5      | 0      | 0       |
 | Max Level 1 Violations (7 days)                | -    | 25   | 5      | 0      | 0       |
 | Max Level 1 Violations/Landings Ratio (1 year) | -    | 0.8  | 0.5    | 0.22   | 0.05    |
