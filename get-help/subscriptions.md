@@ -1,6 +1,6 @@
 ---
-id: subscription
-title: Subscription questions
+id: subscriptions
+title: Subscriptions
 meta: Help surrounding our PRO subscription
 order: 5
 ---
