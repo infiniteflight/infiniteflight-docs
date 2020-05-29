@@ -19,7 +19,9 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 
 
 
-## Last Updated: 1500Z - 24 MAY 20
+## Version: Initial Issue
+
+## Last Updated: 0900Z - 29 MAY 20
 
 
 
@@ -27,6 +29,7 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 
  - 1.1.5 - 'IRL', 'SID', 'TOD', and 'VNAV' abbreviations added
  - 1A.1 - Slack Slash Commands moved and */mystats* added
+ - 1A.1.3 - #ifatceg channel added
  - 1A.2.1 - Controllers that had the ATIS frequency open at an airport must provide the last ATIS letter when closing
  - 1A.2.1 - Clarification on reserving frequencies
  - 1A.5 - Activity Requirements moved and removal only now after 90 days
