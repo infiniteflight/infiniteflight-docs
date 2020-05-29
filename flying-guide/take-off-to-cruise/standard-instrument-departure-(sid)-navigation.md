@@ -24,7 +24,7 @@ Standard Instrument Departures, known as SIDs, are a published flight procedure 
 ## How do I put a SID into my Flight Plan?
 
 
-@[vimeo](421196015)
+
 
 
 Step 1

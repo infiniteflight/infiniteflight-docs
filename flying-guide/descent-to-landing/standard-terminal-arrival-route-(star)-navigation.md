@@ -23,7 +23,7 @@ Standard Terminal Arrival Routes, known as STARs, are a published flight procedu
 
 ## How do I put a STAR into my Flight Plan?
 
-@[vimeo](421196015)
+
 
 Step 1
 

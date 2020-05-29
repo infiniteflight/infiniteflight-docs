@@ -12,7 +12,7 @@ Infinite Flight is available for download on the Google Play Store.
 
 ## Minimum Device Requirements
 
-Below are the minimum requirements for a successful install on your device. In addition to this, we recommend that your device has at least 1GB+ of internal device memory (RAM):
+Below are the minimum requirements for a successful install on your device. In addition to this, we strongly recommend that your device has **at least** 1GB+ of internal device memory (RAM):
 
  -    Android 6.0 (Marshmallow) operating system or later
 

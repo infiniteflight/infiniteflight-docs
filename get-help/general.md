@@ -11,11 +11,17 @@ order: 2
 
 All App Stores selling Infinite Flight and it’s associated in-app purchases allow for downloading without repurchasing after an item has been paid for. If you’re an Android user your previous purchases will automatically be unlocked when you download the app. Apple users must open the aircraft selection page, then tap “Restore Purchases” to access any purchased regions and aircraft. To ensure success, please check the following:
 
-- You have used the same App Store account and ID as the original purchase.
-- You have not been previously refunded.
-- You are not using any IAP hacking programs.
 
-**Note: If none of the above are applicable, a simple uninstall / reinstall often resolves the issue.**
+
+- You have used the same App Store account and ID as the original purchase
+
+- You have not been previously refunded
+
+- You are not using any IAP hacking programs
+
+  
+
+*Note: If none of the above are applicable, a simple uninstall / reinstall often resolves the issue.*
 
 
 
@@ -23,22 +29,41 @@ All App Stores selling Infinite Flight and it’s associated in-app purchases al
 
 Our minimum device requirements for the Global versions of Infinite Flight is as follows:
 
-**iOS Requirements:**
-
-- 64 bit device
-- iOS 10 operating system or later
-- Click [here](https://developer.apple.com/library/content/documentation/DeviceInformation/Reference/iOSDeviceCompatibility/HardwareGPUInformation/HardwareGPUInformation.html#//apple_ref/doc/uid/TP40013599-CH106-SW1) to see full list of iOS devices supported at this time
+**iOS:**
 
 
 
-**Android Requirements:**
+ -    64 bit device
+ -    iOS 10 operating system or later
+ -    [Click here to see full list of devices supported](https://community.infiniteflight.com/t/device-compatibility-thread-19-4-built-by-us-for-you/323610)
+
+
+
+Additionally, we strongly recommend that your device has **at least** 1GB+ of internal device memory (RAM).
+
+
+
+*Note: To access the list of iOS devices supported, use the link above. You will need to scroll to the bottom of the initial post and locate the first response to find the list.*
+
+
+
+**Android:**
+
+
 
 - Android 6.0 (Marshmallow) operating system or later
-- Device must support OpenGL ES 3.0
 
-Additionally, we strongly recommend that you have a device with equipped with a **at least** 1GB of RAM.
+ - Device must support OpenGL ES 3.0, [click here to check.](https://play.google.com/store/apps/details?id=littledreamstudios.openglcheck&hl=en)
 
-*Note: Due to large variety of Android devices there is not a specific list of supported devices. Customers with devices that are not supported at this time will receive a message on the Google Play Store when attempting to download the latest update for Infinite Flight to advise that the device in use is not supported.*
+   
+
+Additionally, we strongly recommend that your device has **at least** 1GB+ of internal device memory (RAM).
+
+
+
+*Note: Due to the large variety of Android devices, there is not a full list of devices supported although the vast majority can be found [here](https://community.infiniteflight.com/t/device-compatibility-thread-19-4-built-by-us-for-you/323610). Customers with devices that are not supported at this time will receive a message on the Google PlayStore when attempting to download the latest update for Infinite Flight to advise that the device in use is not supported.*
+
+
 
 
 
@@ -50,7 +75,7 @@ Please see below how each App Store handles refunds:
 
 **Apple:** iTunes policy is that all app sales are final. We are not able to provide refunds, but you may be able to receive a refund by emailing iTunes customer service making your request.
 
-**Android:** Google Play Store offers a two hour grace period to request a full refund for any purchase. Following the two hour grace period all refunds need to be requested with the developer by providing a complete copy of the receipt which shows the purchase ID beginning with “GPA”. **Refunds are not guaranteed and will be reviewed on a case by case.**
+**Android:** Google Play Store offers a two hour grace period to request a full refund for any purchase. Following the two hour grace period all refunds need to be requested with the developer by providing a complete copy of the receipt which shows the purchase ID beginning with “GPA”. **Refunds are not guaranteed and will be reviewed on a case by case basis.**
 
 
 
@@ -99,13 +124,31 @@ You change the cockpit by changing the livery. See the table below for a list of
 
 This usually happens when the scenery stream from our servers to your device becomes corrupt for some reason.
 
+
+
 **To resolve this issue, please try the following steps:**
 
-- Relaunch Infinite Flight (make sure you stop it from running in the background first)
-- Before starting a new flight, Go to Settings —> General —> Tap “Clear scenery cache”. It’s in the bottom.
-- Start a flight (try on Solo first)
 
-*Note: In some rare cases, the steps above isn’t enough. If that should be the case, you will have to reinstall Infinite Flight.*
+
+Step 1
+
+: Re-launch Infinite Flight (make sure you stop it from running in the background first)
+
+
+
+Step 2
+
+: Before starting a new flight, go to Settings > General > Tap “Clear scenery cache” (it’s at the bottom)
+
+
+
+Step 3
+
+: Start a flight (try on Solo first)
+
+
+
+*Note: In some rare cases, the steps above might not be enough. If that should be the case, you will have to reinstall Infinite Flight.*
 
 
 
@@ -113,27 +156,59 @@ This usually happens when the scenery stream from our servers to your device bec
 
 ### Android
 
-If you are experiencing issues related to voices in Infinite Flight and are using Android, please go to Settings -> Accessibility -> Text to speech output -> Install voice data.
+If you are experiencing issues related to voices in Infinite Flight and are using Android, follow the steps below:
 
-Remove all voices that are possible to remove, then download & install them again. Specifically the English options. That should do the trick!
 
-**Note** :
-Depending on Android version, your TTS settings could be placed a bit differently. If you can’t find them using the steps above, try:
-Settings -> General Management -> Language input -> Text to speech -> Cogwheel next to your preferred TTS engine.
+
+Step 1
+
+: Go to Settings > Accessibility > Text to speech output > Install voice data
+
+
+
+Step 2
+
+: Remove all voices that are possible to remove, then download & install them again (specifically the English options)
+
+
+
+*Note: Depending on Android version, your TTS settings could be placed a bit differently. If you can’t find them using the steps above, try Settings > General Management > Language input > Text to speech > Cogwheel next to your preferred TTS engine*
 
 
 
 ### iOS
 
-If you are experiencing issues related to voices in Infinite Flight and are using iOS. Please see below: 
+If you are experiencing issues related to voices in Infinite Flight and are using iOS, follow the steps below: 
 
-1.) Go to your device Settings -> Accessibility -> Voice Over -> Speech -> Voice
-2.) Once here you will see tables for voices broken down by English (US, Australia, India, Ireland, etc.)
-3.) Download the voices by clicking on the cloud icon with the arrow that points downward found on the right of the voice name. *Pro Tip: You have to click on each voice and then tap on the cloud icon to download.*
 
-------
 
-After you have the voices installed on your device go ahead and restart your device & then launch Infinite Flight. You should now see the list of select-able voices under your Live Settings for both Pilot and ATC.
+Step 1
+
+: Go to Settings > Accessibility > Voice Over > Speech > Voice
+
+
+
+Step 2
+
+: Once here you will see tables for voices broken down by English (US, Australia, India, Ireland etc.)
+
+
+
+Step 3
+
+: Download the voices by clicking on the cloud icon with the arrow that points downward found on the right of the voice name
+
+
+
+Tip
+
+: You have to click on each voice and then tap on the cloud icon to download
+
+
+
+Step 4
+
+: After you have the voices installed on your device, restart your device & then launch Infinite Flight. You should now see the list of selectable voices under your Live Settings for both Pilot and ATC
 
 
 

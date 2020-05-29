@@ -9,9 +9,7 @@ order: 5
 
 # Subscriptions
 
-This is where you'll find information and frequently asked questions related to our PRO subscription. 
-
-If you can't find the answer to your question below, please contact our support team at support@infiniteflight.com 
+This is where you'll find information and frequently asked questions related to our PRO subscription. If you can't find the answer to your question below, please contact our support team at support@infiniteflight.com.
 
 
 
@@ -36,26 +34,70 @@ Apple: iTunes customers can use redeem cards or account credits without a credit
 
 
 
-## I have now purchased a subscription, but it says i do not have a subscription? 
+## I have now purchased a subscription, but it says I do not have a subscription? 
 
-If you purchased a new subscription or renewed an existing one but cannot access your online account please try the following steps:
+If you purchased a new subscription or renewed an existing one but cannot access your online account, try the following steps:
 
-- Sign out of your Infinite Flight account (tap your name in top right corner, then “Logout”), if you are signed in.
-- Restart your device
-- Open Infinite Flight
-- Tap “Fly Online!”
+
+
+Step 1
+
+: Sign out of your Infinite Flight account (tap your name in the top right corner, then “Logout”), if you are signed in
+
+
+
+Step 2
+
+: Restart your device
+
+
+
+Step 3
+
+: Open Infinite Flight
+
+
+
+Step 4
+
+: Tap “Fly Online!”
+
+
 
 
 If you’re unable to access your subscription after completing the steps above please try the following:
 
-- Uninstall Infinite Flight from your device
-- Restart your device
-- Install Infinite Flight from App Store again
-- Tap “Fly online!”.
+
+
+Step 1
+
+: Uninstall Infinite Flight from your device
+
+
+
+Step 2
+
+: Restart your device
+
+
+
+Step 3
+
+: Install Infinite Flight from App Store again
+
+
+
+Step 4
+
+: Tap “Fly online!”
+
+
 
 The app should then display the account that holds your subscription based on the information found on your Apple-ID.
 
-If you are still unable to access your subscription after completing the steps above, please send an e-mail explaining the steps you’ve already taken as well as the information below to support@infiniteflight.com
+
+
+If you are still unable to access your subscription after completing the steps above, please send an e-mail explaining the steps you’ve already taken as well as the information below to support@infiniteflight.com:
 
 - Display Name and Callsign
 - Device
@@ -63,7 +105,7 @@ If you are still unable to access your subscription after completing the steps a
 
 
 
-## How do i cancel my PRO subscription? 
+## How do I cancel my PRO subscription? 
 
 Auto-Renew can be cancelled directly from your App Store or Play Store app. Please find the instructions for your store below:
 
