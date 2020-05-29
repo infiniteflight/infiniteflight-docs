@@ -14,7 +14,9 @@ This is where you'll find information and frequently asked questions related to 
 If you can't find the answer to your question below, please contact our support team at support@infiniteflight.com 
 
 
+
 ## How much is a PRO subscription and what is included? 
+
 - 1 Month - $9.99
 
 - 6 Months - $49.99 
@@ -31,6 +33,8 @@ We recommend that you have a valid Facebook or Google account to sign up for a s
 Android: Google Play Store customers can now purchase a subscription with a redeem card and store account balances. The subscriptions will automatically renew but can be cancelled from your PlayStore account at the Infinite Flight app page.
 
 Apple: iTunes customers can use redeem cards or account credits without a credit card to purchase a Pro Subscription. iTunes customers will not renew automatically and are prompted to accept or decline renewals upon subscription expiration.
+
+
 
 ## I have now purchased a subscription, but it says i do not have a subscription? 
 
@@ -57,6 +61,8 @@ If you are still unable to access your subscription after completing the steps a
 - Device
 - Complete Purchase Receipt showing date, item, and item number (Beginning with GPA if Android User)
 
+
+
 ## How do i cancel my PRO subscription? 
 
 Auto-Renew can be cancelled directly from your App Store or Play Store app. Please find the instructions for your store below:
@@ -66,4 +72,21 @@ Google Play Store:
 
 iOS App Store:
 [View, change, or cancel your App Store subscription](https://support.apple.com/en-us/HT202039)
+
+
+
+## How can I change the Google or Facebook account currently linked to my Infinite Flight account? 
+
+Currently end users cannot change their online credentials. It is advised to use a Facebook or Google credential you plan to keep long term. If you have an unplanned or an unavoidable problem requiring you to change your credential currently assigned to your PRO subscription, please contact our support staff at [support@infiniteflight.com](mailto:support@infiniteflight.com) with the following:
+
+- Display Name and Callsign of account you wish to change credentials on
+- Complete purchase receipt of subscription
+
+
+
+## I receive "Error Code 02" when trying to link my account?
+
+This error is shown when you try to link your Infinite Flight account with a Google or Facebook account that's already used. For further assistance with that error, you need to contact our support team at support@infiniteflight.com. Remember to include as much information about your account as well as the Google or Facebook account you are trying to link with. 
+
+
 
