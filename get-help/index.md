@@ -19,5 +19,5 @@ No trending issues currently tracked.
 
 ## Contact
 
-support@infiniteflight.com 
+Email support is available via [support@infiniteflight.com](mailto:support@infiniteflight.com).
 

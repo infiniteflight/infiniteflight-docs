@@ -7,7 +7,7 @@ order: 4
 
 # Online
 
-This is where you will find help about your online experience in Infinite Flight. If you can't find the answer to your question below, please contact our support team at support@infiniteflight.com.
+This is where you will find help about your online experience in Infinite Flight. If you can't find the answer to your question below, please contact our support team at [support@infiniteflight.com](mailto:support@infiniteflight.com).
 
 
 
