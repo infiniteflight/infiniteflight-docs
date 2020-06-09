@@ -8,7 +8,6 @@ order: 3
 # Standard Terminal Arrival Route (STAR) Navigation
 
 
-
 ## What is a STAR?
 
 Standard Terminal Arrival Routes, known as STARs, are a published flight procedure that are followed by aircraft on an IFR flight plan from an intermediate altitude. STARs allow aircraft to arrive following a pre-defined route (and in some cases with altitude/speed restrictions) that help them navigate adjacent airspaces, terrain and departing traffic. 
@@ -23,7 +22,7 @@ Standard Terminal Arrival Routes, known as STARs, are a published flight procedu
 
 ## How do I put a STAR into my Flight Plan?
 
-
+@[vimeo](421196015)
 
 Step 1
 
