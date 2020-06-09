@@ -13,7 +13,11 @@ Sometimes things don't work as you'd expect and we'd love to get you back in the
 
 ## Trending
 
-No trending issues currently tracked.
+We’re aware of an increased crash rate on all platforms since the 20.1 updates. These crashes are mostly related to opening your grade table, as well as performing tasks on the map.
+
+Our developers are working very hard to get these issues resolved as soon as possible.
+
+We’re sorry about the inconvenience this causes.
 
 
 
