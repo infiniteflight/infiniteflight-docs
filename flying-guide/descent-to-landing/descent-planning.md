@@ -7,7 +7,7 @@ order: 1
 
 # Descent Planning
 
-
+@[vimeo](423207812)
 
 Descent preparation is a crucial step in any flight, the following tools will help you achieve a well planned descent:
 
