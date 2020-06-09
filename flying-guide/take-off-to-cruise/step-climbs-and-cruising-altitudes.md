@@ -26,14 +26,12 @@ There are two main techniques used for step climbing:
 **Technique 1**
 
 Step 1
-
-: Maintaining an altitude below your optimum altitude until the difference is an approximate value (usually 1000 - 2000ft)
+: Maintain your initial cruising altitude, the optimum altitude will increase as you get lighter. Wait until the difference is approximately 2000ft
 
 
 
 Step 2
-
-: At this point, a climb is then initiated until the aircraft is cruising at the same difference in altitude, but above the optimum altitude
+: At this point, initiate a climb until the aircraft is cruising at the same difference in altitude, but above the optimum altitude (in this example 2000ft)
 
 
 
@@ -46,25 +44,21 @@ Step 3
 **Technique 2**
 
 Step 1
-
-: Maintaining an altitude below your optimum altitude until the difference is an approximate value (usually 1000 - 2000ft)
+: Maintain your initial cruising altitude, the optimum altitude will increase as you get lighter. Wait until the difference is approximately 2000ft
 
 
 
 Step 2
-
-: At this point, a climb is then initiated until the aircraft reaches the optimum altitude
+: At this point, initiate a climb until the aircraft reaches the optimum altitude
 
 
 
 Step 3
-
-: This altitude is then maintained until you are again below the optimum altitude by the predetermined value, then repeat
+: Maintain this altitude until you are again below the optimum altitude by the predetermined value, then repeat
 
 
 
 Tip
-
 : If you are operating close to the aircraft limits in terms of environmental factors, weight or aircraft design specifications, then Technique 1 may not be possible as some aircraft struggle above their optimum altitude. Therefore, Technique 2 may need to be adopted in this case.
 
 
@@ -75,7 +69,7 @@ There is currently no way to determine optimum altitude within Infinite Flight; 
 
 
 
-- If you are departing at, or close to your Maximum Take-Off Weight (MTOW), do not climb up to your final cruising altitude straight away. You will need to plan the altitudes you will step climb to before your final cruise altitude
+- If you are departing at, or close to your Maximum Take-Off Weight (MTOW), do not climb up to your final cruising altitude straight away. Use flight planning tools to plan the altitudes you will step climb to during the course of your flight
 - Refer to Cruising Altitudes if you are unsure what altitude you should be flying at based on your direction of travel
 - If you find the aircraft is stalling, has an unusual pitch attitude, or you’re unable to maintain the altitude - you’re probably too heavy to be there! You will need to descend to a lower altitude, use more fuel and then try climbing later on in the flight when your weight is lower
 - Only take the fuel required for the flight. Don’t load 100% fuel if you don’t need it as this will only restrict how high you can cruise
