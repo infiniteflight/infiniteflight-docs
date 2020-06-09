@@ -52,5 +52,21 @@ What to know what everything in the ATIS means? Visit our [ATC Manual](/guide/at
 ## Flight Plan
 
 ![Map Screen](_images/manual/frames/flight-planning-map.jpg)
-
 Once you have spawned at the gate, by tapping on the [Globe](/guide/getting-started/pilot-user-interface/fly#fly-screen) button you can access the [Flight Plan](/guide/getting-started/pilot-user-interface/flight-plan#flight-plan-screen) page where you can build your flight plan. You can also use the [Mini Map](/guide/getting-started/pilot-user-interface/mini-map#mini-map) to make adjustments.
+
+
+
+## Airspace 
+
+The different types of airspace are defined on the Map and Mini Map using a color code. These are shown in the following table:
+
+
+| Airspace Type                   | Color Code  |
+| ------------------------------- | ----------- |
+| Class B                         | Blue        |
+| Class C                         | Magenta     |
+| Class D                         | Light Blue  |
+| Terminal Control Area           | Light Green |
+| Flight Information Region (FIR) | White       |
+
+Pilots that want to add realism to their flight may wish to follow real world procedures; but for the purposes of Infinite Flight, the use of airspace by ATC has been simplified. For more information on what you can expect from ATC when flying, visit the [ATC Manual](/guide/atc-manual/5.-airspace/5.1-airspace#5.1-airspace).
