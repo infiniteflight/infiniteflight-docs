@@ -62,17 +62,23 @@ The opposite is true in the eastbound nighttime system. The most southerly track
 
 Step 1
 
-: Before departure, decide on the best NAT Track to use based on your destination, the aircraft weight (which will determine how high you can go - see [Step Climbs and Cruising Altitudes](/guide/flying-guide/take-off-to-cruise/step-climbs-and-cruising-altitudes#step-climbs-and-cruising-altitudes)) and the prevailing winds (there are loads of online tools that you can use to help with this)
+: Before departure, decide on the best NAT Track to use based on your destination, the aircraft weight (which will determine your [initial cruising altitude](/guide/flying-guide/take-off-to-cruise/step-climbs-and-cruising-altitudes#step-climbs-and-cruising-altitudes)) and the prevailing winds (there are loads of online tools that you can use to help with this)
 
 
 
 Step 2
 
-: Load your flight plan (see [Flight Planning](/guide/getting-started/pilot-user-interface/flight-planning#flight-planning))
+: [Load your departure](/guide/getting-started/pilot-user-interface/flight-planning#selecting-departure%2C-arrival-and-approach-procedures) and then [add a series of waypoints](/guide/getting-started/pilot-user-interface/flight-planning#flight-planning) that will take you close to the start of the track you wish to use
 
 
 
 Step 3
+
+: From the map, tap the desired track and select the + icon to insert it into your flight plan. Much like an instrument procedure, a track in it’s entirety will display a green bracket
+
+
+
+Step 4
 
 : Once airborne (and provided you have been given permission to change frequency), you only need to [Check In](/guide/atc-manual/6.-radar/6.4-departure-check-in#6.4-departure-%2F-check-in) with Departure or Center (if ATC is active). You will be expected to continue following your flight plan and they will only vector you if required
 
