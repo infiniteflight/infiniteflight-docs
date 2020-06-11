@@ -86,4 +86,5 @@ Step 4
 
 Tip
 
-: You do not need to stay with your device for the whole flight, but we do recommend you stay until you have reached your initial cruising altitude as a minimum (just in case ATC need to provide de-confliction)
+: You do not need to stay with your device for the whole flight, but we do recommend you stay until you have reached your initial cruising altitude as a minimum. This allows ATC to provide de-confliction if required and also prevents system violations due to things like the Autopilot disconnecting (e.g. flying above your optimum cruising altitude when you are too heavy). By actively monitoring critical stages of flight, you will be able to avoid these issues!
+
