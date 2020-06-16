@@ -105,7 +105,7 @@ Tip
 
 Step 4
 
-: After departure (assuming you are not remaining in the pattern), the Tower Controller will hand you over to the Radar Controller (if they are present). If ATC coverage is not available, you can switch to an appropriaote frequency
+: After departure (assuming you are not remaining in the pattern), the Tower Controller will hand you over to the Radar Controller (if they are present). If ATC coverage is not available, you can switch to an appropriate frequency
 
 
 
