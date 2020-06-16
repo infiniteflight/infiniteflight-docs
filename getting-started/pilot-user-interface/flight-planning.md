@@ -9,7 +9,7 @@ order: 6
 
 
 
-## Map
+## Flight Plan
 
 ![Flight Plan Screen](_images/manual/frames/flight-plan-screen.jpg)
 
@@ -44,9 +44,26 @@ order: 6
 
    
 
-5. In the bottom right of the screen is settings, center screen and zoom in/out functions. Additionally, you can cycle the display between just the Map, Flight Plan, or both displayed.
+5. In the bottom right of the screen is settings, center screen and zoom in/out functions. Additionally, you can cycle the display between just the Map, Flight Plan, or both displayed. The customize your display, the settings available are shown below:
+
+| Setting                                  | What it does                                                 |
+| ---------------------------------------- | ------------------------------------------------------------ |
+| Fixes (Show/Hide)                        | Show or hide GPS waypoints known as fixes                    |
+| Navaids (Show/Hide)                      | Show or hide navigation aids (VOR/NDB)                       |
+| Airspaces (Show/Hide)                    | Show or hide airspace                                        |
+| Taxiways (Show/Hide)                     | Show or hide taxiway lines                                   |
+| Approaches (Show All/Hide All/ Show ILS) | Cycle between displaying no approaches, just ILS approaches or all approaches |
+| Uncontrolled Airports (Show/Hide)        | All airports represented by a magenta dot are either shown or hidden using this setting |
 
 
+
+Tip
+
+: If you're running an older device and/or experiencing crashing, try selecting 'Hide Airspaces' as this may improve your device performance!
+
+
+
+## Map
 
 ![Flight Plan Map](_images/manual/frames/pilot-fpl-map.jpg)
 
@@ -88,6 +105,7 @@ order: 6
 
 ## Getting more from your Map and Mini Map
 
+@[vimeo](429308225)
 
 
 Step 1
@@ -110,6 +128,8 @@ Step 3
 
 ## Selecting Departure, Arrival and Approach Procedures
 
+
+@[vimeo](429377642)
 
 
 Step 1
