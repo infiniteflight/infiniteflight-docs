@@ -54,7 +54,7 @@ Note: Airspace parameters and ATC jurisdictions may be altered with the use of N
 
 
 
-![Image 5.1.1.1 - Airspace layout](C:/Users/Regan/Documents/GitHub/infiniteflight-docs/atc-manual/5.-airspace/_images/manual/graphics/atc-airspace-layout.jpg)
+![Image 5.1.1.1 - Airspace layout](_images/manual/graphics/atc-airspace-layout.jpg)
 
 
 
