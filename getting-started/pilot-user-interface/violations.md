@@ -12,7 +12,7 @@ order: 13
 ## What are Violations?
 
 
-Violations can either be automatically generated (Level 1) or issued by ATC (Level 2 or 3) and are a way to moderate pilot behavior on the [Training and Expert Servers](/guide/getting-started/home-screen/fly-online#server). **Level 1** Violations can be received on both servers, however **Level 2** and **Level 3** Violations can only be issued on the Expert Server. Each server has its own set of rules and minimum [grade](/guide/getting-started/home-screen/user-profile#user-profile) requirements, but the Expert Server is for serious users only. If the server rules and procedures are not followed, ATC will strictly enforce this and pilots could be issued a Violation. 
+Violations can either be automatically generated (Level 1) or issued by ATC (Level 2 or 3) and are a way to moderate pilot behavior on the [Training and Expert Servers](/guide/getting-started/home-user-interface/fly-online#server). **Level 1** Violations can be received on both servers, however **Level 2** and **Level 3** Violations can only be issued on the Expert Server. Each server has its own set of rules and minimum [grade](/guide/getting-started/home-user-interface/user-profile#the-grade-table) requirements, but the Expert Server is for serious users only. If the server rules and procedures are not followed, ATC will strictly enforce this and pilots could be issued a Violation. 
 
  
 
@@ -40,7 +40,7 @@ To ensure that all pilots get an enjoyable experience (and realistic experience 
 
 Level 1 Violation
 
-: If you receive 3 or more Level 1 Violations in one flight, you will automatically be removed from the server and will have to start a flight again.
+: If a pilot receives 3 or more Level 1 Violations in one flight, they will automatically be removed from the server and will have to start a flight again.
 
 
 
@@ -48,9 +48,9 @@ Level 2 Violation (Amber)
 
 : The pilot is disconnected from the server but can continue the flight offline. The pilot may return to the Expert Server immediately by starting a new flight provided the number of Level 2 and 3 Violations remain under the server allowed limits.
 
- 
+
 ![Level 2 Violation](_images/manual/frames/violation-level2.jpg) 
- 
+
 
 1. A reason will always be provided when you receive a Violation, although sometimes the information provided in the app can be limited. You can contact the controller on the forum at [community.infiniteflight.com](https://community.infiniteflight.com/) if you wish to find out further information or to appeal the Violation
 
@@ -76,7 +76,7 @@ Level 3 Violation (Red)
 ![Level 3 Violation](_images/manual/frames/violation-level3.jpg) 
 
 
-In addition, Violations are kept on a pilot’s record and therefore, if a pilot continues to receive Violations (**Level 2** and **Level 3** only), Expert Server access will be restricted for longer. Currently no more than 5 **Level 2** and/or **Level 3** Violations can be received within a 365 day rolling period for access to the server.
+In addition, Violations are kept on a pilot’s record and therefore, if a pilot continues to receive Violations (**Level 2** and **Level 3** only), Expert Server access will be restricted for longer. Currently no more than five **Level 2** and/or **Level 3** Violations can be received within a 365 day rolling period for access to the server.
 
  
 
@@ -110,7 +110,7 @@ We recommend that you only appeal **Level 3** Violations as these prevent access
 
 Step 1
 
-: Access your [User Profile](/guide/getting-started/home-screen/user-profile#user-profile) and tap on the information link by your Grade
+: Access your [User Profile](/guide/getting-started/home-user-interface/user-profile#user-profile) and tap on the information link by your Grade
 
  
 
