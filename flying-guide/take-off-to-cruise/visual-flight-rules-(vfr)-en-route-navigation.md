@@ -123,7 +123,7 @@ Step 2
 
 Step 3
 
-: Make sure to modify your [crusing altitude](/guide/flying-guide/take-off-to-cruise/step-climbs-and-cruising-altitudes#ifr%2Fvfr-semi-circular-rules) to satisfy terrain clearance and VFR Semi-Circular rules
+: Make sure to modify your [cruising altitude](/guide/flying-guide/take-off-to-cruise/step-climbs-and-cruising-altitudes#ifr%2Fvfr-semi-circular-rules) to satisfy terrain clearance and VFR Semi-Circular rules
 
 
 
