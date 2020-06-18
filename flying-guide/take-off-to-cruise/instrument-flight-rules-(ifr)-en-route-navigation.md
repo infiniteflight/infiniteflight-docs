@@ -69,6 +69,12 @@ Step 1
 
 
 
+Tip
+
+: [ForeFlight](/guide/getting-started/home-user-interface/settings#foreflight) is a great tool for flight planning, make sure to give it a go!
+
+
+
 Step 2
 
 : Make sure to modify your [cruising altitude](/guide/flying-guide/take-off-to-cruise/step-climbs-and-cruising-altitudes#ifr%2Fvfr-semi-circular-rules) to satisfy terrain clearance and IFR Semi-Circular rules

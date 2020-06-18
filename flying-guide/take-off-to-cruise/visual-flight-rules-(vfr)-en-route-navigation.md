@@ -115,6 +115,12 @@ Step 1
 
 
 
+Tip
+
+: [ForeFlight](/guide/getting-started/home-user-interface/settings#foreflight) is a great tool for flight planning, make sure to give it a go!
+
+
+
 Step 2
 
 : Use visual markers to help you such as terrain, coastlines, islands etc.
