@@ -81,7 +81,7 @@ There are two options for departure, these are:
 
 Step 2
 
-: [Report ready for departure](/guide/getting-started/pilot-user-interface/communication#communication) (or announc take-off on unicom) and select the type of departure you intend on flying
+: [Report ready for departure](/guide/getting-started/pilot-user-interface/communication#communication) (or announce take-off on Unicom) and select the type of departure you intend on flying
 
 
 
@@ -117,10 +117,7 @@ Tip
 
 Step 5
 
-: If you have been handed over to a Radar Controller, there are two options available:
-
-- Either [Check In](/guide/atc-manual/6.-radar/6.4-departure-check-in#the-use-of-check-in)
-- Or request a [VFR Flight Following](/guide/atc-manual/6.-radar/6.5-flight-following#6.5-flight-following)
+: If you have been handed over to a Radar Controller, you can either [Check In](/guide/atc-manual/6.-radar/6.4-departure-check-in#the-use-of-check-in) or request a [VFR Flight Following](/guide/atc-manual/6.-radar/6.5-flight-following#6.5-flight-following), although the latter is recommended if you specifically want to fly VFR (if you have a flight plan, Controllers may think you are asking for an IFR Flight Following when checking in)
 
 
 
@@ -132,4 +129,4 @@ Tip
 
 Step 6
 
-: Continue flying VFR and remember that you are responible for terrain and traffic avoidance. ATC may however, issue vectors to deconflict with IFR traffic. If this happens, continue to follow those instructions until you are told to 'resume own navigation'  
+: Continue flying VFR and remember that you are responsible for terrain and traffic avoidance. ATC may however, issue vectors to de-conflict with IFR traffic. If this happens, continue to follow those instructions until you are told to 'resume own navigation'  
