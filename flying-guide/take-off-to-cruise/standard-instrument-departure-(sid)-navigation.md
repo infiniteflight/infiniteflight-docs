@@ -55,7 +55,7 @@ Step 3
 
 Step 1
 
-: Now that you're flight plan is loaded, we can utilize the [GPS Navigation](/guide/getting-started/pilot-user-interface/navigation#gps-navigation) to navigate the SID
+: Now that your flight plan is loaded, we can utilize the [GPS Navigation](/guide/getting-started/pilot-user-interface/navigation#gps-navigation) to navigate the SID
 
 
 
