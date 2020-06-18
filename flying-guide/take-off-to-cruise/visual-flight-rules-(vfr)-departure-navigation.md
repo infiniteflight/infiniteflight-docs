@@ -52,6 +52,12 @@ Step 2
 
 
 
+Tip
+
+: [ForeFlight](/guide/getting-started/home-user-interface/settings#foreflight) is a great tool for flight planning, make sure to give it a go!
+
+
+
 Step 3
 
 : Research your route and [establish a cruising altitude](/guide/flying-guide/take-off-to-cruise/step-climbs-and-cruising-altitudes#ifr%2Fvfr-semi-circular-rules) that ensures terrain clearance and satisfies VFR Semi-Circular rules
