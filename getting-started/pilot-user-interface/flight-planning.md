@@ -105,6 +105,7 @@ Tip
 
 ## Getting more from your Map and Mini Map
 
+@[vimeo](429308225)
 
 
 Step 1
@@ -127,6 +128,8 @@ Step 3
 
 ## Selecting Departure, Arrival and Approach Procedures
 
+
+@[vimeo](429377642)
 
 
 Step 1

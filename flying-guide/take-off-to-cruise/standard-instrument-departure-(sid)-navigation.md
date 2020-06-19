@@ -8,7 +8,6 @@ order: 6
 # Standard Instrument Departure (SID) Navigation
 
 
-
 ## What is a SID?
 
 Standard Instrument Departures, known as SIDs, are a published flight procedure that are followed by aircraft on an IFR flight plan immediately after departure. SIDs allow aircraft to depart an airspace following a pre-defined route (and in some cases with altitude/speed restrictions) that help them navigate adjacent airspaces, terrain and arriving traffic.
@@ -24,7 +23,7 @@ Standard Instrument Departures, known as SIDs, are a published flight procedure 
 ## How do I put a SID into my Flight Plan?
 
 
-
+@[vimeo](421196015)
 
 
 Step 1

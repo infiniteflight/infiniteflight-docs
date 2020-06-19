@@ -17,7 +17,7 @@ Once airborne, and provided you have a flight plan, GPS Navigation will be avail
 
 Step 1
 
-: Ensure when tapping the NAV button that SOURCE is set to GPS under the Avionics tab
+: Ensure when tapping the LNAV button that SOURCE is set to GPS under the Avionics tab
 
 
 
@@ -29,13 +29,13 @@ Step 2
 
 Step 3
 
-: If you engage the [Autopilot](/guide/getting-started/pilot-user-interface/autopilot#autopilot) and NAV, the aircraft will continue to follow your flight plan
+: If you engage the [Autopilot](/guide/getting-started/pilot-user-interface/autopilot#autopilot) and LNAV, the aircraft will continue to follow your flight plan
 
 
 
 ## Tuning to an ILS
 
-
+@[vimeo](429403253)
 
 Step 1
 
