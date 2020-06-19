@@ -26,13 +26,11 @@ There are two main techniques used for step climbing:
 **Technique 1**
 
 Step 1
-
 : Maintain your initial cruising altitude, the optimum altitude will increase as you get lighter. Wait until the difference is approximately 2000ft
 
 
 
 Step 2
-
 : At this point, initiate a climb until the aircraft is cruising at the same difference in altitude, but above the optimum altitude (in this example 2000ft)
 
 
@@ -46,25 +44,21 @@ Step 3
 **Technique 2**
 
 Step 1
-
 : Maintain your initial cruising altitude, the optimum altitude will increase as you get lighter. Wait until the difference is approximately 2000ft
 
 
 
 Step 2
-
 : At this point, initiate a climb until the aircraft reaches the optimum altitude
 
 
 
 Step 3
-
 : Maintain this altitude until you are again below the optimum altitude by the predetermined value, then repeat
 
 
 
 Tip
-
 : If you are operating close to the aircraft limits in terms of environmental factors, weight or aircraft design specifications, then Technique 1 may not be possible as some aircraft struggle above their optimum altitude. Therefore, Technique 2 may need to be adopted in this case.
 
 
