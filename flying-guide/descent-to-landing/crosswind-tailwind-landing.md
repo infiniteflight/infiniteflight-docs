@@ -11,7 +11,7 @@ order: 13
 
 ## Crosswind Landing
 
-There are two techniques that can be used in a crosswind landing. The 'Crab' method which is usually preferred by airliners, and the 'Wing Low' method, usually the technique of choice for light General Aviation aircraft.
+There are two techniques that can be used in a crosswind landing. The 'Crab' method which is usually preferred by airliners; and the 'Wing Low' method, usually the technique of choice for light General Aviation aircraft.
 
 
 
@@ -25,7 +25,7 @@ Step 1
 
 Step 2
 
-: To perform a crosswind landing using the crab method, offset the aircraft heading (nose into wind) so that the aircraft is tracking the runway centerline (so if the wind is coming from the right, you will need to have the aircraft nose pointing to the right of the runway)
+: To perform a crosswind landing using the crab method, offset the aircraft heading (i.e. nose into wind) so that the aircraft is tracking the runway centerline (if the wind is coming from the right, you will need to have the aircraft nose pointing to the right of the runway)
 
 
 
@@ -43,13 +43,13 @@ Step 3
 
 Step 4
 
-: In strong crosswinds, you may need to simultaneously lower the into wind wing to maintain the centerline until touchdown (so if the wind is coming from the right, tilt your device to the right so that the right [aileron](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) is up, and the left aileron is down)
+: In strong crosswinds, you may need to simultaneously lower the 'into wind' wing to maintain the centerline until touchdown (if the wind is coming from the right, tilt your device to the right so that the right [aileron](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) is up, and the left aileron is down)
 
 
 
 Tip
 
-: For independent control of your ailerons and rudder, make sure that auto-coordination is turned **OFF** in your Settings
+: For independent control of your ailerons and rudder, make sure that auto-coordination is turned **OFF** in your [Settings](/guide/getting-started/home-user-interface/settings#settings)
 
 
 
@@ -69,13 +69,13 @@ Step 1
 
 Step 2
 
-: To perform a crosswind landing using the wing low method, lower the into wind wing (so if the wind is coming from the right, tilt your device to the right so that the right [aileron](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) is up, and the left aileron is down). Simultaneously, use the [rudder](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) to keep the aircraft nose aligned with the runway centerline
+: To perform a crosswind landing using the wing low method, lower the 'into wind' wing (so if the wind is coming from the right, tilt your device to the right so that the right [aileron](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) is up, and the left aileron is down). Simultaneously, use the [rudder](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) to keep the aircraft nose aligned with the runway centerline
 
 
 
 Tip
 
-: For independent control of your ailerons and rudder, make sure that auto-coordination is turned **OFF** in your Settings
+: For independent control of your ailerons and rudder, make sure that auto-coordination is turned **OFF** in your [Settings](/guide/getting-started/home-user-interface/settings#settings)
 
 
 
@@ -93,7 +93,7 @@ Step 4
 
 Step 5
 
-: Use the [rudder](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) and into wind [aileron](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) to maintain the runway centerline - more input will be required at slower speeds
+: Use the [rudder](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) and 'into wind' [aileron](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) to maintain the runway centerline - more input will be required at slower speeds
 
 
 
@@ -101,7 +101,7 @@ Step 5
 
 
 
-Where possible you should always try to land into wind, so try and pick the runway with the best headwind component. However, if an airport is busy, or if the weather means that there is no favorable runway, you may find that you have to land with a tailwind.  The landing is very similar to a normal or crosswind landing, but we have three extra tips to help you do this successfully:
+Where possible you should always try to land into wind, so try and pick the runway with the best headwind component. However, if an airport is busy, or if the weather means that there is no favorable runway, you may find that you have to land with a tailwind.  The landing is very similar to a [normal](/guide/flying-guide/descent-to-landing/landing#landing) or [crosswind landing](/guide/flying-guide/descent-to-landing/crosswind-tailwind-landing#crosswind-landing), but we have three extra tips to help you do this successfully:
 
 
 

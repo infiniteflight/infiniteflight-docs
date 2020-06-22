@@ -31,7 +31,7 @@ Step 2
 
 Tip
 
-: For independent control of your Ailerons and Rudder, make sure that auto-coordination is turned **OFF** in your Settings
+: For independent control of your Ailerons and Rudder, make sure that auto-coordination is turned **OFF** in your [Settings](/guide/getting-started/home-user-interface/settings#settings)
 
 
 

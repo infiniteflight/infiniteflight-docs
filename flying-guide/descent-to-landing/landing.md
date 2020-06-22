@@ -52,7 +52,7 @@ The height at which the flare is initiated can vary significantly, the following
 
 ## Landing Technique 
 
-Once you have clearance (if applicable) and the runway is completely clear, you can follow the below steps to land:
+Once you have clearance (if applicable) and the runway is completely clear, you can follow the steps below to land:
 
 
 
@@ -76,19 +76,13 @@ Step 3
 
 Tip
 
-: We recommend you do not continue to pull back to elongate the flare in an attempt for a smooth touchdown; this increases the risk of not achieving the safe touchdown criteria, and also a tail strike more likely! 
+: We recommend you do not continue to pull back to elongate the flare in an attempt for a smooth touchdown; this increases the risk of not achieving the safe touchdown criteria, and also a tail strike is more likely! 
 
 
 
 Step 4
 
 : If at any time, a safe landing is not assured, perform a [go-around](/guide/flying-guide/descent-to-landing/go-around-baulked-landing#go-around%2Fbaulked-landing) or [baulked landing](/guide/flying-guide/descent-to-landing/go-around-baulked-landing#what-is-the-difference-between-a-go-around-and-a-baulked-landing%3F) procedure.
-
- 
-
-Step 5
-
-: On touchdown, select reverse (if fitted), ensure that the spoilers have deployed (if fitted) and monitor the deceleration of the aircraft
 
 
 
@@ -120,7 +114,7 @@ Tip
 
 Step 4
 
-: There are some airports which may require a back-taxi to exit the runway. Check out out [Back-Taxi](/guide/flying-guide/take-off-to-cruise/back-taxi#back-taxi) page for a step by step guide
+: There are some airports which may require a back-taxi to exit the runway. Check out our [Back-Taxi](/guide/flying-guide/take-off-to-cruise/back-taxi#back-taxi) page for a step by step guide
 
 
 
