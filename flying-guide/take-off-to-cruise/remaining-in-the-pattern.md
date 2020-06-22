@@ -100,3 +100,9 @@ Step 7
 Step 8
 
 : Try to control your descent so that you roll out on final, on profile. Don't worry if you're a bit high or low, adjust your pitch and power to get back on profile
+
+
+
+## How to perform a Touch & Go
+
+To expedite your patterns, you may elect to perform a Touch & Go, follow our [step by step guide](/guide/flying-guide/descent-to-landing/landing#how-to-perform-a-touch-%26-go) to help you.
