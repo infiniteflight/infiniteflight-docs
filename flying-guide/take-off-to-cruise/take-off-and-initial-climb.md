@@ -25,7 +25,7 @@ If you have been cleared for take-off by ATC or if you're on Unicom, you can com
 
 Step 1
 
-: Set 50% N1, this allows the engines to stablize and prevent assymetric thrust
+: Set 50% N1, this allows the engines to stabilize and prevent asymmetric thrust
 
 
 
