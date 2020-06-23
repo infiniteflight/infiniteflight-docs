@@ -9,6 +9,10 @@ order: 10
 
 
 
+@[vimeo](430134138)
+
+
+
 ## What is Oceanic Flying?
 
 Oceanic Flying is exactly that, flying across large stretches of ocean to connect continents.  It is unique in that it often involves flying for considerable lengths of time with limited radar coverage, and with limited options for diversions.  
@@ -25,7 +29,7 @@ The North Atlantic (NAT) Tracks, also known as the North Atlantic Organized Trac
 
 
 
-The NAT Tracks cover a vast area, laterally it includes multiple Control Areas (CTAs) that stretch form the northeast of North America, all the way to western Europe. And vertically, a band of airspace between FL285 and FL420*.
+The NAT Tracks cover a vast area, laterally it includes multiple Control Areas (CTAs) that stretch from the northeast of North America, all the way to western Europe. And vertically, a band of airspace between FL285 and FL420*.
 
 
 

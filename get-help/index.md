@@ -13,8 +13,7 @@ Sometimes things don't work as you'd expect and we'd love to get you back in the
 
 ## Trending
 
-No trending issues right now. 
-
+No trending issues right now.
 
 
 ## Contact
