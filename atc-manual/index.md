@@ -19,9 +19,9 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 
 
 
-## Version: 2.1
+## Version: 2.2
 
-## Last Updated: 1100Z - 22 JUN 20
+## Last Updated: 1000Z - 27 JUN 20
 
 
 
@@ -34,6 +34,7 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 | 3.3.3         | 'Should' changed to 'must' for consistency with 3.3.4        |
 | 3.4.4 / 3.4.5 | Added to provide clarity on managing runway exits            |
 | 3.4.6         | Original 3.4.4 moved to 3.4.6                                |
+| 3.5.4         | Clarification added on management of aircraft inbound on a STAR (without Radar coverage) |
 | 4.1.6         | P38 added to 'light' aircraft list                           |
 | 6.4.3 / 6.4.4 | Acknowledgment of an aircraft 'checking in' gives clearance to their initial cruising altitude |
 | 6.10.3        | 'Must' changed to 'should' to accommodate ILS clearance without an intercept heading |
@@ -44,10 +45,6 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 | 7.2.2         | Annex C and D added to IFATC Support Documentation           |
 | 7.4           | Spelling mistakes corrected                                  |
 | 7.4.2 / 7.4.3 | 'Check Ride' no longer to be used when opening as notifications are now automatic. Controllers in the Check Ride phase must just use an asterisk instead |
-|               |                                                              |
-|               |                                                              |
-|               |                                                              |
-|               |                                                              |
 
 +++
 
