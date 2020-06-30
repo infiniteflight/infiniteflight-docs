@@ -90,13 +90,13 @@ Step 4
 
 Step 5
 
-: Feel overloaded? Reduce your workload by engaging the [Autopilot](/guide/getting-started/pilot-user-interface/autopilot#autopilot) and NAV mode to get your aircraft to follow the flight plan for you
+: Feel overloaded? Reduce your workload by engaging the [Autopilot](/guide/getting-started/pilot-user-interface/autopilot#autopilot) and LNAV mode to get your aircraft to follow the flight plan for you
 
 
 
 Tip
 
-: Use caution when arming NAV if the autopilot is engaged, the aircraft will immediately start to follow your flight plan - make sure it is clear first!
+: Use caution when arming LNAV if the autopilot is engaged, the aircraft will immediately start to follow your flight plan - make sure it is clear first!
 
 
 
