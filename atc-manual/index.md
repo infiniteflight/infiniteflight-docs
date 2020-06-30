@@ -19,9 +19,9 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 
 
 
-## Version: 2.1
+## Version: 2.5
 
-## Last Updated: 1100Z - 22 JUN 20
+## Last Updated: 2200Z - 27 JUN 20
 
 
 
@@ -30,24 +30,26 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 | Location      | Change                                                       |
 | ------------- | ------------------------------------------------------------ |
 | 1A.1.5        | */atis* and */atis[icao]* Slack Slash Commands added         |
-|               |                                                              |
+| 1A.3.1        | Rank structure updated to include other roles within IFATC   |
+| 1B.1.6        | Full list of Violations and the associated Levels added      |
+| 1B.1.9        | 'Check Help Pages' reference to Forum changed to User Guide  |
 | 3.3.3         | 'Should' changed to 'must' for consistency with 3.3.4        |
-|               |                                                              |
+| 3.4.4 / 3.4.5 | Added to provide clarity on managing runway exits            |
+| 3.4.6         | Original 3.4.4 moved to 3.4.6                                |
+| 3.5.4         | Clarification added on management of aircraft inbound on a STAR (without Radar coverage) |
 | 4.1.6         | P38 added to 'light' aircraft list                           |
+| 6.3.3         | Incorrect altitudes corrected                                |
 | 6.4.3 / 6.4.4 | Acknowledgment of an aircraft 'checking in' gives clearance to their initial cruising altitude |
+| 6.6.6         | Further clarification on use of speed control as Center      |
+| 6.10.2        | Reference to 25nm removed                                    |
 | 6.10.3        | 'Must' changed to 'should' to accommodate ILS clearance without an intercept heading |
 | 6.10.5        | Guidance on issuing ILS clearances without an intercept heading |
 | 6.10.6        | Original 6.10.5 moved to 6.10.6                              |
 | 6.10.6        | Original 6.10.6 removed                                      |
-|               |                                                              |
+| 6.11.3        | Further clarification on handling RV under IMC               |
+| 7.2.2         | Annex C and D added to IFATC Support Documentation           |
 | 7.4           | Spelling mistakes corrected                                  |
-|               |                                                              |
-|               |                                                              |
-|               |                                                              |
-|               |                                                              |
-|               |                                                              |
-|               |                                                              |
-|               |                                                              |
+| 7.4.2 / 7.4.3 | 'Check Ride' no longer to be used when opening as notifications are now automatic. Controllers in the Check Ride phase must just use an asterisk instead |
 
 +++
 
