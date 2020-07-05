@@ -9,7 +9,7 @@ order: 6
 
 
 
-## What is an ILS?
+## What is an ILS Approach?
 
 The ILS consists of two beams, the Localizer (LOC), providing lateral guidance (left/right) and the Glideslope (G/S) providing vertical guidance (up/down). The cone at the end of a runway provides a **VISUAL AID** for both pilots and Controllers of where the LOC and G/S are, however it is important to remember that the LOC and G/S are not confined to the cone. The LOC and G/S are independent radio ‘signals’ that are sent out, and thus continue to go out. Aircraft can receive these signals and therefore intercept them - both within the cone or outside of the cone.
 
@@ -31,7 +31,7 @@ To intercept the G/S of an ILS, Controllers will issue an altitude that is below
 
 
 
-## How do I fly an ILS?
+## How do I fly an ILS Approach?
 
 Step 1
 
@@ -65,13 +65,13 @@ Step 4
 
 Tip
 
-: Feel overloaded? Reduce your workload by engaging the [Autopilot](/guide/getting-started/pilot-user-interface/autopilot#autopilot) and APPR mode, the aircraft will maintain the assigned heading and then automatically intercept the LOC and G/S. Make sure to only arm APPR mode once you have clearance!
+: Feel overloaded? Reduce your workload by engaging the [Autopilot](/guide/getting-started/pilot-user-interface/autopilot#autopilot) and APPR mode, the aircraft will maintain the assigned heading and then automatically intercept the LOC and G/S. Make sure to only arm APPR mode once you have been cleared for the approach!
 
 
 
 Step 5
 
-: To follow the LOC, ensure that the green Localizer Deviation Bar is inline with the green Course Select Pointer on your HSI. Once these are within a half scale deflection, you are established - when no conflict exists, you will then be handed over to Tower from Radar (if ATC is active), do not change frequency without permission!
+: To follow the LOC, ensure that the green Localizer Deviation Bar is inline with the green Course Select Pointer on your HSI. Once this is within 1 dot of lateral deviation, you are established - when no conflict exists, you will then be handed over to Tower from Radar (if ATC is active), do not change frequency without permission!
 
 
 
@@ -93,9 +93,9 @@ Step 7
 
 
 
-## What are the Stability Approach Criteria (SAC)?
+## What is the Stability Approach Criteria (SAC)?
 
-The Stability Approach Criteria (SAC) are there to access if you have flown a stable approach, and whether to continue to land or go-around.
+The Stability Approach Criteria (SAC) is there to access if you have flown a stable approach, and whether to continue to land or go-around.
 
 
 
@@ -109,6 +109,7 @@ All approaches must meet the SAC by 1000ft AGL (above ground level). The SAC are
 
 
 
+
 If any of the SAC are not met, a [go-around](/guide/flying-guide/descent-to-landing/go-around-baulked-landing#go-around%2Fbaulked-landing) must be flown.
 
 
@@ -117,11 +118,12 @@ Once your final configuration has been selected and you have decelerated to your
 
 
 
-|                | Tolerance                                                  |
-| -------------- | ---------------------------------------------------------- |
-| Speed          | Target Approach Speed -5/+10 kts                           |
-| Vertical Speed | No more than 1000ft/min*                                   |
-| Pitch          | No more than -2.5 degrees nose down or +10 degrees nose up |
-| Bank           | Angle not exceeding 7 degrees                              |
+| Parameter            | Tolerance                                |
+| -------------------- | ---------------------------------------- |
+| Speed                | Target Approach Speed -5/+10 kts         |
+| Vertical Speed       | No more than 1000ft/min*                 |
+| Pitch                | No more than -2.5 degrees nose down or +10 degrees nose up |
+| Bank                 | Angle not exceeding 7 degrees            |
+| Localizer/Glideslope | No more than 1 dot of lateral/vertical deviation |
 
 **Environmental conditions such as a tailwind, or a steeper than usual flight path angle could increase the descent rate required to more than 1000ft/min*
