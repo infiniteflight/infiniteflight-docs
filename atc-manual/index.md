@@ -21,7 +21,7 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 
 ## Version: 2.5.1
 
-## Last Updated: 1000Z - 04 JUL 20
+## Last Updated: 1700Z - 06 JUL 20
 
 
 
@@ -33,6 +33,7 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 | 1A.4.1   | Clarification on rank upgrades following disciplinary/suspension procedure |
 | 1A.4.2   | Procedure to be followed if Controller issued with a Violation whilst operating as a pilot |
 | 1A.4.3   | Original 1A.4.2 changed to 1A.4.3        |
+| 1B.2.2   | Clarification on how to add @appeals to a DM on the IFC |
 | 2.3.2    | Clarification on runway crossing and ensuring there is enough space |
 | 3.4.4    | Reworded to clarify that aircraft do not need permission to change to ground when exiting a runway |
 | 4.1.4    | Minor wording correction                 |
