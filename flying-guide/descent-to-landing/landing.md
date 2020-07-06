@@ -9,12 +9,12 @@ order: 13
 
 
 
-## What is a safe landing?
+## What is a safe Landing?
 
 For a safe landing to be assured, the following criteria must always be met:
 
-| Criteria            | Why                                                          |
-| ------------------- | ------------------------------------------------------------ |
+| Criteria            | Why                                      |
+| ------------------- | ---------------------------------------- |
 | Landing Performance | This is to ensure that the Landing Distance Available (LDA) is a suitable length for the aircraft type |
 | Stable Approach     | The Stable Approach Criteria (SAC) must always be met on an approach |
 | Safe Touchdown      | This is to ensure normal runway contact - within the aircraft limits, touchdown zone and runway edge |
@@ -41,8 +41,8 @@ The height at which the flare is initiated can vary significantly, the following
 
 
 
-| Type         | Definition                                                   |
-| ------------ | ------------------------------------------------------------ |
+| Type         | Definition                               |
+| ------------ | ---------------------------------------- |
 | Full Stop    | A normal landing which ends with the aircraft exiting the runway |
 | Touch & Go   | A normal landing followed by a take-off, without coming to a full stop |
 | Stop & Go    | A normal landing coming to a full stop, followed by a take-off from that position |
