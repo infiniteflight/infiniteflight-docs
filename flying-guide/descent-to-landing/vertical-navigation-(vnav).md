@@ -54,7 +54,7 @@ Step 1
 
 Step 2
 
-: Approaching your TOD, make sure to [request altitude change](/guide/getting-started/pilot-user-interface/communication#communication) if there is Active ATC
+: Approaching your TOD, make sure to [request altitude change](/guide/getting-started/pilot-user-interface/communication#communication) if there is active ATC
 
 
 
