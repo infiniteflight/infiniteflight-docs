@@ -48,7 +48,7 @@ Before commencing a pushback, make sure to access the [Systems](/guide/getting-s
 
 Step 1
 
-: Check surroundings to make sure it is clear, use the [Cameras](/guide/getting-started/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started/pilot-user-interface/mini-map#mini-map) to help you
+: Check surroundings to make sure it is clear, use the [Cameras](/guide/getting-started/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) to help you
 
  
 
@@ -78,7 +78,7 @@ Step 3
 
 Step 4
 
-: Make sure to have a plan on where to push, ATC may tell you what runway to expect for departure too. Use the [Cameras](/guide/getting-started/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started/pilot-user-interface/mini-map#mini-map) throughout the pushback and the [Rudder](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) to move the aircraft
+: Make sure to have a plan on where to push, ATC may tell you what runway to expect for departure too. Use the [Cameras](/guide/getting-started/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) throughout the pushback and the [Rudder](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) to move the aircraft
 
  
 
@@ -114,7 +114,7 @@ Engine start can commence during or after the push back.
 
 Step 1
 
-: Check surroundings to make sure it is clear, use the [Cameras](/guide/getting-started/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started/pilot-user-interface/mini-map#mini-map) to help you
+: Check surroundings to make sure it is clear, use the [Cameras](/guide/getting-started/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) to help you
 
  
 
