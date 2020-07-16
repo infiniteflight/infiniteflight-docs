@@ -52,7 +52,7 @@ Step 2
 
 Tip
 
-: If no ATC is present, it is the pilots responsibility to determine runway(s) in use, traffic pattern direction and to show courtesy towards other traffic already in the pattern. Always check your surroundings to make sure it is clear, use the [Cameras](/guide/getting-started/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started/pilot-user-interface/mini-map#mini-map) to help you
+: If no ATC is present, it is the pilots responsibility to determine runway(s) in use, traffic pattern direction and to show courtesy towards other traffic already in the pattern. Always check your surroundings to make sure it is clear, use the [Cameras](/guide/getting-started/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) to help you
 
 
 

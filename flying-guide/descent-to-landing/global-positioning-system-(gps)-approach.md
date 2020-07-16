@@ -15,6 +15,10 @@ The Global Positioning System (GPS) Approach is defined by a series of waypoints
 
 
 
+@[vimeo](436445637)
+
+
+
 ## How do I fly a GPS Approach?
 
 Step 1
