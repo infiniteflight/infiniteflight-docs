@@ -17,7 +17,7 @@ order: 3
 
 Before commencing a pushback, make sure to access the [Systems](/guide/getting-started/pilot-user-interface/systems#systems) menu and select the following:
 
- 
+
 
 | Electrical  |           |
 | ----------- | --------- |
@@ -34,13 +34,13 @@ Before commencing a pushback, make sure to access the [Systems](/guide/getting-s
 | Seat Belts | **ON** |
 | No Smoking | **ON** |
 
- 
+
 
 | Lights |        |
 | ------ | ------ |
 | Nav    | **ON** |
 
- 
+
 
 ## Pushback
 
