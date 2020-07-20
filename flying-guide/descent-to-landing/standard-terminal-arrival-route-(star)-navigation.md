@@ -32,7 +32,7 @@ Step 1
 
 Tip
 
-: It is common to be given vectors and/or altitude assignments during the approach, make to follow these - ATC instructions supersede your Flight Plan!
+: It is common to be given vectors and/or altitude assignments during the approach, make sure to follow these - ATC instructions supersede your Flight Plan!
 
 
 
@@ -88,10 +88,10 @@ Step 5
 
 Step 6
 
-: Feel overloaded? Reduce your workload by engaging the [Autopilot](/guide/getting-started/pilot-user-interface/autopilot#autopilot) and NAV mode to get your aircraft to follow the flight plan for you
+: Feel overloaded? Reduce your workload by engaging the [Autopilot](/guide/getting-started/pilot-user-interface/autopilot#autopilot) and LNAV mode to get your aircraft to follow the flight plan for you
 
 
 
 Tip
 
-: Use caution when arming NAV if the autopilot is engaged, the aircraft will immediately start to follow your flight plan - make sure it is clear first!
+: Use caution when arming LNAV if the autopilot is engaged, the aircraft will immediately start to follow your flight plan - make sure it is clear first!

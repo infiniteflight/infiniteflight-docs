@@ -30,18 +30,47 @@ Tip
 
  
 
-The Automatic Terminal Information Service, more commonly known as ATIS, will display the latest airport information if ATC is present. It will normally include:
+The Automatic Terminal Information Service, more commonly known as ATIS, will send the latest airport information (if ATC is present) on a dedicated frequency provided you are within range. It will normally include:
 
 
 
 - The latest *METAR
 - Runway(s) in use
-- REMARKS or NOTAMS to provide pilots with more information (e.g. 'No Pattern Work allowed')
+- REMARKS and/or NOTAMS to provide pilots with more information (e.g. 'No Pattern Work allowed')
 - And if there are multiple frequencies open, which one to contact
 
 
 
-*The Meteorological Terminal Air Report (more commonly known as a METAR), is the current weather at the airport and usually displays date/time recorded, wind direction and strength, visibility, weather and cloud, temperature and dew point, and finally pressure.
+
+**The Meteorological Terminal Air Report (more commonly known as a METAR), is the current weather at the airport and usually displays date/time recorded, wind direction and strength, visibility, weather and cloud, temperature and dew point, and finally pressure*
+
+
+
+The Digital ATIS (D-ATIS) will display the same information as the ATIS, but in text format. To find the D-ATIS follow the steps below:
+
+
+
+Step 1
+
+: [Tap close to an airport on the map](/guide/getting-started/pilot-user-interface/flight-planning#getting-more-from-your-map-and-mini-map), a drop down list will appear
+
+ 
+
+Step 2
+
+: The information tab will be displayed initially; tap the 'wx' (weather) tab
+
+
+
+Step 3
+
+: Provided ATC is present at the selected airport (and using the ATIS frequency), the D-ATIS will display this information 
+
+
+
+Tip
+
+: Range for the D-ATIS is unlimited, use this to help with planning before tuning to an active frequency
 
 
 

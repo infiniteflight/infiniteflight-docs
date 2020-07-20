@@ -17,12 +17,14 @@ order: 3
 
 Before commencing a pushback, make sure to access the [Systems](/guide/getting-started/pilot-user-interface/systems#systems) menu and select the following:
 
- 
+
 
 | Electrical  |           |
 | ----------- | --------- |
 | Master Batt | **ON**    |
 | APU*        | **START** |
+
+{.checklist}
 
 *If fitted – not all aircraft are currently equipped with an APU
 
@@ -34,13 +36,17 @@ Before commencing a pushback, make sure to access the [Systems](/guide/getting-s
 | Seat Belts | **ON** |
 | No Smoking | **ON** |
 
- 
+{.checklist}
+
+
 
 | Lights |        |
 | ------ | ------ |
 | Nav    | **ON** |
 
- 
+{.checklist}
+
+
 
 ## Pushback
 
