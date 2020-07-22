@@ -69,6 +69,8 @@ Step 5
 | Strobes | **ON** |
 | Land    | **ON** |
 
+{.checklist}
+
  
 
 Once you’re clear of the runway, you can turn these lights back to **OFF**.
