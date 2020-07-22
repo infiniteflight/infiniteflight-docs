@@ -22,7 +22,9 @@ Step 1
 | Strobes | **OFF** |
 | Land    | **OFF** |
 
- 
+{.checklist} 
+
+
 
 Step 2
 
@@ -45,6 +47,10 @@ Step 3
 | Electrical |           |
 | ---------- | --------- |
 | APU*       | **START** |
+
+{.checklist}
+
+
 
 *If fitted – not all aircraft are currently equipped with an APU
 
@@ -85,6 +91,8 @@ Step 6
 | Strobes | **ON** |
 | Land    | **ON** |
 
+{.checklist}
+
  
 
 Once you’re clear of the runway, you can turn these lights back to **OFF**.
@@ -121,11 +129,15 @@ Step 4
 | --------------- | ------- |
 | Eng ‘X’ 'X'% N1 | **TAP** |
 
+{.checklist}
+
 
 
 | Lights |         |
 | ------ | ------- |
 | Beacon | **OFF** |
+
+{.checklist}
 
 
 
@@ -134,5 +146,4 @@ Step 4
 | ---------- | ------- |
 | Seat Belts | **OFF** |
 
- 
-
+{.checklist}
