@@ -37,13 +37,9 @@ Tip
 
 
 
-## On the Ground
+## Not Following Instructions
 
-
-
-+++ Not Following Instructions
-
-*Issued by: Ground/Tower*
+*Issued by: Ground/Tower*/Radar
 
 *Violation Level: 2*
 
@@ -55,13 +51,11 @@ Whilst on the Expert Server it is important to follow all ATC instructions - thi
 
 Taking-Off/Landing without permission, following your flight plan instead of ATC instructions or remaining unresponsive during critical phases of flight (i.e. climbing, descending or manuevering) can result in being removed from the server.
 
-+++
 
 
+## Unable to Communicate – Contact moderator
 
-+++ Unable to Communicate – Contact moderator
-
-*Issued by: Ground/Tower*
+*Issued by: Ground/Tower/Radar*
 
 *Violation Level: 2*
 
@@ -73,13 +67,11 @@ The Controller was unable to communicate with you and therefore removed you from
 
 [Contact Moderator](/guide/getting-started/pilot-user-interface/violations#appealing-a-level-2-or-3-violation){.button}
 
-+++
 
 
+## Failure to follow ATIS
 
-+++ Failure to follow ATIS
-
-*Issued by: Ground/Tower*
+*Issued by: Ground/Tower/Radar*
 
 *Violation Level: 2*
 
@@ -95,11 +87,9 @@ Taking-Off/Landing without permission, following your flight plan instead of ATC
 
 [ATIS](/guide/atc-manual/4.-atis/4.1-atis#4.1-atis){.button} 
 
-+++
 
 
-
-+++ Failure to exit the runway
+## Failure to Exit the Runway
 
 *Issued by: Tower*
 
@@ -113,13 +103,11 @@ Ground awarness is an essential part of any flight, therefore you must ensure th
 
 [Runway Exit](/guide/flying-guide/descent-to-landing/landing#rollout-and-runway-exit-(full-stop)){.button} 
 
-+++
 
 
+## Failure to follow TFR
 
-+++ Failure to follow TFR
-
-*Issued by: Ground/Tower*
+*Issued by: Ground/Tower/Radar*
 
 *Violation Level: 3*
 
@@ -131,13 +119,11 @@ Whilst on the Expert Server it is important to follow all ATC instructions - thi
 
 Taking-Off/Landing without permission, following your flight plan instead of ATC instructions or remaining unresponsive during critical phases of flight (i.e. climbing, descending or manuevering) can result in being removed from the server.
 
-+++
 
 
+## Spamming Frequency - Unecessary Duplicate Requests
 
-+++ Spamming frequency - Unnecessary duplicate requests
-
-*Issued by: Ground/Tower*
+*Issued by: Ground/Tower/Radar*
 
 *Violation Level: 2*
 
@@ -145,13 +131,11 @@ Taking-Off/Landing without permission, following your flight plan instead of ATC
 
 The Expert Server can be incredibly busy, Controllers will always try to give the best and most expeditious service possible, however; there may be occasions where patience is required. This is particularly important during events, peak times and/or at the most popular airports. Therefore, Pilots must avoid sending duplicate requests when possible as this may be treated as spamming the frequency.
 
-+++
 
 
+## Inappropriate Callsign
 
-+++ Inappropriate callsign
-
-*Issued by: Ground/Tower*
+*Issued by: Ground/Tower/Radar*
 
 *Violation Level: 3*
 
@@ -159,11 +143,9 @@ The Expert Server can be incredibly busy, Controllers will always try to give th
 
 Inappropriate callsigns are not tolerated on the Expert Server - pilots can expect to be removed from the server.
 
-+++
 
 
-
-+++ Entered a runway without permission
+## Entered a Runway without Permission
 
 *Issued by: Ground/Tower*
 
@@ -177,11 +159,9 @@ Ground awarness is an essential part of any flight, therefore you must ensure th
 
 [Hold Lines](/guide/flying-guide/take-off-to-cruise/before-take-off#before-take-off){.button}
 
-+++
 
 
-
-+++ Taxi without permission
+## Taxi without Permission
 
 *Issued by: Ground*
 
@@ -195,11 +175,9 @@ Ground awarness is an essential part of any flight, therefore you must ensure th
 
 [Taxi](/guide/flying-guide/on-the-ground/taxi#taxi%2C-rudder-and-brakes){.button}
 
-+++
 
 
-
-+++ Taxiing through others
+## Taxiing through Others
 
 *Issued by: Ground*
 
@@ -213,11 +191,9 @@ Ground awarness is an essential part of any flight, therefore you must ensure th
 
 [Taxi](/guide/flying-guide/on-the-ground/taxi#taxi%2C-rudder-and-brakes){.button}
 
-+++
 
 
-
-+++ Taxiing through grass or terminal area
+## Taxiing through Grass or Terminal Area
 
 *Issued by: Ground*
 
@@ -231,11 +207,9 @@ Ground awarness is an essential part of any flight, therefore you must ensure th
 
 [Taxi](/guide/flying-guide/on-the-ground/taxi#taxi%2C-rudder-and-brakes){.button}
 
-+++
 
 
-
-+++ Failure to give way
+## Failure to Give Way
 
 *Issued by: Ground*
 
@@ -249,11 +223,9 @@ Ground awarness is an essential part of any flight, therefore you must ensure th
 
 [Taxi](/guide/flying-guide/on-the-ground/taxi#taxi%2C-rudder-and-brakes){.button}
 
-+++
 
 
-
-+++ Too close to the aircraft ahead
+## Too Close to the Aircraft Ahead
 
 *Issued by: Ground*
 
@@ -267,11 +239,9 @@ Ground awarness is an essential part of any flight, therefore you must ensure th
 
 [Taxi](/guide/flying-guide/on-the-ground/taxi#taxi%2C-rudder-and-brakes){.button}
 
-+++
 
 
-
-+++ Blocking an active taxiway
+## Blocking an Active Taxiway
 
 *Issued by: Ground*
 
@@ -285,11 +255,9 @@ Ground awarness is an essential part of any flight, therefore you must ensure th
 
 [Taxi](/guide/flying-guide/on-the-ground/taxi#taxi%2C-rudder-and-brakes){.button}
 
-+++
 
 
-
-+++ Crossing the hold line without permission
+## Crossing the Hold Line without Permission
 
 *Issued by: Ground/Tower*
 
@@ -303,51 +271,9 @@ Ground awarness is an essential part of any flight, therefore you must ensure th
 
 [Hold Lines](/guide/flying-guide/take-off-to-cruise/before-take-off#before-take-off){.button}
 
-+++
 
 
-
-## In the Air
-
-
-
-+++ Not Following Instructions
-
-*Issued by: Tower/Radar*
-
-*Violation Level: 2*
-
-
-
-Whilst on the Expert Server it is important to follow all ATC instructions - this includes the ATIS, any TFRs, assigned headings/altitudes and speeds, diversion commands, go-around instructions or approach clearances.
-
-
-
-Taking-Off/Landing without permission, following your flight plan instead of ATC instructions or remaining unresponsive during critical phases of flight (i.e. climbing, descending or manuevering) can result in being removed from the server.
-
-+++
-
-
-
-+++ Unable to Communicate – Contact moderator
-
-*Issued by: Tower/Radar*
-
-*Violation Level: 2*
-
-
-
-The Controller was unable to communicate with you and therefore removed you from the Server to prevent a degradation in service to other pilots. Please contact the Moderating Team using the link below for this to be removed from your record:
-
-
-
-[Contact Moderator](/guide/getting-started/pilot-user-interface/violations#appealing-a-level-2-or-3-violation){.button}
-
-+++
-
-
-
-+++ Failure to follow ATIS
+## Unresponsive while Climbing, Descending, or Manuevering
 
 *Issued by: Tower/Radar*
 
@@ -363,77 +289,7 @@ Taking-Off/Landing without permission, following your flight plan instead of ATC
 
 
 
-[ATIS](/guide/atc-manual/4.-atis/4.1-atis#4.1-atis){.button} 
-
-+++
-
-
-
-+++ Unresponsive while climbing, descending, or manuevering
-
-*Issued by: Tower/Radar*
-
-*Violation Level: 2*
-
-
-
-Whilst on the Expert Server it is important to follow all ATC instructions - this includes the ATIS, any TFRs, assigned headings/altitudes and speeds, diversion commands, go-around instructions or approach clearances.
-
-
-
-Taking-Off/Landing without permission, following your flight plan instead of ATC instructions or remaining unresponsive during critical phases of flight (i.e. climbing, descending or manuevering) can result in being removed from the server.
-
-+++
-
-
-
-+++ Failure to follow TFR
-
-*Issued by: Tower/Radar*
-
-*Violation Level: 3*
-
-
-
-Whilst on the Expert Server it is important to follow all ATC instructions - this includes the ATIS, any TFRs, assigned headings/altitudes and speeds, diversion commands, go-around instructions or approach clearances.
-
-
-
-Taking-Off/Landing without permission, following your flight plan instead of ATC instructions or remaining unresponsive during critical phases of flight (i.e. climbing, descending or manuevering) can result in being removed from the server.
-
-+++
-
-
-
-+++ Spamming frequency - Unnecessary duplicate requests
-
-*Issued by: Tower/Radar*
-
-*Violation Level: 2*
-
-
-
-The Expert Server can be incredibly busy, Controllers will always try to give the best and most expeditious service possible, however; there may be occasions where patience is required. This is particularly important during events, peak times and/or at the most popular airports. Therefore, Pilots must avoid sending duplicate requests when possible as this may be treated as spamming the frequency.
-
-+++
-
-
-
-+++ Inappropriate callsign
-
-*Issued by: Tower/Radar*
-
-*Violation Level: 3*
-
-
-
-Inappropriate callsigns are not tolerated on the Expert Server - pilots can expect to be removed from the server.
-
-+++
-
-
-
-+++ Excessive speed in the airport environment
+## Excessive Speed in the Airport Environment
 
 *Issued by: Tower/Radar*
 
@@ -443,11 +299,9 @@ Inappropriate callsigns are not tolerated on the Expert Server - pilots can expe
 
 Situational awareness whilst flying is an important aspect that pilots must maintain to enjoy a realistic expereince on the Expert Server. Not maintaining appropriate separation with other aircraft, not following sequencing, excessive speed, incorrect arrival procedures, alignment with or landing/departing from the wrong runway; can all result in removal from the Expert Server.
 
-+++
 
 
-
-+++ Failure to divert
+## Failure to Divert
 
 *Issued by: Tower/Radar*
 
@@ -461,11 +315,9 @@ Whilst on the Expert Server it is important to follow all ATC instructions - thi
 
 Taking-Off/Landing without permission, following your flight plan instead of ATC instructions or remaining unresponsive during critical phases of flight (i.e. climbing, descending or manuevering) can result in being removed from the server.
 
-+++
 
 
-
-+++ Take-off/land without permission
+## Take-Off/Land without Permission
 
 *Issued by: Tower*
 
@@ -479,11 +331,9 @@ Whilst on the Expert Server it is important to follow all ATC instructions - thi
 
 Taking-Off/Landing without permission, following your flight plan instead of ATC instructions or remaining unresponsive during critical phases of flight (i.e. climbing, descending or manuevering) can result in being removed from the server.
 
-+++
 
 
-
-+++ Landing/departing on the wrong runway
+## Landing/Departing on the Wrong Runway
 
 *Issued by: Tower*
 
@@ -493,11 +343,9 @@ Taking-Off/Landing without permission, following your flight plan instead of ATC
 
 Situational awareness whilst flying is an important aspect that pilots must maintain to enjoy a realistic expereince on the Expert Server. Not maintaining appropriate separation with other aircraft, not following sequencing, excessive speed, incorrect arrival procedures, alignment with or landing/departing from the wrong runway; can all result in removal from the Expert Server.
 
-+++
 
 
-
-+++ Incorrect arrival procedures - innapropriate altitude, speed, position
+## Incorrect Arrival Procedures - Innapropriate Altitude, Speed, Position
 
 *Issued by: Tower/Radar*
 
@@ -507,11 +355,9 @@ Situational awareness whilst flying is an important aspect that pilots must main
 
 Situational awareness whilst flying is an important aspect that pilots must maintain to enjoy a realistic expereince on the Expert Server. Not maintaining appropriate separation with other aircraft, not following sequencing, excessive speed, incorrect arrival procedures, alignment with or landing/departing from the wrong runway; can all result in removal from the Expert Server.
 
-+++
 
 
-
-+++ Failure to follow sequence
+## Failure to Follow Sequence
 
 *Issued by: Tower*
 
@@ -525,11 +371,9 @@ Situational awareness whilst flying is an important aspect that pilots must main
 
 [Sequencing](/guide/flying-guide/descent-to-landing/pattern-entries#pattern-entries){.button}
 
-+++
 
 
-
-+++ Failure to go around
+## Failure to Go-Around
 
 *Issued by: Tower*
 
@@ -547,11 +391,9 @@ Taking-Off/Landing without permission, following your flight plan instead of ATC
 
 [Go-Around/Baulked Landing](/guide/flying-guide/descent-to-landing/go-around-baulked-landing#go-around%2Fbaulked-landing){.button}
 
-+++
 
 
-
-+++ Failure to maintain appropriate aircraft separation
+## Failure to Maintain Appropriate Aircraft Separation
 
 *Issued by: Tower/Radar*
 
@@ -565,11 +407,9 @@ Situational awareness whilst flying is an important aspect that pilots must main
 
 [Separation](/guide/atc-manual/6.-radar/6.2-separation#6.2-separation){.button} 
 
-+++
 
 
-
-+++ Flying through other aircraft
+## Flying through Other Aircraft
 
 *Issued by: Tower*
 
@@ -579,11 +419,9 @@ Situational awareness whilst flying is an important aspect that pilots must main
 
 Inappropriate behvaiour such as flying through other aircraft is not tolerated on the Expert Server - pilots can expect to be removed from the server.
 
-+++
 
 
-
-+++ Take-off/landing from grass, ramp, or taxiway
+## Take-Off/Landing from Grass, Ramp, or Taxiway
 
 *Issued by: Tower*
 
@@ -593,11 +431,9 @@ Inappropriate behvaiour such as flying through other aircraft is not tolerated o
 
 Inappropriate behaviour such as taking-off/landing from grass, ramp areas and/or taxiways is not tolerated on the Expert Server - pilots can expect to be removed from the server.
 
-+++
 
 
-
-+++ Not following ATC assigned heading, altitude, or speed
+## Not Following ATC Assigned Heading, Altitude, or Speed
 
 *Issued by: Radar*
 
@@ -611,11 +447,9 @@ Whilst on the Expert Server it is important to follow all ATC instructions - thi
 
 Taking-Off/Landing without permission, following your flight plan instead of ATC instructions or remaining unresponsive during critical phases of flight (i.e. climbing, descending or manuevering) can result in being removed from the server.
 
-+++
 
 
-
-+++ Following flight plan instead of ATC instruction
+## Following Flight Plan instead of ATC Instruction
 
 *Issued by: Radar*
 
@@ -629,11 +463,9 @@ Whilst on the Expert Server it is important to follow all ATC instructions - thi
 
 Taking-Off/Landing without permission, following your flight plan instead of ATC instructions or remaining unresponsive during critical phases of flight (i.e. climbing, descending or manuevering) can result in being removed from the server.
 
-+++
 
 
-
-+++ Aligned with the wrong runway
+## Aligned with the Wrong Runway
 
 *Issued by: Radar*
 
@@ -643,11 +475,9 @@ Taking-Off/Landing without permission, following your flight plan instead of ATC
 
 Situational awareness whilst flying is an important aspect that pilots must maintain to enjoy a realistic expereince on the Expert Server. Not maintaining appropriate separation with other aircraft, not following sequencing, excessive speed, incorrect arrival procedures, alignment with or landing/departing from the wrong runway; can all result in removal from the Expert Server.
 
-+++
 
 
-
-+++ Failure to complete instrument approach
+## Failure to Complete Instrument Approach
 
 *Issued by: Radar*
 
@@ -661,11 +491,9 @@ Whilst on the Expert Server it is important to follow all ATC instructions - thi
 
 Taking-Off/Landing without permission, following your flight plan instead of ATC instructions or remaining unresponsive during critical phases of flight (i.e. climbing, descending or manuevering) can result in being removed from the server.
 
-+++
 
 
-
-+++ Failure to execute missed approach
+## Failure to Execute Missed Approach
 
 *Issued by: Radar*
 
@@ -678,12 +506,3 @@ Whilst on the Expert Server it is important to follow all ATC instructions - thi
 
 
 Taking-Off/Landing without permission, following your flight plan instead of ATC instructions or remaining unresponsive during critical phases of flight (i.e. climbing, descending or manuevering) can result in being removed from the server.
-
-+++
-
-
-
-
-
-
-
