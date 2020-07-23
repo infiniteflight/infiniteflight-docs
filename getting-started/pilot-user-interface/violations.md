@@ -30,6 +30,12 @@ Violations can either be automatically generated (Level 1) or issued by ATC (Lev
 
 
 
+Tip
+
+: The most commong Level 1 Violation received is Flight Overspeed - make sure to slow down below 250kts IAS well before reaching 10,000ft to avoid this. We also recommend not cruising at (or close to) 10,000ft with a speed above 250kts IAS as the altitude can fluctuate with the Autopilot engaged, resulting in a Violation!
+
+
+
 ## What happens if I get a Violation?
 
  
