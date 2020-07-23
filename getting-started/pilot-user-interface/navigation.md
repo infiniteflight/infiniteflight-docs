@@ -63,6 +63,7 @@ Step 4
 
 ## Displaying an ILS in your Aircraft
 
+@[vimeo](436875640)
 
 
 Step 1
@@ -91,6 +92,7 @@ Step 4
 
 ## Tuning to a VOR or ADF
 
+@[vimeo](436876883)
 
 
 Step 1
@@ -107,6 +109,7 @@ Step 2
 
 ## Displaying a VOR in your Aircraft
 
+@[vimeo](436896110)
  
 
 Step 1
@@ -129,6 +132,7 @@ Step 3
 
 ## Displaying an ADF in your Aircraft
 
+@[vimeo](436902113)
 
 
 Step 1

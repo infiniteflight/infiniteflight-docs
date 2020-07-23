@@ -25,6 +25,8 @@ There are two main techniques used for step climbing:
 
 **Technique 1**
 
+![Step Climb Technique 1](_images/manual/graphics/step-climb-technique-1.jpg)
+
 Step 1
 : Maintain your initial cruising altitude, the optimum altitude will increase as you get lighter. Wait until the difference is approximately 2000ft
 
@@ -42,6 +44,8 @@ Step 3
 
 
 **Technique 2**
+
+![Step Climb Technique 2](_images/manual/graphics/step-climb-technique-2.jpg)
 
 Step 1
 : Maintain your initial cruising altitude, the optimum altitude will increase as you get lighter. Wait until the difference is approximately 2000ft

@@ -48,7 +48,7 @@ Tip
 
 Step 4
 
-: Use the [Rudder](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) to maintain the taxiway centreline and either the [Rud Brakes or Park Brake](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) to keep your speed under control
+: Use the [Rudder](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) to maintain the taxiway centerline and either the [Rud Brakes or Park Brake](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) to keep your speed under control
 
  
 
