@@ -17,12 +17,14 @@ order: 3
 
 Before commencing a pushback, make sure to access the [Systems](/guide/getting-started/pilot-user-interface/systems#systems) menu and select the following:
 
- 
+
 
 | Electrical  |           |
 | ----------- | --------- |
 | Master Batt | **ON**    |
 | APU*        | **START** |
+
+{.checklist}
 
 *If fitted – not all aircraft are currently equipped with an APU
 
@@ -34,13 +36,17 @@ Before commencing a pushback, make sure to access the [Systems](/guide/getting-s
 | Seat Belts | **ON** |
 | No Smoking | **ON** |
 
- 
+{.checklist}
+
+
 
 | Lights |        |
 | ------ | ------ |
 | Nav    | **ON** |
 
- 
+{.checklist}
+
+
 
 ## Pushback
 
@@ -68,13 +74,17 @@ Step 3
 | ------ | ------ |
 | Beacon | **ON** |
 
- 
+{.checklist}
+
+
 
 | Misc      |         |
 | --------- | ------- |
 | Push Back | **TAP** |
 
- 
+{.checklist}
+
+
 
 Step 4
 
@@ -92,7 +102,9 @@ Step 5
 | ------------- | ------- |
 | Stop Pushback | **TAP** |
 
- 
+{.checklist}
+
+
 
 Alternatively you can just **TAP** the [Park Brake](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls). 
 
@@ -128,7 +140,9 @@ Step 2
 | ------------- | ------- |
 | Eng ‘X’ 0% N1 | **TAP** |
 
- 
+{.checklist}
+
+
 
 The start sequence for the engine you have selected will begin.
 
@@ -148,7 +162,9 @@ Alternatively you can use the **Auto Start** function for a more easy experience
 | ---------- | ------- |
 | Auto Start | **TAP** |
 
- 
+{.checklist}
+
+
 
 Step 3
 
@@ -159,5 +175,9 @@ Step 3
 | Electrical |         |
 | ---------- | ------- |
 | APU*       | **OFF** |
+
+{.checklist}
+
+
 
 *If fitted – not all aircraft are currently equipped with an APU

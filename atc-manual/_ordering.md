@@ -10,4 +10,8 @@ ordering:
   - 5.-airspace
   - 6.-radar
   - 7.-recruitment-and-training
+  - 7a.-trainers
+  - 7b.-testers
+  - 7c.-recruiters
+  - 7d.-supervisors
 ---

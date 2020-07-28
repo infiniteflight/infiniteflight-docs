@@ -48,6 +48,8 @@ Step 3
 | Strobes | **ON** |
 | Land    | **ON** |
 
+{.checklist}
+
  
 
 Step 4
