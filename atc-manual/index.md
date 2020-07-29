@@ -41,7 +41,7 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 | 6.8.3    | In the absence of Center, clarification added for Approach Controllers on handling aircraft already in the descent - no descent via clearance is required |
 | 6.10.5   | Clarification added on issuing ILS clearance without an intercept heading |
 | 7A.2.5   | Deletion of reference to IFC Forum                           |
-| 7B.3.2   | One test site removed                                        |
+| 7B.3.2   | Radar test sites adjusted                                    |
 
 +++
 
