@@ -24,7 +24,7 @@ Before you’re ready to taxi, you need to set your [Trim and Flaps](/guide/gett
 
 Step 1
 
-: Check surroundings to make sure it is clear, use the [Cameras](/guide/getting-started/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started/pilot-user-interface/mini-map#mini-map) to help you
+: Check surroundings to make sure it is clear, use the [Cameras](/guide/getting-started/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) to help you
 
  
 
@@ -68,6 +68,8 @@ Step 5
 | ------- | ------ |
 | Strobes | **ON** |
 | Land    | **ON** |
+
+{.checklist}
 
  
 

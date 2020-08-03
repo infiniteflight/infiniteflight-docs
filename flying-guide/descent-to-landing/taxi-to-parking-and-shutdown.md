@@ -22,7 +22,9 @@ Step 1
 | Strobes | **OFF** |
 | Land    | **OFF** |
 
- 
+{.checklist} 
+
+
 
 Step 2
 
@@ -46,13 +48,17 @@ Step 3
 | ---------- | --------- |
 | APU*       | **START** |
 
+{.checklist}
+
+
+
 *If fitted – not all aircraft are currently equipped with an APU
 
 
 
 Step 4
 
-: Continue to check surroundings to make sure it is clear, use the [Cameras](/guide/getting-started/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started/pilot-user-interface/mini-map#mini-map) to help you
+: Continue to check surroundings to make sure it is clear, use the [Cameras](/guide/getting-started/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) to help you
 
  
 
@@ -84,6 +90,8 @@ Step 6
 | ------- | ------ |
 | Strobes | **ON** |
 | Land    | **ON** |
+
+{.checklist}
 
  
 
@@ -121,11 +129,15 @@ Step 4
 | --------------- | ------- |
 | Eng ‘X’ 'X'% N1 | **TAP** |
 
+{.checklist}
+
 
 
 | Lights |         |
 | ------ | ------- |
 | Beacon | **OFF** |
+
+{.checklist}
 
 
 
@@ -134,5 +146,4 @@ Step 4
 | ---------- | ------- |
 | Seat Belts | **OFF** |
 
- 
-
+{.checklist}

@@ -683,10 +683,6 @@ Taking-Off/Landing without permission, following your flight plan instead of ATC
 
 
 
-- 
-
-
-
 
 
 

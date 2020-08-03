@@ -54,7 +54,7 @@ Before commencing a pushback, make sure to access the [Systems](/guide/getting-s
 
 Step 1
 
-: Check surroundings to make sure it is clear, use the [Cameras](/guide/getting-started/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started/pilot-user-interface/mini-map#mini-map) to help you
+: Check surroundings to make sure it is clear, use the [Cameras](/guide/getting-started/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) to help you
 
  
 
@@ -74,17 +74,21 @@ Step 3
 | ------ | ------ |
 | Beacon | **ON** |
 
- 
+{.checklist}
+
+
 
 | Misc      |         |
 | --------- | ------- |
 | Push Back | **TAP** |
 
- 
+{.checklist}
+
+
 
 Step 4
 
-: Make sure to have a plan on where to push, ATC may tell you what runway to expect for departure too. Use the [Cameras](/guide/getting-started/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started/pilot-user-interface/mini-map#mini-map) throughout the pushback and the [Rudder](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) to move the aircraft
+: Make sure to have a plan on where to push, ATC may tell you what runway to expect for departure too. Use the [Cameras](/guide/getting-started/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) throughout the pushback and the [Rudder](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) to move the aircraft
 
  
 
@@ -98,7 +102,9 @@ Step 5
 | ------------- | ------- |
 | Stop Pushback | **TAP** |
 
- 
+{.checklist}
+
+
 
 Alternatively you can just **TAP** the [Park Brake](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls). 
 
@@ -120,7 +126,7 @@ Engine start can commence during or after the push back.
 
 Step 1
 
-: Check surroundings to make sure it is clear, use the [Cameras](/guide/getting-started/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started/pilot-user-interface/mini-map#mini-map) to help you
+: Check surroundings to make sure it is clear, use the [Cameras](/guide/getting-started/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) to help you
 
  
 
@@ -134,7 +140,9 @@ Step 2
 | ------------- | ------- |
 | Eng ‘X’ 0% N1 | **TAP** |
 
- 
+{.checklist}
+
+
 
 The start sequence for the engine you have selected will begin.
 
@@ -154,7 +162,9 @@ Alternatively you can use the **Auto Start** function for a more easy experience
 | ---------- | ------- |
 | Auto Start | **TAP** |
 
- 
+{.checklist}
+
+
 
 Step 3
 
@@ -165,5 +175,9 @@ Step 3
 | Electrical |         |
 | ---------- | ------- |
 | APU*       | **OFF** |
+
+{.checklist}
+
+
 
 *If fitted – not all aircraft are currently equipped with an APU
