@@ -108,7 +108,7 @@ Step 3
 
 Tip
 
-: Rapid Exit Taxiways (RETs) have design exit speeds which can be very high - however due to the [Ground Overspeed Level 1 Violation](/guide/getting-started/pilot-user-interface/violations#what-are-violations%3F), we recommend you do not exceed 35kts whilst exiting the runway. For exits that are 90 degree turns, you groundspeed should be under 10kts
+: Rapid Exit Taxiways (RETs) have design exit speeds which can be very high - however due to the [Ground Overspeed Level 1 Violation](/guide/getting-started/pilot-user-interface/violations#what-are-violations%3F), we recommend you do not exceed 35kts whilst exiting the runway. For exits that are 90 degree turns, your groundspeed should be under 10kts
 
 
 
