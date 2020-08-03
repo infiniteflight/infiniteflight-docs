@@ -21,7 +21,7 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 
 ## Version: 2.5.3
 
-## Last Updated: 1730Z - 02 AUG 20
+## Last Updated: 1800Z - 03 AUG 20
 
 
 
@@ -36,6 +36,7 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 | 1A.5.1   | Clarification on activity requirements - the ATIS frequency is not included |
 | 1B.1.6   | Duplicate violation reason of 'excessive speed in airport environment' removed from Radar |
 | 2.1.1    | Minor clarification to support new description of size restrictions in ATIS *(see 4.1.6 below)* |
+| 2.1.5    | Minor clarification added for the use of 'expect runway xx' with pushback clearances |
 | 3        | Section reworked and new Inbounds page added                 |
 | 4.1.6    | Reworded 'Size Restrictions' ATIS REMARK - only to be used when aircraft size will restrict airport flow |
 | 6.8.3    | In the absence of Center, clarification added for Approach Controllers on handling aircraft already in the descent - no descent via clearance is required |
