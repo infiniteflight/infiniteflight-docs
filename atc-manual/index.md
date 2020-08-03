@@ -21,7 +21,7 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 
 ## Version: 2.5.3
 
-## Last Updated: 1100Z - 28 JUL 20
+## Last Updated: 1730Z - 02 AUG 20
 
 
 
@@ -39,6 +39,7 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 | 3        | Section reworked and new Inbounds page added                 |
 | 4.1.6    | Reworded 'Size Restrictions' ATIS REMARK - only to be used when aircraft size will restrict airport flow |
 | 6.8.3    | In the absence of Center, clarification added for Approach Controllers on handling aircraft already in the descent - no descent via clearance is required |
+| 6.9      | GPS ATC Tutorial added                                       |
 | 6.10.5   | Clarification added on issuing ILS clearance without an intercept heading |
 | 7A.2.5   | Deletion of reference to IFC Forum                           |
 | 7B.3.2   | Radar test sites adjusted                                    |
