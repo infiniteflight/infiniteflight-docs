@@ -30,6 +30,12 @@ Violations can either be automatically generated (Level 1) or issued by ATC (Lev
 
 
 
+Tip
+
+: The most commong Level 1 Violation received is Flight Overspeed - make sure to slow down below 250kts IAS well before reaching 10,000ft to avoid this. We also recommend not cruising at (or close to) 10,000ft with a speed above 250kts IAS as the altitude can fluctuate with the Autopilot engaged, resulting in a Violation!
+
+
+
 ## What happens if I get a Violation?
 
  
@@ -52,7 +58,7 @@ Level 2 Violation (Amber)
 ![Level 2 Violation](_images/manual/frames/violation-level2.jpg) 
 
 
-1. A reason will always be provided when you receive a Violation, although sometimes the information provided in the app can be limited. You can contact the controller on the forum at [community.infiniteflight.com](https://community.infiniteflight.com/) if you wish to find out further information or to appeal the Violation
+1. A brief summary is usually provided when you receive a Violation, however you can see a more detailed reason [here](/guide/getting-started/pilot-user-interface/violation-reasons#violation-reasons). If you are still unsure, you can contact the controller on the forum at [community.infiniteflight.com](https://community.infiniteflight.com/) or follow the steps [below](/guide/getting-started/pilot-user-interface/violations#appealing-a-level-2-or-3-violation) to appeal
 
  
 

@@ -64,7 +64,7 @@ Runway color codes help you know where the wind is coming from and which runways
 
 ## Server
 
- The various live servers available to use are displayed here. Each server has its own set of rules and minimum grade requirements, make sure to check these before trying to join! Tap on the one you want to fly in and then tap the ‘back’ button.
+The various live servers available to use are displayed here. Each server has its own set of rules and minimum grade requirements, make sure to check these before trying to join! Tap on the one you want to fly in and then tap the ‘back’ button.
 
 ![Server Page](_images/manual/frames/server-page.jpg)
 
