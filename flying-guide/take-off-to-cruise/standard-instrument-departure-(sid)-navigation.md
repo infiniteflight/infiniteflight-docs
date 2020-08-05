@@ -78,7 +78,7 @@ Step 3
 
 Tip
 
-: Before making any turns, check surroundings to make sure it is clear, use the [Cameras](/guide/getting-started/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started/pilot-user-interface/mini-map#mini-map) to help you
+: Before making any turns, check surroundings to make sure it is clear, use the [Cameras](/guide/getting-started/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) to help you
 
 
 

@@ -75,7 +75,7 @@ Step 4
 
 Tip
 
-: Make sure to listen out, if there is ATC you may be given instructions that maintain separation with other aircraft. Don't forget to also keep an eye on your surroundings, you are just as responsible for making sure there are no conflicts - use the [Mini Map](/guide/getting-started/pilot-user-interface/mini-map#mini-map) to help you
+: Make sure to listen out, if there is ATC you may be given instructions that maintain separation with other aircraft. Don't forget to also keep an eye on your surroundings, you are just as responsible for making sure there are no conflicts - use the [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) to help you
 
 
 
