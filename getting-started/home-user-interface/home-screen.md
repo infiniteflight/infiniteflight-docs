@@ -17,19 +17,19 @@ Welcome to the home screen of your newly downloaded Infinite Flight app. Below y
 
    
 
-2. Solo mode is offline (no internet connection required), allowing you to practice without anyone else around, in weather conditions of your choosing. [See "Fly Solo"](/guide/getting-started/home-user-interface/fly-solo#fly-solo).
+2. [Solo mode](/guide/getting-started/home-user-interface/fly-solo#fly-solo) is offline (no internet connection required), allowing you to practice without anyone else around, in weather conditions of your choosing.
 
    
 
-3. Our three live servers allow you to choose the experience you want, but with some company too. [See "Fly Online"](/guide/getting-started/home-user-interface/fly-online#fly-online).
+3. [Fly Online](/guide/getting-started/home-user-interface/fly-online#fly-online) is home to our three live servers allow you to choose the experience you want, but with some company too. 
 
    
 
-4. Don’t want to fly? Here you can control aircraft instead on our live servers! [See "Air Traffic Control"](/guide/getting-started/home-user-interface/air-traffic-control#air-traffic-control).
+4. Don’t want to fly? Here you can [control](/guide/getting-started/home-user-interface/air-traffic-control#air-traffic-control) aircraft instead on our live servers! 
 
    
 
-5. All controlling and flights you do are recorded, and stored here when you want to look back. Want more info? [See "Replays"](/guide/getting-started/home-user-interface/replays#replays).
+5. All controlling and flights you do are recorded, and stored in [Replays](/guide/getting-started/home-user-interface/replays#replays) for when you want to look back. 
 
    
 
@@ -37,7 +37,7 @@ Welcome to the home screen of your newly downloaded Infinite Flight app. Below y
 
    
 
-7. Our default settings are sure to get you going, but if you want to, you can customize your experience [here](/guide/getting-started/home-user-interface/settings#settings).
+7. Our default settings are sure to get you going, but if you want to, you can [customize your experience](/guide/getting-started/home-user-interface/settings#settings).
 
    
 
