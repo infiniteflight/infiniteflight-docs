@@ -15,6 +15,22 @@ The VHF (Very High Frequency) Omni-Directional Range, otherwise known as VOR; is
 
 
 
+In addition to this, the following definitions are essential in understanding the theory behind VOR Navigation:
+
+
+
+| Term   | Definition                                         |
+| ------ | -------------------------------------------------- |
+| Radial | A radial is always the bearing **from** the beacon |
+| QDM    | Magnetic bearing **from** the beacon               |
+| QDR    | Magnetic bearing **to** the beacon                 |
+
+
+
+[Insert Image showing Radials, QDM and QDR]
+
+
+
 ## What is the Horizontal Situation Indicator (HSI)?
 
 The Horizontal Situation Indicator or HSI, is the primary instrument used for navigation in Infinite Flight. It consists of the following elements:
@@ -45,7 +61,7 @@ Step 2
 
 Step 3
 
-: Lastly, within the Avionics tab, make sure to change the "SOURCE" to NAV 1 (or 2) as required, and then adjust the respective course (CRS 1 or 2) to the desired radial you want to fly
+: Lastly, within the Avionics tab, make sure to change the "SOURCE" to NAV 1 (or 2) as required, and then adjust the respective course (CRS 1 or 2) to the desired QDM/QDR that you want to fly
 
 
 
@@ -61,7 +77,7 @@ Step 1
 
 Step 2
 
-: Ensure that you have planned ahead by using our step by step guides to help you - [tune](/guide/getting-started/pilot-user-interface/navigation#tuning-to-a-vor-or-adf) and [display](/guide/getting-started/pilot-user-interface/navigation#displaying-a-vor-in-your-aircraft) the required VOR(s), change the CRS(s) to the desired radial(s) that you wish to intercept, and then finally have SOURCE set to either NAV 1 (or 2 as required)
+: Ensure that you have planned ahead by using our step by step guides to help you - [tune](/guide/getting-started/pilot-user-interface/navigation#tuning-to-a-vor-or-adf) and [display](/guide/getting-started/pilot-user-interface/navigation#displaying-a-vor-in-your-aircraft) the required VOR(s), change the CRS(s) to the desired QDM(s)/QDR(s) that you wish to intercept, and then finally have SOURCE set to either NAV 1 (or 2 as required)
 
 
 
@@ -79,37 +95,41 @@ Step 3
 
 Step 4
 
-: Plan how you are going to intercept the radial and what you expect the indications to look like when approaching the radial
+: Plan how you are going to intercept the QDM/QDR and what you expect the indications to look like when approaching it
 
 
 
 Tip
 
-: We recommend a closing angle no greater than 45 degrees, however you may need to use less if you are close to the VOR otherwise you may overshoot the intercept!
+: We recommend a closing angle no greater than 45 degrees, however you may need to use less if you are close to the VOR otherwise you may overshoot during the intercept!
 
 
 
 Step 5
 
-: As the Course Deviation Indicator (CDI) comes "alive" it will start to display the lateral deviation, use this and adjust your heading to fly the desired radial
+: As the Course Deviation Indicator (CDI) comes "alive" it will start to display the lateral deviation, use this and adjust your heading to fly the desired QDM/QDR
 
 
 
 Tip
 
-: The CDI can come "alive" pretty quickly, especially if you are close to the VOR - keep an eye on the VOR blue arrow, it will give you a heads up when you are getting close to the radial as it swings round!
+: The CDI can come "alive" pretty quickly, especially if you are close to the VOR - keep an eye on the VOR blue arrow, it will always show the current radial that you are on, use this to give you a heads up when you are getting close to the QDM/QDR you want to fly!
 
 
 
 **Example:**
 
-We have departed Athens (LGAV) off of Runway 03R, and are making a right downwind departure with the intention to intercept the 270 radial inbound to the ATV VOR. 
+We have departed Athens (LGAV) off of Runway 03R, and are making a right downwind departure with the intention to intercept the 090 radial of the ATV VOR and use this to fly to the beacon (270 QDM). 
 
-![Avionics Set-Up](_images/manual/screens/avionics-set-up.png)
+
+
+[Insert image showing summary of this example]
+
+
 
 Before departure we have tuned and displayed the ATV VOR (NAV 1 in this example), selected a CRS of 270 and ensured that the SOURCE is set to NAV 1.
 
-![Before Departure](_images/manual/screens/before-departure.png)
+![Avionics Set-Up](_images/manual/screens/avionics-set-up.png)
 
 Once we depart and make a right turn to head downwind, our heading will be 210, this is a 60 intercept so instead we have adjusted our heading to 240 degrees to give us a slightly shallower intercept as we are not far from the VOR.
 
@@ -119,11 +139,11 @@ With a heading of 240 degrees, we can watch the blue arrow (representing where t
 
 ![Adjusted Intercept Heading](_images/manual/screens/adjusted-intercept-heading.png)
 
-As the CDI becomes "alive" I begin the turn to fly the 270 radial inbound to the beacon. 
+As the CDI becomes "alive" I begin the turn to fly the 270 QDM (inbound to the beacon). 
 
 ![CDI Alive](_images/manual/screens/cdi-alive.png)
 
-Once we are on this heading, we can adjust it to ensure that we are tracking the 270 radial (taking wind drift into account).
+Once we are on this heading, we can adjust it to ensure that we are tracking on the 090 radial to the beacon (taking wind drift into account).
 
 ![Heading 270](_images/manual/screens/heading-270.png)
 
@@ -133,8 +153,5 @@ Tip
 
 : Use the dashed green line on the HSI to help you understand the affect of wind drift when selecting an alternate heading
 
-![Tracking 270 Radial](_images/manual/screens/tracking-270-radial.png)
+![Tracking 090 Radial](_images/manual/screens/tracking-090-radial.png)
 
-
-
-## 
