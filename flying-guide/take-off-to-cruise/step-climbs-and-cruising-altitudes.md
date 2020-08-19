@@ -2,7 +2,7 @@
 id: step-climbs-and-cruising-altitudes
 title: Step Climbs and Cruising Altitudes
 meta: Learn about step climbs and cruising altitudes in Infinite Flight.
-order: 12
+order: 13
 contributor: deercrusher
 ---
 
