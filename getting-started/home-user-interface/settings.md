@@ -65,7 +65,7 @@ The Settings menu allows you to customize your Infinite Flight experience before
 
 Tip
 
-: Disable auto-coordination for more control and stability during [crosswind take-offs](/guide/flying-guide/take-off-to-cruise/crosswind-tailwind-take-off-technique#crosswind%2Ftailwind-take-off-technique) & landings
+: Disable auto-coordination for more control and stability during [crosswind take-offs](/guide/flying-guide/take-off-to-cruise/crosswind-tailwind-take-off-technique#crosswind%2Ftailwind-take-off-technique) & [landings](/guide/flying-guide/descent-to-landing/crosswind-tailwind-landing#crosswind-landing)
 
 
 

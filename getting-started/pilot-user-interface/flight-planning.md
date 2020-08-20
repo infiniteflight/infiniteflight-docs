@@ -69,7 +69,7 @@ Tip
 
  
 
-1. Airports are always represented by either blue or magenta dots, if you’re flying online they may also have a colored dot in the middle for reference to the weather. See ["Home User Interface – Fly Online – Airport and Gate Selection"](/guide/getting-started/home-user-interface/fly-online#airport-and-gate-selection) for more info.
+1. Airports are always represented by either blue or magenta dots, if you’re flying online they may also have a [colored dot in the middle](/guide/getting-started/home-user-interface/fly-online#airport-and-gate-selection) for reference to the weather.
 
    
 
@@ -134,7 +134,7 @@ Step 3
 
 Step 1
 
-: Open the procedures tab by following the step by step guide in ["Getting more from your Map and Mini Map"](/guide/getting-started/pilot-user-interface/flight-planning#getting-more-from-your-map-and-mini-map)
+: Open the procedures tab by following the [step by step guide below](/guide/getting-started/pilot-user-interface/flight-planning#getting-more-from-your-map-and-mini-map)
 
 
 
