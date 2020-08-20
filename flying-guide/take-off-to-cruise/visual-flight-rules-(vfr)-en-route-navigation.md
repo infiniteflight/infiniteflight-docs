@@ -3,7 +3,7 @@ id: visual-flight-rules-(vfr)-en-route-navigation
 title: Visual Flight Rules (VFR) En-Route Navigation
 meta: Learn how to fly VFR En-Route in Infinite Flight.
 order: 12
-contributor: johnkelly,tomthetank
+contributor: jkelly,tomthetank
 ---
 
 # Visual Flight Rules (VFR) En-Route Navigation
