@@ -33,7 +33,7 @@ Step 1
 
 Step 2
 
-: Ensure that you have [tuned](/guide/getting-started/pilot-user-interface/navigation#tuning-to-a-vor-or-adf) the required VOR(s) for the approach and changed the CRS(s) to the desired radial(s) that you wish to intercept
+: Ensure that you have [tuned](/guide/getting-started/pilot-user-interface/navigation#tuning-to-a-vor-or-adf) the required VOR(s) for the approach and changed the CRS(s) to the desired QDM(s)/QDR(s) that you wish to intercept
 
 
 
@@ -45,13 +45,13 @@ Step 3
 
 Step 4
 
-: Intercept the radials at the correct distance/altitude as per your chart and always think of the next event to stay ahead of the aircraft and to know what is coming next
+: Intercept the QDM(s)/QDR(s) at the correct distance/altitude as per your chart and always think of the "next event" to stay ahead of the aircraft
 
 
 
 Tip
 
-: Feel overloaded? Reduce your workload by engaging the [Autopilot](/guide/getting-started/pilot-user-interface/autopilot#autopilot) and using both Heading and V/S to follow the profile instead of manual flying
+: Feel overloaded? Reduce your workload by engaging the [Autopilot](/guide/getting-started/pilot-user-interface/autopilot#autopilot) and using Heading (or LNAV) and V/S to follow the profile instead of manual flying
 
 
 
