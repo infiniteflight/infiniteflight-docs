@@ -16,7 +16,7 @@ When spawning, provided ATC is active, you will automatically be tuned to the AT
 
 
 
-![Tuned to ATIS](_images/manual/frames/tuned-to-atis.png)
+![Tuned to ATIS](_images/manual/frames/tuned-to-atis.jpg)
 
 
 
@@ -33,7 +33,7 @@ When spawning, provided ATC is active, you will automatically be tuned to the AT
     
 
 
-![ATIS Communication Box](_images/manual/frames/atis-communication-box.png)
+![ATIS Communication Box](_images/manual/frames/atis-communication-box.jpg)
 
 
 
@@ -111,7 +111,7 @@ Step 1
 
 
 
-![Active Ground Frequency](_images/manual/frames/active-ground-frequency.png)
+![Active Ground Frequency](_images/manual/frames/active-ground-frequency.jpg)
 
 
 
@@ -121,7 +121,7 @@ Step 2
 
 
 
-![Request Pushback](_images/manual/frames/request-pushback.png)
+![Request Pushback](_images/manual/frames/request-pushback.jpg)
 
 
 
@@ -137,7 +137,7 @@ Step 3
 
 
 
-![Send Pushback Request](_images/manual/frames/send-pushback-request.png)
+![Send Pushback Request](_images/manual/frames/send-pushback-request.jpg)
 
 
 
@@ -153,7 +153,7 @@ Step 4
 
 
 
-![Reply to Pushback Clearance](_images/manual/frames/reply-to-pushback-clearance.png)
+![Reply to Pushback Clearance](_images/manual/frames/reply-to-pushback-clearance.jpg)
 
 
 
@@ -203,7 +203,7 @@ Step 1
 
 
 
-![Request Taxi](_images/manual/frames/request-taxi.png)
+![Request Taxi](_images/manual/frames/request-taxi.jpg)
 
 
 
@@ -213,7 +213,7 @@ Step 2
 
 
 
-![Send Taxi Request](_images/manual/frames/send-taxi-request.png)
+![Send Taxi Request](_images/manual/frames/send-taxi-request.jpg)
 
 
 
@@ -229,4 +229,4 @@ Step 3
 
 
 
-![Reply to Taxi Clearance](_images/manual/frames/reply-to-taxi-clearance.png)
+![Reply to Taxi Clearance](_images/manual/frames/reply-to-taxi-clearance.jpg)
