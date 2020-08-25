@@ -16,7 +16,7 @@ When spawning, provided ATC is active, you will automatically be tuned to the AT
 
 
 
-![Tuned to ATIS](_images/manual/frames/tuned-to-atis.png)
+![Tuned to ATIS](_images/manual/frames/tuned-to-atis.jpg)
 
 
 
@@ -33,7 +33,7 @@ When spawning, provided ATC is active, you will automatically be tuned to the AT
     
 
 
-![ATIS Communication Box](_images/manual/frames/atis-communication-box.png)
+![ATIS Communication Box](_images/manual/frames/atis-communication-box.jpg)
 
 
 
@@ -86,32 +86,13 @@ Below are two tables that define the meaning of all REMARKS and NOTAMS that may 
 
 ## Pushback Communication Summary
 
-
-
-**Communication Table - Pilot to Ground Controller**
-
-| Request/Message  | When to Send                                                 | When Not to Send                                             |
-| :--------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| Request Pushback | When the pilot wishes to pushback, they should request a pushback clearance. | This should not be requested if the user is piloting an aircraft without pushback capabilities (C172, C208, TBM-930, SR22, XCub, F18, F22, F16, F14, A-10, Spitfire, or P-38) or is in a parking space that does not require a pushback. |
-
-
-
-**Communication Table - Ground Controller to Pilot**
-
-| Instruction/Message | ATC Intention                                           | Pilot Actions                                                |
-| ------------------- | ------------------------------------------------------- | ------------------------------------------------------------ |
-| Pushback Approved   | ATC has given the pilot clearance to pushback.          | The pilot should pushback onto the taxiway.                  |
-| Hold Position       | ATC wants the pilot to immediately stop their aircraft. | If at the gate, the pilot should wait until a pushback clearance is given. If the pilot is taxiing, they should bring the aircraft to a full stop and await the “Continue Taxi” instruction. |
-
-
-
 Step 1
 
 : Select the active Ground frequency
 
 
 
-![Active Ground Frequency](_images/manual/frames/active-ground-frequency.png)
+![Active Ground Frequency](_images/manual/frames/active-ground-frequency.jpg)
 
 
 
@@ -121,7 +102,7 @@ Step 2
 
 
 
-![Request Pushback](_images/manual/frames/request-pushback.png)
+![Request Pushback](_images/manual/frames/request-pushback.jpg)
 
 
 
@@ -137,7 +118,7 @@ Step 3
 
 
 
-![Send Pushback Request](_images/manual/frames/send-pushback-request.png)
+![Send Pushback Request](_images/manual/frames/send-pushback-request.jpg)
 
 
 
@@ -153,7 +134,7 @@ Step 4
 
 
 
-![Reply to Pushback Clearance](_images/manual/frames/reply-to-pushback-clearance.png)
+![Reply to Pushback Clearance](_images/manual/frames/reply-to-pushback-clearance.jpg)
 
 
 
@@ -163,39 +144,9 @@ Tip
 
 
 
+
+
 ## Taxi Communication Summary
-
-
-
-**Communication Table - Pilot to Ground Controller**
-
-| Request/Message                   | When to Send                                                 | When Not to Send                                             |
-| --------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Request Taxi to an Active Runway  | Sent when the pilot does not have a runway preference.       | The pilot should not send this when they are actively pushing back. |
-| Request Taxi to a Specific Runway | Sent when the pilot has a runway preference.                 | The pilot should not request an inactive runway, determined by the current ATIS. |
-| Request Runway Crossing           | If the pilot's taxi route requires them to cross a runway, they must request permission to cross. The requested runway should be the same as the runway in use. | In any other circumstance.                                   |
-| Request Frequency Change          | The pilot should request a frequency change if they wish to change frequencies and have not yet been given a clearance to do so. | The pilot should not request a frequency change from Ground when they are taxiing to a runway. The frequency change is included in the taxi instruction (“contact Tower when ready”). |
-
-
-
-**Communication Table - Ground Controller to Pilot**
-
-| Instruction/Message                      | ATC Intention                                                | Pilot Actions                                                |
-| ---------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Taxi to Runway, Contact Tower when Ready | ATC has cleared the pilot to taxi to Runway XX.              | The pilot should begin to taxi to the assigned runway.       |
-| Hold Position                            | ATC wants the pilot to immediately stop their aircraft.      | If at the gate, the pilot should wait until a pushback clearance is given. If the pilot is taxiing, they should bring the aircraft to a full stop and await the “Continue Taxi” instruction. |
-| Continue Taxi                            | ATC is lifting their "Hold Position" instruction.            | The pilot can continue to taxi.                              |
-| Hold Short of Runway                     | ATC wants the pilot to hold short of the runway.             | The pilot should hold their entire aircraft behind the hold short line. |
-| Cross Runway                             | ATC has cleared the pilot to cross the runway.               | The pilot should cross the runway. If “Please Expedite” is included, the pilot should expedite crossing. |
-| Give Way to Aircraft                     | ATC wants the pilot to give way to another aircraft.         | The pilot should yield to the respective aircraft.           |
-| Expect Progressive Taxi Instructions     | ATC will use progressive taxi instructions.                  | The pilot should continue as normal until given further instructions. |
-| Turn Left/Right Next Taxiway             | ATC wants the pilot to turn left/right (respectively) at the next taxiway. | The pilot should turn left/right (respectively) at the next taxiway and continue taxiing until given further instructions. |
-| Continue Straight Ahead                  | ATC wants the pilot to continue straight on the taxiway they are currently on. | The pilot should stay on the taxiway until given further instructions. |
-| Make a 180                               | ATC wants the pilot to make a 180º turn.                     | The pilot should turn around and await further instructions. |
-| Follow Aircraft Ahead                    | ATC wants the pilot to follow the aircraft ahead.            | The pilot should follow the aircraft ahead until given further instructions. |
-| Continue Taxi at your Discretion         | ATC wants to let the pilot know that they are no longer subject to progressive taxi instructions. | The pilot can continue their taxi at their discretion. If any other taxi instructions are given, they should follow those. |
-
-
 
 Step 1
 
@@ -203,7 +154,7 @@ Step 1
 
 
 
-![Request Taxi](_images/manual/frames/request-taxi.png)
+![Request Taxi](_images/manual/frames/request-taxi.jpg)
 
 
 
@@ -213,7 +164,7 @@ Step 2
 
 
 
-![Send Taxi Request](_images/manual/frames/send-taxi-request.png)
+![Send Taxi Request](_images/manual/frames/send-taxi-request.jpg)
 
 
 
@@ -229,4 +180,36 @@ Step 3
 
 
 
-![Reply to Taxi Clearance](_images/manual/frames/reply-to-taxi-clearance.png)
+![Reply to Taxi Clearance](_images/manual/frames/reply-to-taxi-clearance.jpg)
+
+
+
+## Pilot to Ground Controller Communication Table
+
+| Request/Message                   | When to Send                                                 | When Not to Send                                             |
+| --------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Request Taxi to an Active Runway  | Sent when the pilot does not have a runway preference.       | The pilot should not send this when they are actively pushing back. |
+| Request Taxi to a Specific Runway | Sent when the pilot has a runway preference.                 | The pilot should not request an inactive runway, determined by the current ATIS. |
+| Request Pushback                  | When the pilot wishes to pushback, they should request a pushback clearance. | This should not be requested if the user is piloting an aircraft without pushback capabilities (C172, C208, TBM-930, SR22, XCub, F18, F22, F16, F14, A-10, Spitfire, or P-38) or is in a parking space that does not require a pushback. |
+| Request Runway Crossing           | If the pilot's taxi route requires them to cross a runway, they must request permission to cross. The requested runway should be the same as the runway in use. | In any other circumstance.                                   |
+| Request Frequency Change          | The pilot should request a frequency change if they wish to change frequencies and have not yet been given a clearance to do so. | The pilot should not request a frequency change from Ground when they are taxiing to a runway. The frequency change is included in the taxi instruction (“contact Tower when ready”). |
+
+
+
+## Ground Controller to Pilot Communication Table
+
+| Instruction/Message                      | ATC Intention                                                | Pilot Actions                                                |
+| ---------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Taxi to Runway, Contact Tower when Ready | ATC has cleared the pilot to taxi to Runway XX.              | The pilot should begin to taxi to the assigned runway.       |
+| Pushback Approved                        | ATC has given the pilot clearance to pushback.               | The pilot should pushback onto the taxiway.                  |
+| Hold Position                            | ATC wants the pilot to immediately stop their aircraft.      | If at the gate, the pilot should wait until a pushback clearance is given. If the pilot is taxiing, they should bring the aircraft to a full stop and await the “Continue Taxi” instruction. |
+| Continue Taxi                            | ATC is lifting their "Hold Position" instruction.            | The pilot can continue to taxi.                              |
+| Hold Short of Runway                     | ATC wants the pilot to hold short of the runway.             | The pilot should hold their entire aircraft behind the hold short line. |
+| Cross Runway                             | ATC has cleared the pilot to cross the runway.               | The pilot should cross the runway. If “Please Expedite” is included, the pilot should expedite crossing. |
+| Give Way to Aircraft                     | ATC wants the pilot to give way to another aircraft.         | The pilot should yield to the respective aircraft.           |
+| Expect Progressive Taxi Instructions     | ATC will use progressive taxi instructions.                  | The pilot should continue as normal until given further instructions. |
+| Turn Left/Right Next Taxiway             | ATC wants the pilot to turn left/right (respectively) at the next taxiway. | The pilot should turn left/right (respectively) at the next taxiway and continue taxiing until given further instructions. |
+| Continue Straight Ahead                  | ATC wants the pilot to continue straight on the taxiway they are currently on. | The pilot should stay on the taxiway until given further instructions. |
+| Make a 180                               | ATC wants the pilot to make a 180º turn.                     | The pilot should turn around and await further instructions. |
+| Follow Aircraft Ahead                    | ATC wants the pilot to follow the aircraft ahead.            | The pilot should follow the aircraft ahead until given further instructions. |
+| Continue Taxi at your Discretion         | ATC wants to let the pilot know that they are no longer subject to progressive taxi instructions. | The pilot can continue their taxi at their discretion. If any other taxi instructions are given, they should follow those. |

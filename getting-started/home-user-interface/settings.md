@@ -3,6 +3,7 @@ id: settings
 title: Settings
 meta: Learn how to use the Settings page in Infinite Flight to customize your flying experience.
 order: 8
+contributor: deercrusher
 ---
 
 # Settings
