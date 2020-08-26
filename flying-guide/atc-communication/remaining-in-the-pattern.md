@@ -28,7 +28,7 @@ Step 2
 
 
 
-![Request Departure 2](/_images/manual/frames/request-departure-2.jpg)
+![Request Departure 2](_images/manual/frames/request-departure-2.jpg)
 
 
 
