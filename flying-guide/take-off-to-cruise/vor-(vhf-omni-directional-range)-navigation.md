@@ -22,8 +22,8 @@ In addition to this, the following definitions are essential in understanding th
 | Term   | Definition                                         |
 | ------ | -------------------------------------------------- |
 | Radial | A radial is always the bearing **from** the beacon |
-| QDM    | Magnetic bearing **from** the beacon               |
-| QDR    | Magnetic bearing **to** the beacon                 |
+| QDR    | Magnetic bearing **from** the beacon               |
+| QDM    | Magnetic bearing **to** the beacon                 |
 
 
 
@@ -38,10 +38,10 @@ The Horizontal Situation Indicator or HSI, is the primary instrument used for na
 
 
 - Compass rose orientated with the current aircraft heading
-- Blue heading bug
-- Single blue arrow to represent BRG (bearing) 1 - when tuned to a navigation source (ILS, VOR or NBD)
-- Double blue arrow to represent BRG (bearing) 2 - when tuned to a navigation source (ILS, VOR or NBD)
-- Course Deviation Indicator (CDI) that is magenta in color for a GPS, and light green for NAV 1 and NAV 2
+- Blue heading bug displaying the [Autopilot FCU](/guide/getting-started/pilot-user-interface/autopilot#autopilot) bugged heading
+- Single blue pointer to represent BRG (bearing) 1 - when tuned to a navigation source (ILS, VOR or NBD)
+- Double blue pointer to represent BRG (bearing) 2 - when tuned to a navigation source (ILS, VOR or NBD)
+- Course Deviation Indicator (CDI) made up of the Course Pointer and Lateral Deviation Bar - displayed in magenta for GPS, and light green for NAV 1 and NAV 2
 
 
 
@@ -89,7 +89,7 @@ Tip
 
 Step 3
 
-: Next, look at where you are in relation to the VOR, use the VOR arrow on your HSI (blue) to help you. You can also use your [Map](/guide/getting-started/pilot-user-interface/flight-planning#map) and [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map)
+: Next, look at where you are in relation to the VOR, use the bearing on your HSI (blue) to help you. You can also use your [Map](/guide/getting-started/pilot-user-interface/flight-planning#map) and [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map)
 
 
 
@@ -107,13 +107,13 @@ Tip
 
 Step 5
 
-: As the Course Deviation Indicator (CDI) comes "alive" it will start to display the lateral deviation, use this and adjust your heading to fly the desired QDM/QDR
+: As you approach the intercept, the Lateral Deviation Bar of the CDI will come "alive", use this to help judge the turn onto your desired QDM/QDR
 
 
 
 Tip
 
-: The CDI can come "alive" pretty quickly, especially if you are close to the VOR - keep an eye on the VOR blue arrow, it will always show the current radial that you are on, use this to give you a heads up when you are getting close to the QDM/QDR you want to fly!
+: The Lateral Deviation Bar can come "alive" pretty quickly, especially if you are close to the VOR - keep an eye on the blue bearing pointer, it will always show the current radial that you are on, use this to give you a heads up when you are getting close to the QDM/QDR you want to fly!
 
 
 
@@ -135,11 +135,11 @@ Once we depart and make a right turn to head downwind, our heading will be 210, 
 
 ![Right Downwind](_images/manual/frames/right-downwind.jpg)
 
-With a heading of 240 degrees, we can watch the blue arrow (representing where the VOR is) start to move, as this gets closer to 270 I have started to anticipate when the turn will be required onto a heading of 270.
+With a heading of 240 degrees, we can watch the blue bearing pointer (representing where the VOR is) start to move, as this gets closer to 270 I have started to anticipate when the turn will be required onto a heading of 270.
 
 ![Adjusted Intercept Heading](_images/manual/frames/adjusted-intercept-heading.jpg)
 
-As the CDI becomes "alive" I begin the turn to fly the 270 QDM (inbound to the beacon). 
+As the Lateral Deviation Bar comes "alive" I begin the turn to fly the 270 QDM (inbound to the beacon). 
 
 ![CDI Alive](_images/manual/frames/cdi-alive.jpg)
 

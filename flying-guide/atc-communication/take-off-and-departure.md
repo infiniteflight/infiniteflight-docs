@@ -66,7 +66,7 @@ Step 4
 
 | Request/Message (On the Ground)              | When to Send                                                 | When Not to Send                                             |
 | :------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| Request Departure                            | The pilot should request departure if they are ready to takeoff from active runway. The direction should correlate to the direction the pilot will be departing Tower’s airspace. | The pilot should not request departure if they are are not first in line. |
+| Request Departure                            | The pilot should request departure if they are ready to takeoff from active runway. The direction should correlate to the direction the pilot will be departing Tower’s airspace. | The pilot should not request departure if they are not first in line. |
 | Request Departure - Remaining in the Pattern | The pilot should state that they will be remaining in the pattern if they plan to fly patterns (takeoff and land at the same airport). | In any other circumstance.                                   |
 | Request Runway Crossing                      | If the pilot is with the tower controller and wishes to cross a runway, they should request permission to cross the active end. | In any other circumstance.                                   |
 | Request Frequency Change                     | The pilot should request a frequency change if they wish to change frequencies and have not yet been given a clearance to do so. | In any other circumstance.                                   |
