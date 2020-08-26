@@ -11,13 +11,13 @@ order: 8
 
 ## What is a VOR Approach?
 
-VOR Approaches are currently not supported in Infinite Flight by ATC, however you can still fly a VOR Approach using the techniques shown here, we recommend finding an uncontrolled airport or quiet area to practise in.
+VOR Approaches can be flown in Infinite Flight using the techniques shown here, however ATC are currently unable to support these approach requests - for now, we recommend finding an uncontrolled airport or quiet area to practise in!
 
 
 
 Tip
 
-: Make sure to check out our VOR Navigation page to get to grips with the basics before flying a VOR Approach!
+: Make sure to check out our [VOR Navigation](/guide/flying-guide/take-off-to-cruise/vor-(vhf-omni-directional-range)-navigation#vor-(vhf-omni-directional-range)-navigation) page to get to grips with the basics before flying a VOR Approach!
 
 
 
