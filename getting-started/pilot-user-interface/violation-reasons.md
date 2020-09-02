@@ -49,11 +49,11 @@ Whilst on the Expert Server it is important to follow all ATC instructions - thi
 
 
 
-Taking-Off/Landing without permission, following your flight plan instead of ATC instructions or remaining unresponsive during critical phases of flight (i.e. climbing, descending or manuevering) can result in being removed from the server.
+Taking-Off/Landing without permission, following your flight plan instead of ATC instructions or remaining unresponsive during critical phases of flight (i.e. climbing, descending or maneuvering) can result in being removed from the server.
 
 
 
-## Unable to Communicate – Contact moderator
+## Unable to Communicate – Contact Moderator
 
 *Issued by: Ground/Tower/Radar*
 
