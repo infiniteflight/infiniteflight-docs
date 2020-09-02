@@ -3,6 +3,7 @@ id: settings
 title: Settings
 meta: Learn how to use the Settings page in Infinite Flight to customize your flying experience.
 order: 8
+contributor: deercrusher
 ---
 
 # Settings
@@ -65,7 +66,7 @@ The Settings menu allows you to customize your Infinite Flight experience before
 
 Tip
 
-: Disable auto-coordination for more control and stability during [crosswind take-offs](/guide/flying-guide/take-off-to-cruise/crosswind-tailwind-take-off-technique#crosswind%2Ftailwind-take-off-technique) & landings
+: Disable auto-coordination for more control and stability during [crosswind take-offs](/guide/flying-guide/take-off-to-cruise/crosswind-tailwind-take-off-technique#crosswind%2Ftailwind-take-off-technique) & [landings](/guide/flying-guide/descent-to-landing/crosswind-tailwind-landing#crosswind-landing)
 
 
 

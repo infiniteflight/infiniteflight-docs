@@ -29,4 +29,4 @@ Step 3
 
 Step 4
 
-: The altitude and heading selections have turquoise bugs which appear on the HUD. These values can be pre-set before engagement of the Autopilot. Want more info? See [Pilot User Interface - HUD](/guide/getting-started/pilot-user-interface/flight-plan).
+: The altitude and heading selections have turquoise bugs which appear on the [HUD](/guide/getting-started/pilot-user-interface/flight-plan). These values can be pre-set before engagement of the Autopilot. 

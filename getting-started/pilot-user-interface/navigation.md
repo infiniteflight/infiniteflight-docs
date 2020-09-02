@@ -39,7 +39,7 @@ Step 3
 
 Step 1
 
-: Select the airport you want using the technique shown in ["Getting more from your Map and Mini Map"](/guide/getting-started/pilot-user-interface/flight-planning#getting-more-from-your-map-and-mini-map)
+: Select the airport you want using the technique shown below ["Getting more from your Map and Mini Map"](/guide/getting-started/pilot-user-interface/flight-planning#getting-more-from-your-map-and-mini-map)
 
  
 
@@ -97,7 +97,7 @@ Step 4
 
 Step 1
 
-: Select the VOR or NDB you want using the technique shown in [‘Getting more from your Map and Mini Map’](/guide/getting-started/pilot-user-interface/flight-planning#getting-more-from-your-map-and-mini-map)
+: Select the VOR or NDB you want using the technique shown in ["Getting more from your Map and Mini Map"](/guide/getting-started/pilot-user-interface/flight-planning#getting-more-from-your-map-and-mini-map)
 
  
 
@@ -110,7 +110,7 @@ Step 2
 ## Displaying a VOR in your Aircraft
 
 @[vimeo](436896110)
- 
+
 
 Step 1
 
