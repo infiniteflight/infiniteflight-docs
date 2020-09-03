@@ -27,7 +27,7 @@ In addition to this, the following definitions are essential in understanding th
 
 
 
-[Insert Image showing Radials, QDM and QDR]
+![Radials, QDM, and QDR](_images/manual/graphics/vor-radials.jpg)
 
 
 
@@ -43,6 +43,8 @@ The Horizontal Situation Indicator or HSI, is the primary instrument used for na
 - Double blue pointer to represent BRG (bearing) 2 - when tuned to a navigation source (ILS, VOR or NBD)
 - Course Deviation Indicator (CDI) made up of the Course Pointer and Lateral Deviation Bar - displayed in magenta for GPS, and light green for NAV 1 and NAV 2
 
+
+![Radials, QDM, and QDR](_images/manual/graphics/HSI.jpg)
 
 
 ## How to Set Up your Horizontal Situation Indicator (HSI)
@@ -123,7 +125,7 @@ We have departed Athens (LGAV) off of Runway 03R, and are making a right downwin
 
 
 
-[Insert image showing summary of this example]
+![Radials, QDM, and QDR](_images/manual/graphics/vor-radial-example.jpg)
 
 
 
