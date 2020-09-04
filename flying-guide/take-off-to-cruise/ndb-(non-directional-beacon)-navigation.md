@@ -11,7 +11,7 @@ order: 11
 
 ## What is an NDB?
 
-The Non-Directional Beacon, otherwise known as NDB; is a ground-based transmitter that emits radio signals and is identified with it's own frequency and three letter code. Aircraft equipped with an Automatic Direction Finder (ADF) can then interpret these signals and use them for navigation purposes. To use NDB's for navigation, you will need to [tune to the correct frequency](/guide/getting-started/pilot-user-interface/navigation#tuning-to-a-vor-or-adf), and then [display this in the cockpit](/guide/getting-started/pilot-user-interface/navigation#displaying-an-adf-in-your-aircraft).
+The Non-Directional Beacon, otherwise known as NDB; is a ground-based transmitter that emits radio signals and is identified with it's own frequency and one, two or three letter code. Aircraft equipped with an Automatic Direction Finder (ADF) can then interpret these signals and use them for navigation purposes. To use NDB's for navigation, you will need to [tune to the correct frequency](/guide/getting-started/pilot-user-interface/navigation#tuning-to-a-vor-or-adf), and then [display this in the cockpit](/guide/getting-started/pilot-user-interface/navigation#displaying-an-adf-in-your-aircraft).
 
 
 
@@ -33,7 +33,7 @@ The Horizontal Situation Indicator or HSI, is the primary instrument used for na
 
 Step 1
 
-: [Tune the NDB](/guide/getting-started/pilot-user-interface/navigation#tuning-to-a-vor-or-adf) by tapping the NDB from your [Map](/guide/getting-started/pilot-user-interface/flight-planning#map) or [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map), selecting the NDB from the list displayed, and then tapping "Set ADF 1"
+: [Tune the NDB](/guide/getting-started/pilot-user-interface/navigation#tuning-to-a-vor-or-adf) by tapping the NDB from your [Map](/guide/getting-started/pilot-user-interface/flight-planning#map) or [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map), selecting the NDB from the list displayed, and then tap "Set ADF 1"
 
 
 
@@ -67,7 +67,7 @@ Tip
 
 Step 3
 
-: Next, look at where you are in relation to the NDB, use the bearing on your HSI (blue pointer) to help you. You can also use your [Map](/guide/getting-started/pilot-user-interface/flight-planning#map) and [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map)
+: Next, look at where you are in relation to the NDB, use the bearing pointer on your HSI (blue) to help you. You can also use your [Map](/guide/getting-started/pilot-user-interface/flight-planning#map) and [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map)
 
 
 
@@ -79,7 +79,7 @@ Step 4
 
 Tip
 
-: A good rule of thumb is to look at the difference between the current and desired radials, and turn twice the difference to get established, check out the example below!
+: A good rule of thumb is to look at the difference between the current and desired bearings to/from the beacon, and turn twice the difference to get established, check out the example below!
 
 
 
@@ -101,7 +101,7 @@ If we were to just turn towards the beacon (heading 350 degrees), we would never
 
 
 
-In the image above, you can see we have changed the aircraft heading from 360 to 340 degrees. The current bearing to the beacon is still 350 but now that we are changed our heading, the head (arrow) of the blue bearing pointer will begin to "fall" away and as it approaches a bearing of 360 to the beacon, we can then start to turn right again to a heading of 360
+In the image above, you can see we have changed the aircraft heading from 360 to 340 degrees. The current bearing to the beacon is still 350 but now that we have changed our heading, the head (arrow) of the blue bearing pointer will begin to "fall" away and as it approaches a bearing of 360 to the beacon, we can then start to turn right again to a heading of 360.
 
 
 

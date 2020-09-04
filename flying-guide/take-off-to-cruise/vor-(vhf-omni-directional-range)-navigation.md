@@ -22,12 +22,12 @@ In addition to this, the following definitions are essential in understanding th
 | Term   | Definition                                         |
 | ------ | -------------------------------------------------- |
 | Radial | A radial is always the bearing **from** the beacon |
-| QDR    | Magnetic bearing **from** the beacon               |
-| QDM    | Magnetic bearing **to** the beacon                 |
+| To     | Magnetic bearing **to** the beacon                 |
+| From   | Magnetic bearing **from** the beacon               |
 
 
 
-![Radials, QDM, and QDR](_images/manual/graphics/vor-radials.jpg)
+![Radials and To/From](_images/manual/graphics/vor-radials.jpg)
 
 
 
@@ -39,19 +39,19 @@ The Horizontal Situation Indicator or HSI, is the primary instrument used for na
 
 - Compass rose orientated with the current aircraft heading
 - Blue heading bug displaying the [Autopilot FCU](/guide/getting-started/pilot-user-interface/autopilot#autopilot) bugged heading
-- Single blue pointer to represent BRG (bearing) 1 - when tuned to a navigation source (ILS, VOR or NBD)
-- Double blue pointer to represent BRG (bearing) 2 - when tuned to a navigation source (ILS, VOR or NBD)
+- Single blue pointer to represent BRG (bearing) 1 - when tuned to a navigation source (ILS, VOR or NBD) it will point to the navigation aid
+- Double blue pointer to represent BRG (bearing) 2 - when tuned to a navigation source (ILS, VOR or NBD) it will point to the navigation aid
 - Course Deviation Indicator (CDI) made up of the Course Pointer and Lateral Deviation Bar - displayed in magenta for GPS, and light green for NAV 1 and NAV 2
 
 
-![Radials, QDM, and QDR](_images/manual/graphics/HSI.jpg)
+![HSI Elements](_images/manual/graphics/HSI.jpg)
 
 
 ## How to Set Up your Horizontal Situation Indicator (HSI)
 
 Step 1
 
-: [Tune the VOR](/guide/getting-started/pilot-user-interface/navigation#tuning-to-a-vor-or-adf) by tapping the VOR from your [Map](/guide/getting-started/pilot-user-interface/flight-planning#map) or [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map), selecting the VOR from the list displayed, and then tapping "Set NAV 1 (or 2)"
+: [Tune the VOR](/guide/getting-started/pilot-user-interface/navigation#tuning-to-a-vor-or-adf) by tapping the VOR from your [Map](/guide/getting-started/pilot-user-interface/flight-planning#map) or [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map), selecting the VOR from the list displayed, and then tap "Set NAV 1 (or 2)"
 
 
 
@@ -63,7 +63,7 @@ Step 2
 
 Step 3
 
-: Lastly, within the Avionics tab, make sure to change the "SOURCE" to NAV 1 (or 2) as required, and then adjust the respective course (CRS 1 or 2) to the desired QDM/QDR that you want to fly
+: Lastly, within the Avionics tab, make sure to change the "SOURCE" to NAV 1 (or 2) as required, and then adjust the respective course (CRS 1 or 2) to the desired magnetic bearing that you want to fly
 
 
 
@@ -79,25 +79,25 @@ Step 1
 
 Step 2
 
-: Ensure that you have planned ahead by using our step by step guides to help you - [tune](/guide/getting-started/pilot-user-interface/navigation#tuning-to-a-vor-or-adf) and [display](/guide/getting-started/pilot-user-interface/navigation#displaying-a-vor-in-your-aircraft) the required VOR(s), change the CRS(s) to the desired QDM(s)/QDR(s) that you wish to intercept, and then finally have SOURCE set to either NAV 1 (or 2 as required)
+: Ensure that you have planned ahead by using our step by step guides to help you - [tune](/guide/getting-started/pilot-user-interface/navigation#tuning-to-a-vor-or-adf) and [display](/guide/getting-started/pilot-user-interface/navigation#displaying-a-vor-in-your-aircraft) the required VOR(s), change the CRS(s) to the desired magnetic bearing(s) that you wish to intercept, and then finally have SOURCE set to either NAV 1 (or 2 as required)
 
 
 
 Tip
 
-: You can only display the CDI for either NAV 1 or NAV 2, however you can still set up NAV 1 and NAV 2 with the same/different VOR(s) and/or Course(s) to reduce your workload once airborne!
+: You can only display the CDI for either NAV 1 or NAV 2, however you can still set up NAV 1 and NAV 2 with the same/different VOR(s) and/or CRS(s) to reduce your workload once airborne!
 
 
 
 Step 3
 
-: Next, look at where you are in relation to the VOR, use the bearing on your HSI (blue) to help you. You can also use your [Map](/guide/getting-started/pilot-user-interface/flight-planning#map) and [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map)
+: Next, look at where you are in relation to the VOR, use the bearing pointer on your HSI (blue) to help you. You can also use your [Map](/guide/getting-started/pilot-user-interface/flight-planning#map) and [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map)
 
 
 
 Step 4
 
-: Plan how you are going to intercept the QDM/QDR and what you expect the indications to look like when approaching it
+: Plan how you are going to intercept the pre-set course and what you expect the indications to look like when approaching it
 
 
 
@@ -109,23 +109,23 @@ Tip
 
 Step 5
 
-: As you approach the intercept, the Lateral Deviation Bar of the CDI will come "alive", use this to help judge the turn onto your desired QDM/QDR
+: As you approach the intercept, the Lateral Deviation Bar of the CDI will come "alive", use this to help judge the turn onto your desired course
 
 
 
 Tip
 
-: The Lateral Deviation Bar can come "alive" pretty quickly, especially if you are close to the VOR - keep an eye on the blue bearing pointer, it will always show the current radial that you are on, use this to give you a heads up when you are getting close to the QDM/QDR you want to fly!
+: The Lateral Deviation Bar can come "alive" pretty quickly, especially if you are close to the VOR - keep an eye on the blue bearing pointer, it will always show the current magnetic bearing to the beacon, use this to give you a heads up when you are getting close to the course you want to fly!
 
 
 
 **Example:**
 
-We have departed Athens (LGAV) off of Runway 03R, and are making a right downwind departure with the intention to intercept the 090 radial of the ATV VOR and use this to fly to the beacon (270 QDM). 
+We have departed Athens (LGAV) off of Runway 03R, and are making a right downwind departure with the intention to intercept the 090 radial of the ATV VOR and use this to fly a magnetic bearing of 270 to the beacon.
 
 
 
-![Radials, QDM, and QDR](_images/manual/graphics/vor-radial-example.jpg)
+![VOR Example](_images/manual/graphics/vor-radial-example.jpg)
 
 
 
@@ -141,7 +141,7 @@ With a heading of 240 degrees, we can watch the blue bearing pointer (representi
 
 ![Adjusted Intercept Heading](_images/manual/frames/adjusted-intercept-heading.jpg)
 
-As the Lateral Deviation Bar comes "alive" I begin the turn to fly the 270 QDM (inbound to the beacon). 
+As the Lateral Deviation Bar comes "alive" I begin the turn to fly the 270 magnetic bearing to the beacon. 
 
 ![CDI Alive](_images/manual/frames/cdi-alive.jpg)
 
