@@ -17,7 +17,7 @@ NDB Approaches can be flown in Infinite Flight using the techniques shown here, 
 
 Tip
 
-: Make sure to check out our [VOR Navigation](/guide/flying-guide/take-off-to-cruise/vor-(vhf-omni-directional-range)-navigation#vor-(vhf-omni-directional-range)-navigation) page to get to grips with the basics before flying an NDB Approach!
+: Make sure to check out our [NDB Navigation](/guide/flying-guide/take-off-to-cruise/ndb-(non-directional-beacon)-navigation#ndb-(non-directional-beacon)-navigation) page to get to grips with the basics before flying an NDB Approach!
 
 
 
@@ -49,7 +49,7 @@ Tip
 
 
 
-Step 5
+Step 4
 
 : Continue to monitor both your lateral and vertical deviation and make the adjustments required to keep these centralized. At the appropriate point, based on speed control by ATC and the recommended profile for your aircraft type; continue to configure to meet the Stability Approach Criteria
 
