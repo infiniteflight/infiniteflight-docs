@@ -9,6 +9,10 @@ order: 10
 
 
 
+@[vimeo](455590960)
+
+
+
 ## What is a VOR?
 
 The VHF (Very High Frequency) Omni-Directional Range, otherwise known as VOR; is a ground-based transmitter that emits radio signals and is identified with it's own frequency and three letter code. Aircraft equipped with VHF Navigation Receivers can then interpret these signals and use them for navigation purposes. To use VOR's for navigation, you will need to [tune to the correct frequency](/guide/getting-started/pilot-user-interface/navigation#tuning-to-a-vor-or-adf), and then [display this in the cockpit](/guide/getting-started/pilot-user-interface/navigation#displaying-a-vor-in-your-aircraft).
