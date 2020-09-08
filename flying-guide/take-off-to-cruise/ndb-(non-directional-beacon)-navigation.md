@@ -11,7 +11,7 @@ order: 11
 
 ## What is an NDB?
 
-The Non-Directional Beacon, otherwise known as NDB; is a ground-based transmitter that emits radio signals and is identified with it's own frequency and one, two or three letter code. Aircraft equipped with an Automatic Direction Finder (ADF) can then interpret these signals and use them for navigation purposes. To use NDB's for navigation, you will need to [tune to the correct frequency](/guide/getting-started/pilot-user-interface/navigation#tuning-to-a-vor-or-adf), and then [display this in the cockpit](/guide/getting-started/pilot-user-interface/navigation#displaying-an-adf-in-your-aircraft).
+The Non-Directional Beacon, otherwise known as NDB; is a ground-based transmitter that emits radio signals and is identified with it's own frequency and a code (normally two or three letters). Aircraft equipped with an Automatic Direction Finder (ADF) can then interpret these signals and use them for navigation purposes. To use NDB's for navigation, you will need to [tune to the correct frequency](/guide/getting-started/pilot-user-interface/navigation#tuning-to-a-vor-or-adf), and then [display this in the cockpit](/guide/getting-started/pilot-user-interface/navigation#displaying-an-adf-in-your-aircraft).
 
 
 
@@ -23,8 +23,8 @@ The Horizontal Situation Indicator or HSI, is the primary instrument used for na
 
 - Compass rose orientated with the current aircraft heading
 - Blue heading bug displaying the [Autopilot FCU](/guide/getting-started/pilot-user-interface/autopilot#autopilot) bugged heading
-- Single blue pointer to represent BRG (bearing) 1 - when tuned to a navigation source (ILS, VOR or NBD)
-- Double blue pointer to represent BRG (bearing) 2 - when tuned to a navigation source (ILS, VOR or NBD)
+- Single blue pointer to represent BRG (bearing) 1 - when tuned to a navigation source (ILS, VOR or NBD) it will point to the navigation aid
+- Double blue pointer to represent BRG (bearing) 2 - when tuned to a navigation source (ILS, VOR or NBD) it will point to the navigation aid
 - Course Deviation Indicator (CDI) made up of the Course Pointer and Lateral Deviation Bar - displayed in magenta for GPS, and light green for NAV 1 and NAV 2
 
 
@@ -83,6 +83,19 @@ Tip
 
 
 
+Step 5
+
+: To intercept a specific radial, imagine that the NDB is at the "head" of the blue bearing pointer (arrow) and that the aircraft is at the "tail" of the blue bearing pointer. If you are navigating "to" the beacon, you need to "pull" the tail of the blue bearing pointer round to the new position by turning towards the tail, the head will begin to "fall" away and when it is close to the desired bearing to the beacon that you want to fly, you can turn back to that bearing. If you are navigating "from" the beacon, you will need to "push" the head of the blue bearing pointer by turning away from the "tail". The head will begin to "fall" away and "pull" the tail round, when it is close to the desired bearing from the beacon that you want to fly, you can turn back to that bearing.
+
+
+
+| To/From         | Direction of Turn  | Result                                        |
+| --------------- | ------------------ | --------------------------------------------- |
+| To the Beacon   | Towards the tail   | Head will "fall" round to the desired bearing |
+| From the Beacon | Away from the tail | Tail will "pull" round to the desired bearing |
+
+
+
 **Example:**
 
 We are flying just south of PHNY towards the Lanai (LLD) NDB on a heading of 360 degrees. The LLD NDB has been tuned to ADF 1, and then displayed on BRG (bearing) 1. Today, we have planned to fly a bearing of 360 to the beacon (180 radial) however, in the below image you can see that the actual bearing to the beacon is 350 (or the 170 radial).
@@ -93,7 +106,7 @@ We are flying just south of PHNY towards the Lanai (LLD) NDB on a heading of 360
 
 
 
-If we were to just turn towards the beacon (heading 350 degrees), we would never establish ourselves on the 180 radial; instead, we would just maintain the 170 radial that we are currently on. To fly the 180 radial, we need to determine the difference between the "desired" and "current" bearings to the beacon - in this example, the relative bearing is 10 degrees. To intercept the desired radial, we recommend doubling the bearing error as a rule of thumb, so we need to turn 20 degrees.
+If we were to just turn towards the beacon (heading 350 degrees), we would never establish ourselves on the 180 radial; instead, we would just maintain the 170 radial that we are currently on. To fly the 180 radial, we need to determine the difference between the "desired" and "current" bearings to the beacon - in this example, the difference is 10 degrees. To intercept the desired radial we recommend doubling the bearing error (as a rule of thumb) - so in this case, we need to turn 20 degrees.
 
 
 
@@ -101,7 +114,7 @@ If we were to just turn towards the beacon (heading 350 degrees), we would never
 
 
 
-In the image above, you can see we have changed the aircraft heading from 360 to 340 degrees. The current bearing to the beacon is still 350 but now that we have changed our heading, the head (arrow) of the blue bearing pointer will begin to "fall" away and as it approaches a bearing of 360 to the beacon, we can then start to turn right again to a heading of 360.
+In the image above, you can see we have changed the aircraft heading from 360 to 340 degrees by turning towards the "tail". The current bearing to the beacon is still 350 but now that we have changed our heading, the head (arrow) of the blue bearing pointer will begin to "fall" away and as it approaches a bearing of 360 to the beacon, we can then start to turn right again to a heading of 360.
 
 
 
