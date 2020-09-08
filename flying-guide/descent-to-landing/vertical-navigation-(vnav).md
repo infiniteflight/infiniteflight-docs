@@ -3,6 +3,7 @@ id: vertical-navigation-(vnav)
 title: Vertical Navigation (VNAV)
 meta: Learn how to use VNAV in Infinite Flight.
 order: 2
+contributor: deercrusher
 ---
 
 # Vertical Navigation (VNAV)
