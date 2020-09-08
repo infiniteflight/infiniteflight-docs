@@ -2,6 +2,7 @@
 id: vor-(vhf-omni-directional-range)-navigation
 title: VOR (VHF Omni-Directional Range) Navigation
 meta: Learn how to navigate using VOR's in Infinite Flight.
+type: Advanced
 order: 10
 ---
 
