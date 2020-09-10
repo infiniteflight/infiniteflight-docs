@@ -43,8 +43,8 @@ The Horizontal Situation Indicator or HSI, is the primary instrument used for na
 
 - Compass rose orientated with the current aircraft heading
 - Blue heading bug displaying the [Autopilot FCU](/guide/getting-started/pilot-user-interface/autopilot#autopilot) bugged heading
-- Single blue pointer to represent BRG (bearing) 1 - when tuned to a navigation source (ILS, VOR or NBD) it will point to the navigation aid
-- Double blue pointer to represent BRG (bearing) 2 - when tuned to a navigation source (ILS, VOR or NBD) it will point to the navigation aid
+- Single blue pointer to represent BRG (bearing) 1 - when tuned to a navigation source (ILS, VOR or NDB) it will point to the navigation aid
+- Double blue pointer to represent BRG (bearing) 2 - when tuned to a navigation source (ILS, VOR or NDB) it will point to the navigation aid
 - Course Deviation Indicator (CDI) made up of the Course Pointer and Lateral Deviation Bar - displayed in magenta for GPS, and light green for NAV 1 and NAV 2
 
 

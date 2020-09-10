@@ -16,7 +16,7 @@ contributor: babacar,lucaviness,planegeek
 
 Step 1
 
-: If you were sent "Frequency change approved, good day" then there is currently no controller active in your area - we recommend just tuning out of the current frequency by tapping "Tune out of [airport ICAO code] [facility]" and continuing en-route. If you have been handed off to an active frequency, it will give you the two options, either "Send & Switch" (which will reply and automatically tune you to the next frequency) or "Send" (which will reply but you will then need to tune to the next frequency manually)
+: If you were sent "Frequency change approved, good day" then there is currently no controller active in your area - we recommend just tuning out of the current frequency by tapping "Tune out of [airport ICAO code] [facility]" and continuing en-route. If you have been handed off to an active frequency, it will give you two options, either "Send & Switch" (which will reply and automatically tune you to the next frequency) or "Send" (which will reply but you will then need to tune to the next frequency manually)
 
 
 
