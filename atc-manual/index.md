@@ -21,15 +21,17 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 
 ## Version: 2.5.4
 
-## Last Updated: 0700Z - 08 SEP 20
+## Last Updated: 1930Z - 10 SEP 20
 
 
 
 +++ Summary of Changes - Version: 2.5.4 (Current)
 
-| Location | Change                                                       |
-| -------- | ------------------------------------------------------------ |
-| 7A.1.4   | Requirements added for new Trainers when joining The Training Team |
+| Location        | Change                                                       |
+| --------------- | ------------------------------------------------------------ |
+| 7A.1.4          | Requirements added for new Trainers when joining The Training Team |
+| 7B.1.3 / 7C.1.3 | Minimum test notice periods added                            |
+| 7C.3.3          | Typo fixed                                                   |
 
 +++
 
