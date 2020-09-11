@@ -3,45 +3,147 @@ id: descent-and-approach
 title: Descent and Approach
 meta: Learn how to communicate descent and approach instructions with ATC in Infinite Flight.
 order: 5
-contributor: babacar,lucaviness,planegeek
+contributor: babacar,lucaviness,planegeek,tomthetank
 ---
 
 # Descent and Approach
 
 
 
+## Descent Communication Summary
+
+Step 1
+
+: If the ATIS is active for your destination, tap on the airport using your [Map](/guide/getting-started/pilot-user-interface/flight-planning#map) or [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map), select the Airport from the list, tap "ATIS", and then "TUNE"
 
 
 
+Step 2
+
+: Ensure that you have an "ATC Preferred" arrival (if they are listed) and an approach onto a runway that is currently in use for landing
 
 
 
+Step 3
+
+: Tap the Communication symbol and select the active Radar frequency to make initial contact:
 
 
 
+| Facility | Initial Radio Transmission | When*                                                 |
+| -------- | -------------------------- | ----------------------------------------------------- |
+| Center   | "Check In"                 | Just prior to entering the white boundary on your map |
+| Approach | "Approach Request"**       | FL180 or 50nm to destination                          |
+
+*If you are with an active ATC facility, DO NOT change frequency without permission
+
+**When "Approach Request" is tapped you will then need to select the airport, approach type and runway
 
 
 
-**3. ARRIVAL****3.1 When to contact** 
-You should contact ATC during your arrival at the following points depending on which frequencies are active.**CENTER****APPROACH****TOWER**When in the range/active region.50nm out at or below FL18025nm out at our below FL100.
-These are the initial contacts, before switch from a frequency to another you must always wait for a hand off or a authorization to switch to another frequency.
-**3.2 Arriving With Center.**
-With center request decent via XXXX arrival when 1min prior to TOD or “check in” if you’re already descending. Follow all instructions until handed off to approach.**3.3 Arriving With Approach.**
-When handed off to approach or when approach is your initial contact during arrival, you **must not** “check in” simply request the desired approach (ILS,Visual,GPS).Then follow all instructions or follow you’re flight plan if you’re instructed to “continue as filled”. **3.4 Arriving With Tower.**
-With tower there are multiple ways to call inbound however there a specific ways to call inbound once handed off from a radar facility or once tower is your initial contact.
-If you have been cleared for an ILS/Visual/GPS approach by a radar facility and have been handed off to tower:
-You must click on : **Call inbound > on the ILS / VISUAL / GPS> runway ##**
-**You should call inbound that way** **ONLY** **if handed off by approach and received an ILS / GPS / VISUAL approach clearance.** 
-If tower is your initial contact or if you received radar vectors1
-1- radar vectors means that you have been vectored to a pattern leg of the airport (downwind/base) ans handed off to tower at that point.
-You must click on: **call inbound > landing >** *request specific runway* *(optional)* 
-Tower will give you a pattern entry and sequence to follow if necessary and then a landing clearance.
+!["Check In" with Center](_images/manual/frames/"check-in"-with-center.jpg)
 
 
 
+Step 4
+
+: If you are in the cruise, 1 minute prior to your Top of Descent, send "request descent via [STAR]" (provided you have a STAR selected in your Flight Plan) to the Radar Controller
 
 
 
+![Request descent via](_images/manual/frames/request-descent-via.jpg)
+
+
+
+Step 5
+
+: Once clearance is received you can commence descent - check surroundings to make sure it is clear, use the [Cameras](/guide/getting-started/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) to help you
+
+
+
+![Descent Clearance](_images/manual/frames/descent-clearance.jpg)
+
+
+
+## Approach Communication Summary
+
+Step 1
+
+: Provided there is an Approach Controller active, the Center Controller will hand you over at a predetermined point (usually FL180 or 50nm to your destination) - do not change frequency without permission!
+
+
+
+Step 2
+
+: When you receive your frequency change (or other communication from the Controller), the Communication symbol will flash amber and the message will appear at the top of the screen, tap the Communication symbol to "Reply" to the message. If you were sent "Frequency change approved, good day" then there is currently no controller active in your area - we recommend just tuning out of the current frequency by tapping "Tune out of [airport ICAO code] [facility]" and continuing en-route. If you have been handed off to an active frequency, it will give you two options, either "Send & Switch" (which will reply and automatically tune you to the next frequency) or "Send" (which will reply but you will then need to tune to the next frequency manually)
+
+
+
+![Reply to Handoff 2](_images/manual/frames/reply-to-handoff-2.jpg)
+
+
+
+Step 3
+
+: Once tuned in, tap "Request Approach"
+
+
+
+![Request Approach](_images/manual/frames/request-approach.jpg)
+
+
+
+Step 4
+
+: Select the Destination airport (make sure to have your destination airport in your flight plan otherwise it may be further down the list!)
+
+
+
+![Destination Airport](_images/manual/frames/destination-airport.jpg)
+
+
+
+Step 5
+
+: Tap on the approach type you would like to fly for "any runway" or select a specific runway which will then give you the option to pick the approach too
+
+
+
+![Approach and Runway](_images/manual/frames/approach-and-runway.jpg)
+
+
+
+Step 6
+
+: The Radar Controller will either instruct you to "continue as filed", in which case continue you descent and own navigation; or to "expect vectors", in which case, be prepared to receive vectors for the approach
+
+
+
+![Continue as Filed](_images/manual/frames/continue-as-filed.jpg)
+
+
+
+![Expect Vectors](_images/manual/frames/expect-vectors.jpg)
+
+
+
+Step 7
+
+: Be prepared to receive vectors and/or altitude assignments at any time during the approach, tap "reply" and then promptly fly them
+
+
+
+![Receive Vectors](_images/manual/frames/receive-vectors.jpg)
+
+
+
+Step 8
+
+: Once the Radar Controller considers you established for the approach you are flying and are happy with your separation with other aircraft, they will hand you over to the Tower Controller (if present)
+
+
+
+![Contact Tower](_images/manual/frames/contact-tower.jpg)
 
 
 
