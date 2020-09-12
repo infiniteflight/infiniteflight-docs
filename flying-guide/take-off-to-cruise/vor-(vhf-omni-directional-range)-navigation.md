@@ -9,6 +9,10 @@ order: 10
 
 
 
+@[vimeo](455590960)
+
+
+
 ## What is a VOR?
 
 The VHF (Very High Frequency) Omni-Directional Range, otherwise known as VOR; is a ground-based transmitter that emits radio signals and is identified with it's own frequency and three letter code. Aircraft equipped with VHF Navigation Receivers can then interpret these signals and use them for navigation purposes. To use VOR's for navigation, you will need to [tune to the correct frequency](/guide/getting-started/pilot-user-interface/navigation#tuning-to-a-vor-or-adf), and then [display this in the cockpit](/guide/getting-started/pilot-user-interface/navigation#displaying-a-vor-in-your-aircraft).
@@ -39,8 +43,8 @@ The Horizontal Situation Indicator or HSI, is the primary instrument used for na
 
 - Compass rose orientated with the current aircraft heading
 - Blue heading bug displaying the [Autopilot FCU](/guide/getting-started/pilot-user-interface/autopilot#autopilot) bugged heading
-- Single blue pointer to represent BRG (bearing) 1 - when tuned to a navigation source (ILS, VOR or NBD) it will point to the navigation aid
-- Double blue pointer to represent BRG (bearing) 2 - when tuned to a navigation source (ILS, VOR or NBD) it will point to the navigation aid
+- Single blue pointer to represent BRG (bearing) 1 - when tuned to a navigation source (ILS, VOR or NDB) it will point to the navigation aid
+- Double blue pointer to represent BRG (bearing) 2 - when tuned to a navigation source (ILS, VOR or NDB) it will point to the navigation aid
 - Course Deviation Indicator (CDI) made up of the Course Pointer and Lateral Deviation Bar - displayed in magenta for GPS, and light green for NAV 1 and NAV 2
 
 

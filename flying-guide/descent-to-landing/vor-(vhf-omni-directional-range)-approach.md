@@ -33,7 +33,7 @@ Step 1
 
 Step 2
 
-: Ensure that you have [tuned](/guide/getting-started/pilot-user-interface/navigation#tuning-to-a-vor-or-adf) the required VOR(s) for the approach and changed the CRS(s) to the desired QDM(s)/QDR(s) that you wish to intercept
+: Ensure that you have [tuned](/guide/getting-started/pilot-user-interface/navigation#tuning-to-a-vor-or-adf) the required VOR(s) for the approach and changed the CRS(s) to the desired magnetic bearings(s) that you need to intercept
 
 
 
@@ -45,7 +45,7 @@ Step 3
 
 Step 4
 
-: Intercept the QDM(s)/QDR(s) at the correct distance/altitude as per your chart and always think of the "next event" to stay ahead of the aircraft
+: [Intercept the desired magnetic bearing(s)](/guide/flying-guide/take-off-to-cruise/vor-(vhf-omni-directional-range)-navigation#how-to-navigate-using-a-vor) at the correct distance/altitude as per your chart and always think of the "next event" to stay ahead of the aircraft
 
 
 
