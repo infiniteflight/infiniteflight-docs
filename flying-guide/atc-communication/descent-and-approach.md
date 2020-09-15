@@ -41,7 +41,7 @@ Step 3
 
 
 
-!["Check In" with Center](_images/manual/frames/"check-in"-with-center.jpg)
+!["Check In" with Center](_images/manual/frames/_check-in_-with-center.jpg)
 
 
 
@@ -51,7 +51,7 @@ Step 4
 
 
 
-![Request descent via](_images/manual/frames/request-descent-via.jpg)
+![Request descent via](_images/manual/frames/request-descent.jpg)
 
 
 
