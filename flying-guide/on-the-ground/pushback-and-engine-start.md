@@ -60,7 +60,7 @@ Step 1
 
 Step 2
 
-: Tune to the active frequency and [request pushback](/guide/getting-started/pilot-user-interface/communication#communication), or if there is no active ATC, tune to the Unicom frequency – listen for traffic before starting your pushback
+: Tune to the active frequency and [request pushback](/guide/flying-guide/atc-communication/atis-pushback-and-taxi#pushback-communication-summary), or if there is no active ATC, tune to the Unicom frequency – listen for traffic before starting your pushback
 
  
 
