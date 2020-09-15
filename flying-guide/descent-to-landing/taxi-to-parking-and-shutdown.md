@@ -28,7 +28,7 @@ Step 1
 
 Step 2
 
-: Provided you have clearance to do so, switch to the Ground frequency and [request taxi to parking](https://infiniteflight.com/guide/getting-started/pilot-user-interface/communication#communication), or if there is no active ATC, announce taxi on the Unicom frequency – listen out whilst you’re on the move for other traffic
+: Provided you have clearance to do so, switch to the Ground frequency and [request taxi to parking](/guide/flying-guide/atc-communication/landing-and-taxi-to-parking#taxi-to-parking-communication-summary), or if there is no active ATC, announce taxi on the Unicom frequency – listen out whilst you’re on the move for other traffic
 
 
 
@@ -82,7 +82,7 @@ Tip
 
 Step 6
 
-: If you need to cross a runway whilst taxiing, make sure to [request runway crossing](/guide/getting-started/pilot-user-interface/communication#communication) with the active ATC, or if there is no active ATC, announce crossing on the Unicom frequency – always check it’s clear before you enter the runway! Don’t forget to access the [Systems](/guide/getting-started/pilot-user-interface/systems#systems) menu and select the following:
+: If you need to cross a runway whilst taxiing, make sure to [request runway crossing](/guide/flying-guide/atc-communication/atis-pushback-and-taxi#pilot-to-ground-controller-communication-table) with the active ATC, or if there is no active ATC, announce crossing on the Unicom frequency – always check it’s clear before you enter the runway! Don’t forget to access the [Systems](/guide/getting-started/pilot-user-interface/systems#systems) menu and select the following:
 
  
 

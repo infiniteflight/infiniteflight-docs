@@ -30,7 +30,7 @@ Step 1
 
 Step 2
 
-: [Request taxi](/guide/getting-started/pilot-user-interface/communication#communication) with the active ATC, or if there is no active ATC, announce taxi on the Unicom frequency – listen out whilst you’re on the move for other traffic
+: [Request taxi](/guide/flying-guide/atc-communication/atis-pushback-and-taxi#taxi-communication-summary) with the active ATC, or if there is no active ATC, announce taxi on the Unicom frequency – listen out whilst you’re on the move for other traffic
 
  
 
@@ -60,7 +60,7 @@ Tip
 
 Step 5
 
-: If you need to cross a runway whilst taxiing, make sure to [request runway crossing](/guide/getting-started/pilot-user-interface/communication#communication) with the active ATC, or if there is no active ATC, announce crossing on the Unicom frequency – always check it’s clear before you enter the runway! Don’t forget to access the [Systems](/guide/getting-started/pilot-user-interface/systems#systems) menu and select the following:
+: If you need to cross a runway whilst taxiing, make sure to [request runway crossing](/guide/flying-guide/atc-communication/atis-pushback-and-taxi#pilot-to-ground-controller-communication-table) with the active ATC, or if there is no active ATC, announce crossing on the Unicom frequency – always check it’s clear before you enter the runway! Don’t forget to access the [Systems](/guide/getting-started/pilot-user-interface/systems#systems) menu and select the following:
 
  
 
