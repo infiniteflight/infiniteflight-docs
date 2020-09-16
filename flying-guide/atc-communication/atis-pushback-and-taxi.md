@@ -53,6 +53,12 @@ When spawning, provided ATC is active, you will automatically be tuned to the AT
 
     
 
+Tip
+
+: When listening to the ATIS, use this opportunity to plan your taxi route to the most likely runway that you will be sent to based on position and runway(s) in use for departure. Having a planned taxi route will help reduce your workload and make ground movement errors less likely!
+
+
+
 ## ATIS Definitions
 
 Below are two tables that define the meaning of all REMARKS and NOTAMS that may be present in an ATIS broadcast:
@@ -62,7 +68,7 @@ Below are two tables that define the meaning of all REMARKS and NOTAMS that may 
 | REMARKS                           | ATC Intention                                                | Pilot Actions                                                |
 | :-------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
 | No Intersection Departures        | ATC require pilots to use the full length of the runway.     | The pilot should hold short at the end of the runway.        |
-| No Pattern Work                   | ATC is not accepting pattern work.                           | The pilot should not attempt to fly patterns at the airport, this does not include a touch & go landing provided the pilot then departs the airspace. |
+| No Pattern Work                   | ATC is not accepting pattern work.                           | The pilot should not attempt to fly patterns at the airport, this does not include flying inbound for a touch & go landing provided the pilot then departs the airspace. |
 | Flow Control                      | ATC is controlling the departure rate.                       | The pilot should expect a delayed departure.                 |
 | Long Taxi                         | ATC may not send departures to the closest runway.           | The pilot should expect to be sent to a runway that requires a long taxi time. |
 | Gate Hold                         | ATC needs to freeze all outbound ground movement.            | The pilot should hold at their gate until the hold is lifted, do not send duplicate pushback requests. |
@@ -70,7 +76,7 @@ Below are two tables that define the meaning of all REMARKS and NOTAMS that may 
 | Rolling Departures                | ATC would like expedited departures.                         | When cleared for takeoff, the pilot should enter the runway and begin their takeoff roll immediately. |
 | Flight Plan Required              | ATC would like the pilot to file a flight plan before pushback/taxiing. | The pilot must file a flight plan before requesting pushback. |
 | Straight Out Departures           | ATC would like aircraft to maintain runway heading until the altitude sent with the takeoff clearance is reached AND they are clear of traffic. | The pilot should fly straight until at the assigned altitude AND clear of all traffic before making any directional changes. |
-| Multiple Frequencies in Use       | Controllers are using multiple frequencies to manage traffic. | The pilot should be ready to change frequencies at any time. |
+| Multiple Frequencies in Use       | Controllers are using multiple frequencies to manage traffic. | The pilot should check the ATIS for the frequency to contact from their current position, and be ready to change frequencies at any time. |
 | Check Forum for Event Information | ATC is referring pilots to special instructions on the IFC pages (i.e. FNF, VARB Summit) | The pilot should check the forum before flying.              |
 | SID/STAR Use Recommended          | SID/STAR use is not essential for traffic management but is recommended. | The pilots should add a SID/STAR to their flight plan.       |
 | SID/STAR Use Required             | SID/STAR use is essential for traffic management or for events and is being required. | The pilot must add an ATC preferred SID/STAR to their flight plan. |
