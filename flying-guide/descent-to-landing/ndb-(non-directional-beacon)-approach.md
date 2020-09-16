@@ -39,13 +39,13 @@ Step 2
 
 Step 3
 
-: Intercept the radials at the correct distance/altitude as per your chart and always think of the "next event" to stay ahead of the aircraft
+: [Intercept the radials](/guide/flying-guide/take-off-to-cruise/ndb-(non-directional-beacon)-navigation#how-to-navigate-using-an-ndb) at the correct distance/altitude as per your chart and always think of the "next event" to stay ahead of the aircraft
 
 
 
 Tip
 
-: Feel overloaded? Reduce your workload by engaging the [Autopilot](/guide/getting-started/pilot-user-interface/autopilot#autopilot) and using Heading (or LNAV) and V/S to follow the profile instead of manual flying
+: Feel overloaded? Reduce your workload by engaging the [Autopilot](/guide/getting-started/pilot-user-interface/autopilot#autopilot) and using Heading and V/S to follow the profile instead of manual flying
 
 
 
