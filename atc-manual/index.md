@@ -19,13 +19,38 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 
 
 
-## Version: 2.5.4
+## Version: 3.1
 
-## Last Updated: 1930Z - 10 SEP 20
+## Last Updated: 1830Z - 16 SEP 20
 
 
 
-+++ Summary of Changes - Version: 2.5.4 (Current)
++++ Summary of Changes - Version: 3.1 (Current)
+
+| Location | Change                                                       |
+| -------- | ------------------------------------------------------------ |
+| 1A.1.5   | */training* Slack slash command description updated          |
+| 1A.2.1   | Controlling rules updated - "bounds of the ATC Schedule" defined to add clarification on what airports to open |
+| 1A.3.3   | Minor wording correction                                     |
+| 1B.1.6   | Removal of "Unable to Communicate" from the Violation list - Controllers can still use this however it will disconnect the pilot from their current session without issuing a Violation |
+| 2.3.4    | Reference added to the use of the back-taxi command when taxiways are not aligned for runway crossings |
+| 3.5.1    | Hyperlink fixed                                              |
+| 3.5.4    | Minor wording correction                                     |
+| 6.2.3    | Clarity added on separation requirements when aircraft make initial contact with Radar Controllers |
+| 6.2.4    | 6.2.3 moved to 6.2.4                                         |
+| 6.4.4    | Check In wording adjusted to reflect changes to Flight Following - Check In is now a IFR service ONLY |
+| 6.5      | Reworked - Flight Following is now a VFR service ONLY        |
+| 6.6.2    | Check In wording adjusted to reflect changes to Flight Following - Check In is now a IFR service ONLY |
+| 6.12.3   | Minor wording correction                                     |
+| 7.3.2    | Updated minimum requirements for Candidates to receive Training |
+| 7.5      | Various changes to ensure it is up to date with current procedures |
+| 7A.1     | Various changes to ensure it is up to date with current procedures |
+
++++
+
+
+
++++ Summary of Changes - Version: 2.5.4
 
 | Location        | Change                                                       |
 | --------------- | ------------------------------------------------------------ |
@@ -56,19 +81,6 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 | 6.10.5   | Clarification added on issuing ILS clearance without an intercept heading |
 | 7A.2.5   | Deletion of reference to IFC Forum                           |
 | 7B.3.2   | Radar test sites adjusted                                    |
-
-+++
-
-
-
-+++ Summary of Changes - Version: 2.5.2
-
-| Location | Change                                |
-| -------- | ------------------------------------- |
-| 7A       | New section added (restricted access) |
-| 7B       | New section added (restricted access) |
-| 7C       | New section added (restricted access) |
-| 7C       | New section added (restricted access) |
 
 +++
 
