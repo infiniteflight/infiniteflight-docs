@@ -19,32 +19,32 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 
 
 
-## Version: 3.1
+## Version: 3.2.1
 
-## Last Updated: 1830Z - 16 SEP 20
+## Last Updated: 1730Z - 17 SEP 20
 
 
 
-+++ Summary of Changes - Version: 3.1 (Current)
++++ Summary of Changes - Version: 3.2.1 (Current)
 
-| Location | Change                                                       |
-| -------- | ------------------------------------------------------------ |
-| 1A.1.5   | */training* Slack slash command description updated          |
-| 1A.2.1   | Controlling rules updated - "bounds of the ATC Schedule" defined to add clarification on what airports to open |
-| 1A.3.3   | Minor wording correction                                     |
-| 1B.1.6   | Removal of "Unable to Communicate" from the Violation list - Controllers can still use this however it will disconnect the pilot from their current session without issuing a Violation |
-| 2.3.4    | Reference added to the use of the back-taxi command when taxiways are not aligned for runway crossings |
-| 3.5.1    | Hyperlink fixed                                              |
-| 3.5.4    | Minor wording correction                                     |
-| 6.2.3    | Clarity added on separation requirements when aircraft make initial contact with Radar Controllers |
-| 6.2.4    | 6.2.3 moved to 6.2.4                                         |
-| 6.4.4    | Check In wording adjusted to reflect changes to Flight Following - Check In is now a IFR service ONLY |
-| 6.5      | Reworked - Flight Following is now a VFR service ONLY        |
-| 6.6.2    | Check In wording adjusted to reflect changes to Flight Following - Check In is now a IFR service ONLY |
-| 6.12.3   | Minor wording correction                                     |
-| 7.3.2    | Updated minimum requirements for Candidates to receive Training |
-| 7.5      | Various changes to ensure it is up to date with current procedures |
-| 7A.1     | Various changes to ensure it is up to date with current procedures |
+| Location        | Change                                                       |
+| --------------- | ------------------------------------------------------------ |
+| 1A.1.5          | */training* Slack slash command description updated          |
+| 1A.2.1          | Controlling rules updated - "bounds of the ATC Schedule" defined to add clarification on what airports to open |
+| 1A.3.3          | Minor wording correction                                     |
+| 1B.1.6          | Removal of "Unable to Communicate" from the Violation list - Controllers can still use this however it will disconnect the pilot from their current session without issuing a Violation |
+| 2.3.4           | Reference added to the use of the back-taxi command when taxiways are not aligned for runway crossings |
+| 3.5.1           | Hyperlink fixed                                              |
+| 3.5.4           | Minor wording correction                                     |
+| 6.2.3           | Clarity added on separation requirements when aircraft make initial contact with Radar Controllers |
+| 6.2.4           | 6.2.3 moved to 6.2.4                                         |
+| 6.4.4           | Check In wording adjusted to reflect changes to Flight Following - Check In is now a IFR service ONLY |
+| 6.5             | Reworked - Flight Following is now a VFR service ONLY        |
+| 6.6.2           | Check In wording adjusted to reflect changes to Flight Following - Check In is now a IFR service ONLY |
+| 6.12.3          | Minor wording correction                                     |
+| 7.3.2           | Updated minimum requirements for Candidates to receive Training |
+| 7.5             | Various changes to ensure it is up to date with current procedures |
+| Section 7A - 7D | Various changes to ensure it is up to date with current procedures |
 
 +++
 
