@@ -19,13 +19,13 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 
 
 
-## Version: 20.2.4
+## Version: 20.2.5
 
-## Last Updated: 1530Z - 21 SEP 20
+## Last Updated: 1030Z - 22 SEP 20
 
 
 
-+++ Summary of Changes - Version: 20.2.4 (Current)
++++ Summary of Changes - Version: 20.2.5 (Current)
 
 | Location        | Change                                                       |
 | --------------- | ------------------------------------------------------------ |
@@ -48,6 +48,7 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 | 6.13.3          | Minor wording correction                                     |
 | 6.13.4          | Further clarification added on when Radar Controllers handover to Tower Controllers |
 | 6.14.6 - 8      | Speed Control sub-section added                              |
+| 7.1.3           | Definitions table updated                                    |
 | 7.3.2           | Updated minimum requirements for Candidates to receive Training |
 | 7.5             | Various changes to ensure it is up to date with current procedures |
 | Section 7A - 7D | Various changes to ensure it is up to date with current procedures |
