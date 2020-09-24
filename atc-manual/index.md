@@ -19,13 +19,57 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 
 
 
-## Version: 2.5.3
+## Version: 20.2.6
 
-## Last Updated: 1800Z - 03 AUG 20
+## Last Updated: 1930Z - 22 SEP 20
 
 
 
-+++ Summary of Changes - Version: 2.5.3 (Current)
++++ Summary of Changes - Version: 20.2.6 (Current)
+
+| Location        | Change                                                       |
+| --------------- | ------------------------------------------------------------ |
+| 1A.1.5          | */training* Slack slash command description updated          |
+| 1A.2.1          | Controlling Rules updated - "bounds of the ATC Schedule" defined to add clarification on what airports to open |
+| 1A.2.1          | Controlling Rules updated - clarification on region changeover times |
+| 1A.3.3          | Minor wording correction                                     |
+| 1B.1.6          | Removal of "Unable to Communicate" from the Violation list - Controllers can still use this however it will disconnect the pilot from their current session without issuing a Violation |
+| 2.3.4           | Reference added to the use of the back-taxi command when taxiways are not aligned for runway crossings |
+| 3.2.2           | Introduction of "Ready for Departure in Sequence"            |
+| 3.2             | 3.2.2 - 3.2.8 all moved down one (i.e. 3.2.3 - 3.2.9)        |
+| 3.5.1           | Hyperlink fixed                                              |
+| 3.5.4           | Minor wording correction                                     |
+| 6.2.3           | Clarity added on separation requirements when aircraft make initial contact with Radar Controllers |
+| 6.2.4           | 6.2.3 moved to 6.2.4                                         |
+| 6.4.4           | Check In wording adjusted to reflect changes to Flight Following - Check In is now a IFR service ONLY |
+| 6.5             | Reworked - Flight Following is now a VFR service ONLY        |
+| 6.6.2           | Check In wording adjusted to reflect changes to Flight Following - Check In is now a IFR service ONLY |
+| 6.12.3          | Minor wording correction                                     |
+| 6.13.3          | Minor wording correction                                     |
+| 6.13.4          | Further clarification added on when Radar Controllers handover to Tower Controllers |
+| 6.14.6 - 8      | Speed Control sub-section added                              |
+| 7.1.3           | Definitions table updated                                    |
+| 7.3.2           | Updated minimum requirements for Candidates to receive Training |
+| 7.5             | Various changes to ensure it is up to date with current procedures |
+| Section 7A - 7D | Various changes to ensure it is up to date with current procedures |
+
++++
+
+
+
++++ Summary of Changes - Version: 2.5.4
+
+| Location        | Change                                                       |
+| --------------- | ------------------------------------------------------------ |
+| 7A.1.4          | Requirements added for new Trainers when joining The Training Team |
+| 7B.1.3 / 7C.1.3 | Minimum test notice periods added                            |
+| 7C.3.3          | Typo fixed                                                   |
+
++++
+
+
+
++++ Summary of Changes - Version: 2.5.3
 
 | Location | Change                                                       |
 | -------- | ------------------------------------------------------------ |
@@ -44,38 +88,6 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 | 6.10.5   | Clarification added on issuing ILS clearance without an intercept heading |
 | 7A.2.5   | Deletion of reference to IFC Forum                           |
 | 7B.3.2   | Radar test sites adjusted                                    |
-
-+++
-
-
-
-+++ Summary of Changes - Version: 2.5.2
-
-| Location | Change                                |
-| -------- | ------------------------------------- |
-| 7A       | New section added (restricted access) |
-| 7B       | New section added (restricted access) |
-| 7C       | New section added (restricted access) |
-| 7C       | New section added (restricted access) |
-
-+++
-
-
-
-+++ Summary of Changes - Version: 2.5.1
-
-| Location | Change                                   |
-| -------- | ---------------------------------------- |
-| 1A.3.1   | Minor wording correction                 |
-| 1A.4.1   | Clarification on rank upgrades following disciplinary/suspension procedure |
-| 1A.4.2   | Procedure to be followed if Controller issued with a Violation whilst operating as a pilot |
-| 1A.4.3   | Original 1A.4.2 changed to 1A.4.3        |
-| 1B.2.2   | Clarification on how to add @appeals to a DM on the IFC |
-| 2.3.2    | Clarification on runway crossing and ensuring there is enough space |
-| 3.4.4    | Reworded to clarify that aircraft do not need permission to change to ground when exiting a runway |
-| 4.1.4    | Minor wording correction                 |
-| 6.9.3    | Added to highlight when to hand over aircraft on the GPS Approach |
-| 6.13.2   | Minor wording correction to account for changes to the GPS Approach |
 
 +++
 
