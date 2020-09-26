@@ -58,7 +58,7 @@ Step 4
 
 Step 5
 
-: Once airborne you will receive a sequence and clearance as a minimum, you may also receive a pattern entry if it is required (e.g. due to a runway change)
+: Once airborne you will receive a sequence and clearance as a minimum, you may also receive a pattern entry if required (e.g. due to a runway change)
 
 
 

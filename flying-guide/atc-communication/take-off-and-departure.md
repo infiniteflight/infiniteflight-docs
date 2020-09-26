@@ -114,7 +114,7 @@ Step 4
 
 Step 1
 
-: Once airborne, wait for the Tower Controller to send "Frequency change approved, good day" or to hand you off to another active frequency
+: Once airborne, wait for the Tower Controller to send "Frequency change approved, good day" or hand you off to another active frequency
 
 
 
@@ -144,7 +144,7 @@ Step 3
 
 Step 4
 
-: Once you are tuned into the Radar Controller's frequency, the following table outlines what requests can be transmitted: 
+: Once you are tuned into the Radar Controller's frequency, the following table outlines which requests can be transmitted: 
 
 
 

@@ -24,7 +24,7 @@ Once spawned, the pilot will automatically be tuned to the ATIS frequency if it 
 
     
 
-2. An 'on screen' notification will appear to inform you that you have been automatically tuned to an active frequency, you can tap it to dismiss the message.
+2. An on-screen notification will appear to inform you that you have been automatically tuned to an active frequency. You can tap it to dismiss the message.
 
     
 
@@ -49,14 +49,14 @@ Once spawned, the pilot will automatically be tuned to the ATIS frequency if it 
 
    
 
-4. The message log displays all communication history, double tap it to just show your communication with ATC.
+4. The message log displays all communication history, double-tap it to just show your communication with ATC.
 
 
 
 
 Tip
 
-: When listening to the ATIS, use this opportunity to plan your taxi route to the most likely runway that you will be sent to based on position and runway(s) in use for departure. Having a planned taxi route will help reduce your workload and make ground movement errors less likely!
+: When listening to the ATIS, plan your taxi route to the most likely runway that you will be sent to based on position and runway(s) in use for departure. Having a planned taxi route will help reduce your workload and make ground movement errors less likely!
 
 
 

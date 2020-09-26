@@ -57,7 +57,7 @@ Step 4
 
 Step 5
 
-: Once clearance is received you can commence descent - check surroundings to make sure it is clear, use the [Cameras](/guide/getting-started/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) to help you
+: Once clearance is received, you can commence descent - check surroundings to make sure it is clear, use the [Cameras](/guide/getting-started/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) to help you
 
 
 
@@ -111,7 +111,7 @@ Tip
 
 Step 5
 
-: Tap on the approach type you would like to fly for "any runway" or select a specific runway which will then give you the option to pick the approach too
+: Tap on the approach type you would like to fly for "any runway" or select a specific runway and approach type
 
 
 
@@ -135,7 +135,7 @@ Step 6
 
 Step 7
 
-: Be prepared to receive vectors and/or altitude assignments at any time during the approach, tap "reply" and then promptly fly them
+: Be prepared to receive vectors and/or altitude assignments at any time during the approach; tap "reply" and then promptly fly them
 
 
 

@@ -26,7 +26,7 @@ Step 1
 
 Step 2
 
-: Once you are tuned into the Radar Controller's frequency, the following table outlines what requests can be transmitted: 
+: Once you are tuned into the Radar Controller's frequency, the following table outlines which requests can be transmitted: 
 
 
 
