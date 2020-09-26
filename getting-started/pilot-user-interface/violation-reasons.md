@@ -490,15 +490,3 @@ Whilst on the Expert Server it is important to follow all ATC instructions - thi
 
 
 Taking-Off/Landing without permission, following your flight plan instead of ATC instructions or remaining unresponsive during critical phases of flight (i.e. climbing, descending or manuevering) can result in being removed from the server.
-
-
-
-## Not Specified
-
-*Issued by: Moderators*
-
-*Violation Level: 3*
-
-
-
-A Moderator has issued a Violation for serious offenses on the server. Often, these infractions are rather clear but further reasoning may be given by [submitting an inquiry with @appeals](https://community.infiniteflight.com/new-message?groupname=appeals&title=Violation%20Appeal&body=%23%23%20Violation%20Appeal%20Process%0A%0AThank%20you%20for%20taking%20the%20time%20to%20find%20out%20how%20to%20Appeal%20a%20recent%20Level%202%20or%203%20Violation.%20Please%20fill%20in%20the%20template%20below%20with%20as%20much%20detail%20as%20possible%20-%20%2A%2Awithout%20this%20information%20we%20won%27t%20be%20able%20to%20help%20you.%2A%2A%0A%0A%2APlease%20note%20that%20you%20cannot%20appeal%20Level%201%20Violations%2C%20these%20are%20automatically%20generated%20based%20on%20your%20flying%2C%20for%20more%20information%20please%20click%20%5Bhere%5D%28https%3A%2F%2Finfiniteflight.com%2Fguide%2Fgetting-started%2Fpilot-user-interface%2Fviolations%23violations%29.%2A%0A%0A%23%23%20What%20is%20your%20callsign%3F%0A_Type%20your%20response%20next%20to%20the%20%60%3E%60.%20Make%20sure%20you%20give%20us%20your%20current%20callsign%20%28as%20well%20as%20the%20callsign%20you%20used%20when%20you%20received%20a%20violation_%0A%3E%0A---%0A%23%23%20When%20did%20you%20get%20the%20violation%3F%0A%3E%0A---%0A%23%23%20What%20was%20the%20name%20of%20the%20controller%3F%0A%3E%0A---%0A---%0A%23%23%20What%27s%20the%20link%20to%20your%20replay%20file%3F%0A_Upload%20your%20replay%20to%20%5Bsharemyinfiniteflight.com%5D%28https%3A%2F%2Fsharemyinfiniteflight.com%2F%29%20and%20paste%20the%20link%20below_%0A%3E%0A---%0A%23%23%20Additional%20Details%3A%0A_Let%20us%20know%20additional%20details%20so%20we%20can%20investigate%20as%20quickly%20as%20possible_%0A%3E).
