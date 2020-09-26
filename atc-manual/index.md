@@ -19,13 +19,13 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 
 
 
-## Version: 20.2.6
+## Version: 20.2.7
 
-## Last Updated: 1930Z - 22 SEP 20
+## Last Updated: 1330Z - 26 SEP 20
 
 
 
-+++ Summary of Changes - Version: 20.2.6 (Current)
++++ Summary of Changes - Version: 20.2.7 (Current)
 
 | Location        | Change                                                       |
 | --------------- | ------------------------------------------------------------ |
@@ -39,6 +39,7 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 | 3.2             | 3.2.2 - 3.2.8 all moved down one (i.e. 3.2.3 - 3.2.9)        |
 | 3.5.1           | Hyperlink fixed                                              |
 | 3.5.4           | Minor wording correction                                     |
+| 5.1.1           | Minor wording correction                                     |
 | 6.2.3           | Clarity added on separation requirements when aircraft make initial contact with Radar Controllers |
 | 6.2.4           | 6.2.3 moved to 6.2.4                                         |
 | 6.4.4           | Check In wording adjusted to reflect changes to Flight Following - Check In is now a IFR service ONLY |

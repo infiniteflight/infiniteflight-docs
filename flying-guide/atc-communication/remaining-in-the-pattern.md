@@ -48,7 +48,7 @@ Step 3
 
 Step 4
 
-: When you receive your take-off clearance (or other communication from the Controller), the Communication symbol will flash amber and the message will appear at the top of the screen, tap the Communication symbol to reply to the message
+: When you receive your take-off clearance (or other communication from the Controller), the Communication button will flash amber and the message will appear at the top of the screen, tap the Communication button to reply to the message
 
 
 
@@ -68,12 +68,12 @@ Step 5
 
 ## Pilot to Tower Controller Communication Tables
 
-| Request/Message (On the Ground)              | When to Send                                                 | When Not to Send                                             |
-| :------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| Request Departure                            | The pilot should request departure if they are ready to takeoff from active runway. The direction should correlate to the direction the pilot will be departing Tower’s airspace. | The pilot should not request departure if they are not first in line. |
-| Request Departure - Remaining in the Pattern | The pilot should state that they will be remaining in the pattern if they plan to fly patterns (takeoff and land at the same airport). | In any other circumstance.                                   |
-| Request Runway Crossing                      | If the pilot is with the tower controller and wishes to cross a runway, they should request permission to cross the active end. | In any other circumstance.                                   |
-| Request Frequency Change                     | The pilot should request a frequency change if they wish to change frequencies and have not yet been given a clearance to do so. | In any other circumstance.                                   |
+| Request/Message (On the Ground)              | When to Send                                                 | When Not to Send           |
+| :------------------------------------------- | :----------------------------------------------------------- | :------------------------- |
+| Request Departure                            | The pilot should request departure if they are ready to takeoff from active runway. The direction should correlate to the direction the pilot will be departing Tower’s airspace. | In any other circumstance. |
+| Request Departure - Remaining in the Pattern | The pilot should state that they will be remaining in the pattern if they plan to fly patterns (takeoff and land at the same airport). | In any other circumstance. |
+| Request Runway Crossing                      | If the pilot is with the tower controller and wishes to cross a runway, they should request permission to cross the active end. | In any other circumstance. |
+| Request Frequency Change                     | The pilot should request a frequency change if they wish to change frequencies and have not yet been given a clearance to do so. | In any other circumstance. |
 
 | Request/Message (In the Air) | When to Send                                                 | When Not to Send           |
 | :--------------------------- | :----------------------------------------------------------- | :------------------------- |
@@ -94,18 +94,18 @@ Step 5
 
 ## Tower Controller to Pilot Communication Table
 
-| Instruction/Message                             | ATC Intention                                                | Pilot Actions                                                |
-| ----------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Cleared for Takeoff                             | ATC is clearing the pilot for takeoff.                       | The pilot should commence their takeoff roll.                |
-| Cancel Takeoff Clearance, Hold Position         | ATC is canceling the pilot's takeoff clearance.              | The pilot should abort their takeoff and hold on the runway. |
-| Hold Short                                      | ATC wants the pilot to hold their position off the runway.   | The pilot should proceed to the hold short line and stop.    |
-| Line Up and Wait                                | ATC wants the pilot to line up on the runway and hold their position. | The pilot should enter the runway, stop, and be prepared to takeoff. |
-| Back Taxi                                       | ATC wants the pilot to enter the runway and taxi to the specified end. | The pilot should taxi on the runway and, depending on the instruction, either exit and contact Ground or line up and wait. |
-| Exit Runway                                     | ATC wants the pilot to exit the runway they just landed on.  | The pilot should roll off the runway and contact Ground.     |
-| Exit Runway, Cross Runway X and Contact Ground. | ATC wants the pilot to exit the runway at a controlled speed, cross Runway X, and contact Ground. | The pilot should bring their aircraft to a safe speed, cross the specified runway, and contact Ground. No further communication with Tower is necessary. |
-| Exit Runway, Hold Short of Runway X             | ATC wants the pilot to exit the runway at a controlled speed and hold short of Runway X. | The pilot should bring their aircraft to a controlled speed and hold short at the specified runway. They should stay with Tower; runway crossing requests are unnecessary. |
-| Speed at your Discretion                        | ATC would like the pilot to manage their own speed.          | The pilot may fly at any safe speed, following speed restrictions. |
-| Maintain Present Speed                          | ATC wants the pilot to maintain their current speed until told otherwise. | The pilot should check their speed and maintain that until told otherwise. |
-| Maintain Slowest Practical Speed                | ATC wants the pilot to fly as slow as is safe.               | The pilot should decrease their speed as much as possible.   |
-| Maintain Best Forward Speed                     | ATC wants the pilot to fly as fast as is safe.               | The pilot should increase their speed as much as possible.   |
-| Adjust Speed to Follow Aircraft Ahead           | ATC wants the pilot to slow down to maintain separation with the aircraft ahead. | The pilot should adjust their speed so that they are flying at or less than the speed of the aircraft ahead. |
+| Instruction/Message                              | ATC Intention                                                | Pilot Actions                                                |
+| ------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Cleared for Take-off                             | ATC is clearing the pilot for take-off.                      | The pilot should commence their take-off roll.               |
+| Cancel Take-Off Clearance, Hold Position         | ATC is canceling the pilot's take-off clearance.             | The pilot should abort their take-off and hold on the runway. |
+| Hold Short                                       | ATC wants the pilot to hold their position off the runway.   | The pilot should proceed to the hold short line and stop.    |
+| Line Up and Wait                                 | ATC wants the pilot to line up on the runway and hold their position. | The pilot should enter the runway, stop, and be prepared to takeoff. |
+| Back Taxi                                        | ATC wants the pilot to enter the runway and taxi to the specified end. | The pilot should taxi on the runway and, depending on the instruction, either exit and contact Ground or line up and wait. |
+| Exit Runway                                      | ATC wants the pilot to exit the runway they just landed on.  | The pilot should roll off the runway and contact Ground.     |
+| Exit Runway, Cross Runway XX and Contact Ground. | ATC wants the pilot to exit the runway at a controlled speed, cross Runway XX, and contact Ground. | The pilot should bring their aircraft to a safe speed, cross the specified runway, and contact Ground. No further communication with Tower is necessary. |
+| Exit Runway, Hold Short of Runway XX             | ATC wants the pilot to exit the runway at a controlled speed and hold short of Runway XX. | The pilot should bring their aircraft to a controlled speed and hold short at the specified runway. They should stay with Tower; runway crossing requests are unnecessary. |
+| Speed at your Discretion                         | ATC would like the pilot to manage their own speed.          | The pilot may fly at any safe speed, following speed restrictions. |
+| Maintain Present Speed                           | ATC wants the pilot to maintain their current speed until told otherwise. | The pilot should check their speed and maintain that until told otherwise. |
+| Maintain Slowest Practical Speed                 | ATC wants the pilot to fly as slow as is safe.               | The pilot should decrease their speed as much as possible.   |
+| Maintain Best Forward Speed                      | ATC wants the pilot to fly as fast as is safe.               | The pilot should increase their speed as much as possible.   |
+| Adjust Speed to Follow Aircraft Ahead            | ATC wants the pilot to slow down to maintain separation with the aircraft ahead. | The pilot should adjust their speed so that they are flying at or less than the speed of the aircraft ahead. |

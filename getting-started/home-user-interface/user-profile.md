@@ -128,3 +128,57 @@ Below is a table that outlines all the Grade Table parameters and a brief descri
 - 10 Level 1 Violations (total) and 20 Landings (12 months) would give a ratio of **0.50**
 - 10 Level 1 Violations (total) and 10 Landings (12 months) would give a ratio of **1.00**
 - 20 Level 1 Violations (total) and 10 Landings (12 months) would give a ratio of **1.50**
+
+
+
+## Callsigns
+
+Callsigns are used whilst flying to identify you and for the Air Traffic Controllers to communicate with you, follow the steps below to find out how to change your callsign: 
+
+
+
+Step 1
+
+: From the home screen, tap your user profile in the top right hand corner of your device
+
+
+
+Step 2
+
+: The "Account" tab should automatically display, but it can be selected from the navigation bar on the left of your device if it hasn't
+
+
+
+Step 3
+
+: Tap the edit "pencil" symbol to the right of your device in line with "Callsign"
+
+
+
+Step 4
+
+: Using the navigation bar on the left of the screen, you can either select the "Airlines" or "General Aviation" tabs
+
+
+
+Step 5
+
+: There are three columns displayed that can be used to customize your callsign. If you selected the "Airlines" tab, then you can scroll through the first column to select the airline you wish to use. The second column can be tapped to enter an alphanumeric identifier, tap "OK" when you are happy with your selection. Finally, a "Suffix" can be added by tapping the desired one, you can select "None" if you do not wish to use one
+
+
+
+Tip
+
+: Want a more realistic experience? Try to match your aircraft livery with the callsign you are using! As well as this, make sure to only add the "Heavy" suffix when you have a gross take-off weight of more than 300,000lb (136,000kg) and the "Super" suffix when operating the A380
+
+
+
+Step 6
+
+: If you selected the "General Aviation" tab, the same process as above applies however instead of the airline callsign, the "Country Code" is used instead
+
+
+
+Tip
+
+: The country code applies to where the aircraft is registered - therefore it does not need to be the same as the country you are flying from or too!

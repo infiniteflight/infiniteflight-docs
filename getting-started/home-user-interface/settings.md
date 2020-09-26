@@ -97,6 +97,28 @@ Tip
 
 
 
+## Account 
+
+
+
+
+
+| Setting                               | What it does                                                 |
+| ------------------------------------- | ------------------------------------------------------------ |
+| Your Infinite Flight Pro Subscription | You are subscribed to Infinite Flight Pro (1 year) which renews on [month day, year] |
+| Callsign                              | Used for communication with controllers and other pilots     |
+| Community Forum Account               | You have linked your Infinite Flight Community profile. Sign in on your devices to keep your account connected |
+| Account Statistics                    | See your grade level and violation history. These stats determine multiplayer server level eligibility |
+| Switch Account                        | Use a different Infinite Flight account to access a subscription bought on another device |
+
+
+
+
+
+
+
+
+
 ## Audio
 
 There are two sliders that adjust the SFX and ATC Volume. Slide your finger along the slider to find the desired setting.
