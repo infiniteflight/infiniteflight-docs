@@ -2,7 +2,7 @@
 id: landing-and-taxi-to-parking
 title: Landing and Taxi to Parking
 meta: Learn how to communicate landing and taxi to parking instructions with ATC in Infinite Flight.
-order: 6
+order: 7
 contributor: babacar,lucaviness,planegeek,tomthetank
 ---
 

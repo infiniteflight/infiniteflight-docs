@@ -2,7 +2,7 @@
 id: descent-and-approach
 title: Descent and Approach
 meta: Learn how to communicate descent and approach instructions with ATC in Infinite Flight.
-order: 5
+order: 6
 contributor: babacar,lucaviness,planegeek,tomthetank
 ---
 

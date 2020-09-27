@@ -2,7 +2,7 @@
 id: take-off-and-departure
 title: Take-Off and Departure
 meta: Learn how to communicate take-off and departure instructions with ATC in Infinite Flight.
-order: 2
+order: 3
 contributor: babacar,lucaviness,planegeek,KaiM,finn-14,Filipe_Samuel_Braine
 ---
 
