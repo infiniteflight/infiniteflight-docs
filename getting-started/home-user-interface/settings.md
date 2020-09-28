@@ -84,7 +84,8 @@ Tip
 | Hide Airplane Dots                              | Hides the dot/white box of other players in Infinite Flight Live |
 | Automatic Airplane Downloads Over Cellular Data | Downloads airplanes automatically even when on Cellular Network |
 | Airplane Count                                  | Controls how many airplanes are shown in Live mode (if your device performance drops, consider lowering this setting until you find one that your device performs well with) |
-| Pilot Voice                                     | Select your voice for your ATC communications (*different voices can be downloaded from your device settings outside of Infinite Flight) |
+| Show Username In-Flight                         | Display your username in-flight. Uncheck to remain anonymous |
+| Pilot Voice                                     | Select your voice for your ATC communications (different voices can be downloaded* from your device settings outside of Infinite Flight) |
 | Voice Pitch                                     | Changes the pitch of your selected voice                     |
 | Default Voice                                   | Select the default voice for other pilots/ATC (downloaded voices on your device can be used for both Pilot and/or Default Voice) |
 
@@ -101,21 +102,17 @@ Tip
 
 
 
-
-
-| Setting                               | What it does                                                 |
-| ------------------------------------- | ------------------------------------------------------------ |
-| Your Infinite Flight Pro Subscription | You are subscribed to Infinite Flight Pro (1 year) which renews on [month day, year] |
-| Callsign                              | Used for communication with controllers and other pilots     |
-| Community Forum Account               | You have linked your Infinite Flight Community profile. Sign in on your devices to keep your account connected |
-| Account Statistics                    | See your grade level and violation history. These stats determine multiplayer server level eligibility |
-| Switch Account                        | Use a different Infinite Flight account to access a subscription bought on another device |
+![Account Settings Page](_images/manual/frames/account.jpg)
 
 
 
-
-
-
+| Setting                                                      | What it does                                                 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Your Infinite Flight Pro Subscription](/guide/getting-started/home-user-interface/subscriptions) | This will either show the plans available to purchase if you do not have a current Infinite Flight Pro subscription; or if you do, the date it will automatically renew on |
+| [Callsign](/guide/getting-started/home-user-interface/user-profile#callsigns) | Used for communication with controllers and other pilots     |
+| [Community Forum Account](/guide/getting-started/home-user-interface/user-profile#linking-community-forum-account) | Connect an [Infinite Flight Community](https://community.infiniteflight.com) profile to show your username in-flight. This connection also allows you to sign in if you switch device platforms |
+| Account Statistics                                           | See your [grade level and violation history](/guide/getting-started/home-user-interface/user-profile#the-grade-table). These stats determine multiplayer server level eligibility |
+| Switch Account                                               | Use a different Infinite Flight account to access a subscription bought on another device |
 
 
 

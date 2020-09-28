@@ -13,7 +13,7 @@ Welcome to the home screen of your newly downloaded Infinite Flight app. Below y
 
 
 
-1. In the top right hand corner you’ll find your username, [tap it to see your profile](/guide/getting-started/home-user-interface/user-profile#user-profile).
+1. In the top right hand corner you’ll find the "Get Pro" subscription button. If you already have a subscription, then your [User Profile](/guide/getting-started/home-user-interface/user-profile) will show instead.
 
    
 

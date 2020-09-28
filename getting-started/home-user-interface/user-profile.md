@@ -7,44 +7,87 @@ order: 1
 
 # User Profile
 
-Your User Profile is a way of keeping track whilst you’re flying or controlling the skies of Infinite Flight. Below is everything you need to know about what it records!
-
-![User Profile Page](_images/manual/frames/user-profile.jpg)
-
- 
-
-1. Your Display Name can be changed here and is shown on a display tag when you’re online. To help users identify you, we recommend using a similar Display Name to your Infinite Flight Community Username. Not a member of the IFC yet? [Join here!](https://community.infiniteflight.com/)
-
-   
-
-2. Your Callsign can be changed here and is what you’ll be called by Air Traffic Controllers that are communicating with you. You can choose between Airline callsigns or your own General Aviation callsigns, and you can add various Suffixes to these too.
-
-   
-
-3.  XP is displayed here and is automatically updated as your flight progresses. Stats that contribute to this are flight time, the number of landings (taking into account g-force), the wind & turbulence during the landing, and any violations received.
-
-   
-
-4. Flight Time is displayed here from all flights that are completed online.  
-
-   
 
 
-5. Your Infinite Flight Grade is displayed here. Grades are determined from your total stats, your behavior whilst online, and your activity.  Tap the information link next to your Grade to display your Grade Table.
+## Linking Community Forum Account
 
-   
+[Callsigns](/guide/getting-started/home-user-interface/user-profile#callsigns) are used whilst flying to identify you and for the Air Traffic Controllers to communicate with you, in addition to this, a unique identifier is shown by default. If however, you have an [Infinite Flight Community](https://community.infiniteflight.com) (IFC) account, you can choose to have your username displayed instead of the unique identifier. To do this, follow the steps below to link your account:
 
-6. Your total number of online flights is shown here.
 
-   
 
-7.  Your total number of online landings is shown here.
+![Account Settings Page](_images/manual/frames/account.jpg)
 
-   
+
+
+Step 1
+
+: Next to Community Forum Account, tap "Connect" button
+
+
+
+Step 2
+
+: A pop up will appear to confirm that you are happy for your information to be shared between the *Infinite Flight* app, and the *infiniteflight.com* website. Tap "Continue"
+
+
+
+Step 3
+
+: A *community.infiniteflight.com* pop up will appear that will allow you to either login or create a new account (if you are already logged in on that device, it will automatically register this and you will only need to tap "authorize")
+
+
+
+Step 4
+
+: Once completed, it will return to the app and you will see that your IFC username is now displayed in the orange box
+
+
 
 Tip
 
-: Don't forget to hit 'exit flight' when you're done, otherwise data might not get recorded! 
+: Don't want your IFC username to show in-flight? No problem! You can still link your account if you want to, then visit [Settings > Live](/guide/getting-started/home-user-interface/settings#live) where you can un-tick the "Show Username In-Flight" box!
+
+
+
+## Virtual Organization Affiliation
+
+Provided your account has been linked using the [steps above](/guide/getting-started/home-user-interface/user-profile#linking-community-forum-account), you can show your affiliation to a Virtual Organization! Once added, this can be found by tapping on any aircraft from your map or mini map and then selecting the respective callsign/username. The "info tab" will automatically display which will show the VO affiliation. 
+
+
+
+Step 1
+
+: Visit the [Infinite Flight Community](https://community.infiniteflight.com) website and login
+
+
+
+Step 2
+
+: Tap your profile picture in the top right hand corner, a drop down box will appear. Tap the settings wheel that is in the top right hand corner of the drop down box
+
+
+
+Step 3
+
+: Select "Preferences"
+
+
+
+Step 4
+
+: A new page will appear, on the left hand side of the screen will be a navigation bar, select "Profile"
+
+
+
+Step 5
+
+: Scroll down the page to "Virtual Organization" and select the VO that you are affiliated with from the drop-down box
+
+
+
+Step 6
+
+: Scroll to the bottom of the page and tap "Save Changes"
 
 
 
@@ -65,11 +108,11 @@ The Grade Table is broken up into 4 sections, these are:
 
 
 
-1. The first column lists the parameters that determine you grade, these are listed in the table below
+1. The first column lists the parameters that determine your grade, these are listed in the table below.
 
    
 
-2. This column (displayed in white) shows what you have currently logged/received as a pilot
+2. This column (displayed in white) shows what you have currently logged/received as a pilot.
 
    
 
@@ -115,7 +158,7 @@ Below is a table that outlines all the Grade Table parameters and a brief descri
 | Landings (90 days)                     | Number of landings recorded in the last 90 days              |
 | Level 1 Violations (24 hours)          | Total number of Level 1 Violations accumulated in the last 24 hours |
 | Level 1 Violations (7 days)            | Total number of Level 1 Violations accumulated in the last 7 days |
-| Level 1 Violations/Landing (12 months) | Your total amount of Level 1 Violations is divided by your Landings (in the last 12 months) to determine a *Violation to Landing ratio. |
+| Level 1 Violations/Landing (12 months) | Your total amount of Level 1 Violations is divided by your Landings (in the last 12 months) to determine a Violation to Landing ratio*. |
 | Level 2 Violations (1 year)            | Total number of Level 2 Violations accumulated in the last 1 year |
 | Level 3 Violations (7 days)            | Total number of Level 3 Violations in the last 7 days        |
 | Level 3 Violations (1 year)            | Total number of Level 3 Violations accumulated in the last 1 year |
@@ -181,4 +224,255 @@ Step 6
 
 Tip
 
-: The country code applies to where the aircraft is registered - therefore it does not need to be the same as the country you are flying from or too!
+: The country code applies to where the aircraft is registered - therefore it does not need to be the same as the country you are flying from/to!
+
+
+
+## How to Format General Aviation Callsigns
+
+Key:
+
+- "AB" means any two letter combination, "ABC" means any three letter combination, and so on
+- "12" means any two number combination, "123" means any three number combination, and so on
+
+
+
+The table below shows the formatting that must be used when selecting an ID for a General Aviation callsign:
+
+| Country | Format | Notes |
+|---|---|---|
+| Afghanistan | YA-*ABC*| |
+| Albania | ZA-*ABC*| |
+| Algeria | 7T-*ABC*| |
+| Andorra | C3-*ABC*| |
+| Angola | D2-*ABC*| |
+| Anguilla | VP-A*AB*| |
+| Antigua and Barbuda | V2-*ABC*| |
+| Argentina | LQ-*ABC*| |
+| Argentina | LV-*ABC*| |
+| Armenia | EK-*12345*| |
+| Aruba | P4-*ABC*| |
+| Australia | VH-*ABC*| |
+| Austria | OE-*1234*, OE-*ABC*| |
+| Azerbaijan | 4K-*AB1*, 4K-*AB12*, 4K-*12345*| |
+| Bahamas | C6-*ABC*| |
+| Bahrain | A9C-*AB*, A9C-*ABC*| |
+| Bangladesh | S2-*ABC*| |
+| Barbados | 8P-*ABC*| |
+| Belarus | EW-*123AB*, EW-*12345*| |
+| Belgium | OO-*ABC*| |
+| Belize | V3-*ABC*| |
+| Benin | TY-*ABC*| |
+| Bermuda | VP-B*AB*| |
+| Bhutan | A5-*ABC*| |
+| Bolivia | CP-*1234*| |
+| Bosnia and Herzegovina | T9-*ABC*| |
+| Botswana | A2-*ABC*| |
+| Brazil | PP-*ABC*| |
+| Brazil | PR-*ABC*| |
+| Brazil | PT-*ABC*| |
+| Brazil | PU-*ABC*| |
+| British Virgin Islands | VP-L*AB*| |
+| Brunei | V8-*ABC*, V8-*AB1*, V8-*123*| |
+| Bulgaria | LZ-*ABC*| |
+| Burkina Faso | XT-*ABC*| |
+| Burundi | 9U-*ABC*| |
+| Cambodia | XU-*123*| |
+| Cameroon | TJ-*ABC*| |
+| Canada | CF-*ABC*| |
+| Canada | C-F*ABC*| |
+| Canada | C-G*ABC*| |
+| Canada | C-I*ABC*| |
+| Cape Verde | D4-*ABC*| |
+| Cayman Islands | VP-C*AB*| |
+| Central African Republic | TL-*ABC*| |
+| Chad | TT-*ABC*| |
+| Chile | CC-*ABC*| |
+| China | B-*1234*| |
+| Taiwan | B-*12345*| |
+| Hong Kong | B-H*AB*| |
+| Hong Kong | B-K*AB*| |
+| Hong Kong | B-L*AB*| |
+| Macau | B-M*AB*| |
+| Colombia | HJ-*1234A*| |
+| Colombia | HK-*1234A*| |
+| Comoros | D6-*ABC*| |
+| Congo, Republic of | TN-*ABC*| |
+| Cook Islands | E5-*ABC*| |
+| Congo, Democratic Republic of | 9Q-*ABC*| |
+| Costa Rica | TI-*ABC*| |
+| Croatia | 9A-*ABC*| |
+| Cuba | CU-T*1234*| |
+| Cyprus, Republic of | 5B-*ABC*| |
+| Czech Republic | OK-*ABC*, OK-*ABC12*, OK-*1234*, OK-*A123*| |
+| Denmark | OY-*ABC*| |
+| Denmark, Greenland and the Faroe Islands | OY-H*AB*| |
+| Denmark | OY-X*AB*| |
+| Denmark | OY-B*AB*| |
+| Djibouti | J2-*ABC*| |
+| Dominica | J7-*ABC*| |
+| Dominican Republic | HI-*123AB*| |
+| Ecuador | HC-*ABC*| |
+| Egypt | SU-*ABC*| |
+| El Salvador | YS-*ABC*| |
+| Equatorial Guinea | 3C-*ABC*| |
+| Eritrea | E3-*ABC*| |
+| Estonia | ES-*ABC*| |
+| Ethiopia | ET-*ABC*| |
+| Falkland Islands (Malvinas) | VP-F*AB*| |
+| Faroe Islands | OY-*ABC*| |
+| Fiji Islands | DQ-*ABC*| |
+| Finland | OH-*ABC*| |
+| France | F-*ABCD*| |
+| French West Indies | F-OG*AB*| |
+| French Guyana | F-O*ABC*| |
+| Gabon | TR-*ABC*| |
+| Gambia | C5-*ABC*| |
+| Georgia | 4L-*12345*, 4L-*ABC*| |
+| Germany | D-*ABCD*| |
+| Ghana | 9G-*ABC*| |
+| Gibraltar | VP-G*AB*| |
+| Greece | SX-*ABC*| |
+| Greenland | OY-*ABC*| |
+| Grenada | J3-*ABC*| |
+| Guatemala | TG-*ABC*| |
+| Guinea | 3X-*ABC*| |
+| Guinea Bissau | J5-*ABC*| |
+| Guyana | 8R-*ABC*| |
+| Haiti | HH-*ABC*| |
+| Honduras | HR-*ABC*| |
+| Hungary | HA-*ABC*| |
+| Iceland | TF-*ABC*| |
+| India | VT-*ABC*| |
+| Indonesia | PK-*ABC*| |
+| Iran | EP-*ABC*| |
+| Iraq | YI-*ABC*| |
+| Ireland | EI-*ABC*| |
+| Isle of Man | M-*ABCD*| |
+| Israel | 4X-*ABC*| |
+| Italy | I-*ABCD*| |
+| CÃ´te d'Ivoire | TU-*ABC*| |
+| Jamaica | 6Y-*ABC*| |
+| Japan | JA-*1234*, JA-*123A*, JA-*12AB*, JA-*A123*| |
+| Jordan | JY-*ABC*| |
+| Kazakhstan | UN-*12345*| |
+| Kenya | 5Y-*ABC*| |
+| Kiribati | T3-*ABC*| |
+| Korea, People's Democratic Rep. | P-*123*| |
+| Korea, Republic of | HL-*1234*| |
+| Kuwait | 9K-*ABC*| |
+| Kyrgyzstan | EX-*12345*, EX-*123*| |
+| Laos | RDPL-*12345*| |
+| Latvia | YL-*ABC*| |
+| Lebanon | OD-*ABC*| |
+| Lesotho | 7P-*ABC*| |
+| Liberia | A8-*ABC*| |
+| Libya | 5A-*ABC*| |
+| Lithuania | LY-*ABC*| |
+| Luxembourg | LX-*ABC*| |
+| North Macedonia | Z3-*ABC*| |
+| Madagascar | 5R-*ABC*| |
+| Malawi | 7Q-*ABC*| |
+| Malaysia | 9M-*ABC*| |
+| Maldives | 8Q-*ABC*| |
+| Mali | TZ-*ABC*| |
+| Malta | 9H-*ABC*| |
+| Marshall Islands | V7-*1234*| |
+| Mauritania | 5T-*ABC*| |
+| Mauritius | 3B-*ABC*| |
+| Mexico | XA-*ABC*| |
+| Mexico | XB-*ABC*| |
+| Mexico | XC-*ABC*, XC-*ABC12*| |
+| Micronesia | V6-*ABC*| |
+| Moldova | ER-*ABC*, ER-*12345*| |
+| Monaco | 3A-*ABC*| |
+| Mongolia | JU-*1234*| |
+| Montenegro | 4O-*ABC*| |
+| Montserrat | VP-M*AB*| |
+| Morocco | CN-*ABC*| |
+| Mozambique | C9-*ABC*| |
+| Myanmar | XY-*ABC*| |
+| Myanmar | XZ-*ABC*| |
+| Namibia | V5-*ABC*| |
+| Nauru | C2-*ABC*| |
+| Nepal | 9N-*ABC*| |
+| Netherlands | PH-*ABC*| |
+| Netherlands Antilles | PJ-*ABC*| |
+| New Zealand | ZK-*ABC*| |
+| New Zealand | ZL-*ABC*| |
+| New Zealand | ZM-*ABC*| |
+| Nicaragua | YN-*ABC*| |
+| Niger | 5U-*ABC*| |
+| Nigeria | 5N-*ABC*| |
+| Norway | LN-*ABC*| |
+| Oman | A4O-*AB*| |
+| Pakistan | AP-*ABC*| |
+| Panama | HP-*1234ABC*| |
+| Papua New Guinea | P2-*ABC*| |
+| Paraguay | ZP-*ABC*| |
+| Peru | OB-*1234*| |
+| Philippines | RPC-*1234*| |
+| Poland | SP-*ABC*| |
+| Portugal | CR-*ABC*| |
+| Portugal | CS-*ABC*| |
+| Qatar | A7-*ABC*| |
+| Reunion Island | F-OD*AB*| |
+| Romania | YR-*ABC*| |
+| Russian Federation | RA-*12345*, RA-*1234K*| |
+| Rwanda | 9XR-*AB*| |
+| Saint Helena/Ascension | VQ-H*AB*| |
+| Saint Kitts and Nevis | V4-*ABC*| |
+| Saint Lucia | J6-*ABC*| |
+| Saint Vincent and the Grenadines | J8-*ABC*| |
+| Samoa | 5W-*ABC*| |
+| San Marino | T7-*ABC*| |
+| Sao Tome and Principe | S9-*ABC*| |
+| Saudi Arabia | HZ-*ABC*, HZ-*AB1*, HZ-*AB12*, HZ-*ABC1*| |
+| Senegal | 6V-*ABC*| |
+| Senegal | 6W-*ABC*| |
+| Serbia | YU-*ABC*| |
+| Seychelles | S7-*ABC*| |
+| Sierra Leone | 9L-*ABC*| |
+| Singapore | 9V-*ABC*| |
+| Slovakia | OM-*ABC*| |
+| Slovenia | S5-*ABC*| |
+| Solomon Islands | H4-*ABC*| |
+| Somalia | 6O-*ABC*| |
+| South Africa | ZS-*ABC*| |
+| South Africa | ZT-*ABC*| |
+| South Africa | ZU-*ABC*| |
+| South Sudan | Z8-*ABC*| |
+| Spain | EC-*ABC*| |
+| Sri Lanka | 4R-*ABC*| |
+| Sudan | ST-*ABC*| |
+| Surinam | PZ-*ABC*| |
+| Swaziland | 3D-*ABC*| |
+| Sweden | SE-*ABC*| |
+| Switzerland | HB-*ABC*| |
+| Syria | YK-*ABC*| |
+| Tahiti | F-OH*AB*| |
+| Tajikistan | EY-*12345*| |
+| Tanzania | 5H-*ABC*| |
+| Thailand | HS-*ABC*| |
+| Togo | 5V-*ABC*| |
+| Tonga | A3-*ABC*| |
+| Trinidad and Tobago | 9Y-*ABC*| |
+| Tunisia | TS-*ABC*| |
+| Turkey | TC-*ABC*| |
+| Turkmenistan | EZ-*A123*| |
+| Turks and Caicos | VQ-T*AB*| |
+| Tuvalu | T2-*ABC*| |
+| Uganda | 5X-*ABC*| |
+| Ukraine | UR-*12345*, UR-*ABC*| |
+| United Arab Emirates | A6-*ABC*| |
+| United Kingdom | G-*ABCD*| |
+| United Nations | 4U-*ABC*| |
+| United States of America | N*1*, N*12*, N*123*, N*1234*, N*12345*, N*1A*, N*12A*, N*123A*, N*1234A*, N*1AB*, N*12AB*, N*123AB*| Cannot contain I or O. See the [FAA website](https://www.faa.gov/licenses_certificates/aircraft_certification/aircraft_registry/forming_nnumber/) for more information. |
+| Uruguay | CX-*ABC*|  |
+| Uzbekistan | UK*12345*| |
+| Vanuatu | YJ-*AB1*, YJ-*AB12*| |
+| Venezuela | YV-*123A*, YV-*1234*, YV-*O123*| |
+| Vietnam | VN-*1234*, VN-*A123*| |
+| Yemen | 7O-*ABC*| |
+| Zambia | 9J-*ABC*| |
+| Zimbabwe | Z-*ABC*|  |

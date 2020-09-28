@@ -24,9 +24,9 @@ This is where you'll find information and frequently asked questions related to 
 (Prices above listed in USD)
 
 
-The Infinite Flight Pro subscription comes with all In-App Purchases unlocked, including any newly added content during the active subscription period. Only items purchased separately will remain available once your subscription expires or is canceled.
+The Infinite Flight Pro subscription comes with all In-App Purchases unlocked, including any newly added content during the active subscription period. Only items purchased separately will remain available once your subscription expires or is cancelled.
 
-We recommend that you have a valid Facebook or Google account to sign up for a subscription, but it is not mandatory. If you have your account linked to Facebook or Google account, you will be able to use your subscription on any support device regardless of platform and in case any issues should occur, it will be easier to recover. Note that the subscription can only be used at one device at a time. You can’t have two flights on the same account running simultaneously.
+We recommend that you have a valid Facebook or Google account to sign up for a subscription, but it is not mandatory. If you have your account linked to a Facebook or Google account, you will be able to use your subscription on any support device regardless of platform and in case any issues should occur, it will be easier to recover. Note that the subscription can only be used on one device at a time. You can’t have two flights on the same account running simultaneously.
 
 Android: Google Play Store customers can now purchase a subscription with a redeem card and store account balances. The subscriptions will automatically renew but can be cancelled from your PlayStore account at the Infinite Flight app page.
 
