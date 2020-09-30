@@ -114,7 +114,7 @@ The Grade Table is broken up into 4 sections, these are:
 
 
 
-![Grade Table](_images/manual/frames/grade-table.jpg)
+![Grade Table](_images/manual/frames/grade-table1.jpg)
 
 
 
