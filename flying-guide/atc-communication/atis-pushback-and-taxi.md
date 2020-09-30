@@ -2,7 +2,7 @@
 id: atis-pushback-and-taxi
 title: ATIS, Pushback and Taxi
 meta: Learn how to communicate pushback and taxi instructions with ATC in Infinite Flight.
-order: 1
+order: 2
 contributor: babacar,lucaviness,planegeek,John370,KaiM
 ---
 
@@ -12,7 +12,7 @@ contributor: babacar,lucaviness,planegeek,John370,KaiM
 
 ## ATIS Communication Summary
 
-When spawning, provided ATC is active, you will automatically be tuned to the ATIS frequency (if it is currently staffed by a Controller). The current ATIS will continue to broadcast until you tune out of the frequency.
+Once spawned, the pilot will automatically be tuned to the ATIS frequency if it is currently staffed by a Controller. The current ATIS will continue to broadcast until the pilot tunes out.
 
 
 
@@ -20,15 +20,15 @@ When spawning, provided ATC is active, you will automatically be tuned to the AT
 
 
 
-1. As the ATIS is broadcast, it will appear at the top of the screen to show you the latest airport information.
+1. As the ATIS is broadcast, it will appear at the top of your screen.
 
     
 
-2. An on screen notification will appear to inform you that you have been automatically tuned to an active frequency, you can tap it to dismiss the message.
+2. An on-screen notification will appear to inform you that you have been automatically tuned to an active frequency. You can tap it to dismiss the message.
 
     
 
-3. The communication button can be tapped to change frequencies, transmit/respond to ATC messages and to view the message log.
+3. The Communication button (headset icon) can be tapped to change frequencies, transmit/respond to ATC messages and to view the message log.
 
     
 
@@ -37,7 +37,7 @@ When spawning, provided ATC is active, you will automatically be tuned to the AT
 
 
 
-1. The top left corner of the communication box shows the airport ICAO code, name, frequency and elevation on the top line. The facility and frequency tuned to on the second line (if it is an active frequency); and finally the latest METAR on the third line.
+1. The top left corner of the communication box shows which airport the respective controller is transmitting from, the elevation, and the Controller’s frequency. The Controller’s facility and their display name is shown on the second line and the airport’s METAR is on the third line.
 
     
 
@@ -45,17 +45,18 @@ When spawning, provided ATC is active, you will automatically be tuned to the AT
 
     
 
-3. The last altitude, heading, speed and runway assignment issued by ATC as a reminder (these will be blank until instructions are received).
+3. The last altitude, heading, speed and runway assignment issued by ATC as a reminder (these will be blank until instructions are transmitted).
 
    
 
-4. This is the message log which shows all communication history, double tap it to just show your communication with ATC.
+4. The message log displays all communication history, double-tap it to just show your communication with ATC.
 
-    
+
+
 
 Tip
 
-: When listening to the ATIS, use this opportunity to plan your taxi route to the most likely runway that you will be sent to based on position and runway(s) in use for departure. Having a planned taxi route will help reduce your workload and make ground movement errors less likely!
+: When listening to the ATIS, plan your taxi route to the most likely runway that you will be sent to based on position and runway(s) in use for departure. Having a planned taxi route will help reduce your workload and make ground movement errors less likely!
 
 
 
@@ -73,13 +74,13 @@ Below are two tables that define the meaning of all REMARKS and NOTAMS that may 
 | Long Taxi                         | ATC may not send departures to the closest runway.           | The pilot should expect to be sent to a runway that requires a long taxi time. |
 | Gate Hold                         | ATC needs to freeze all outbound ground movement.            | The pilot should hold at their gate until the hold is lifted, do not send duplicate pushback requests. |
 | No Light Aircraft                 | Light aircraft (XCub, C172, P38, SR22, and Spitfire) are not allowed in the airspace or at the airport. | The pilot, if flying a light aircraft, must divert to or respawn at a different airport. |
-| Rolling Departures                | ATC would like expedited departures.                         | When cleared for takeoff, the pilot should enter the runway and begin their takeoff roll immediately. |
+| Rolling Departures                | ATC would like to expedite departures.                       | When cleared for take-off, the pilot should enter the runway and begin their take-off roll immediately. |
 | Flight Plan Required              | ATC would like the pilot to file a flight plan before pushback/taxiing. | The pilot must file a flight plan before requesting pushback. |
 | Straight Out Departures           | ATC would like aircraft to maintain runway heading until the altitude sent with the takeoff clearance is reached AND they are clear of traffic. | The pilot should fly straight until at the assigned altitude AND clear of all traffic before making any directional changes. |
 | Multiple Frequencies in Use       | Controllers are using multiple frequencies to manage traffic. | The pilot should check the ATIS for the frequency to contact from their current position, and be ready to change frequencies at any time. |
 | Check Forum for Event Information | ATC is referring pilots to special instructions on the IFC pages (i.e. FNF, VARB Summit) | The pilot should check the forum before flying.              |
 | SID/STAR Use Recommended          | SID/STAR use is not essential for traffic management but is recommended. | The pilots should add a SID/STAR to their flight plan.       |
-| SID/STAR Use Required             | SID/STAR use is essential for traffic management or for events and is being required. | The pilot must add an ATC preferred SID/STAR to their flight plan. |
+| SID/STAR Use Required             | SID/STAR use is essential for traffic management or events.  | The pilot must add an ATC preferred SID/STAR to their flight plan. |
 
 | NOTAMS                     | ATC Intention                                     | Pilot Actions                                                |
 | :------------------------- | :------------------------------------------------ | :----------------------------------------------------------- |
@@ -136,7 +137,7 @@ Tip
 
 Step 4
 
-: When you receive your pushback clearance (or other communication from the Controller), the Communication symbol will flash amber and the message will appear at the top of the screen, tap the Communication symbol to "Reply" to the message
+: When you receive your pushback clearance (or other communication from the Controller), the Communication button will flash amber and the message will appear at the top of the screen, tap the Communication button to "Reply" to the message
 
 
 
@@ -146,9 +147,7 @@ Step 4
 
 Tip
 
-: When you receive your pushback clearance, you may be told to expect a specific runway - this means that you will most likely be instructed to taxi to that runway when you are ready so try to pushback in a direction that allows this!
-
-
+: When you receive your pushback clearance, you may be told to expect a specific runway - make sure to pushback in a direction that will allow you to taxi to the respective runway!
 
 
 
@@ -176,13 +175,13 @@ Step 2
 
 Tip
 
-: If you are going to request a specific runway, make sure it is being used in the ATIS first!
+: If you are going to request a specific runway, make sure it is being used for departure in the ATIS!
 
 
 
 Step 3
 
-: When you receive your taxi clearance (or other communication from the Controller), the Communication symbol will flash amber and the message will appear at the top of the screen, tap the Communication symbol to "Reply" to the message
+: When you receive your taxi clearance (or other communication from the Controller), the Communication button will flash amber and the message will appear at the top of the screen, tap the Communication button to "Reply" to the message
 
 
 

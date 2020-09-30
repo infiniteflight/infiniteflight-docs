@@ -2,7 +2,7 @@
 id: descent-and-approach
 title: Descent and Approach
 meta: Learn how to communicate descent and approach instructions with ATC in Infinite Flight.
-order: 5
+order: 6
 contributor: babacar,lucaviness,planegeek,tomthetank
 ---
 
@@ -26,18 +26,18 @@ Step 2
 
 Step 3
 
-: Tap the Communication symbol and select the active Radar frequency to make initial contact:
+: Tap the Communication button and select the respective Radar frequency to make initial contact:
 
 
 
 | Facility | Initial Radio Transmission | When*                                                 |
 | -------- | -------------------------- | ----------------------------------------------------- |
 | Center   | "Check In"                 | Just prior to entering the white boundary on your map |
-| Approach | "Approach Request"**       | FL180 or 50nm to destination                          |
+| Approach | "Approach Request"**       | At or below FL180 and within 50nm to destination      |
 
 *If you are with an active ATC facility, DO NOT change frequency without permission
 
-**When "Approach Request" is tapped you will then need to select the airport, approach type and runway
+**After "Approach Request" is tapped; select the airport, approach type and runway
 
 
 
@@ -57,7 +57,7 @@ Step 4
 
 Step 5
 
-: Once clearance is received you can commence descent - check surroundings to make sure it is clear, use the [Cameras](/guide/getting-started/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) to help you
+: Once clearance is received, you can commence descent - check surroundings to make sure it is clear, use the [Cameras](/guide/getting-started/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) to help you
 
 
 
@@ -69,13 +69,13 @@ Step 5
 
 Step 1
 
-: Provided there is an Approach Controller active, the Center Controller will hand you over at a predetermined point (usually FL180 or 50nm to your destination) - do not change frequency without permission!
+: Provided an Approach Controller is active, the Center Controller will hand you over at a predetermined point (usually FL180 or 50nm to your destination) - do not change frequency without permission!
 
 
 
 Step 2
 
-: When you receive your frequency change (or other communication from the Controller), the Communication symbol will flash amber and the message will appear at the top of the screen, tap the Communication symbol to "Reply" to the message. If you were sent "Frequency change approved, good day" then there is currently no controller active in your area - we recommend just tuning out of the current frequency by tapping "Tune out of [airport ICAO code] [facility]" and continuing en-route. If you have been handed off to an active frequency, it will give you two options, either "Send & Switch" (which will reply and automatically tune you to the next frequency) or "Send" (which will reply but you will then need to tune to the next frequency manually)
+: When you receive your frequency change (or other communication from the Controller), the Communication button will flash amber and the message will appear at the top of the screen, tap the Communication button to "Reply" to the message. If you were sent "Frequency change approved, good day" then there is currently no Controller active in your area - we recommend just tuning out of the current frequency by tapping "Tune out of [airport ICAO code] [facility]" and continuing en-route. If you have been handed off to an active frequency, it will give you two options, either "Send & Switch" (which will reply and automatically tune you to the next frequency) or "Send" (which will reply but you will then need to tune to the next frequency manually)
 
 
 
@@ -95,7 +95,7 @@ Step 3
 
 Step 4
 
-: Select the Destination airport (make sure to have your destination airport in your flight plan otherwise it may be further down the list!)
+: Select the respective airport
 
 
 
@@ -103,9 +103,15 @@ Step 4
 
 
 
+Tip
+
+: Add your destination airport as the last fix in your flight plan. That way, the airport's frequencies will appear at the top of the list!
+
+
+
 Step 5
 
-: Tap on the approach type you would like to fly for "any runway" or select a specific runway which will then give you the option to pick the approach too
+: Tap on the approach type you would like to fly for "any runway" or select a specific runway and approach type
 
 
 
@@ -115,7 +121,7 @@ Step 5
 
 Step 6
 
-: The Radar Controller will either instruct you to "continue as filed", in which case continue you descent and own navigation; or to "expect vectors", in which case, be prepared to receive vectors for the approach
+: The Radar Controller will either instruct you to "continue as filed", in which case continue your descent and own navigation; or to "expect vectors", in which case, be prepared to receive vectors for the approach
 
 
 
@@ -129,7 +135,7 @@ Step 6
 
 Step 7
 
-: Be prepared to receive vectors and/or altitude assignments at any time during the approach, tap "reply" and then promptly fly them
+: Be prepared to receive vectors and/or altitude assignments at any time during the approach; tap "reply" and then promptly fly them
 
 
 
@@ -139,7 +145,7 @@ Step 7
 
 Step 8
 
-: Once the Radar Controller considers you established for the approach you are flying and are happy with your separation with other aircraft, they will hand you over to the Tower Controller (if present)
+: Once you are established and separation requirements are satisfied, the Radar Controller (at their discretion) will hand you over to the Tower Controller (if present)
 
 
 

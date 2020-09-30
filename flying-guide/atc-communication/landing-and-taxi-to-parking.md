@@ -2,7 +2,7 @@
 id: landing-and-taxi-to-parking
 title: Landing and Taxi to Parking
 meta: Learn how to communicate landing and taxi to parking instructions with ATC in Infinite Flight.
-order: 6
+order: 7
 contributor: babacar,lucaviness,planegeek,tomthetank
 ---
 
@@ -48,8 +48,8 @@ Step 4
 
 | Communication           | When to Send                                                 |
 | ----------------------- | ------------------------------------------------------------ |
-| Send                    | When no Radar Controller is present                          |
-| Request Specific Runway | When no Radar Controller is present                          |
+| Send                    | When not cleared for an approach by a Radar Controller       |
+| Request Specific Runway | When not cleared for an approach by a Radar Controller       |
 | On the ILS              | After being cleared for the ILS Approach by a Radar Controller |
 | On the GPS              | After being cleared for the GPS Approach by a Radar Controller |
 | On the Visual           | After being cleared for the Visual Approach by a Radar Controller |
@@ -76,13 +76,13 @@ Step 6
 
 
 
-| Communication Sent      | Response from Tower                                 |
-| ----------------------- | --------------------------------------------------- |
-| Send                    | Pattern Entry, Sequence (if required), Clearance    |
-| Request Specific Runway | Pattern Entry, Sequence (if required), Clearance    |
-| On the ILS              | Number [sequence], Cleared to [Land/For the Option] |
-| On the GPS              | Number [sequence], Cleared to [Land/For the Option] |
-| On the Visual           | Number [sequence], Cleared to [Land/For the Option] |
+| Communication Sent      | Response from Tower                                          |
+| ----------------------- | ------------------------------------------------------------ |
+| Send                    | Pattern Entry, Sequence (if required), Number [sequence] Cleared to [Land/For the Option] |
+| Request Specific Runway | Pattern Entry, Sequence (if required), Number [sequence] Cleared to [Land/For the Option] |
+| On the ILS              | Number [sequence] Cleared to [Land/For the Option]           |
+| On the GPS              | Number [sequence] Cleared to [Land/For the Option]           |
+| On the Visual           | Sequence (if required), Number [sequence] Cleared to [Land/For the Option] |
 
 
 
@@ -92,7 +92,7 @@ Step 6
 
 Step 7
 
-: Make sure to follow the issued clearance given by the Tower Controller by tapping "Reply"
+: When you receive your clearance (or other communication from the Controller), the Communication button will flash amber and the message will appear at the top of the screen, tap the Communication button to "Reply" to the message
 
 
 
@@ -121,21 +121,21 @@ Step 7
 
 ## Tower Controller to Pilot Communication Table
 
-| Instruction/Message                             | ATC Intention                                                | Pilot Actions                                                |
-| ----------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Cleared for Takeoff                             | ATC is clearing the pilot for takeoff.                       | The pilot should commence their takeoff roll.                |
-| Cancel Takeoff Clearance, Hold Position         | ATC is canceling the pilot's takeoff clearance.              | The pilot should abort their takeoff and hold on the runway. |
-| Hold Short                                      | ATC wants the pilot to hold their position off the runway.   | The pilot should proceed to the hold short line and stop.    |
-| Line Up and Wait                                | ATC wants the pilot to line up on the runway and hold their position. | The pilot should enter the runway, stop, and be prepared to takeoff. |
-| Back Taxi                                       | ATC wants the pilot to enter the runway and taxi to the specified end. | The pilot should taxi on the runway and, depending on the instruction, either exit and contact Ground or line up and wait. |
-| Exit Runway                                     | ATC wants the pilot to exit the runway they just landed on.  | The pilot should roll off the runway and contact Ground.     |
-| Exit Runway, Cross Runway X and Contact Ground. | ATC wants the pilot to exit the runway at a controlled speed, cross Runway X, and contact Ground. | The pilot should bring their aircraft to a safe speed, cross the specified runway, and contact Ground. No further communication with Tower is necessary. |
-| Exit Runway, Hold Short of Runway X             | ATC wants the pilot to exit the runway at a controlled speed and hold short of Runway X. | The pilot should bring their aircraft to a controlled speed and hold short at the specified runway. They should stay with Tower; runway crossing requests are unnecessary. |
-| Speed at your Discretion                        | ATC would like the pilot to manage their own speed.          | The pilot may fly at any safe speed, following speed restrictions. |
-| Maintain Present Speed                          | ATC wants the pilot to maintain their current speed until told otherwise. | The pilot should check their speed and maintain that until told otherwise. |
-| Maintain Slowest Practical Speed                | ATC wants the pilot to fly as slow as is safe.               | The pilot should decrease their speed as much as possible.   |
-| Maintain Best Forward Speed                     | ATC wants the pilot to fly as fast as is safe.               | The pilot should increase their speed as much as possible.   |
-| Adjust Speed to Follow Aircraft Ahead           | ATC wants the pilot to slow down to maintain separation with the aircraft ahead. | The pilot should adjust their speed so that they are flying at or less than the speed of the aircraft ahead. |
+| Instruction/Message                              | ATC Intention                                                | Pilot Actions                                                |
+| ------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Cleared for Take-Off                             | ATC is clearing the pilot for take-off.                      | The pilot should commence their take-off roll.               |
+| Cancel Take-Off Clearance, Hold Position         | ATC is canceling the pilot's take-off clearance.             | The pilot should abort their take-off and hold on the runway. |
+| Hold Short                                       | ATC wants the pilot to hold their position off the runway.   | The pilot should proceed to the hold short line and stop.    |
+| Line Up and Wait                                 | ATC wants the pilot to line up on the runway and hold their position. | The pilot should enter the runway, stop, and be prepared to takeoff. |
+| Back Taxi                                        | ATC wants the pilot to enter the runway and taxi to the specified end. | The pilot should taxi on the runway and, depending on the instruction, either exit and contact Ground or line up and wait. |
+| Exit Runway                                      | ATC wants the pilot to exit the runway they just landed on.  | The pilot should roll off the runway and contact Ground.     |
+| Exit Runway, Cross Runway XX and Contact Ground. | ATC wants the pilot to exit the runway at a controlled speed, cross Runway XX, and contact Ground. | The pilot should bring their aircraft to a safe speed, cross the specified runway, and contact Ground. No further communication with Tower is necessary. |
+| Exit Runway, Hold Short of Runway XX             | ATC wants the pilot to exit the runway at a controlled speed and hold short of Runway XX. | The pilot should bring their aircraft to a controlled speed and hold short at the specified runway. They should stay with Tower; runway crossing requests are unnecessary. |
+| Speed at your Discretion                         | ATC would like the pilot to manage their own speed.          | The pilot may fly at any safe speed, following speed restrictions. |
+| Maintain Present Speed                           | ATC wants the pilot to maintain their current speed until told otherwise. | The pilot should check their speed and maintain that until told otherwise. |
+| Maintain Slowest Practical Speed                 | ATC wants the pilot to fly as slow as is safe.               | The pilot should decrease their speed as much as possible.   |
+| Maintain Best Forward Speed                      | ATC wants the pilot to fly as fast as is safe.               | The pilot should increase their speed as much as possible.   |
+| Adjust Speed to Follow Aircraft Ahead            | ATC wants the pilot to slow down to maintain separation with the aircraft ahead. | The pilot should adjust their speed so that they are flying at or less than the speed of the aircraft ahead. |
 
 
 
@@ -145,7 +145,7 @@ Step 7
 
 Step 1
 
-: After landing, exit the runway in a controller manner, but as expeditiously as possible. You may be told which direction to exit the runway, and if to hold short or cross of other runways once clear (if applicable)
+: After landing, expeditiously exit the runway in a controller manner. The exit transmission may also include which direction to exit, and hold shot/crossing instructions for other runways
 
 
 
@@ -155,7 +155,7 @@ Step 1
 
 Step 2
 
-: When you are able to, tap the Communication Symbol and reply to the message sent by the Tower Controller (this may include an instruction to "Contact Ground")
+: When you are able to, tap the Communication button and reply to the message sent by the Tower Controller (this may include an instruction to "Contact Ground")
 
 
 
@@ -175,7 +175,7 @@ Step 3
 
 Tip
 
-: Make sure that you clear the runway completely before contacting Ground - don't forget, you do not need to come to a complete stop before contacting Ground, try to keep moving for efficiency!
+: Make sure that you clear the runway completely before contacting Ground - don't forget, you do not need to come to a complete stop, try to keep moving for efficiency!
 
 
 
@@ -191,17 +191,11 @@ Step 4
 
 Step 5
 
-: The Ground Controller will give you taxi instructions which you can tap "reply" to 
+: : When taxi instructions are received (or other communication from the Controller), the Communication button will flash amber and the message will appear at the top of the screen, tap the Communication button to "Reply" to the message
 
 
 
 ![Reply to Ground](_images/manual/frames/reply-to-ground.jpg)
-
-
-
-Tip
-
-: Controllers will try to be proactive and give you runway crossing and progressive taxi instructions when required, but you can also request various things from the Communication Tab if you need to
 
 
 
