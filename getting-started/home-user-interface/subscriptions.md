@@ -33,10 +33,6 @@ The Infinite Flight Pro Subscription comes with all In-App Purchases unlocked, i
 
 
 
-![Account Settings Page](_images/manual/frames/account.jpg)
-
-
-
 Step 1
 
 : When Infinite Flight is installed, it will automatically check for previous subscriptions
