@@ -51,7 +51,17 @@ Tip
 
 ## Virtual Organization Affiliation
 
-Provided your account has been linked using the [steps above](/guide/getting-started/home-user-interface/user-profile#linking-community-forum-account), you can show your affiliation to a Virtual Organization! Once added, this can be found by tapping on any aircraft from your map or mini map and then selecting the respective callsign/username. The "info tab" will automatically display which will show the VO affiliation. 
+Your Virtual Organization affiliation can be found displayed in app next to your Username and within the "info tab" (tap on any aircraft from your map or mini map and then select the respective callsign/username to show the "info tab").
+
+
+
+To add your VO affiliation, follow the steps below:
+
+
+
+Tip
+
+: Your Community Forum account must be linked for the VO affiliation to show in app, follow the [steps above](/guide/getting-started/home-user-interface/user-profile#linking-community-forum-account) to do this!
 
 
 
