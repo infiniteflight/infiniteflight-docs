@@ -51,7 +51,7 @@ Tip
 
 ## Virtual Organization Affiliation
 
-Your Virtual Organization affiliation can be found displayed in app next to your Username and within the "info tab" (tap on any aircraft from your map or mini map and then select the respective callsign/username to show the "info tab").
+Your Virtual Organization affiliation can be found displayed in app next to your Username as well as within the "info tab" (tap on any aircraft from your map or mini map and then select the respective callsign/username to show the "info tab").
 
 
 
