@@ -113,19 +113,19 @@ Include your API key (`<apikey>`) by either:
 
 #### UserStats
 
-| Name                | Type            | Description                                                  |
-| ------------------- | --------------- | ------------------------------------------------------------ |
-| userId              | string (uuid)   | Unique identifier for the user                               |
-| virtualOrganization | string          | The virtual organization of the user's forum account if linked. Can be null if not set |
-| discourseUsername   | string          | The user's forum username if the account is linked. If the account isn't linked, this will be null |
-| groups              | [string (uuid)] | A list of groups the user can be a part of. Main groups: `"Staff = d07afad8-79df-4363-b1c7-a5a1dde6e3c8"`, `"Moderators = 8c93a113-0c6c-491f-926d-1361e43a5833"`, `"IFATC Controller = df0f6341-5f6a-40ef-8b73-087a0ec255b5"` |
-| errorCode           | integer         | Status code of user query. Not in use for this endpoint      |
-| onlineFlights       | integer         | Number of flights carried out in multiplayer                 |
-| violations          | integer         | Number of Level 1, 2 and 3 violations the user received in multiplayer |
-| xp                  | double          | Total XP obtained in multiplayer                             |
-| landingCount        | integer         | Total landings carried out in multiplayer                    |
-| flightTime          | double          | Total flight time in minutes in multiplayer                  |
-| atcOperations       | integer         | Total number of ATC Operations on the Expert Server          |
-| atcRank             | integer         | ATC Rank on the Expert Server. _Enum_: `"Observer = 0"`, `"ATC Trainee = 1"`, `"ATC Apprentice = 2"`, `"ATC Specialist = 3"`, `"ATC Officer = 4"`, `"ATC Supervisor = 5"`, `"ATC Recruiter = 6"`, `"ATC Manager = 7"`. Can be null if user isn't an IFATC controller. |
-| grade               | integer         | The grade of the user, from 1 to 5.                          |
-| hash                | string          | A short-form user identifier, shown in the app to identify anonymous users. |
+| Name                  | Type            | Description                                                  |
+| --------------------- | --------------- | ------------------------------------------------------------ |
+| `userId`              | string (uuid)   | Unique identifier for the user                               |
+| `virtualOrganization` | string          | The virtual organization of the user's forum account if linked. Can be null if not set |
+| `discourseUsername`   | string          | The user's forum username if the account is linked. If the account isn't linked, this will be null |
+| `groups`              | [string (uuid)] | A list of groups the user can be a part of. Main groups: `"Staff = d07afad8-79df-4363-b1c7-a5a1dde6e3c8"`, `"Moderators = 8c93a113-0c6c-491f-926d-1361e43a5833"`, `"IFATC Controller = df0f6341-5f6a-40ef-8b73-087a0ec255b5"` |
+| `errorCode`           | integer         | Status code of user query. Not in use for this endpoint      |
+| `onlineFlights`       | integer         | Number of flights carried out in multiplayer                 |
+| `violations`          | integer         | Number of Level 1, 2 and 3 violations the user received in multiplayer |
+| `xp`                  | double          | Total XP obtained in multiplayer                             |
+| `landingCount`        | integer         | Total landings carried out in multiplayer                    |
+| `flightTime`          | double          | Total flight time in minutes in multiplayer                  |
+| `atcOperations`       | integer         | Total number of ATC Operations.                              |
+| `atcRank`             | integer         | ATC Rank on the Expert Server. _Enum_: `"Observer = 0"`, `"ATC Trainee = 1"`, `"ATC Apprentice = 2"`, `"ATC Specialist = 3"`, `"ATC Officer = 4"`, `"ATC Supervisor = 5"`, `"ATC Recruiter = 6"`, `"ATC Manager = 7"`. Can be null if user isn't an IFATC controller. |
+| `grade`               | integer         | The grade of the user, from 1 to 5.                          |
+| `hash`                | string          | A short-form user identifier, shown in the app to identify anonymous users. |
