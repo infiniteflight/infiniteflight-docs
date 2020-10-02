@@ -11,7 +11,11 @@ order: 9
 
 ## What is a Pro Subscription?
 
-The Infinite Flight Pro Subscription comes with all In-App Purchases unlocked, including any newly added content during the active subscription period. Only items purchased separately will remain available once your subscription expires or is cancelled.
+The Infinite Flight Pro Subscription* comes with all In-App Purchases unlocked, including any newly added content during the active subscription period. Only items purchased separately will remain available once your subscription expires or is cancelled.
+
+
+
+**Subscriptions will automatically renew but can be cancelled by visiting the [Google Play](https://support.google.com/googleplay/answer/7018481?co=GENIE.Platform%3DAndroid&hl=en) or [App Store](https://support.apple.com/en-gb/HT202039)*
 
 
 
@@ -20,12 +24,6 @@ The Infinite Flight Pro Subscription comes with all In-App Purchases unlocked, i
 | 1 Month   | $9.99       |
 | 6 Months  | $49.99      |
 | 12 Months | $79.99      |
-
-
-
-*Android: Google Play Store customers can now purchase a subscription with a redeem card and store account balances. The subscriptions will automatically renew but can be cancelled from your PlayStore account at the Infinite Flight app page.*
-
-*Apple: iTunes customers can use redeem cards or account credits without a credit card to purchase a Pro Subscription. iTunes customers will not renew automatically and are prompted to accept or decline renewals upon subscription expiration.*
 
 
 

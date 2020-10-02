@@ -8,6 +8,16 @@ contributor: babacar,lucaviness,planegeek
 
 # Overview
 
+Communication is an essential part of flying the skies of Infinite Flight, this section covers all aspects from pushback, to parking on stand. 
+
+
+
+On this page, you can find the following miscellaneous items covered:
+
+- [When to Contact ATC](/guide/flying-guide/atc-communication/overview#when-to-contact-atc-on-departure)
+- [Common Mistakes](/guide/flying-guide/atc-communication/overview#common-mistakes-when-communicating-with-atc)
+- [Special Circumstances](/guide/flying-guide/atc-communication/overview#special-circumstances).
+
 
 
 Tip
