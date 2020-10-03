@@ -35,3 +35,19 @@ Keep in mind the Connect API is disabled be default.
 ## API Keys
 
 No API Key is required for the Connect API.
+
+## Prerequisites
+
+This documentation is aimed at someone with knowledge of:
+
+- Transmission Control Protocol (TCP)
+- Data Types
+- JSON
+- Infinite Flight Operations
+
+If you are not knowledgeable in these areas, you are of course welcome to browse the documentation. You can also check out the following resources to help you learn these skills.
+
+- [What is TCP/IP? | Cloudflare](https://www.cloudflare.com/learning/ddos/glossary/tcp-ip/)
+- [W3Schools - C# Data Types](https://www.w3schools.com/cs/cs_data_types.asp)
+- [W3Schools - JSON Introduction](https://www.w3schools.com/js/js_json_intro.asp)
+- [Infinite Flight Flying Guide](/guide/flying-guide)
