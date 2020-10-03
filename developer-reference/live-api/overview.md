@@ -39,7 +39,7 @@ The Live API uses HTTP and the endpoints require you to make a GET or POST reque
 
 ## Prerequisites
 
-This documentation is aimed at people with experience in the following areas
+This documentation is aimed at someone with knowledge of:
 
 - HTTP
 - JSON
@@ -49,4 +49,4 @@ If you are not knowledgeable in these areas, you are of course welcome to browse
 
 - [W3Schools - What is HTTP?](https://www.w3schools.com/whatis/whatis_http.asp)
 - [W3Schools - JSON Introduction](https://www.w3schools.com/js/js_json_intro.asp)
-- [Infinite Flight Flying Guide](/guide/getting-started/home-user-interface/user-profile#the-grade-table)
+- [Infinite Flight User Guide](/guide/getting-started/home-user-interface/user-profile#the-grade-table)
