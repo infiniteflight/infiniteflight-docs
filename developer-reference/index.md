@@ -1,7 +1,7 @@
 ---
 id: index
 title: Introduction
-meta: Learn how to get the most out of Infinite Flight with our online documentation.
+meta: Reference for the Infinite Flight Live and Connect APIs
 ---
 
 # Developer Reference
