@@ -33,7 +33,7 @@ The Connect API is our local TCP API used for interacting with Infinite Flight d
 - Send commands to control aircraft systems or the simulator.
 - Retrieve data about the simulation, including aircraft state, ATC instructions and more.
 
-No API key is required. Documentation is available on [GitHub](https://github.com/flyingdevelopmentstudio/infiniteflight-api).
+No API key is required. Documentation is available [here](/guide/developer-reference/connect-api/overview).
 
 
 
