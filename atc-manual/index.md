@@ -93,3 +93,16 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 +++
 
 
+
++++ Summary of Changes - Version: 2.5.2
+
+| Location | Change                                |
+| -------- | ------------------------------------- |
+| 7A       | New section added (restricted access) |
+| 7B       | New section added (restricted access) |
+| 7C       | New section added (restricted access) |
+| 7C       | New section added (restricted access) |
+
++++
+
+
