@@ -21,13 +21,13 @@ order: 1
 
 Step 1
 
-: Next to Community Forum Account, tap "Connect" button
+: Next to Community Forum Account, tap the "Connect" button
 
 
 
 Step 2
 
-: A pop up will appear to confirm that you are happy for your information to be shared between the *Infinite Flight* app, and the *infiniteflight.com* website. Tap "Continue"
+: A pop up will appear to confirm that you are happy for your information to be shared between the *Infinite Flight* app and website. Tap "Continue"
 
 
 
