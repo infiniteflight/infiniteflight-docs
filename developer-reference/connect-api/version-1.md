@@ -11,17 +11,14 @@ This documentation is for Version 1 of the Connect API. Using this API is no lon
 
 ## Connection
 
- 1. To enable Infinite Flight command server, check `Enable Infinite Flight Connect` in `Settings > General`
- 2. Infinite Flight will broadcast UDP packets on port `15000` containing its own IP address and Port.
-Example message :
-`{ "Address" : "192.168.0.11", "Port" : 10111 }`
+ 1. To enable Infinite Flight command server, check **Enable Infinite Flight Connect** in **Settings > General**
+ 2. Infinite Flight will broadcast UDP packets on port `15000` containing its own IP address and Port. Example message: `{ "Address": "192.168.0.11", "Port": 10111 }`
 
  3. You must then establish a TCP connection on this given host and port
 
 ## Get Airplane State
 
-This special command will request the airplane state from Infinite Flight. Response will be received on the same socket :
-`{ "Command": "Airplane.GetState", "Parameters": []}`
+This special command will request the airplane state from Infinite Flight. Response will be received on the same socket: `{ "Command": "Airplane.GetState", "Parameters": []}`
 
 ## Command Messages
 
@@ -29,8 +26,8 @@ A command message is a object of the following form :
 
 
 There are two types of command messages :
- - Commands : `{ "Command": "Commands.{CommandName}", "Parameters": []}`
- - Axis : `{ "Command": "NetworkJoystick.{AxisCommandName}", "Parameters": []}`
+ - Commands: `{ "Command": "Commands.{CommandName}", "Parameters": []}`
+ - Axis: `{ "Command": "NetworkJoystick.{AxisCommandName}", "Parameters": []}`
 
 
 ### List of commands
@@ -39,8 +36,8 @@ There are two types of command messages :
 
 Joystick axis use the `NetworkJoystick.SetAxisValue` command with two parameters:
 
- - Axis Name : `0` for Roll, `1` for Pitch
- - Value : a value between `-1024` and `1024`
+ - Axis Name: `0` for Roll, `1` for Pitch
+ - Value: a value between `-1024` and `1024`
 
 Example :
 ```json
