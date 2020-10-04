@@ -1,5 +1,5 @@
 ---
-id: overview
+id: live-overview
 title: Overview
 meta: Overview of the Infinite Flight Live API
 order: 1
@@ -45,7 +45,7 @@ This documentation is aimed at someone with knowledge of:
 - JSON
 - Infinite Flight System (Grades, Servers, etc.)
 
-If you are not knowledgeable in these areas, you are of course welcome to browse the documentation. You can also check out the following resources to help you learn these skills.
+If you are not knowledgeable in these areas, you are of course welcome to browse the documentation. You can also check out these resources to help you learn.
 
 - [W3Schools - What is HTTP?](https://www.w3schools.com/whatis/whatis_http.asp)
 - [W3Schools - JSON Introduction](https://www.w3schools.com/js/js_json_intro.asp)

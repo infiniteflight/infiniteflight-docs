@@ -20,11 +20,11 @@ Step 3
 
 ## Interacting with the API
 
-#### Data Formats
+##### Data Formats
 
 All data must be sent as it's type. For instance, if you're trying to send boolean `true` you must encode it as a boolean, not an integer or string. 
 
-### Obtaining the Manifest
+#### Obtaining the Manifest
 
 The Connect API exposes different states for every aircraft, and as such the applicable states and their IDs change depending on what aircraft you are operating. You can obtain a manifest of available states by sending integer `-1` followed by boolean `false` to the API. This will return the `ID` you sent (`-1`), and the `length` of the data you are about to receive in bytes as an integer. All information received from the API begins this way. Following the `ID` and `length`, the manifest is represented as a (very long) string. The API represents strings by sending their length in bytes as an integer followed by the actual string. The string will have the format `511,2,aircraft/0/systems/nav_sources/adf/2/distance_to_glide_path\n851,3,infiniteflight/cameras/4/x_angle\n81,4,api_joystick/buttons/8/name...`. This string can be split on `\n` and then generalizes to `ID, Type, Path` for each state.
 
@@ -39,11 +39,11 @@ The API defines data types according to the following integers:
 | 4       | String           |
 | 5       | Long             |
 
-### Sending Data
+#### Sending Data
 
 Sending data is done by sending information to the API in one of the following ways.
 
-#### Get State
+##### Get State
 
 A `GetState` command is sent by sending:
 
@@ -54,7 +54,7 @@ The state you request will be returned via the API on the same socket.
 
 **Example:** Sending `635`, then  `false` will result in Infinite Flight sending you `635`, then `1`, then `1` if your strobe lights are on.
 
-#### Set State
+##### Set State
 
 A `SetState` command is sent by sending:
 
@@ -64,7 +64,7 @@ A `SetState` command is sent by sending:
 
 **Example:** Sending `635`, then `true`, then `0` will turn your strobe lights off.
 
-#### Run Command
+##### Run Command
 
 A `RunCommand` is sent by sending:
 
@@ -73,7 +73,7 @@ A `RunCommand` is sent by sending:
 
 **Example:** Sending `1048634` then `false` will toggle the autopilot.
 
-### Receiving Data
+#### Receiving Data
 
 All states begin with two integer values:  `ID` and `Length` of the data.
 
