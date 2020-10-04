@@ -55,7 +55,7 @@ Step 1
 
 Step 2
 
-: Approaching your TOD, make sure to [request altitude change](/guide/getting-started/pilot-user-interface/communication#communication) if there is active ATC
+: Approaching your TOD, make sure to [request altitude change](/guide/flying-guide/atc-communication/descent-and-approach#descent-communication-summary) if there is active ATC
 
 
 
@@ -110,7 +110,7 @@ In general, Radar Controllers will try to let you fly the selected procedure as 
 
 Step 1
 
-: Acknowledge the instruction sent to you using the [Communication](/guide/getting-started/pilot-user-interface/communication#communication) button
+: Acknowledge the instruction sent to you using the [Communication](/guide/flying-guide/atc-communication/descent-and-approach#approach-communication-summary) button
 
 
 

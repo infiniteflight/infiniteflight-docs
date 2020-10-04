@@ -11,7 +11,7 @@ contributor: deercrusher
 The Settings menu allows you to customize your Infinite Flight experience before and during play. Below is a guide to help you navigate your way around and to find the best settings for you!
 
 
-![Settings Page](_images/manual/frames/settings-main.jpg)
+![Settings Page](_images/manual/frames/settings-main1.jpg)
 
 
 1. On the left hand side of the screen are 5 categories that split the settings up, tap each one to find settings within
@@ -74,7 +74,7 @@ Tip
 
  
 
-![Live Settings Page](_images/manual/frames/settings-live.jpg)
+![Live Settings Page](_images/manual/frames/settings-live1.jpg)
 
 
 
@@ -84,7 +84,8 @@ Tip
 | Hide Airplane Dots                              | Hides the dot/white box of other players in Infinite Flight Live |
 | Automatic Airplane Downloads Over Cellular Data | Downloads airplanes automatically even when on Cellular Network |
 | Airplane Count                                  | Controls how many airplanes are shown in Live mode (if your device performance drops, consider lowering this setting until you find one that your device performs well with) |
-| Pilot Voice                                     | Select your voice for your ATC communications (*different voices can be downloaded from your device settings outside of Infinite Flight) |
+| Show Username In-Flight                         | Display your username in-flight. Uncheck to remain anonymous |
+| Pilot Voice                                     | Select your voice for your ATC communications (different voices can be downloaded* from your device settings outside of Infinite Flight) |
 | Voice Pitch                                     | Changes the pitch of your selected voice                     |
 | Default Voice                                   | Select the default voice for other pilots/ATC (downloaded voices on your device can be used for both Pilot and/or Default Voice) |
 
@@ -97,13 +98,31 @@ Tip
 
 
 
+## Account 
+
+
+
+![Account Settings Page](_images/manual/frames/account.jpg)
+
+
+
+| Setting                                                      | What it does                                                 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Your Infinite Flight Pro Subscription](/guide/getting-started/home-user-interface/subscriptions) | This will either show the plans available to purchase if you do not have a current Infinite Flight Pro subscription; or if you do, the date it will automatically renew on |
+| [Callsign](/guide/getting-started/home-user-interface/user-profile#callsigns) | Used for communication with controllers and other pilots     |
+| [Community Forum Account](/guide/getting-started/home-user-interface/user-profile#linking-community-forum-account) | Connect an [Infinite Flight Community](https://community.infiniteflight.com) profile to show your username in-flight. This connection also allows you to sign in if you switch device platforms |
+| Account Statistics                                           | See your [grade level and violation history](/guide/getting-started/home-user-interface/user-profile#the-grade-table). These stats determine multiplayer server level eligibility |
+| Switch Account                                               | Use a different Infinite Flight account to access a subscription bought on another device |
+
+
+
 ## Audio
 
 There are two sliders that adjust the SFX and ATC Volume. Slide your finger along the slider to find the desired setting.
 
 
 
-![Audio Settings Page](_images/manual/frames/settings-audio.jpg)
+![Audio Settings Page](_images/manual/frames/settings-audio1.jpg)
 
 
 
@@ -126,7 +145,7 @@ Infinite Flight supports both iOS and Android device; because of this, the graph
 
 
 
-![Graphics Settings Page](_images/manual/frames/settings-graphics.jpg)
+![Graphics Settings Page](_images/manual/frames/settings-graphics1.jpg)
 
 
 
@@ -160,7 +179,7 @@ Infinite Flight supports both iOS and Android device; because of this, the graph
 
 
 
-![Control Settings Page](_images/manual/frames/settings-controls.jpg)
+![Control Settings Page](_images/manual/frames/settings-controls1.jpg)
 
 
 

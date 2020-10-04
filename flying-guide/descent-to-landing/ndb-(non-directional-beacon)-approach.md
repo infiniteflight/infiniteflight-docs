@@ -89,3 +89,4 @@ Once your final configuration has been selected and you have decelerated to your
 | Lateral Navigation | No more than 1 dot of lateral deviation                    |
 
 **Environmental conditions such as a tailwind, or a steeper than usual flight path angle could increase the descent rate required to more than 1000ft/min*
+

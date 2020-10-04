@@ -88,7 +88,7 @@ There are two options for departure, these are:
 
 Step 2
 
-: [Report ready for departure](/guide/getting-started/pilot-user-interface/communication#communication) (or announce take-off on Unicom) and select the type of departure you intend on flying
+: [Report ready for departure](/guide/flying-guide/atc-communication/take-off-and-departure#take-off-communication-summary) (or announce take-off on Unicom) and select the type of departure you intend on flying
 
 
 

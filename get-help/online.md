@@ -11,7 +11,7 @@ This is where you will find help about your online experience in Infinite Flight
 
 
 
-## Can I play Infinite Flight offline?
+## Can I Play Infinite Flight Offline?
 
 An internet connection is required at all times to play Infinite Flight.
 
@@ -21,13 +21,13 @@ For the time being, we have decided to stream our terrain & scenery imagery whic
 
 
 
-## When I try to login, I receive an error saying that this account has never been used with Infinite Flight?
+## When I try to Login, I Receive an Error saying that this Account has never been used with Infinite Flight?
 
 This is something you can see when you have yet to create an account in Infinite Flight. An account is created when you purchase a PRO subscription and can’t be created before that. You then have the option to link your account to a Google profile. You are most likely trying to sign in with credentials that have yet to be linked to an account in Infinite Flight yet. 
 
 
 
-## I only see boxes and/or names of other pilots in the app, not their actual aircraft? 
+## I only see Boxes and/or Names of Other Pilots in the App, not their Actual Aircraft? 
 
 This is most likely because the aircraft they are flying is not downloaded to your device. To fix this, go to Settings > Live > adjust the “Airplane count” to an appropriate amount.
 
@@ -37,7 +37,7 @@ Additionally, if you are using cellular you need to make sure to have the “Aut
 
 
 
-## I'm receiving an error saying that my account is being used on another device?
+## I'm Receiving an Error Saying that my Account is being used on Another Device?
 
 This can happen if the connection between your device and our servers times out multiple times in a shorter time period.
 
@@ -49,13 +49,13 @@ If this happens, there is unfortunately no way to recover the current flight and
 
 
 
-## My connection to the Weather server is red.
+## My Connection to the Weather Server is Red.
 
 This issue is usually only temporary and resolves itself on the hour. If it remains for a longer time period, turning on “Flight mode” on your device for 30 seconds could resolve the issue. If it still remains red and could become a problem for you during your flight, feel free to send an e-mail to [support@infiniteflight.com](mailto:support@infiniteflight.com) for further assistance.
 
 
 
-## I'm unable to communicate with ATC.
+## I'm Unable to Communicate with ATC.
 
 This is generally a tricky one and often traces back to a spotty connection. If this should happen to you, one thing that could help is to put your device to “Flight mode” for about 30 seconds so that the connection to our Live servers is re-established. If that doesn’t help, please depart the airspace and divert to another airport. This is to avoid interference with other traffic in the area.
 

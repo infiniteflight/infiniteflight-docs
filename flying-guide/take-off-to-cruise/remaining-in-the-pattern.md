@@ -69,7 +69,7 @@ Step 3
 
 Step 4
 
-: Once you've made that second 90 degree turn onto downwind, if you're on Unicom you should [report your position](/guide/getting-started/pilot-user-interface/communication#communication), and continue to do so on all legs of the pattern for traffic awareness. If there is ATC, you don't need to if you've been cleared for the option
+: Once you've made that second 90 degree turn onto downwind, if you're on Unicom you should [report your position](/guide/flying-guide/atc-communication/remaining-in-the-pattern#pilot-to-tower-controller-communication-tables), and continue to do so on all legs of the pattern for traffic awareness. If there is ATC, you don't need to if you've been cleared for the option
 
 
 

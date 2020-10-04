@@ -2,8 +2,8 @@
 id: en-route
 title: En-Route
 meta: Learn how to communicate en-route instructions with ATC in Infinite Flight.
-order: 4
-contributor: babacar,lucaviness,planegeek
+order: 5
+contributor: babacar,lucaviness,planegeek,finn-14,Filipe_Samuel_Braine
 ---
 
 # En-Route
@@ -16,7 +16,7 @@ contributor: babacar,lucaviness,planegeek
 
 Step 1
 
-: If you were sent "Frequency change approved, good day" then there is currently no controller active in your area - we recommend just tuning out of the current frequency by tapping "Tune out of [airport ICAO code] [facility]" and continuing en-route. If you have been handed off to an active frequency, it will give you the two options, either "Send & Switch" (which will reply and automatically tune you to the next frequency) or "Send" (which will reply but you will then need to tune to the next frequency manually)
+: If you were sent "Frequency change approved, good day" then there is currently no Controller active in your area - we recommend just tuning out of the current frequency by tapping "Tune out of [airport ICAO code] [facility]" and continuing en-route. If you have been handed off to an active frequency, it will give you two options, either "Send & Switch" (which will reply and automatically tune you to the next frequency) or "Send" (which will reply but you will then need to tune to the next frequency manually)
 
 
 
@@ -26,14 +26,14 @@ Step 1
 
 Step 2
 
-: Once you are tuned into the Radar Controller's frequency, the following table outlines what requests can be made: 
+: Once you are tuned into the Radar Controller's frequency, the following table outlines which requests can be transmitted: 
 
 
 
-| Departure Type      | Check In | Flight Following |
-| ------------------- | -------- | ---------------- |
-| With Flight Plan    | Yes      | Yes              |
-| With no Flight Plan | No       | Yes (VFR)        |
+| Departure Type      | Check In [IFR] | Flight Following [VFR] |
+| ------------------- | -------------- | ---------------------- |
+| With Flight Plan    | Yes            | No                     |
+| Without Flight Plan | No             | Yes                    |
 
 
 
@@ -43,17 +43,17 @@ Step 2
 
 Tip
 
-: Make sure to only make ONE request, multiple transmissions increase Controller workload!
+: Make sure to only make ONE request, multiple transmissions increase Controller workload and could result in a [Violation](/guide/getting-started/pilot-user-interface/violation-reasons#spamming-frequency---unecessary-duplicate-requests)!
 
 
 
 Step 3
 
-: Make sure to monitor the airspace that you are flying into whilst en-route, if you notice you are about to enter an active area or have been sent an "On-Guard" message, tune into the frequency. Below is a summary of the lateral and vertical boundaries of the different facilities:
+: Make sure to monitor the airspace you are flying in, if you notice you are about to enter an active area or have been sent an "On-Guard" message, tune into the frequency. Below is a summary of the lateral and vertical boundaries of the different facilities:
 
 
 
-| Position           | Vertical Jurisdiction | Lateral Boundary                                     |
+| Facility           | Vertical Jurisdiction | Lateral Boundary                                     |
 | ------------------ | --------------------- | ---------------------------------------------------- |
 | Tower              | SFC - 5000ft AAL      | Most immediate ring/boundary surrounding the airport |
 | Departure/Approach | SFC - 18,000ft/FL180  | 50nm                                                 |

@@ -142,7 +142,7 @@ Step 4
 
 Step 5
 
-: If it is a Radar Controller, you can [Check In](/guide/atc-manual/6.-radar/6.4-departure-check-in#the-use-of-check-in) or request a [VFR Flight Following](/guide/atc-manual/6.-radar/6.5-flight-following#6.5-flight-following) (although the latter is recommended if you specifically want to fly VFR - if you have a flight plan, Controllers may think you are asking for an IFR Flight Following when checking in). If it is a Tower Controller, you need to [request a transition](/guide/atc-manual/3.-tower/3.3-pattern-work-transitions-flight-of-xx#transitions) to transit through their airspace
+: If it is a Radar Controller, you can [Check In](/guide/flying-guide/atc-communication/take-off-and-departure#departure-communication-summary) or request a [VFR Flight Following](/guide/atc-manual/6.-radar/6.5-flight-following#6.5-flight-following) (although the latter is recommended if you specifically want to fly VFR - if you have a flight plan, Controllers may think you are asking for an IFR Flight Following when checking in). If it is a Tower Controller, you need to [request a transition](/guide/flying-guide/atc-communication/take-off-and-departure#pilot-to-tower-controller-communication-tables) to transit through their airspace
 
 
 
