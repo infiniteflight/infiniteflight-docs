@@ -1,5 +1,5 @@
 ---
-id: connect-overview
+id: overview
 title: Overview
 meta: Overview of the Infinite Flight Connect API
 order: 1

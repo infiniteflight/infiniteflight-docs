@@ -1,5 +1,5 @@
 ---
-id: live-overview
+id: overview
 title: Overview
 meta: Overview of the Infinite Flight Live API
 order: 1
