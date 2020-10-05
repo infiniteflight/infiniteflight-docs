@@ -2,6 +2,7 @@
 id: overview
 title: Overview
 meta: Overview of the Infinite Flight Connect API
+contributor: KaiM
 ---
 
 # Infinite Flight Connect API Overview

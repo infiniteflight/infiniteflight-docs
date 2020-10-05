@@ -2,6 +2,7 @@
 id: version-1
 title: Connect API v1
 meta: Reference for the Infinite Flight Connect API Version 1
+contributor: KaiM
 ---
 
 # Connect API v1
