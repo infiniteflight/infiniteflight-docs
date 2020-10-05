@@ -6,7 +6,7 @@ order: 1
 contributor: babacar,lucaviness,planegeek
 ---
 
-# Overview
+# ATC Communication
 
 Communication is an essential part of flying the skies of Infinite Flight, this section covers all aspects from pushback, to parking on stand. 
 
