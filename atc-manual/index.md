@@ -21,7 +21,7 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 
 ## Version: 20.2
 
-## Last Updated: 1530Z - 30 SEP 20
+## Last Updated: 1230Z - 06 OCT 20
 
 
 
@@ -89,19 +89,6 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 | 6.10.5   | Clarification added on issuing ILS clearance without an intercept heading |
 | 7A.2.5   | Deletion of reference to IFC Forum                           |
 | 7B.3.2   | Radar test sites adjusted                                    |
-
-+++
-
-
-
-+++ Summary of Changes - Version: 2.5.2
-
-| Location | Change                                |
-| -------- | ------------------------------------- |
-| 7A       | New section added (restricted access) |
-| 7B       | New section added (restricted access) |
-| 7C       | New section added (restricted access) |
-| 7C       | New section added (restricted access) |
 
 +++
 
