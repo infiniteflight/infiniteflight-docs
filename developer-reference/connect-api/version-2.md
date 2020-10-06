@@ -3,6 +3,7 @@ id: version-2
 title: Connect API v2
 meta: Reference for the Infinite Flight Connect API Version 2
 order: 3
+contributor: KaiM
 ---
 
 # Connect API v2
