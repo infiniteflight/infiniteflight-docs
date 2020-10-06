@@ -2,26 +2,24 @@
 id: version-1
 title: Connect API v1
 meta: Reference for the Infinite Flight Connect API Version 1
+order: 2
 contributor: KaiM
 ---
 
 # Connect API v1
 
-This documentation is for Version 1 of the Connect API. Using this API is no longer recommended due to it's slow speed. See the [Version 2 Documentation](/guide/developer-reference/connect-api/version-2) for more information/
+This documentation is for Version 1 of the Connect API. Using this API is no longer recommended due to it's slow speed. See the [Version 2 Documentation](/guide/developer-reference/connect-api/version-2) for more information.
 
 ## Connection
 
- 1. To enable Infinite Flight command server, check `Enable Infinite Flight Connect` in `Settings > General`
- 2. Infinite Flight will broadcast UDP packets on port `15000` containing its own IP address and Port.
-Example message :
-`{ "Address" : "192.168.0.11", "Port" : 10111 }`
+ 1. To enable Infinite Flight command server, check **Enable Infinite Flight Connect** in **Settings > General**
+ 2. Infinite Flight will broadcast UDP packets on port `15000` containing its own IP address and Port. Example message: `{ "Address": "192.168.0.11", "Port": 10111 }`
 
  3. You must then establish a TCP connection on this given host and port
 
 ## Get Airplane State
 
-This special command will request the airplane state from Infinite Flight. Response will be received on the same socket :
-`{ "Command": "Airplane.GetState", "Parameters": []}`
+This special command will request the airplane state from Infinite Flight. Response will be received on the same socket: `{ "Command": "Airplane.GetState", "Parameters": []}`
 
 ## Command Messages
 
@@ -29,8 +27,8 @@ A command message is a object of the following form :
 
 
 There are two types of command messages :
- - Commands : `{ "Command": "Commands.{CommandName}", "Parameters": []}`
- - Axis : `{ "Command": "NetworkJoystick.{AxisCommandName}", "Parameters": []}`
+ - Commands: `{ "Command": "Commands.{CommandName}", "Parameters": []}`
+ - Axis: `{ "Command": "NetworkJoystick.{AxisCommandName}", "Parameters": []}`
 
 
 ### List of commands
@@ -39,11 +37,11 @@ There are two types of command messages :
 
 Joystick axis use the `NetworkJoystick.SetAxisValue` command with two parameters:
 
- - Axis Name : `0` for Roll, `1` for Pitch
- - Value : a value between `-1024` and `1024`
+ - Axis Name: `0` for Roll, `1` for Pitch
+ - Value: a value between `-1024` and `1024`
 
 Example :
-```
+```json
 {
   "Command": "NetworkJoystick.SetAxisValue",
   "Parameters": [ { "Name": 0, "Value": -340 } ]
@@ -54,7 +52,7 @@ Example :
 #### Plane Systems
 
 Commands to control various systems of the plane. Example, lower flaps down :
-```
+```json
 {
   "Command": "Commands.FlapsDown",
   "Parameters": []
@@ -85,7 +83,7 @@ Commands to control various systems of the plane. Example, lower flaps down :
 #### Lights
 
 Following commands toggle the state of a light. Example :
-```
+```json
 {
   "Command": "Commands.LandingLights",
   "Parameters": []
@@ -103,7 +101,7 @@ Following commands toggle the state of a light. Example :
 ##### Camera Commands
 
 Following commands can be used to control cameras. Example :
-```
+```json
 {
   "Command": "Commands.NextCamera",
   "Parameters": []
@@ -130,7 +128,7 @@ Following commands can be used to control cameras. Example :
 ##### Camera Axis
 
 Camera POV movements can be controlled via the following command :
-```
+```json
 {
   "Command": "NetworkJoystick.SetPOVState",
   "Parameters": [
@@ -142,7 +140,7 @@ Camera POV movements can be controlled via the following command :
 
 X and Y values can be either `-1`, `0` or `1`: they determine if the camera will move on each axis, either negatively or positively (or stay still on the given axis with the `0` value). For example, to move the POV to the left only horizontaly, use the following command :
 
-```
+```json
 {
   "Command": "NetworkJoystick.SetPOVState",
   "Parameters": [
@@ -156,7 +154,7 @@ X and Y values can be either `-1`, `0` or `1`: they determine if the camera will
 
 **Live only**
 Allows you to send messages to ATC according to the options available on the ATC window. Example, call the ATC command #3 (as shown on the ATC window) :
-```
+```json
 {
   "Command": "Commands.ATCEntry3",
   "Parameters": []
@@ -185,7 +183,7 @@ Commands to set the value of an Autopilot param, or to toggle its state.
 
 **Set HDG  to 270**
 
-```
+```json
 {
   "Command": "Commands.Autopilot.SetHeading",
   "Parameters": [{ "Value": 270 }]
@@ -194,7 +192,7 @@ Commands to set the value of an Autopilot param, or to toggle its state.
 
 **Enable HDG**
 
-```
+```json
 {
   "Command": "Commands.Autopilot.SetHeadingState",
   "Parameters": [{ "Value": true }]
@@ -203,7 +201,7 @@ Commands to set the value of an Autopilot param, or to toggle its state.
 
 **Toggle AP**
 
-```
+```json
 {
   "Command": "Commands.Autopilot.Toggle",
   "Parameters": []
@@ -227,10 +225,10 @@ Commands to set the value of an Autopilot param, or to toggle its state.
 | `FlightPlan.Clear` | Clear Flight Plan |
 | `FlightPlan.ActivateLeg` | Activate a given leg of the Flight Plan |
 
-### Simulator Commands
+#### Simulator Commands
 
 Control on simulator. Example, toggle play/pause :
-```
+```json
 {
   "Command": "Commands.TogglePause",
   "Parameters": []
