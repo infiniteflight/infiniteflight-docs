@@ -29,7 +29,7 @@ The Horizontal Situation Indicator or HSI, is the primary instrument used for na
 - Course Deviation Indicator (CDI) made up of the Course Pointer and Lateral Deviation Bar - displayed in magenta for GPS, and light green for NAV 1 and NAV 2
 
 
-![HSI Elements](/Users/reganhawthorn/Documents/GitHub/infiniteflight-docs/flying-guide/take-off-to-cruise/_images/manual/graphics/HSI.jpg)
+![HSI Elements](_images/manual/graphics/HSI.jpg)
 
 
 
