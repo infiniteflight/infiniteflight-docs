@@ -13,87 +13,113 @@ This is where you'll find information and frequently asked questions related to 
 
 
 
-## How much is a PRO subscription and what is included? 
+## What is a Pro Subscription?
 
-- 1 Month - $9.99
-
-- 6 Months - $49.99 
-
-- 1 Year - $79.99
-
-(Prices above listed in USD)
-
-
-The Infinite Flight Pro subscription comes with all In-App Purchases unlocked, including any newly added content during the active subscription period. Only items purchased separately will remain available once your subscription expires or is cancelled.
-
-We recommend that you have a valid Facebook or Google account to sign up for a subscription, but it is not mandatory. If you have your account linked to a Facebook or Google account, you will be able to use your subscription on any support device regardless of platform and in case any issues should occur, it will be easier to recover. Note that the subscription can only be used on one device at a time. You can’t have two flights on the same account running simultaneously.
-
-Android: Google Play Store customers can now purchase a subscription with a redeem card and store account balances. The subscriptions will automatically renew but can be cancelled from your PlayStore account at the Infinite Flight app page.
-
-Apple: iTunes customers can use redeem cards or account credits without a credit card to purchase a Pro Subscription. iTunes customers will not renew automatically and are prompted to accept or decline renewals upon subscription expiration.
+The Infinite Flight Pro Subscription* comes with all In-App Purchases unlocked, including any newly added content during the active subscription period. Only items purchased separately will remain available once your subscription expires or is cancelled.
 
 
 
-## I have now purchased a subscription, but it says I do not have a subscription? 
+**Subscriptions will automatically renew but can be cancelled by visiting the [Google Play](https://support.google.com/googleplay/answer/7018481?co=GENIE.Platform%3DAndroid&hl=en) or [App Store](https://support.apple.com/en-gb/HT202039)*
 
-If you purchased a new subscription or renewed an existing one but cannot access your online account, try the following steps:
+
+
+| Duration  | Price (USD) |
+| --------- | ----------- |
+| 1 Month   | $9.99       |
+| 6 Months  | $49.99      |
+| 12 Months | $79.99      |
+
+
+
+## How do I get a Pro Subscription?
 
 
 
 Step 1
 
-: Sign out of your Infinite Flight account (tap your name in the top right corner, then “Logout”), if you are signed in
+: When Infinite Flight is installed, it will automatically check for previous subscriptions
 
 
 
 Step 2
 
-: Restart your device
+: If no active subscription is detected, the "Get Pro" button will be displayed in the top right hand corner of the [Home Screen](/guide/getting-started/home-user-interface/home-screen#home-screen), tap it
 
 
 
 Step 3
 
-: Open Infinite Flight
+: The [account page](/guide/getting-started/home-user-interface/settings#account) will be displayed, from there, tap the "Get Pro" button next to "Your Infinite Flight Pro Subscription"
+
+
+
+![Account Settings Page](_images/manual/frames/account.jpg)
 
 
 
 Step 4
 
-: Tap “Fly Online!”
+: The various "Get Pro" options will be displayed, select the one you wish to purchase
 
 
 
+![Get Pro](_images/manual/frames/get-pro.jpg)
 
-If you’re unable to access your subscription after completing the steps above please try the following:
+
+
+Step 5
+
+: If you already have an account, tap "I already have an account" in the bottom left hand corner of the screen
+
+
+
+Step 6
+
+: You will then be able to login in 
+
+
+
+![Login](_images/manual/frames/login.jpg)
+
+
+
+Tip
+
+: Please note that if you do not have a previous subscription using Google or Facebook, then you will need to use Infinite Flight to login. New subscriptions using Google or Facebook to login is no longer supported
+
+
+
+## How to Manage your Subscription
+
+If you decide to install Infinite Flight on a different device, your subscription can be passed over provided you are using the same Apple ID (for iOS) or Google Play account (for Android) that the previous subscription was purchased on.
+
+
+
+If however, you are no longer using the same platform (i.e. iOS to Android or vice versa), or using a different Apple ID/Google Play account, then you will need to link your Community Forum Account first for it to be recognised. To do this, follow the steps below:
 
 
 
 Step 1
 
-: Uninstall Infinite Flight from your device
+: If no active subscription is detected, the "Get Pro" button will be displayed in the top right hand corner of the [Home Screen](/guide/getting-started/home-user-interface/home-screen#home-screen), tap it
 
 
 
 Step 2
 
-: Restart your device
+: The [account page](/guide/getting-started/home-user-interface/settings#account) will be displayed, from there, tap the "Get Pro" button next to "Your Infinite Flight Pro Subscription"
 
 
 
 Step 3
 
-: Install Infinite Flight from App Store again
+: Tap "I already have an account" in the bottom left hand corner of the screen
 
 
 
 Step 4
 
-: Tap “Fly online!”
-
-
-
-The app should then display the account that holds your subscription based on the information found on your Apple-ID.
+: Tap "Sign In with Infinite Flight" and login to your existing Community Forum Account
 
 
 
@@ -105,30 +131,50 @@ If you are still unable to access your subscription after completing the steps a
 
 
 
-## How do I cancel my PRO subscription? 
+## How do I Cancel my PRO Subscription? 
 
-Auto-Renew can be cancelled directly from your App Store or Play Store app. Please find the instructions for your store below:
-
-Google Play Store:
-[View, change, or cancel Google Play Store subscription](https://support.google.com/googleplay/answer/7018481?co=GENIE.Platform%3DAndroid&hl=en)
-
-iOS App Store:
-[View, change, or cancel your App Store subscription](https://support.apple.com/en-us/HT202039)
+Auto-Renew can be cancelled directly from the Google Play or App Store. Please find the instructions for your store below:
 
 
+[Google Play](https://support.google.com/googleplay/answer/7018481?co=GENIE.Platform%3DAndroid&hl=en){.button}
 
-## How can I change the Google or Facebook account currently linked to my Infinite Flight account? 
 
-Currently end users cannot change their online credentials. It is advised to use a Facebook or Google credential you plan to keep long term. If you have an unplanned or an unavoidable problem requiring you to change your credential currently assigned to your PRO subscription, please contact our support staff at [support@infiniteflight.com](mailto:support@infiniteflight.com) with the following:
-
-- Display Name and Callsign of account you wish to change credentials on
-- Complete purchase receipt of subscription
+[App Store](https://support.apple.com/en-us/HT202039){.button}
 
 
 
-## I receive "Error Code 02" when trying to link my account?
-
-This error is shown when you try to link your Infinite Flight account with a Google or Facebook account that's already used. For further assistance with that error, you need to contact our support team at support@infiniteflight.com. Remember to include as much information about your account as well as the Google or Facebook account you are trying to link with. 
+## How can I Change the Community Forum Account Currently Linked to my Infinite Flight Account? 
 
 
 
+![Account Settings Page](_images/manual/frames/account.jpg)
+
+
+
+Step 1
+
+: Tap "Your Account" in the top right hand corner of the screen to access the Account Settings page. Next to Community Forum Account, tap your current IFC username
+
+
+
+Step 2
+
+: A pop up will appear to confirm that you are happy to unlink this profile
+
+
+
+Step 3
+
+: Tap "Unlink", it will return to the app and you will see that your IFC username is now replaced with a "Connect" button
+
+
+
+Step 4
+
+: You can now tap "Connect" to [link a different Community Forum Account](/guide/getting-started/home-user-interface/user-profile#linking-community-forum-account)
+
+
+
+Tip
+
+: Make sure that if you are already logged in to the Infinite Flight Community on the device, it is the account that you would like to link as it will automatically register this

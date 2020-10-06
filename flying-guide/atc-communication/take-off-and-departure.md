@@ -48,7 +48,7 @@ Step 3
 
 Tip
 
-: If you're departing, you will need to advise the Tower Controller in which direction you are departing their airspace (i.e. if your SID departs to the South, make sure to select "South")
+: If you're departing, you will need to advise the Tower Controller in which direction you are departing their airspace (i.e. if your SID departs to the South, make sure to select "South"). If you are not first in line for departure, you can add "In Sequence" to the end of your departure request (the Controller may advise of departure sequencing at any time whilst you are in the queue)
 
 
 
@@ -66,8 +66,8 @@ Step 4
 
 | Request/Message (On the Ground)              | When to Send                                                 | When Not to Send           |
 | :------------------------------------------- | :----------------------------------------------------------- | :------------------------- |
-| Request Departure                            | The pilot should request departure if they are ready to take-off from active runway. The direction should correlate to the direction the pilot will be departing Tower’s airspace. | In any other circumstance. |
-| Request Departure - Remaining in the Pattern | The pilot should state that they will be remaining in the pattern if they plan to fly patterns (takeoff and land at the same airport). | In any other circumstance. |
+| Request Departure - Departing                | The pilot should request departure if they are ready to take-off from the active runway. The direction should correlate to the direction the pilot will be departing Tower’s airspace. "In Sequence" can be included when not first in line for departure. | In any other circumstance. |
+| Request Departure - Remaining in the Pattern | The pilot should state that they will be remaining in the pattern if they plan to fly patterns (take-off and land at the same airport). "In Sequence" can be included when not first in line for departure. | In any other circumstance. |
 | Request Runway Crossing                      | If the pilot is with the tower controller and wishes to cross a runway, they should request permission to cross the active end. | In any other circumstance. |
 | Request Frequency Change                     | The pilot should request a frequency change if they wish to change frequencies and have not yet been given a clearance to do so. | In any other circumstance. |
 
@@ -94,7 +94,7 @@ Step 4
 | ------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Cleared for Take-Off                             | ATC is clearing the pilot for take-off.                      | The pilot should commence their take-off roll.               |
 | Cancel Take-Off Clearance, Hold Position         | ATC is canceling the pilot's take-off clearance.             | The pilot should abort their take-off and hold on the runway. |
-| Hold Short                                       | ATC wants the pilot to hold their position off the runway.   | The pilot should proceed to the hold short line and stop.    |
+| Hold Short                                       | ATC wants the pilot to hold their position off the runway.   | The pilot should proceed to the hold short line and stop (the Controller may also advise the pilot of departure sequencing information). |
 | Line Up and Wait                                 | ATC wants the pilot to line up on the runway and hold their position. | The pilot should enter the runway, stop, and be prepared to takeoff. |
 | Back Taxi                                        | ATC wants the pilot to enter the runway and taxi to the specified end. | The pilot should taxi on the runway and, depending on the instruction, either exit and contact Ground or line up and wait. |
 | Exit Runway                                      | ATC wants the pilot to exit the runway they just landed on.  | The pilot should roll off the runway and contact Ground.     |

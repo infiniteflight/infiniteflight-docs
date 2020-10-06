@@ -21,13 +21,13 @@ order: 1
 
 Step 1
 
-: Next to Community Forum Account, tap "Connect" button
+: Next to Community Forum Account, tap the "Connect" button
 
 
 
 Step 2
 
-: A pop up will appear to confirm that you are happy for your information to be shared between the *Infinite Flight* app, and the *infiniteflight.com* website. Tap "Continue"
+: A pop up will appear to confirm that you are happy for your information to be shared between the *Infinite Flight* app and website. Tap "Continue"
 
 
 
@@ -51,7 +51,7 @@ Tip
 
 ## Virtual Organization Affiliation
 
-Your Virtual Organization affiliation can be found displayed in app next to your Username and within the "info tab" (tap on any aircraft from your map or mini map and then select the respective callsign/username to show the "info tab").
+Your Virtual Organization affiliation can be found displayed in app next to your Username as well as within the "info tab" (tap on any aircraft from your map or mini map and then select the respective callsign/username to show the "info tab").
 
 
 
