@@ -3,7 +3,7 @@ id: get-user-stats
 title: Get User Stats
 meta: Overview of the user stats endpoint of the Infinite Flight Live API
 order: 6
-
+contributors: KaiM
 ---
 
 # Get User Stats
