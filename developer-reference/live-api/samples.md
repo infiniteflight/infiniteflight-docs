@@ -3,6 +3,7 @@ id: samples
 title: Samples
 meta: Samples for the Infinite Flight Live API
 order: 8
+contributor: KaiM
 ---
 
 # Live API Samples
