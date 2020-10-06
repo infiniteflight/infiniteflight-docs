@@ -20,7 +20,7 @@ Step 3
 
 ## Interacting with the API
 
-##### Data Formats
+#### Data Formats
 
 All data must be sent as it's type. For instance, if you're trying to send boolean `true` you must encode it as a boolean, not an integer or string. 
 
@@ -43,7 +43,7 @@ The API defines data types according to the following integers:
 
 Sending data is done by sending information to the API in one of the following ways.
 
-##### Get State
+**Get State**
 
 A `GetState` command is sent by sending:
 
@@ -54,7 +54,7 @@ The state you request will be returned via the API on the same socket.
 
 **Example:** Sending `635`, then  `false` will result in Infinite Flight sending you `635`, then `1`, then `1` if your strobe lights are on.
 
-##### Set State
+**Set State**
 
 A `SetState` command is sent by sending:
 
@@ -73,7 +73,7 @@ A `RunCommand` is sent by sending:
 
 **Example:** Sending `1048634` then `false` will toggle the autopilot.
 
-#### Receiving Data
+**Receiving Data**
 
 All states begin with two integer values:  `ID` and `Length` of the data.
 
