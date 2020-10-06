@@ -2,6 +2,7 @@
 id: overview
 title: Overview
 meta: Overview of the Infinite Flight Connect API
+order: 1
 ---
 
 # Infinite Flight Connect API Overview
@@ -12,11 +13,11 @@ The Connect API is our local TCP API used for getting specific data and performi
 - Controlling Autopilot
 - Controlling Network Joysticks
 
-## How to use the API
+  ## How to use the API
 
 The Connect API comes in two versions - v1 and v2 - available on ports `10111` and `10112` respectively. Version 1 uses JSON objects as strings, whereas Version 2 uses a range of formats and has more functions.
 
-To be able to use the Connect API, users must have it enabled. To do this, follow these steps.
+To be able to use the Connect API, users must have it enabled. To do this, users can follow these steps.
 
 Step 1
 : Open Infinite Flight
@@ -30,7 +31,7 @@ Step 3
 Step 4
 : Check the box if it is not checked alread
 
-Keep in mind the Connect API is disabled be default.
+Keep in mind the Connect API is disabled by default.
 
 ## API Keys
 
@@ -45,7 +46,7 @@ This documentation is aimed at someone with knowledge of:
 - JSON
 - Infinite Flight Operations
 
-If you are not knowledgeable in these areas, you are of course welcome to browse the documentation. You can also check out the following resources to help you learn these skills.
+If you are not knowledgeable in these areas, you are of course welcome to browse the documentation. You can also check out these resources to help you learn.
 
 - [What is TCP/IP? | Cloudflare](https://www.cloudflare.com/learning/ddos/glossary/tcp-ip/)
 - [W3Schools - C# Data Types](https://www.w3schools.com/cs/cs_data_types.asp)
