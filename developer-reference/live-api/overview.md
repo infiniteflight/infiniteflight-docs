@@ -32,7 +32,21 @@ The Live API uses HTTP and the endpoints require you to make a GET or POST reque
 ## Conditions of use
 
 - All apps are required to have a timeout feature if the app isn’t being used. We don’t want users to have the app running for hours if no-one is looking. If no action is taken for 15 minutes, have your apps stop downloading new content unless the user presses a button (FlightRadar24 does this on their site).
- 
+
 - No permanent storing of data retrieved via the API is permitted. (You cannot keep the data in your own database).
 
   If you need additional functionality from the API, please contact us.
+
+## Prerequisites
+
+This documentation is aimed at someone with knowledge of:
+
+- HTTP
+- JSON
+- Infinite Flight System (Grades, Servers, etc.)
+
+If you are not knowledgeable in these areas, you are of course welcome to browse the documentation. You can also check out these resources to help you learn.
+
+- [W3Schools - What is HTTP?](https://www.w3schools.com/whatis/whatis_http.asp)
+- [W3Schools - JSON Introduction](https://www.w3schools.com/js/js_json_intro.asp)
+- [Infinite Flight User Guide](/guide/getting-started/home-user-interface/user-profile#the-grade-table)

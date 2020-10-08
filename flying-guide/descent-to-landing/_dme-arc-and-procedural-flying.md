@@ -10,6 +10,57 @@ contributor: deercrusher
 
 
 
+## What is a DME Arc?
+
+A DME (Distance Measuring Equipment) Arc is a curved route defined by a constant distance from a navigation facility that contains a DME. The arc distance from the beacon is essentially a radius of the arc circle. These are commonly used as an initial approach segment procedure to enter directly onto the intermediate part of the approach, to enter a hold or to help to route to a distance defined turn point on an airway
+
+
+
+## What is the Horizontal Situation Indicator (HSI)?
+
+The Horizontal Situation Indicator or HSI, is the primary instrument used for navigation in Infinite Flight. It consists of the following elements:
+
+
+
+- Compass rose orientated with the current aircraft heading
+- Blue heading bug displaying the [Autopilot FCU](/guide/getting-started/pilot-user-interface/autopilot#autopilot) bugged heading
+- Single blue pointer to represent BRG (bearing) 1 - when tuned to a navigation source (ILS, VOR or NDB) it will point to the navigation aid
+- Double blue pointer to represent BRG (bearing) 2 - when tuned to a navigation source (ILS, VOR or NDB) it will point to the navigation aid
+- Course Deviation Indicator (CDI) made up of the Course Pointer and Lateral Deviation Bar - displayed in magenta for GPS, and light green for NAV 1 and NAV 2
+
+
+![HSI Elements](_images/manual/graphics/HSI.jpg)
+
+
+
+## How to Set Up your Horizontal Situation Indicator (HSI)
+
+Step 1
+
+: [Tune the VOR](/guide/getting-started/pilot-user-interface/navigation#tuning-to-a-vor-or-adf) by tapping the VOR from your [Map](/guide/getting-started/pilot-user-interface/flight-planning#map) or [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map), selecting the VOR from the list displayed, and then tap "Set NAV 1 (or 2)"
+
+
+
+Step 2
+
+: [Display the VOR](/guide/getting-started/pilot-user-interface/navigation#displaying-a-vor-in-your-aircraft) by tapping "NAV" on the Fly Screen to show the Avionics tab, and ensure that either BRG 1 (or 2) have NAV 1 (or 2) displayed (dependent on which NAV you tuned the VOR to)
+
+
+
+Step 3
+
+: Lastly, within the Avionics tab, make sure to change the "SOURCE" to NAV 1 (or 2) as required, and then adjust the respective course (CRS 1 or 2) to the desired magnetic bearing that you want to fly
+
+
+
+
+
+
+
+
+
+
+
 This tutorial will be using the ILS Y RWY 4R at PHNL ~ Daniel K. Inouye International Airport *(aka Honolulu International Airport)*
 
 
