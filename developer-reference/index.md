@@ -35,8 +35,6 @@ The Connect API is our local TCP API used for interacting with Infinite Flight d
 
 No API key is required. Documentation is available [here](/guide/developer-reference/connect-api/overview).
 
-
-
 ## Which one should I use?
 
 **If you're building a tool to view data from Live across a server**, use the Live API. Example uses include:
