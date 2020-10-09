@@ -21,32 +21,33 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 
 ## Version: 20.2.1
 
-## Last Updated: 1130Z - 09 OCT 20
+## Last Updated: 1730Z - 09 OCT 20
 
 
 
 +++ Summary of Changes - Version: 20.2.1 (CURRENT VERSION)
 
-| Location                  | Change                                                       |
-| ------------------------- | ------------------------------------------------------------ |
-| 1.1.3                     | Minor wording correction to accommodate Discord migration    |
-| 1A.1 / 1A.2 / 1A.3 / 1A.4 | Minor wording corrections to accommodate Discord migration   |
-| 1A.1.3                    | Channel purposes adjusted for Discord as well as the addition of new channels (i.e. *#announcements*, *#infinite-flight-rules*, *#offtopic* and *#role-assignments*) |
-| 1A.2.1                    | Controllers Discord Nickname **must**{.red} be the same as their IFC Username. In addition, Controllers **must**{.red} link their Community Forum Account before controlling |
-| 1A.5.1                    | Minor wording correction to accommodate Discord migration    |
-| 1B.2.2                    | Minor wording correction to accommodate Discord migration    |
-| 7.5.1                     | Minor wording correction to accommodate Discord migration    |
-| 7.5.5                     | Minor wording correction to accommodate Discord migration    |
-| 7A.1.7                    | Minor wording correction to accommodate Discord migration    |
-| 7A.2.5                    | Minor wording correction to accommodate Discord migration    |
-| 7A.3.3                    | Minor wording correction to accommodate Discord migration    |
-| 7B.1.1                    | Minor wording correction to accommodate Discord migration    |
-| 7B.1.2                    | Reference to *#testers[1-3]* Discord channels added          |
-| 7B.1.3 / 7B.1.4           | Original 7B.1.2/7B.1.3 moved down by one to 7B.1.3/7B.1.4 respectively |
-| 7C.2.2                    | Minor wording correction to accommodate Discord migration    |
-| 7C.4.1                    | Minor wording correction to accommodate Discord migration    |
-| 7D.1.1                    | Minor wording correction to accommodate Discord migration    |
-| 7D.3.1                    | Minor wording correction to accommodate Discord migration    |
+| Location        | Change                                                       |
+| --------------- | ------------------------------------------------------------ |
+| 1.1.3           | Minor wording correction to accommodate Discord migration    |
+| 1A.1 - 4        | Minor wording corrections to accommodate Discord migration   |
+| 1A.1.3          | Channel purposes adjusted for Discord as well as the addition of new channels (i.e. *#announcements*, *#infinite-flight-rules*, *#offtopic* and *#role-assignments*) |
+| 1A.2.1          | Controllers Discord Nickname **must**{.red} be the same as their IFC Username. In addition, Controllers **must**{.red} link their Community Forum Account before controlling |
+| 1A.5.1          | Minor wording correction to accommodate Discord migration    |
+| 1B.2.2          | Minor wording correction to accommodate Discord migration    |
+| 7.5.1           | Minor wording correction to accommodate Discord migration    |
+| 7.5.5           | Minor wording correction to accommodate Discord migration    |
+| 7A.1.7          | Minor wording correction to accommodate Discord migration    |
+| 7A.2.5          | Minor wording correction to accommodate Discord migration    |
+| 7A.3.3          | Minor wording correction to accommodate Discord migration    |
+| 7B.1.1          | Minor wording correction to accommodate Discord migration    |
+| 7B.1.2          | Reference to *#testers[1-3]* Discord channels added          |
+| 7B.1.3 / 7B.1.4 | Original 7B.1.2/7B.1.3 moved down by one to 7B.1.3/7B.1.4 respectively |
+| 7C.1.4          | Addition of Discord Channel information for Recruiters       |
+| 7C.2.2          | Minor wording correction to accommodate Discord migration    |
+| 7C.4.1          | Minor wording correction to accommodate Discord migration    |
+| 7D.1.1          | Minor wording correction to accommodate Discord migration    |
+| 7D.3.1          | Minor wording correction to accommodate Discord migration    |
 
 +++
 
