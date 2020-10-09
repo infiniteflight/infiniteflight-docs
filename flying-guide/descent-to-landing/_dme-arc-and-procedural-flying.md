@@ -14,7 +14,31 @@ contributor: deercrusher
 
 A DME (Distance Measuring Equipment) Arc is a curved route defined by a constant distance from a navigation facility that contains a DME. The arc distance from the beacon is essentially a radius of the arc circle. These are commonly used as an initial approach segment procedure to enter directly onto the intermediate part of the approach, to enter a hold or to help to route to a distance defined turn point on an airway
 
+Start of arc is defined by a radial from a VOR or a bearing from an NDB. Round the arc are radials and bearings that permit further descent to be made, and can also be used for position awareness. The final radial or bearing is known as the lead radial or lead bearing and is the one that aircraft may turn to intercept the final approach track.
 
+
+
+Entering the Arc
+
+Usually entering an arc is by following a radial or bearing and approaching the arc at a 90 degree angle. Therefore a 90 degree turn will require anticipation, a general rule of thumb is 1% of groundspeed, so if you are flying 180kts, you will need to start the turn at 1.8 miles to go
+
+
+
+Flying the Arc
+
+Once established on the arc, to follow the curved track and keep the DME distance the same. At any point on the curve, not taking wind into account, the aircraft heading must always be 90 degrees to the beacon. However to fly this and match the radius of turn requires the aircraft to adopt an angle of bank which would vary depending on the rand from the DME. Clearly, this is impractical. Instead, the aircraft makes a series of heading changes, cutting slightly across the arc each time. As already stated, the heading should be 90 degrees to the radial or bearing from the beacon, but by taking a cut across the arc, the aircraft flies along the base of a series of isosceles triangles with the length of the triangle being the radius of the arc.
+
+If the aircraft turns left 10 degrees for the next cut-across, the bearing pointer will then read 5 degrees above the left 90 degrees line (actual 85 degrees relative bearing) and as it reaches the arc again the bearing pointer will have dropped to 5 degrees below to 90 degrees relative bearing line (actual 95 degrees relative bearing). This pattern helps to control the heading
+
+
+
+Control of heading
+
+Knowledge of what heading to turn onto on first joining the arc helps to set the initial arc. Thereafter, the heading does not need to be calculated as the RMI bearing pointer provides a pictorial method to control the heading from which to provide a 'command' heading to fly during each cut-across.
+
+
+
+ 
 
 ## What is the Horizontal Situation Indicator (HSI)?
 
