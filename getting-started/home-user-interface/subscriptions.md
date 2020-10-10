@@ -71,11 +71,11 @@ Step 5
 
 Step 6
 
-: You will then be able to login in 
+: You will then be able to login
 
 
 
-![Login](_images/manual/frames/login.jpg)
+![Login](_images/manual/frames/login2.jpg)
 
 
 
@@ -117,3 +117,40 @@ Step 4
 
 : Tap "Sign In with Infinite Flight" and login to your existing Community Forum Account
 
+
+
+## How to Revert to Default Account 
+
+When Infinite Flight is launched on your device, it will search for an active subscription and automatically link to it if found. If however, you want to use your account on a different device, you can use the "Switch Account" button within the [Account Settings page](/guide/getting-started/home-user-interface/settings#account).
+
+
+
+Once you have finished using the device, you can "revert to default account" by following the steps below to make sure that your account is no longer in use:
+
+
+
+Step 1
+
+: The User Profile will be displayed in the top right hand corner of the [Home Screen](/guide/getting-started/home-user-interface/home-screen#home-screen), tap it
+
+
+
+Step 2
+
+: The [account page](/guide/getting-started/home-user-interface/settings#account) will be displayed, from there, tap the "Switch Account" button
+
+
+
+Step 3
+
+: The login page will be displayed, in the bottom right hand corner is the "Revert to Default Account" button, tap it
+
+
+
+![Login](_images/manual/frames/login2.jpg)
+
+
+
+Step 4
+
+: The device will automatically switch from your account to the original account that was used with that device. If no active subscription is detected, the "Get Pro" button will be displayed instead
