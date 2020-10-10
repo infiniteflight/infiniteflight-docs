@@ -20,9 +20,7 @@ The Live API is our HTTP API used for requesting data from Infinite Flight. Curr
 - Retrieve flight plans for each flight.
 - Retrieve stats for each user.
 
-An API key is required.
-
-See [the overview](/guide/developer-reference/live-api/overview) for documentation.
+An API key is required and can be requested via email to [hello@infiniteflight.com](mailto:hello@infiniteflight.com). See [the overview](/guide/developer-reference/live-api/overview) for documentation.
 
 
 
@@ -35,28 +33,19 @@ The Connect API is our local TCP API used for interacting with Infinite Flight d
 
 No API key is required. Documentation is available [here](/guide/developer-reference/connect-api/overview).
 
-
-
 ## Which one should I use?
 
 **If you're building a tool to view data from Live across a server**, use the Live API. Example uses include:
 
-- Flight trackers.
-- VA tools to report flights by pilots.
-- Showing user stats (grade, violations, etc).
-- Viewing a flight plan.
+- Flight Trackers
+- ATC Status Websites
+- Showing user stats (grade, violations, etc.)
+- Viewing a Flight Plan
 
 **If you're building a tool to interact with the simulator**, use the Connect API. Example uses include:
 
 - Moving Map (like ForeFlight)
-- Navigation Aid (helper for Top of Descent, weather, etc…)
-- TCAS
 - Traffic Viewer
-- Sound engine (for callouts, audible warnings)
-- Alternate Control Panel (Altimeter, Airspeed Indicator, etc…)
-- Physical Cockpit Elements (with a Raspberry Pi, or any other device that can handle buttons, displays…)
-- Joystick Controller Adapter (with a Raspberry Pi that forwards joystick inputs to IFC)
-- Auto Checklist (which could automatically extend gear when on final, or turn on strobes when take off clearance is received)
+- Auto Checklist
 - Auto Heading/Altitude updater when an ATC instruction is received
-- Virtual Airlines reporting system (Blackbox, etc…)
-- Flight Recorder
+- Virtual Airlines reporting system (Blackbox or similar)
