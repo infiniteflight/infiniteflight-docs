@@ -21,7 +21,7 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 
 ## Version: 20.2.1
 
-## Last Updated: 1730Z - 09 OCT 20
+## Last Updated: 1730Z - 11 OCT 20
 
 
 
@@ -31,7 +31,7 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 | --------------- | ------------------------------------------------------------ |
 | 1.1.3           | Minor wording correction to accommodate Discord migration    |
 | 1A.1 - 4        | Minor wording corrections to accommodate Discord migration   |
-| 1A.1.3          | Channel purposes adjusted for Discord as well as the addition of new channels (i.e. *#announcements*, *#infinite-flight-rules*, *#offtopic* and *#role-assignments*) |
+| 1A.1.3          | Channel purposes adjusted for Discord as well as the addition of new channels (i.e. *#announcements*, *#infinite-flight-rules*, *#offtopic* and *#role-assignments*). #issues channel removed |
 | 1A.2.1          | Controllers Discord Nickname **must**{.red} be the same as their IFC Username. In addition, Controllers **must**{.red} link their Community Forum Account before controlling |
 | 1A.5.1          | Minor wording correction to accommodate Discord migration    |
 | 1B.2.2          | Minor wording correction to accommodate Discord migration    |
