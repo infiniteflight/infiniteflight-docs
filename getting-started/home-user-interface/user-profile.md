@@ -9,10 +9,6 @@ order: 1
 
 
 
-@[vimeo](466698714)
-
-
-
 ## Linking Community Forum Account
 
 [Callsigns](/guide/getting-started/home-user-interface/user-profile#callsigns) are used whilst flying to identify you and for the Air Traffic Controllers to communicate with you, in addition to this, a unique identifier is shown by default. If however, you have an [Infinite Flight Community](https://community.infiniteflight.com) (IFC) account, you can choose to have your username displayed instead of the unique identifier. To do this, follow the steps below to link your account:
