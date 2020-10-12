@@ -116,10 +116,6 @@ Tip
 
 
 
-@[vimeo](466698714)
-
-
-
 ## Audio
 
 There are two sliders that adjust the SFX and ATC Volume. Slide your finger along the slider to find the desired setting.
