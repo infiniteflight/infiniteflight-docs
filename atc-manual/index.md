@@ -19,13 +19,41 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 
 
 
-## Version: 20.2
+## Version: 20.2.1
 
-## Last Updated: 1530Z - 30 SEP 20
+## Last Updated: 1315Z - 14 OCT 20
 
 
 
-+++ Summary of Changes - Version: 20.2 (Current)
++++ Summary of Changes - Version: 20.2.1 (CURRENT VERSION)
+
+| Location        | Change                                                       |
+| --------------- | ------------------------------------------------------------ |
+| 1.1.3           | Minor wording correction to accommodate Discord migration    |
+| 1A.1 - 4        | Minor wording corrections to accommodate Discord migration   |
+| 1A.1.3          | Channel purposes adjusted for Discord as well as the addition of new channels (i.e. *#announcements*, *#infinite-flight-rules*, *#offtopic* and *#role-assignments*). #issues channel removed |
+| 1A.2.1          | Controllers Discord Nickname **must**{.red} be the same as their IFC Username. In addition, Controllers **must**{.red} link their Community Forum Account before controlling |
+| 1A.5.1          | Minor wording correction to accommodate Discord migration    |
+| 1B.2.2          | Minor wording correction to accommodate Discord migration    |
+| 7.5.1           | Minor wording correction to accommodate Discord migration    |
+| 7.5.5           | Minor wording correction to accommodate Discord migration    |
+| 7A.1.7          | Minor wording correction to accommodate Discord migration    |
+| 7A.2.5          | Minor wording correction to accommodate Discord migration    |
+| 7A.3.3          | Minor wording correction to accommodate Discord migration    |
+| 7B.1.1          | Minor wording correction to accommodate Discord migration    |
+| 7B.1.2          | Reference to *#testers[1-3]* Discord channels added          |
+| 7B.1.3 / 7B.1.4 | Original 7B.1.2/7B.1.3 moved down by one to 7B.1.3/7B.1.4 respectively |
+| 7C.1.4          | Addition of Discord Channel information for Recruiters       |
+| 7C.2.2          | Minor wording correction to accommodate Discord migration    |
+| 7C.4.1          | Minor wording correction to accommodate Discord migration    |
+| 7D.1.1          | Minor wording correction to accommodate Discord migration    |
+| 7D.3.1          | Minor wording correction to accommodate Discord migration    |
+
++++
+
+
+
++++ Summary of Changes - Version: 20.2
 
 | Location        | Change                                                       |
 | --------------- | ------------------------------------------------------------ |
@@ -53,42 +81,6 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 | 7.3.2           | Updated minimum requirements for Candidates to receive Training |
 | 7.5             | Various changes to ensure it is up to date with current procedures |
 | Section 7A - 7D | Various changes to ensure it is up to date with current procedures |
-
-+++
-
-
-
-+++ Summary of Changes - Version: 2.5.4
-
-| Location        | Change                                                       |
-| --------------- | ------------------------------------------------------------ |
-| 7A.1.4          | Requirements added for new Trainers when joining The Training Team |
-| 7B.1.3 / 7C.1.3 | Minimum test notice periods added                            |
-| 7C.3.3          | Typo fixed                                                   |
-
-+++
-
-
-
-+++ Summary of Changes - Version: 2.5.3
-
-| Location | Change                                                       |
-| -------- | ------------------------------------------------------------ |
-| ALL      | Paragraph hyperlinks updated and can now be linked/shared    |
-| 1.1.2    | Reference to if-atc.com added                                |
-| 1A.1.5   | New slash command */find [search phrase]* added              |
-| 1A.3.1   | Minimum requirements for the commencement of Radar Training adjusted |
-| 1A.5.1   | Clarification on activity requirements - the ATIS frequency is not included |
-| 1B.1.6   | Duplicate violation reason of 'excessive speed in airport environment' removed from Radar |
-| 2.1.1    | Minor clarification to support new description of size restrictions in ATIS *(see 4.1.6 below)* |
-| 2.1.5    | Minor clarification added for the use of 'expect runway xx' with pushback clearances |
-| 3        | Section reworked and new Inbounds page added                 |
-| 4.1.6    | Reworded 'Size Restrictions' ATIS REMARK - only to be used when aircraft size will restrict airport flow |
-| 6.8.3    | In the absence of Center, clarification added for Approach Controllers on handling aircraft already in the descent - no descent via clearance is required |
-| 6.9      | GPS ATC Tutorial added                                       |
-| 6.10.5   | Clarification added on issuing ILS clearance without an intercept heading |
-| 7A.2.5   | Deletion of reference to IFC Forum                           |
-| 7B.3.2   | Radar test sites adjusted                                    |
 
 +++
 

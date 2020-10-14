@@ -3,6 +3,7 @@ id: samples
 title: Samples
 meta: Samples for the Infinite Flight Connect APIs
 order: 4
+contributor: KaiM
 ---
 
 # Connect API Samples
