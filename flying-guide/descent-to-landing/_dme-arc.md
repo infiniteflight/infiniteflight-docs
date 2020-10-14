@@ -12,15 +12,19 @@ contributor: deercrusher
 
 ## What is a DME Arc?
 
-Distance Measuring Equipment, abbreviated to DME; is most commonly used with another navigation aid (NAVAID) such as a VOR to provide distance to or from the beacon. A DME Arc is a curved route defined by a constant distance from one of these NAVAID's with the arc distance essentially a radius of the circle around this NAVAID. 
+Distance Measuring Equipment, abbreviated to DME; is most commonly used with a navigation aid (NAVAID) such as a VOR to provide distance to or from the beacon. A DME Arc is a curved route defined by a constant distance from one of these NAVAID's with the arc distance essentially a radius of the circle around the NAVAID. 
 
 
 
-DME Arcs are most commonly found on the Initial approach segment, leading aircraft from the Initial Approach Fix (IAF) onto the Final Approach Track (FAT) where the Intermediate and Final approach segments can be commenced. The arc distance from the beacon is essentially a radius of the arc circle and is usually used as an initial approach segment procedure to allow aircraft to enter a hold, route to a distance defined turn point on an airway, or directly onto the intermediate segment of the approach.
+DME Arcs are most commonly found on the Initial approach segment, leading aircraft from the Initial Approach Fix (IAF) onto the Final Approach Track (FAT) where the Intermediate and Final approach segments can be commenced. 
 
 
 
 Around the arc will be a series of published radials from the NAVAID that are used to indicate the start of the arc, when further descent can be made, and when a turn can be commenced to intercept the Final Approach Track (FAT).
+
+
+
+[INSERT EXAMPLE DME ARC CHART]
 
 
 
@@ -98,12 +102,6 @@ Step 2
 
 
 
-Step 3
-
-: Lastly, within the Avionics tab, make sure to change the "SOURCE" to NAV 1 (or 2) as required, and then adjust the respective course (CRS 1 or 2) to the desired magnetic bearing that you want to fly (note: step 3 is not possible if you are using an NDB)
-
-
-
 ## How to Fly a DME Arc
 
 
@@ -116,7 +114,7 @@ Step 1
 
 Step 2
 
-: Set up your [Horizontal Situation Indicator (HSI)](link to follow) to help fly the DME Arc. If you are intercepting the Final Approach Track (FAT) of a Precision/Non-Precision approach at the end of the DME Arc, make sure to have this tuned too if you can
+: Set up your [Horizontal Situation Indicator (HSI)](/guide/flying-guide/descent-to-landing/dme-arc#what-is-the-horizontal-situation-indicator-(hsi)%3F) to help fly the DME Arc. If you are intercepting the Final Approach Track (FAT) of a Precision/Non-Precision approach at the end of the DME Arc, make sure to have this tuned too if you can
 
 
 
@@ -158,7 +156,7 @@ Step 6
 
 Step 7
 
-: Make sure to continuously monitor the DME and ensure that this is roughly the same as the published DME distance, if it is different, [correction action could be required](insert link to above)
+: Make sure to continuously monitor the DME and ensure that this is roughly the same as the published DME distance, if it is different, [correction action could be required](/guide/flying-guide/descent-to-landing/dme-arc#dme-arc-flying-technique)
 
 
 
