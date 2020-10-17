@@ -1,5 +1,5 @@
 ---
-id: get-atc
+id: atc
 title: Get Active ATC Frequencies
 meta: Overview of the ATC endpoint of the Infinite Flight Live API
 order: 5
