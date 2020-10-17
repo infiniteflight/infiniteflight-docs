@@ -18,5 +18,5 @@ Below you can find a range of samples in a variety of languages to help you get 
 - [InfiniteFlightConnect](https://github.com/carmichaelalonso/InfiniteFlightConnect)\* - Swift
 - [IFWatcher](https://github.com/ValXp/IFWatcher)\* - Java
 
-<small>\* Uses the Connect API v1</small>
+*\* Uses the Connect API v1*
 
