@@ -102,7 +102,7 @@ Tip
 
 
 
-![Account Settings Page](_images/manual/frames/account.jpg)
+@[vimeo](466698714)
 
 
 
@@ -113,6 +113,10 @@ Tip
 | [Community Forum Account](/guide/getting-started/home-user-interface/user-profile#linking-community-forum-account) | Connect an [Infinite Flight Community](https://community.infiniteflight.com) profile to show your username in-flight. This connection also allows you to sign in if you switch device platforms |
 | Account Statistics                                           | See your [grade level and violation history](/guide/getting-started/home-user-interface/user-profile#the-grade-table). These stats determine multiplayer server level eligibility |
 | Switch Account                                               | Use a different Infinite Flight account to access a subscription bought on another device |
+
+
+
+![Account Settings Page](_images/manual/frames/account.jpg)
 
 
 

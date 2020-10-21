@@ -2,7 +2,7 @@
 id: vor-(vhf-omni-directional-range)-approach
 title: VOR (VHF Omni-Directional Range) Approach
 meta: Learn how to fly a VOR Approach in Infinite Flight.
-order: 8
+order: 9
 ---
 
 # VOR (VHF Omni-Directional Range) Approach
