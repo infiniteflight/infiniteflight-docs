@@ -19,13 +19,25 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 
 
 
-## Version: 20.2.1
+## Version: 20.2.2
 
-## Last Updated: 1645Z - 14 OCT 20
+## Last Updated: 1130Z - 22 OCT 20
 
 
 
-+++ Summary of Changes - Version: 20.2.1 (CURRENT VERSION)
++++ Summary of Changes - Version: 20.2.2 (CURRENT VERSION)
+
+| Location | Change                                                       |
+| -------- | ------------------------------------------------------------ |
+| 7.1.4    | Minor wording correction (1 day changed to 24 hour period)   |
+| 7A.2.8   | Initial and Radar Trainer Checklist incorporated from Google Docs |
+| 7D.4.1   | Guidance on adding notes to Controller's records included    |
+
++++
+
+
+
++++ Summary of Changes - Version: 20.2.1
 
 | Location        | Change                                                       |
 | --------------- | ------------------------------------------------------------ |
