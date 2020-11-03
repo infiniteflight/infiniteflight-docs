@@ -15,18 +15,20 @@ order: 6
 
 
 
-1. The Flight Plan (FPL) section shows your next waypoint (WPT), desired track (DTK), distance (DIST) and the estimated time en-route (ETE). The active waypoint is always displayed in magenta.
+1. The Flight Plan (FPL) section shows your next waypoint (WPT), desired track (DTK), distance (DIST), estimated time en-route (ETE) and altitude (ALT). The active waypoint is always displayed in magenta.
 
    
 
 2. The buttons at the bottom of the FPL page have the following functions:
 
-   | Button        | Function                               |
-   | ------------- | -------------------------------------- |
-   | -             | Delete a waypoint                      |
-   | Act. Leg      | Make a waypoint the active leg         |
-   | Clear         | Clear entire flight plan               |
-   | Up/Down Arrow | Move a waypoint up/down in flight plan |
+   | Button        | Function                                                     |
+   | ------------- | ------------------------------------------------------------ |
+   | -             | Delete a waypoint                                            |
+   | Act. Leg      | Make a waypoint the active leg by selecting the waypoint, and then tapping this button |
+   | Clear         | Clear entire flight plan                                     |
+   | Up/Down Arrow | Move a waypoint or procedure up/down in your flight plan by selecting the waypoint/procedure, and then using the arrows to position it as desired |
+   | Set Alt       | Tap a waypoint and then this button to set an altitude target that can be used with VNAV |
+   | Open/Share    | Your can open a flight plan using this button, or if you have a flight plan already programmed in, share it |
 
 
 
@@ -46,14 +48,14 @@ order: 6
 
 5. In the bottom right of the screen is settings, center screen and zoom in/out functions. Additionally, you can cycle the display between just the Map, Flight Plan, or both displayed. The customize your display, the settings available are shown below:
 
-| Setting                                  | What it does                                                 |
-| ---------------------------------------- | ------------------------------------------------------------ |
-| Fixes (Show/Hide)                        | Show or hide GPS waypoints known as fixes                    |
-| Navaids (Show/Hide)                      | Show or hide navigation aids (VOR/NDB)                       |
-| Airspaces (Show/Hide)                    | Show or hide airspace                                        |
-| Taxiways (Show/Hide)                     | Show or hide taxiway lines                                   |
-| Approaches (Show All/Hide All/ Show ILS) | Cycle between displaying no approaches, just ILS approaches or all approaches |
-| Uncontrolled Airports (Show/Hide)        | All airports represented by a magenta dot are either shown or hidden using this setting |
+| Setting               | What it does                                                 |
+| --------------------- | ------------------------------------------------------------ |
+| Fixes                 | Show or hide GPS waypoints known as fixes                    |
+| Navaids               | Show or hide navigation aids (VOR/NDB)                       |
+| Airspaces             | Show or hide airspace                                        |
+| Taxiways              | Show or hide taxiway lines                                   |
+| Approaches            | Show or hide approaches                                      |
+| Uncontrolled Airports | All airports represented by a magenta dot are either shown or hidden using this setting |
 
 
 
