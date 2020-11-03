@@ -22,11 +22,11 @@ A diversion is when the aircraft is no longer able to continue to the original d
 
 ## Considerations for a Diversion
 
-Below is a table of the considerations that must be taken into account before initiating a diversion:
+Below is a table of the various factors that should be taken into account before initiating a diversion:
 
 
 
-| Considerations      | What                                                         |
+| Factors             | Considerations                                               |
 | ------------------- | ------------------------------------------------------------ |
 | Fuel                | Do you have enough fuel to get there?                        |
 | Weather             | Is the weather suitable for an approach and landing? What type of approaches are available? |
@@ -70,7 +70,7 @@ Tip
 
 Step 1
 
-: Make sure the alternate airport meets the considerations for a diversion
+: Make sure the alternate airport meets the [considerations for a diversion](/guide/flying-guide/descent-to-landing/diversion#considerations-for-a-diversion)
 
 
 
