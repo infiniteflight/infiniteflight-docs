@@ -21,7 +21,7 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 
 ## Version: 20.2.2
 
-## Last Updated: 1130Z - 22 OCT 20
+## Last Updated: 1500Z - 03 NOV 20
 
 
 
@@ -29,6 +29,10 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 
 | Location | Change                                                       |
 | -------- | ------------------------------------------------------------ |
+| 4.1.3    | Minor wording correction (broadcast of ATIS change only required on Ground/Tower - currently not available on Radar) |
+| 6.2.3    | Minor wording correction                                     |
+| 6.8.9    | A key for flight plan approach prefixes added                |
+| 6.9.2    | The GPS Approach is authorized provided the pilot has a published procedure in their flight plan (and not just random waypoints) leading to the intended arrival runway |
 | 7.1.4    | Minor wording correction (1 day changed to 24 hour period)   |
 | 7A.2.8   | Initial and Radar Trainer Checklist incorporated from Google Docs |
 | 7D.4.1   | Guidance on adding notes to Controller's records included    |
