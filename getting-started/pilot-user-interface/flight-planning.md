@@ -178,26 +178,31 @@ Step 6
 
 **The following prefixes are used to help differentiate between the different approaches available at an airport:**
 
-| Prefix | Meaning                 |
-| ------ | ----------------------- |
-| H      | RNAV (RNP) Approach     |
-| I      | ILS Approach            |
-| L      | Localizer Only Approach |
-| R      | RNAV (GPS) Approach     |
+| Prefix | Meaning                                      |
+| ------ | -------------------------------------------- |
+| D      | VOR/DME Approach                             |
+| H      | RNAV (RNP) Approach                          |
+| I      | ILS Approach                                 |
+| L      | Localizer Only Approach                      |
+| N      | NDB Approach                                 |
+| Q      | Combination (two or more) of ILS/DME/VOR/NDB |
+| R      | RNAV (GPS) Approach                          |
+| S      | VOR Only Approach                            |
 
 
 
 **After the prefix, the runway designator (such as 27 for Runway 27) will be shown. This will then be followed by any associated suffixes, these are shown in the table below:**
 
-| Suffix | Meaning                                                      |
-| ------ | ------------------------------------------------------------ |
-| L      | Left                                                         |
-| R      | Right                                                        |
-| Y or Z | Differentiates between runways that utilize the same guidance |
+| Suffix    | Meaning                                                      |
+| --------- | ------------------------------------------------------------ |
+| L         | Left                                                         |
+| R         | Right                                                        |
+| Y or Z    | Differentiates between runways that utilize the same guidance |
+| 1, 2 etc. | Indicates same guidance is being used to a runway but with different approach paths (commonly found on the VOR/DME/NDB approaches) |
 
 
 
 **Example:**
 
-H35LZ - RNAV (RNP) Approach for Runway 35L (left), Z (zulu) procedure
+H35LZ - RNAV (RNP) Approach for Runway 35L, Zulu Procedure
 
