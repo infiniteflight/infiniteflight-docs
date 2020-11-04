@@ -16,6 +16,7 @@ Below you can find a range of samples in a variety of languages to help you get 
 - [InfiniteFlight.js v1](https://github.com/Velocity23/InfiniteFlight.js/)\* - NodeJS
 - [InfiniteFlight.js v2](https://github.com/Velocity23/InfiniteFlight.js/tree/v2) - NodeJS
 - [InfiniteFlightConnect](https://github.com/carmichaelalonso/InfiniteFlightConnect)\* - Swift
+- [SwiftFlight](https://github.com/tomthetank46/SwiftFlight) - Swift
 
 *\* Uses the Connect API v1*
 
