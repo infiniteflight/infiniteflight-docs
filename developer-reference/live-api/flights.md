@@ -1,5 +1,5 @@
 ---
-id: get-flights
+id: flights
 title: Get Flights
 meta: Overview of the flights endpoint of the Infinite Flight Live API
 order: 3

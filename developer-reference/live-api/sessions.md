@@ -1,5 +1,5 @@
 ---
-id: get-sessions
+id: sessions
 title: Get Sessions
 meta: Overview of the sessions endpoint of the Infinite Flight Live API
 order: 2

@@ -1,5 +1,5 @@
 ---
-id: get-flightplans
+id: flightplans
 title: Get Flight Plans
 meta: Overview of the flight plans endpoint of the Infinite Flight Live API
 order: 4
