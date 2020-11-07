@@ -42,7 +42,7 @@ To help reduce your workload during a diversion, there are things that you can d
 
 Step 1
 
-: Before departure, make sure to check alternate airports that are close to your destination and look if they meed the criteria above
+: Before departure, make sure to check alternate airports that are close to your destination and look if they meet the criteria above
 
 
 
@@ -77,6 +77,12 @@ Step 1
 Step 2
 
 : Communicate with ATC of your intention to divert by [selecting a new service such as an approach request for the new airport](/guide/flying-guide/atc-communication/descent-and-approach#pilot-to-radar-controller-communication-table) (or if you have been instructed to divert, follow the ATC instructions given)
+
+
+
+Tip
+
+: Make sure you are ready to divert before communicating with ATC - if you need more time consider slowing down, or finding somewhere to hold
 
 
 
