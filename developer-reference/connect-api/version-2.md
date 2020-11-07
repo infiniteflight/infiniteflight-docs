@@ -65,7 +65,7 @@ A `SetState` command is sent by sending:
 
 **Example:** Sending `635`, then `true`, then `0` will turn your strobe lights off.
 
-##### Run Command
+**Run Command**
 
 A `RunCommand` is sent by sending:
 
