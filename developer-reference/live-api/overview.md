@@ -15,19 +15,13 @@ The Live API is our HTTP API used for requesting data from Infinite Flight. Curr
 - Retrieve flight plans for each flight.
 - Retrieve stats for users.
 
-
-
 ## Obtaining an API key
 
 An API key is required to use the Live API. Contact [hello@infiniteflight.com](mailto:hello@infiniteflight.com) to let us know what you plan on building and to request a key.
 
-
-
 ## How to use the API
 
 The Live API uses HTTP and the endpoints require you to make a GET or POST request to the endpoint URL (see individual endpoint documentation for specifics).
-
-
 
 ## Conditions of use
 
