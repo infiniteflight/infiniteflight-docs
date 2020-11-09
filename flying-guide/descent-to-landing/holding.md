@@ -164,7 +164,7 @@ Step 2
 
 
 
-[INSERT IMAGE SHOWING HSI]
+![Intercept Inbound Hold Axis - Parallel](_images/manual/frames/intercept-inbound-hold-axis.jpg)
 
 
 
@@ -186,11 +186,11 @@ Step 5
 
 
 
-**Offset Entry** 
+**Teardrop Entry** 
 
 
 
-[INSERT OFFSET ENTRY IMAGE]
+[INSERT TEARDROP ENTRY IMAGE]
 
 
 
@@ -212,13 +212,17 @@ Step 2
 
 
 
-[INSERT IMAGE SHOWING HSI]
+![Offset Heading](_images/manual/frames/offset-heading.jpg)
 
 
 
 Step 3
 
 : Keep the turn going until the aircraft heading is within 30 degrees of the Inbound Hold Axis
+
+
+
+![Intercept Inbound Hold Axis - Teardrop](_images/manual/frames/intercept-inbound-hold-axis-2.jpg)
 
 
 
@@ -246,15 +250,26 @@ Step 6
 
 Step 1
 
-: Dependant on the angle at which the aircraft approaches the holding fix, you will need to hold that heading for a period of time before continuing the turn to enter the hold
-
-
-
-[INSERT DIRECT ENTRY IMAGE SHOWING THE TIMINGS]
+: The Direct Entry is the easiest way in which to join the hold. The normal holding pattern can be flown as soon as you have overflown the Holding Fix
 
 
 
 Step 2
 
-: Once you have held the heading for the time as shown above, make the left/right turn and fly the normal holding pattern
+: If when joining, the aircraft is approaching the Holding Fix at a "steep" angle (e.g. more than 30 degrees either side of the Inbound Holding Axis), you may need to adjust you initial turn for the Outbound Leg to compensate for this. Below is an an example of what may be required: 
+
+
+
+[INSERT DIRECT ENTRY IMAGE]
+
+
+
+| Aircraft | Action Required                                              |
+| -------- | ------------------------------------------------------------ |
+| 1        | Cross the Holding Fix and turn into the hold. At 90 degrees to the axis, roll out for 15 seconds before recommencing the turn into the hold |
+| 2        | Cross the Holding Fix and turn into the hold. At 90 degrees to the axis, roll out for 5 seconds before recommencing the turn into the hold |
+| 3        | Cross the Holding Fix and turn into the hold                 |
+| 4        | Cross the Holding Fix, wait 5 seconds and then turn into the hold |
+| 5        | Cross the Holding Fix, wait 10 seconds and then turn into the hold |
+| 6        | Cross the Holding Fix, wait 15 seconds and then turn into the hold |
 
