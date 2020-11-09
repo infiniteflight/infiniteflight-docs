@@ -22,9 +22,7 @@ The Live API is our HTTP API used for requesting data from Infinite Flight. Curr
 
 An API key is required and can be requested via email to [hello@infiniteflight.com](mailto:hello@infiniteflight.com). See [the overview](/guide/developer-reference/live-api/overview) for documentation.
 
-
-
-## Connect API
+## Infinite Flight Connect API
 
 The Connect API is our local TCP API used for interacting with Infinite Flight devices running on the local network.
 
@@ -45,7 +43,7 @@ No API key is required. Documentation is available [here](/guide/developer-refer
 **If you're building a tool to interact with the simulator**, use the Connect API. Example uses include:
 
 - Moving Map (like ForeFlight)
-- Traffic Viewer
+- Local Traffic Viewer
 - Auto Checklist
 - Auto Heading/Altitude updater when an ATC instruction is received
-- Virtual Airlines reporting system (Blackbox or similar)
+
