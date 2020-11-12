@@ -21,7 +21,7 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 
 ## Version: 20.2.2
 
-## Last Updated: 1500Z - 03 NOV 20
+## Last Updated: 1915Z - 12 NOV 20
 
 
 
@@ -29,7 +29,11 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 
 | Location | Change                                                       |
 | -------- | ------------------------------------------------------------ |
+| 1A.1.3   | *#controllers[1-5]* added                                    |
+| 1A.1.6   | Introduction of guidance for use of Voice Channels within Discord |
+| 1A.2.1   | Changes made to accommodate the use of Voice Channels        |
 | 4.1.3    | Minor wording correction (broadcast of ATIS change only required on Ground/Tower - currently not available on Radar) |
+| 5.2.1    | Minor restructuring of paragraph                             |
 | 6.2.3    | Minor wording correction                                     |
 | 6.8.9    | A key for flight plan approach prefixes added                |
 | 6.9.2    | The GPS Approach is authorized provided the pilot has a published procedure in their flight plan (and not just random waypoints) leading to the intended arrival runway |
