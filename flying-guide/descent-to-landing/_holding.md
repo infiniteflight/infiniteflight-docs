@@ -9,6 +9,12 @@ order: 4
 
 
 
+Tip
+
+: When referring to headings, the reciprocal is simply the opposite heading (i.e. 180 degrees in the other direction) - so the reciprocal of 270 degrees is 090 degrees!
+
+
+
 ## What is a Hold?
 
 The primary purposes of a hold are to provide separation and flow control to aircraft during the arrival sequence in a localized area close to the destination airport. Holds are generally organized around a navigation aid (NAVAID) such as a VOR or NDB. All procedures are drawn using magnetic tracks (not headings) and each leg should take 1 minute in still air (1:30 above 14,000ft/FL140) unless otherwise specified on the chart.
@@ -35,7 +41,7 @@ In still air, at one minute from abeam, the relative bearing from the beacon wil
 
 Tip
 
-: If the length of the hold is greater than 1 minute (in still air), the gate relative bearing of 30 degrees is no longer valid! 
+: If the length of the hold is greater than 1 minute (in still air), the 'gate' relative bearing of 30 degrees is no longer valid! 
 
 
 
@@ -135,6 +141,12 @@ Tip
 
 
 ## How to Enter the Hold
+
+
+
+Tip
+
+: As you get closer to a NAVAID in the hold, the sensitivity will increase. Therefore if you are really close, try not to chase the Bearing Pointer! 
 
 
 
