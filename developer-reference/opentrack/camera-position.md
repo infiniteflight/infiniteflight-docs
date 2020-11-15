@@ -17,3 +17,4 @@ To set the Camera Position using the OpenTrack API, send just one chunk with 6 `
 * Pitch
 * Roll
 
+The chunk should be sent over UDP to the device running IF on port `4242`.

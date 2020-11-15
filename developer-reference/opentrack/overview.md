@@ -8,7 +8,7 @@ contributor: KaiM
 
 # Infinite Flight OpenTrack API
 
-The OpenTrack API is an extremely simple TCP API used to control the camera in-game. This function was added in Infinite Flight version 20.2.
+The OpenTrack API is an extremely simple UDP API used to control the camera in-game. This function was added in Infinite Flight version 20.2.
 
 ## How to use the API
 
@@ -38,11 +38,11 @@ No API Key is required for the OpenTrack API.
 
 This documentation is aimed at someone with knowledge of:
 
-- Transmission Control Protocol (TCP)
+- User Datagram Protocol (TCP)
 - Data Types
 - Camera Axis
 
 If you are not knowledgeable in these areas, you are of course welcome to browse the documentation. You can also check out these resources to help you learn.
 
-- [What is TCP/IP? | Cloudflare](https://www.cloudflare.com/learning/ddos/glossary/tcp-ip/)
+- [What is UDP? | Cloudflare](https://www.cloudflare.com/learning/ddos/glossary/user-datagram-protocol-udp/)
 - [W3Schools - C# Data Types](https://www.w3schools.com/cs/cs_data_types.asp)
