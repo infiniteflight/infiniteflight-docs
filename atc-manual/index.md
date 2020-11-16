@@ -21,7 +21,7 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 
 ## Version: 20.2.2
 
-## Last Updated: 1545Z - 13 NOV 20
+## Last Updated: 2115Z - 16 NOV 20
 
 
 
@@ -29,7 +29,9 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 
 | Location | Change                                                       |
 | -------- | ------------------------------------------------------------ |
-| 1A.1.3   | *#controllers[1-5]* added                                    |
+| 1.1.5    | VC (Voice Channel) abbreviation added                        |
+| 1A.1.3   | *#botcommands* and *#controllers[1-5]* added                 |
+| 1A.1.5   | Available commands updated                                   |
 | 1A.1.6   | Introduction of guidance for use of Voice Channels within Discord |
 | 1A.2.1   | Changes made to accommodate the use of Voice Channels        |
 | 1A.2.1   | Region changeover grace period reduced from 1 hour to 30 minutes |
@@ -39,6 +41,8 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 | 6.8.9    | A key for flight plan approach prefixes added                |
 | 6.9.2    | The GPS Approach is authorized provided the pilot has a published procedure in their flight plan (and not just random waypoints) leading to the intended arrival runway |
 | 7.1.4    | Minor wording correction (1 day changed to 24 hour period)   |
+| 7.3.4    | Automatic fail if aircraft separation lost in The Initial Practical Test |
+| 7.5.6    | Automatic fail if terrain/aircraft separation lost in The Radar Practical Test |
 | 7A.1.7   | *#trainer-trainee[1-3]* added                                |
 | 7A.1.8   | Trainer specific guidance for use of Voice Channels within Discord |
 | 7A.2.8   | Initial and Radar Trainer Checklist incorporated from Google Docs |
