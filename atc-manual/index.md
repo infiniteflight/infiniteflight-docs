@@ -21,7 +21,7 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 
 ## Version: 20.2.2
 
-## Last Updated: 1915Z - 12 NOV 20
+## Last Updated: 1545Z - 13 NOV 20
 
 
 
@@ -32,13 +32,19 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 | 1A.1.3   | *#controllers[1-5]* added                                    |
 | 1A.1.6   | Introduction of guidance for use of Voice Channels within Discord |
 | 1A.2.1   | Changes made to accommodate the use of Voice Channels        |
+| 1A.2.1   | Region changeover grace period reduced from 1 hour to 30 minutes |
 | 4.1.3    | Minor wording correction (broadcast of ATIS change only required on Ground/Tower - currently not available on Radar) |
 | 5.2.1    | Minor restructuring of paragraph                             |
 | 6.2.3    | Minor wording correction                                     |
 | 6.8.9    | A key for flight plan approach prefixes added                |
 | 6.9.2    | The GPS Approach is authorized provided the pilot has a published procedure in their flight plan (and not just random waypoints) leading to the intended arrival runway |
 | 7.1.4    | Minor wording correction (1 day changed to 24 hour period)   |
+| 7A.1.7   | *#trainer-trainee[1-3]* added                                |
+| 7A.1.8   | Trainer specific guidance for use of Voice Channels within Discord |
 | 7A.2.8   | Initial and Radar Trainer Checklist incorporated from Google Docs |
+| 7B.2.1   | Maximum aircraft permitted at The Initial Practical Test added |
+| 7B.3.1   | Maximum aircraft permitted at The Radar Practical Test added |
+| 7C.1.4   | *#trainer-trainee[1-3]* added                                |
 | 7D.4.1   | Guidance on adding notes to Controller's records included    |
 
 +++

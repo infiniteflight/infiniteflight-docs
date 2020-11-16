@@ -16,11 +16,11 @@ Distance Measuring Equipment, abbreviated to DME; is most commonly used with a n
 
 
 
-DME Arcs are most commonly found on the Initial approach segment, leading aircraft from the Initial Approach Fix (IAF) onto the Final Approach Track (FAT) where the Intermediate and Final approach segments can be commenced. 
+DME Arcs are most commonly found on the Initial approach segment, leading aircraft from the Initial Approach Fix (IAF) onto the Final Approach Course where the Intermediate and Final approach segments can be commenced. 
 
 
 
-Around the arc will be a series of published radials from the NAVAID that are used to indicate the start of the arc, when further descent can be made, and when a turn can be commenced to intercept the Final Approach Track (FAT).
+Around the arc will be a series of published radials from the NAVAID that are used to indicate the start of the arc, when further descent can be made, and when a turn can be commenced to intercept the Final Approach Course.
 
 
 
@@ -114,7 +114,7 @@ Step 1
 
 Step 2
 
-: Set up your [Horizontal Situation Indicator (HSI)](/guide/flying-guide/descent-to-landing/dme-arc#what-is-the-horizontal-situation-indicator-(hsi)%3F) to help fly the DME Arc. If you are intercepting the Final Approach Track (FAT) of a Precision/Non-Precision approach at the end of the DME Arc, make sure to have this tuned too if you can
+: Set up your [Horizontal Situation Indicator (HSI)](/guide/flying-guide/descent-to-landing/dme-arc#what-is-the-horizontal-situation-indicator-(hsi)%3F) to help fly the DME Arc. If you are intercepting the Final Approach Course of a Precision/Non-Precision approach at the end of the DME Arc, make sure to have this tuned too if you can
 
 
 
@@ -168,4 +168,4 @@ Step 8
 
 Step 9
 
-: When you pass the final radial as indicated on the chart, continue the turn to intercept the Final Approach Track (FAT)
+: When you pass the final radial as indicated on the chart, continue the turn to intercept the Final Approach Course
