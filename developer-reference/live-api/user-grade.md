@@ -166,12 +166,30 @@ The ATC Ranks are as follows.
 
 #### GradeRuleDefinition
 
-| Name | Type | Description | Required |
-| ---- | ---- | ----------- | -------- |
-| name | string | Name of the rule | No |
-| description | string | Description of the rule | No |
-| property | string | The property of the `GradeInfo` object the rule relates to | No |
-| operator | integer | _Enum:_ `"GreaterThan = 0"`, `"LesserThan = 1"`, `"GreaterThanOrEqual = 2"`, `"LesserThanOrEqual = 3"`, `"Equal = 4"`, `"DifferentThan = 5"` | No |
-| period | double | TODO | No |
-| order | integer | Order of the Rule within the `rules` property of the `Grade` object | No |
-| group | integer | Not in use for this endpoint. | No |
+| Name | Type | Description |
+| ---- | ---- | ----------- |
+| name | string | Name of the rule |
+| description | string | Description of the rule |
+| property | string | The property of the `GradeInfo` object the rule relates to |
+| operator | integer | _Enum:_ `"GreaterThan = 0"`, `"LesserThan = 1"`, `"GreaterThanOrEqual = 2"`, `"LesserThanOrEqual = 3"`, `"Equal = 4"`, `"DifferentThan = 5"` |
+| period | double | Time period in which the rule must be met |
+| order | integer | Order of the Rule within the `rules` property of the `Grade` object |
+| group | integer | Not in use for this endpoint. |
+
+#### ViolationEntry
+
+| Name | Type   | Description                     |
+| ---- | ------ | ------------------------------- |
+| type | double | Type of Violation               |
+| date | string | Date the Violation was Received |
+
+#### ReportEntry
+
+| Name         | Type          | Description                                 |
+| ------------ | ------------- | ------------------------------------------- |
+| type         | integer       | Type of Report                              |
+| creationTime | string        | Time the Report was Created                 |
+| creatorId    | string (uuid) | User ID of the Report Issuer                |
+| description  | string        | Reason for the Report                       |
+| flightId     | string (uuid) | ID of the Flight the Report was received in |
+
