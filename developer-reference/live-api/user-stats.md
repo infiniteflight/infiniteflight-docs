@@ -10,13 +10,9 @@ order: 6
 
 Retrieve user statistics for multiple users, including their grade, flight time and username.
 
-
-
 ## Resource
 
 **POST** `https://api.infiniteflight.com/public/v2/user/stats`
-
-
 
 ## Authorization
 
@@ -24,8 +20,6 @@ Include your API key (`<apikey>`) by either:
 
 - Adding the `apikey` query parameter. For example, `?apikey=<apikey>`.
 - Sending a bearer authorization header with your API key. For example, `Authorization: Bearer <apikey>`.
-
-
 
 ## Parameters
 
@@ -57,8 +51,6 @@ Include your API key (`<apikey>`) by either:
   ],
 }
 ```
-
-
 
 ## Response
 
@@ -109,8 +101,6 @@ Include your API key (`<apikey>`) by either:
   ]
 }
 ```
-
-
 
 #### LiveAPIResponse
 

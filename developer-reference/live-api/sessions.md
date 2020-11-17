@@ -9,13 +9,9 @@ order: 2
 
 Retrieve active sessions (servers) in Infinite Flight.
 
-
-
 ## Resource
 
 **GET** `https://api.infiniteflight.com/public/v2/sessions`
-
-
 
 ## Authorization
 
@@ -23,8 +19,6 @@ Include your API key (`<apikey>`) by either:
 
 - Adding the `apikey` query parameter. For example, `?apikey=<apikey>`.
 - Sending a bearer authorization header with your API key. For example, `Authorization: Bearer <apikey>`.
-
-
 
 ## Response
 
@@ -45,8 +39,6 @@ Include your API key (`<apikey>`) by either:
 }
 ```
 
-
-
 #### LiveAPIResponse
 
 *Response Type:* `application/json`
@@ -55,8 +47,6 @@ Include your API key (`<apikey>`) by either:
 | ----------- | ------------- | ------------------------------------------------------------ |
 | `errorCode` | integer       | _Enum:_ `"Ok = 0"`, `"UserNotFound = 1"`, `"MissingRequestParameters = 2"`, `"EndpointError = 3"`, `"NotAuthorized = 4"`, `"ServerNotFound = 5"` |
 | `result`    | [SessionInfo] | Array of SessionInfo objects                                 |
-
-
 
 #### SessionInfo
 
