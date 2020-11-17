@@ -38,11 +38,6 @@ No API Key is required for the OpenTrack API.
 
 This documentation is aimed at someone with knowledge of:
 
-- User Datagram Protocol (TCP)
+- User Datagram Protocol (UDP)
 - Data Types
 - Camera Axis
-
-If you are not knowledgeable in these areas, you are of course welcome to browse the documentation. You can also check out these resources to help you learn.
-
-- [What is UDP? | Cloudflare](https://www.cloudflare.com/learning/ddos/glossary/user-datagram-protocol-udp/)
-- [W3Schools - C# Data Types](https://www.w3schools.com/cs/cs_data_types.asp)
