@@ -9,7 +9,7 @@ order: 5
 
 # Subscriptions
 
-This is where you'll find information and frequently asked questions related to our PRO subscription. If you can't find the answer to your question below, please contact our support team at [support@infiniteflight.com](mailto:support@infiniteflight.com).
+This is where you'll find information and frequently asked questions related to our Pro Subscription. If you can't find the answer to your question below, please contact our support team at [support@infiniteflight.com](mailto:support@infiniteflight.com).
 
 
 
@@ -86,6 +86,22 @@ Step 6
 Tip
 
 : Please note that if you do not have a previous subscription using Google or Facebook, then you will need to use Infinite Flight to login. New subscriptions using Google or Facebook to login is no longer supported
+
+
+
+## Unable to Purchase a Pro Subscription
+
+If you find that you are unable to purchase a Pro Subscription whilst following the steps above, it is likely due to one of the following reasons:
+
+
+
+- Parental permissions are enabled which are preventing in-app purchases
+- There is a problem with your network connection
+- You do not have an official version of the app
+
+
+
+To try to fix the issue we recommend checking parental permissions, restarting your device, and then ensuring you have a good network connection before trying again. 
 
 
 

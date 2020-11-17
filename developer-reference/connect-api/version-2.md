@@ -8,7 +8,7 @@ contributor: KaiM,tomthetank
 
 # Connect API v2
 
-This version of the API was first included in Infinite Flight version 19.4.
+This version of the API was first included in Infinite Flight 19.4.
 ## Connection
 Step 1
 : Enable Infinite Flight command server - check `Enable Infinite Flight Connect` in `Settings > General` is checked
@@ -27,9 +27,9 @@ All data must be sent as it's type. For instance, if you're trying to send boole
 
 #### Obtaining the Manifest
 
-The Connect API exposes different states for every aircraft, and as such the applicable states and their IDs change depending on what aircraft you are operating. You can obtain a manifest of available states by sending integer `-1` followed by boolean `false` to the API. This will return the `ID` you sent (`-1`), and the `length` of the data you are about to receive in bytes as an integer. All information received from the API begins this way. Following the `ID` and `length`, the manifest is represented as a (very long) string. The API represents strings by sending their length in bytes as an integer followed by the actual string. The string will have the format `511,2,aircraft/0/systems/nav_sources/adf/2/distance_to_glide_path\n851,3,infiniteflight/cameras/4/x_angle\n81,4,api_joystick/buttons/8/name...`. This string can be split on `\n` and then generalizes to `ID, Type, Path` for each state.
+The Connect API exposes different states for every aircraft, and as such the applicable states and their IDs change depending on what aircraft you are operating. You can obtain a manifest of available states by sending integer `-1` followed by boolean `false` to the API. This will return the `ID` you sent (`-1`), and the `length` of the data you are about to receive in bytes as an integer. All information received from the API begins this way. Following the `ID` and `length`, the manifest is represented as a (very long) string. The API represents strings by sending their length in bytes as an integer followed by the actual string. The string will have the format `511,2,aircraft/0/systems/nav_sources/adf/2/distance_to_glide_path\n851,3,infiniteflight/cameras/4/x_angle\n81,4,api_joystick/buttons/8/name...`. This string can be split on `\n` and then generalizes to `ID, Type, Path` for each state. Keep in mind that due to the length of the manifest it may be split into multiple chunks.
 
-The API defines data types according to the following integers:
+The API defines data types according to the following integers.
 
 | Integer | Type             |
 | ------- | ---------------- |
@@ -53,7 +53,7 @@ A `GetState` command is sent by sending:
 
 The state you request will be returned via the API on the same socket. 
 
-**Example:** Sending `635`, then  `false` will result in Infinite Flight sending you `635`, then `1`, then `1` if your strobe lights are on.
+For example, sending `635`, then  `false` will result in Infinite Flight sending you `635`, then `1`, then `1` if your strobe lights are on.
 
 **Set State**
 
@@ -63,21 +63,21 @@ A `SetState` command is sent by sending:
 2. A `true` boolean value.
 3. The value, as the applicable data type, you would like to set the state to. 
 
-**Example:** Sending `635`, then `true`, then `0` will turn your strobe lights off.
+For example, sending `635`, then `true`, then `0` will turn your strobe lights off.
 
-##### Run Command
+**Run Command**
 
 A `RunCommand` is sent by sending:
 
 1. The integer value of the `ID` of the command you would like to send.
 2. A `false` boolean value
 
-**Example:** Sending `1048634` then `false` will toggle the autopilot.
+For example, sending `1048634` then `false` will toggle the autopilot.
 
-**Receiving Data**
+#### Receiving Data
 
 All states begin with two integer values:  `ID` and `Length` of the data.
 
 Following these values, all states are returned as their data type (so a state with an integer data type will be returned as an integer, a float as a float, etc.) with the exception of strings. Strings contain one additional integer specifying the length of bytes as an integer, followed by the string.
 
-You can receive states after sending a `GetState` command, described above.
+You can receive states after sending a `GetState` command as described above.

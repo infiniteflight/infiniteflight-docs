@@ -16,11 +16,11 @@ Distance Measuring Equipment, abbreviated to DME; is most commonly used with a n
 
 
 
-DME Arcs are most commonly found on the Initial approach segment, leading aircraft from the Initial Approach Fix (IAF) onto the Final Approach Track (FAT) where the Intermediate and Final approach segments can be commenced. 
+DME Arcs are most commonly found on the Initial approach segment, leading aircraft from the Initial Approach Fix (IAF) onto the Final Approach Course where the Intermediate and Final approach segments can be commenced. 
 
 
 
-Around the arc will be a series of published radials from the NAVAID that are used to indicate the start of the arc, when further descent can be made, and when a turn can be commenced to intercept the Final Approach Track (FAT).
+Around the arc will be a series of published radials from the NAVAID that are used to indicate the start of the arc, when further descent can be made, and when a turn can be commenced to intercept the Final Approach Course.
 
 
 
@@ -61,7 +61,7 @@ Once established on the arc and to be able to follow the curved track keeping th
 
 
 
-A predetermined heading change needs to be picked; 10 degrees is used in the example below but could be higher if you prefer! Once established on the arc (i.e. the correct distance from the beacon as published on the DME Arc, and 90 degrees from the beacon) a 10 degree turn can be made to 'cut-across' the arc. The bearing pointer will now read 5 degrees above the 90 degree line (actual relative beading is 85 degrees) and the aircraft will begin to cut across the arc. As the aircraft approaches the arc again, the bearing pointer will begin to move until it has dropped 5 degrees below the 90 degree line (actual relative beading is now 95 degrees); at this point, another 10 degree cut-across can be made and the technique is repeated until the arc is complete.
+A predetermined heading change needs to be picked; 10 degrees is used in the example below but could be higher if you prefer! Once established on the arc (i.e. the correct distance from the beacon as published on the DME Arc, with a relative bearing of 90 degrees) a 10 degree turn can be made to 'cut-across' the arc. The bearing pointer will now read 5 degrees above the 90 degree line (actual relative bearing is 85 degrees) and the aircraft will begin to cut across the arc. As the aircraft approaches the arc again, the bearing pointer will begin to move until it has dropped 5 degrees below the 90 degree line (actual relative beading is now 95 degrees); at this point, another 10 degree cut-across can be made and the technique is repeated until the arc is complete.
 
 
 
@@ -114,7 +114,7 @@ Step 1
 
 Step 2
 
-: Set up your [Horizontal Situation Indicator (HSI)](/guide/flying-guide/descent-to-landing/dme-arc#what-is-the-horizontal-situation-indicator-(hsi)%3F) to help fly the DME Arc. If you are intercepting the Final Approach Track (FAT) of a Precision/Non-Precision approach at the end of the DME Arc, make sure to have this tuned too if you can
+: Set up your [Horizontal Situation Indicator (HSI)](/guide/flying-guide/descent-to-landing/dme-arc#what-is-the-horizontal-situation-indicator-(hsi)%3F) to help fly the DME Arc. If you are intercepting the Final Approach Course of a Precision/Non-Precision approach at the end of the DME Arc, make sure to have this tuned too if you can
 
 
 
@@ -132,7 +132,7 @@ Step 3
 
 Tip
 
-: We recommend not flying a DME Arc any faster than 180kts IAS to help reduce your workload, however dependant on the aircraft type, you may choose something slower than this if you wish
+: We recommend not flying a DME Arc any faster than 180kts IAS to help reduce your workload; however, dependant on the aircraft type you may choose something slower than this if you wish
 
 
 
@@ -168,4 +168,4 @@ Step 8
 
 Step 9
 
-: When you pass the final radial as indicated on the chart, continue the turn to intercept the Final Approach Track (FAT)
+: When you pass the final radial as indicated on the chart, continue the turn to intercept the Final Approach Course

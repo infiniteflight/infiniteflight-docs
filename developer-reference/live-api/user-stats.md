@@ -1,5 +1,5 @@
 ---
-id: get-user-stats
+id: user-stats
 title: Get User Stats
 meta: Overview of the user stats endpoint of the Infinite Flight Live API
 order: 6
@@ -10,13 +10,9 @@ order: 6
 
 Retrieve user statistics for multiple users, including their grade, flight time and username.
 
-
-
 ## Resource
 
 **POST** `https://api.infiniteflight.com/public/v2/user/stats`
-
-
 
 ## Authorization
 
@@ -25,28 +21,36 @@ Include your API key (`<apikey>`) by either:
 - Adding the `apikey` query parameter. For example, `?apikey=<apikey>`.
 - Sending a bearer authorization header with your API key. For example, `Authorization: Bearer <apikey>`.
 
-
-
 ## Parameters
 
 *Request Content-Type:* `application/json`
 
-| Name      | Located in        | Description                                                  | Required | Schema          |
-| --------- | ----------------- | ------------------------------------------------------------ | -------- | --------------- |
-| `userIds` | POST request body | An array of user ID strings retrieved from the Get Flights endpoint | Yes      | [string (uuid)] |
+| Name             | Located in        | Description                                                  | Required | Schema          |
+| ---------------- | ----------------- | ------------------------------------------------------------ | -------- | --------------- |
+| `userIds`        | POST request body | An array of user ID strings retrieved from another endpoint  | No\*     | [string (uuid)] |
+| `discourseNames` | POST request body | An array of IFC Usernames. Not case sensitive.               | No\*     | [string]        |
+| `userHashes`     | POST request body | An array of user hashes retrieved in-app or from another endpoint. All letters must be upper case. | No\*     | [string]        |
+
+*\*At least one search parameter is required*
 
 #### Sample Body
 
 ```json
 {
   "userIds": [
-    "3f8b28bf-bbb1-4024-80ae-2a0ea9b30685",
-    "66e362c0-894b-495b-93a6-75f9befa502d"
-  ]
+    "2a11e620-1cc1-4ac6-90d1-18c4ed9cb913",
+    "5917d076-88a5-40e7-95e0-8818748f8e99"
+  ],
+  "discourseNames": [
+      "KaiM",
+      "Laura"
+  ],
+  "userHashes": [
+      "F0081CAA",
+      "E2087C9F"
+  ],
 }
 ```
-
-
 
 ## Response
 
@@ -97,8 +101,6 @@ Include your API key (`<apikey>`) by either:
   ]
 }
 ```
-
-
 
 #### LiveAPIResponse
 

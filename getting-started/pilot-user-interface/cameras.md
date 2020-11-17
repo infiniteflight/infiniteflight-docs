@@ -26,3 +26,9 @@ Step 2
 Step 3
 
 : There are 7 different categories and within these, multiple options that can be chosen. Whilst continuing to hold your finger on the screen, slide between the categories, and then between the different options within the category. A hollow orange box will move, and once you have highlighted the option you want displayed, release your finger.
+
+
+
+Tip
+
+: Once you have the desired camera selected, you can use your finger to move the camera around, or a pinching motion with two fingers to zoom in/out. With the Free Cams (i.e. Free and Exterior/Interior Drone 1/2), you can use the left side of the screen to go left/right or zoom in/out; and the right hand side of the screen to move the direction the camera is facing

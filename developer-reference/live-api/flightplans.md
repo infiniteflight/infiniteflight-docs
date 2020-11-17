@@ -1,5 +1,5 @@
 ---
-id: get-flightplans
+id: flightplans
 title: Get Flight Plans
 meta: Overview of the flight plans endpoint of the Infinite Flight Live API
 order: 4
@@ -10,13 +10,9 @@ order: 4
 
 Retrieve all active flight plans for a session.
 
-
-
 ## Resource
 
 **GET** `https://api.infiniteflight.com/public/v2/flightplans/{sessionId}`
-
-
 
 ## Authorization
 
@@ -25,15 +21,11 @@ Include your API key (`<apikey>`) by either:
 - Adding the `apikey` query parameter. For example, `?apikey=<apikey>`.
 - Sending a bearer authorization header with your API key. For example, `Authorization: Bearer <apikey>`.
 
-
-
 ## Parameters
 
 | Name        | Located in | Description                                           | Required | Schema        |
 | ----------- | ---------- | ----------------------------------------------------- | -------- | ------------- |
 | `sessionId` | path       | ID of the session returned from the Sessions endpoint | Yes      | string (uuid) |
-
-
 
 ## Response
 
@@ -82,8 +74,6 @@ Include your API key (`<apikey>`) by either:
 }
 ```
 
-
-
 #### LiveAPIResponse
 
 *Response Type:* `application/json`
@@ -92,8 +82,6 @@ Include your API key (`<apikey>`) by either:
 | ----------- | ---------------- | ------------------------------------------------------------ |
 | `errorCode` | integer          | _Enum:_ `"Ok = 0"`, `"UserNotFound = 1"`, `"MissingRequestParameters = 2"`, `"EndpointError = 3"`, `"NotAuthorized = 4"`, `"ServerNotFound = 5"` |
 | `result`    | [FlightPlanInfo] | Array of FlightPlanInfo objects                              |
-
-
 
 #### FlightPlanInfo
 
