@@ -21,7 +21,7 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 
 ## Version: 20.2.2
 
-## Last Updated: 2115Z - 16 NOV 20
+## Last Updated: 1030Z - 17 NOV 20
 
 
 
