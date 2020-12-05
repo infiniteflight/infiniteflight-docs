@@ -21,7 +21,7 @@ For the time being, we have decided to stream our terrain & scenery imagery whic
 
 
 
-## When I try to Login, I Receive an Error saying that this Account has never been used with Infinite Flight?
+## When I try to Login, I Receive "Error Code 1"?
 
 This is something you can see when you have yet to create an account in Infinite Flight. An account is created when you purchase a PRO subscription and can’t be created before that. You then have the option to link your account to a Google profile. You are most likely trying to sign in with credentials that have yet to be linked to an account in Infinite Flight yet. 
 
