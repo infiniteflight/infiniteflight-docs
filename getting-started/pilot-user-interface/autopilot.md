@@ -30,3 +30,27 @@ Step 3
 Step 4
 
 : The altitude and heading selections have turquoise bugs which appear on the [HUD](/guide/getting-started/pilot-user-interface/flight-plan). These values can be pre-set before engagement of the Autopilot. 
+
+
+
+## Use of Approach Mode
+
+Aircraft may be fitted with the Approach (APPR) mode which allows the autopilot to intercept an ILS and perform an automatic landing if it is kept engaged until touchdown. Before engaging the APPR mode, make sure to check that the ILS has been [tuned](/guide/getting-started/pilot-user-interface/navigation#tuning-to-an-ils) and [displayed](/guide/getting-started/pilot-user-interface/navigation#displaying-an-ils-in-your-aircraft).
+
+
+
+When pressing the APPR button, the following displays will be shown beneath it:
+
+| Autopilot Mode                                 | Meaning                                                      |
+| ---------------------------------------------- | ------------------------------------------------------------ |
+| "LOC ALT" (flashing amber)                     | The APPR mode has been armed                                 |
+| "LOC" (solid green) and "ALT" (flashing amber) | The APPR mode is capturing or already established on the LOC, the G/S is armed and will capture provided you are below the G/S |
+| "LOC GS" (solid green)                         | The APPR mode is capturing or already established on both the LOC and G/S |
+
+For the best results, only engage the APPR mode when you are on an [intercept heading for the ILS](/guide/flying-guide/descent-to-landing/instrument-landing-system-(ils)-approach#what-is-an-ils-approach%3F) (we recommend no more than 30 degrees). Once engaged, the heading can still be adjusted however once the LOC capture is in progress, the heading can no longer be changed. 
+
+
+
+Tip
+
+: If LNAV and VNAV are engaged and the APPR button is tapped, the last heading and vertical speed that the aircraft was flying will be maintained however this can result in abnormal autopilot behaviour
