@@ -47,7 +47,7 @@ When pressing the APPR button, the following displays will be shown beneath it:
 | "LOC" (solid green) and "ALT" (flashing amber) | The APPR mode is capturing or already established on the LOC, the G/S is armed and will capture provided you are below the G/S |
 | "LOC GS" (solid green)                         | The APPR mode is capturing or already established on both the LOC and G/S |
 
-For the best results, only engage the APPR mode when you are on an intercept heading for the ILS (we recommend no more than 30 degrees). Once engaged, the heading can still be adjusted however once the LOC capture is in progress, the heading can no longer be changed. 
+For the best results, only engage the APPR mode when you are on an [intercept heading for the ILS](/guide/flying-guide/descent-to-landing/instrument-landing-system-(ils)-approach#what-is-an-ils-approach%3F) (we recommend no more than 30 degrees). Once engaged, the heading can still be adjusted however once the LOC capture is in progress, the heading can no longer be changed. 
 
 
 
