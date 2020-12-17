@@ -19,13 +19,46 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 
 
 
-## Version: 20.2.2
+## Version: 20.3
 
-## Last Updated: 1845Z - 17 NOV 20
+## Last Updated: 1930Z - 17 DEC 20
 
 
 
-+++ Summary of Changes - Version: 20.2.2 (CURRENT VERSION)
++++ Summary of Changes - Version: 20.3 (CURRENT VERSION)
+
+| Location                 | Change                                                       |
+| ------------------------ | ------------------------------------------------------------ |
+| All                      | Hyperlinks fixed                                             |
+| 1.1.3                    | Amended to account for the new Report Form and Feedback Status Spreadsheet |
+| 1A.1                     | IFATC Discord can be used for advice but the IFC Forum is the only place for official in-app support |
+| 1A.1.4                   | *!manualfeedback*, *!feedbackstatus*, and *!lightaircraft* bot commands amended/added |
+| 1B.1.6                   | Spelling mistake fixed                                       |
+| 3.2.2                    | Pro Tip added to help clarify departure sequencing           |
+| 3.3.2                    | Clarification on the use of "Continue Inbound" added, a pattern entry is still required |
+| 3.6.3                    | Added a note to clarify the use of "if req"                  |
+| 4.1.5                    | Minor wording correction                                     |
+| 7.3 / 7.5                | Pro Tip added to remind Candidates to have adequate battery life and reliable internet connections for training and testing sessions |
+| 7.5.7                    | Officer Check Ride phase introduced                          |
+| 7.5.8                    | Flowchart label renamed for consistency with 7.4.7           |
+| 7A.1.7 / 7B.1.2 / 7C.1.4 | Testers **must not**{.red} "react" to the request if all available slots are already filled |
+| 7A.2.3                   | Reference removed to old google spreadsheets that are no longer in use |
+| 7A.2.3                   | No Training to be conducted between 1700Z and 2359Z on Fridays |
+| 7A.2.7                   | Wording adjusted slightly to emphasize that any form of training is not authorized at test sites |
+| 7B.1.1                   | Only people involved in a Practical Test are authorized to attend |
+| 7B.2 / 7B.3              | Pro Tip added to remind Trainers that any form of training is not authorized at test sites |
+| 7B.2.1                   | Spelling mistake fixed                                       |
+| 7C.2.4                   | Guidance added on handling "no shows" to the Initial Practical Test |
+| 7C.2.4                   | Pro Tip added to remind Recruiters to inform Candidates of Training if they become eligible |
+| 7C.2.6                   | Guidance added for Recruiters to monitor Candidates activity during the Recruitment process |
+| 7C.3.3                   | Pro Tip added providing Recruiters with guidance on removing Controllers from *#testers* before a test |
+| 7D.4.4                   | Supervisor guidance for adding notes to Controller profiles further clarified |
+
++++
+
+
+
++++ Summary of Changes - Version: 20.2.2
 
 | Location | Change                                                       |
 | -------- | ------------------------------------------------------------ |
@@ -79,39 +112,6 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 | 7C.4.1          | Minor wording correction to accommodate Discord migration    |
 | 7D.1.1          | Minor wording correction to accommodate Discord migration    |
 | 7D.3.1          | Minor wording correction to accommodate Discord migration    |
-
-+++
-
-
-
-+++ Summary of Changes - Version: 20.2
-
-| Location        | Change                                                       |
-| --------------- | ------------------------------------------------------------ |
-| 1A.1.5          | */training* Slack slash command description updated          |
-| 1A.2.1          | Controlling Rules updated - "bounds of the ATC Schedule" defined to add clarification on what airports to open |
-| 1A.2.1          | Controlling Rules updated - clarification on region changeover times |
-| 1A.3.3          | Minor wording correction                                     |
-| 1B.1.6          | Removal of "Unable to Communicate" from the Violation list - Controllers can still use this however it will disconnect the pilot from their current session without issuing a Violation |
-| 2.3.4           | Reference added to the use of the back-taxi command when taxiways are not aligned for runway crossings |
-| 3.2.2           | Introduction of "Ready for Departure in Sequence"            |
-| 3.2             | 3.2.2 - 3.2.8 all moved down one (i.e. 3.2.3 - 3.2.9)        |
-| 3.5.1           | Hyperlink fixed                                              |
-| 3.5.4           | Minor wording correction                                     |
-| 5.1.1           | Minor wording correction                                     |
-| 6.2.3           | Clarity added on separation requirements when aircraft make initial contact with Radar Controllers |
-| 6.2.4           | 6.2.3 moved to 6.2.4                                         |
-| 6.4.4           | Check In wording adjusted to reflect changes to Flight Following - Check In is now a IFR service ONLY |
-| 6.5             | Reworked - Flight Following is now a VFR service ONLY        |
-| 6.6.2           | Check In wording adjusted to reflect changes to Flight Following - Check In is now a IFR service ONLY |
-| 6.12.3          | Minor wording correction                                     |
-| 6.13.3          | Minor wording correction                                     |
-| 6.13.4          | Further clarification added on when Radar Controllers handover to Tower Controllers |
-| 6.14.6 - 8      | Speed Control sub-section added                              |
-| 7.1.3           | Definitions table updated                                    |
-| 7.3.2           | Updated minimum requirements for Candidates to receive Training |
-| 7.5             | Various changes to ensure it is up to date with current procedures |
-| Section 7A - 7D | Various changes to ensure it is up to date with current procedures |
 
 +++
 
