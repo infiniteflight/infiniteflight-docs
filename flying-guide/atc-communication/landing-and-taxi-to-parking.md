@@ -145,7 +145,7 @@ Step 7
 
 Step 1
 
-: After landing, expeditiously exit the runway in a controller manner. The exit transmission may also include which direction to exit, and hold shot/crossing instructions for other runways
+: After landing, expeditiously exit the runway in a controlled manner. The exit transmission may also include which direction to exit, and hold shot/crossing instructions for other runways
 
 
 
