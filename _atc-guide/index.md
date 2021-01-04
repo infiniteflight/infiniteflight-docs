@@ -7,11 +7,11 @@ meta: Learn how to get the most out of Infinite Flight with our online documenta
 
 # Welcome to the ATC Guide!
 
-Whether you're a novice with no aviation background, or a professional controller with thousands of hours under your belt; our ATC Guide has been designed to help you with all aspects of controlling in Infinite Flight.
+Whether you're a novice with no aviation background, or a professional controller with thousands of hours under your belt; our ATC Guide has been designed to help you with all aspects of controlling in Infinite Flight. 
 
 
 
-Want to improve your controlling skills? Let's get started and bring the Infinite Flight skies under control...
+It is important to note that the ATC Guide focuses on *controlling techniques* rather than the rules (see [The ATC Manual](/guide/atc-manual)) - they are deliberately "grey" rather than "black & white" scenarios that are there to help Controllers think outside the box!
 
 
 
