@@ -11,6 +11,16 @@ order: 1
 
 
 
+## Runway Changes
+
+
+
+Manual
+
+: If a runway change is issued, a new pattern entry and clearance **must**{.red} be given (the use of sequencing will be dependent on traffic).
+
+
+
 | Scenario                                                     |
 | ------------------------------------------------------------ |
 | Aircraft 1 is departing RWY32L and Aircraft 2 is departing RWY32R. Both departures happened simultaneously. Aircraft 2 then asks for a RWY change to RWY32L |
@@ -43,15 +53,9 @@ order: 1
 
 
 
+Tip
 
-
-━━━━━[TIPS]━━━━━
-
-- Whilst all techniques are fine, I would suggest that Technique 1 offers the greatest flexibility, you do not need to have all aircraft on RWY32L in the left pattern, and all aircraft on RWY32R in the right pattern. For example, if Aircraft 2 turned out to be faster on downwind, you could then re-clear them as number 1 and sequence Aircraft 1 behind them, this might not be possible if they are both on the same side (i.e. left downwind)
-- There may be a reason that it is not appropriate to use a particular side of the pattern due to traffic/terrain or something else. Therefore one day, Technique 1 might be the best, and the next, Technique 2 or 3
-- Remember that these are **techniques** - they are deliberately *"grey"* rather than *"black & white"* rules. And as such, following a session; it might be more of a *"did you think about this as an option instead?"* or *"do you think there were any other ways you could have handled that situation?"*. Technique 3 may seem like the easiest "fail safe" method, but it is important to be flexible and utilize the technique that is best suited to the situation! 
-
-
+: Remember that other variables (such as terrain) might influence what is the best technique to use on the day, be flexible! 
 
 
 
@@ -84,12 +88,6 @@ Notes:
 
 
 ## Sequencing
-
-
-
-
-
-## Runway Change
 
 
 
