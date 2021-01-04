@@ -35,6 +35,10 @@ Step 4
 
 ## Use of Approach Mode
 
+@[vimeo](495491039)
+
+
+
 Aircraft may be fitted with the Approach (APPR) mode which allows the autopilot to intercept an ILS and perform an automatic landing if it is kept engaged until touchdown. Before engaging the APPR mode, make sure to check that the ILS has been [tuned](/guide/getting-started/pilot-user-interface/navigation#tuning-to-an-ils) and [displayed](/guide/getting-started/pilot-user-interface/navigation#displaying-an-ils-in-your-aircraft).
 
 
