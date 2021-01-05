@@ -1,5 +1,5 @@
 ---
 ordering:
   - meta
-  - tower
+  - pattern-work
 ---
