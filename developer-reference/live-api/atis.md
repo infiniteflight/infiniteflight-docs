@@ -46,4 +46,4 @@ Include your API key (`<apikey>`) by either:
 | Name        | Type    | Description                                                  |
 | ----------- | ------- | ------------------------------------------------------------ |
 | `errorCode` | integer | _Enum:_ `"Ok = 0"`, `"UserNotFound = 1"`, `"MissingRequestParameters = 2"`, `"EndpointError = 3"`, `"NotAuthorized = 4"`, `"ServerNotFound = 5"`, `"FlightNotFound = 6"`, `"NoAtisAvailable = 7"` |
-| `result`    | string  | The ATIS, or null if it is not available                     |
+| `result`    | string  | The ATIS, or `null` if it is not available                   |
