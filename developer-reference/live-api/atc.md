@@ -2,7 +2,7 @@
 id: atc
 title: Get Active ATC Frequencies
 meta: Overview of the ATC endpoint of the Infinite Flight Live API
-order: 5
+order: 6
 
 ---
 
@@ -56,7 +56,7 @@ Include your API key (`<apikey>`) by either:
 
 | Name        | Type                | Description                                                  |
 | ----------- | ------------------- | ------------------------------------------------------------ |
-| `errorCode` | integer             | _Enum:_ `"Ok = 0"`, `"UserNotFound = 1"`, `"MissingRequestParameters = 2"`, `"EndpointError = 3"`, `"NotAuthorized = 4"`, `"ServerNotFound = 5"` |
+| `errorCode` | integer             | _Enum:_ `"Ok = 0"`, `"UserNotFound = 1"`, `"MissingRequestParameters = 2"`, `"EndpointError = 3"`, `"NotAuthorized = 4"`, `"ServerNotFound = 5"`, `"FlightNotFound = 6"`, `"NoAtisAvailable = 7"` |
 | `result`    | [ActiveATCFacility] | Array of ActiveATCFacility objects                           |
 
 #### ActiveATCFacility

@@ -2,7 +2,7 @@
 id: user-stats
 title: Get User Stats
 meta: Overview of the user stats endpoint of the Infinite Flight Live API
-order: 6
+order: 7
 
 ---
 
@@ -61,24 +61,32 @@ Include your API key (`<apikey>`) by either:
   "errorCode": 0,
   "result": [
     {
-      "onlineFlights": 1116,
-      "violations": 104,
-      "xp": 564155,
-      "landingCount": 890,
-      "flightTime": 45304,
-      "atcOperations": 0,
-      "atcRank": null,
+      "onlineFlights": 2449,
+      "violations": 102,
+      "xp": 572128,
+      "landingCount": 898,
+      "flightTime": 45983,
+      "atcOperations": 548,
+      "atcRank": 7,
       "grade": 5,
       "hash": "5F0973A9",
-      "userId": "3f8b28bf-bbb1-4024-80ae-2a0ea9b30685",
-      "virtualOrganization": "IFATC [IFATC]",
+      "violationCountByLevel": {
+        "level1": 102,
+        "level2": 0,
+        "level3": 0
+      },
+      "roles": [
+        1,
+        2,
+        64
+      ],
+      "userId": "2a11e620-1cc1-4ac6-90d1-18c4ed9cb913",
+      "virtualOrganization": null,
       "discourseUsername": "Cameron",
       "groups": [
-        "d07afad8-79df-4363-b1c7-a5a1dde6e3c8",
-        "fcf6f0ea-4bf4-4ca6-81b8-c1c357d8f089",
         "8c93a113-0c6c-491f-926d-1361e43a5833",
-        "df0f6341-5f6a-40ef-8b73-087a0ec255b5",
-        "1e6599f9-8fcf-49a1-a0c7-e1c205826b65"
+        "d07afad8-79df-4363-b1c7-a5a1dde6e3c8",
+        "df0f6341-5f6a-40ef-8b73-087a0ec255b5"
       ],
       "errorCode": 0
     },
@@ -95,6 +103,14 @@ Include your API key (`<apikey>`) by either:
       "userId": "66e362c0-894b-495b-93a6-75f9befa502d",
       "virtualOrganization": null,
       "discourseUsername": null,
+       "violationCountByLevel": {
+        "level1": 22,
+        "level2": 0,
+        "level3": 0
+      },
+      "roles": [
+        64
+      ],
       "groups": [],
       "errorCode": 0
     }
@@ -108,39 +124,41 @@ Include your API key (`<apikey>`) by either:
 
 | Name        | Type        | Description                                                  |
 | ----------- | ----------- | ------------------------------------------------------------ |
-| `errorCode` | integer     | _Enum:_ `"Ok = 0"`, `"UserNotFound = 1"`, `"MissingRequestParameters = 2"`, `"EndpointError = 3"`, `"NotAuthorized = 4"`, `"ServerNotFound = 5"` |
+| `errorCode` | integer     | _Enum:_ `"Ok = 0"`, `"UserNotFound = 1"`, `"MissingRequestParameters = 2"`, `"EndpointError = 3"`, `"NotAuthorized = 4"`, `"ServerNotFound = 5"`, `"FlightNotFound = 6"`, `"NoAtisAvailable = 7"` |
 | `result`    | [UserStats] | Array of UserStats objects                                   |
 
 
 
 #### UserStats
 
-| Name                  | Type            | Description                                                  |
-| --------------------- | --------------- | ------------------------------------------------------------ |
-| `userId`              | string (uuid)   | Unique identifier for the user                               |
-| `virtualOrganization` | string          | The virtual organization of the user's forum account if linked. Can be null if not set |
-| `discourseUsername`   | string          | The user's forum username if the account is linked. If the account isn't linked, this will be null |
-| `groups`              | [string (uuid)] | A list of groups the user can be a part of. See below for the main groups. |
-| `errorCode`           | integer         | Status code of user query. Not in use for this endpoint      |
-| `onlineFlights`       | integer         | Number of flights carried out in multiplayer                 |
-| `violations`          | integer         | Number of Level 1, 2 and 3 violations the user received in multiplayer |
-| `xp`                  | double          | Total XP obtained in multiplayer                             |
-| `landingCount`        | integer         | Total landings carried out in multiplayer                    |
-| `flightTime`          | double          | Total flight time in minutes in multiplayer                  |
-| `atcOperations`       | integer         | Total number of ATC Operations.                              |
-| `atcRank`             | integer         | ATC Rank on the Expert Server. See below for the ranks. Can be null if user isn't an IFATC controller. |
-| `grade`               | integer         | The grade of the user, from 1 to 5.                          |
-| `hash`                | string          | A short-form user identifier, shown in the app to identify anonymous users. |
+| Name                    | Type            | Description                                                  |
+| ----------------------- | --------------- | ------------------------------------------------------------ |
+| `userId`                | string (uuid)   | Unique identifier for the user                               |
+| `virtualOrganization`   | string          | The virtual organization of the user's forum account if linked. Can be null if not set |
+| `discourseUsername`     | string          | The user's forum username if the account is linked. If the account isn't linked, this will be null |
+| `groups`                | [string (uuid)] | **Deprecated - will be in a future update** A list of groups the user can be a part of. |
+| `roles`                 | [integer]       | A list of roles a user has been assigned. See below for a list of main roles. |
+| `errorCode`             | integer         | Status code of user query. Not in use for this endpoint      |
+| `onlineFlights`         | integer         | Number of flights carried out in multiplayer                 |
+| `violations`            | integer         | Number of Level 1, 2 and 3 violations the user received in multiplayer |
+| `violationCountByLevel` | dict            | A dictionary with a count of violations issued to the user, split up by levels (Level 1/2/3). |
+| `xp`                    | double          | Total XP obtained in multiplayer                             |
+| `landingCount`          | integer         | Total landings carried out in multiplayer                    |
+| `flightTime`            | double          | Total flight time in minutes in multiplayer                  |
+| `atcOperations`         | integer         | Total number of ATC Operations.                              |
+| `atcRank`               | integer         | ATC Rank on the Expert Server. See below for the ranks. Can be null if user isn't an IFATC controller. |
+| `grade`                 | integer         | The grade of the user, from 1 to 5.                          |
+| `hash`                  | string          | A short-form user identifier, shown in the app to identify anonymous users. |
 
-#### Groups
+#### Roles
 
-The main groups are as follows.
+The main roles are as follows.
 
-| ID                                   | Name          |
-| ------------------------------------ | ------------- |
-| d07afad8-79df-4363-b1c7-a5a1dde6e3c8 | Staff         |
-| 8c93a113-0c6c-491f-926d-1361e43a5833 | Moderators    |
-| df0f6341-5f6a-40ef-8b73-087a0ec255b5 | IFATC Members |
+| ID   | Name                  |
+| ---- | --------------------- |
+| 1    | Infinite Flight Staff |
+| 2    | Moderators            |
+| 64   | IFATC Members         |
 
 #### ATC Ranks
 
