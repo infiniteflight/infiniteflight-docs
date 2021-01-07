@@ -11,7 +11,7 @@ Retrieves a list of Oceanic Tracks active in Infinite Flight multiplayer session
 
 ## Resource
 
-**GET** `https://api.infiniteflight.com/public/v2/airport/{airportIcao}/atis/{serverId}`
+**GET** `https://api.infiniteflight.com/public/v2/tracks`
 
 ## Authorization
 
