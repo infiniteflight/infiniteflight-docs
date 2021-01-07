@@ -1,31 +1,17 @@
 ---
-id: flightplans
-title: Get Flight Plans
+id: all-flightplans
+title: Get All Flight Plans (deprecated)
 meta: Overview of the flight plans endpoint of the Infinite Flight Live API
 order: 4
-
 ---
 
-# Get Flight Plans
+# Get All Flight Plans (deprecated)
+
+Deprecated
+
+: This API endpoint is deprecated and will be disabled soon. Please use the [Individual Flight Plan endpoint](/guide/developer-reference/live-api/all-flightplans)
 
 Retrieve all active flight plans for a session.
-
-## Resource
-
-**GET** `https://api.infiniteflight.com/public/v2/flightplans/{sessionId}`
-
-## Authorization
-
-Include your API key (`<apikey>`) by either:
-
-- Adding the `apikey` query parameter. For example, `?apikey=<apikey>`.
-- Sending a bearer authorization header with your API key. For example, `Authorization: Bearer <apikey>`.
-
-## Parameters
-
-| Name        | Located in | Description                                           | Required | Schema        |
-| ----------- | ---------- | ----------------------------------------------------- | -------- | ------------- |
-| `sessionId` | path       | ID of the session returned from the Sessions endpoint | Yes      | string (uuid) |
 
 ## Response
 
