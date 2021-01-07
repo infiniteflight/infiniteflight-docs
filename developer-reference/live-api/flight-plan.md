@@ -2,7 +2,7 @@
 id: flight-plan
 title: Get Flight Plan
 meta: Overview of the flight plan endpoint of the Infinite Flight Live API
-order: 5
+order: 6
 
 ---
 
