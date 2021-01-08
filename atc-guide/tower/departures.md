@@ -13,34 +13,34 @@ order: 2
 
 ## Hold Short
 
-N/A
+[INSERT CONTENT]
 
 
 
 ## Departure Sequence 
 
-N/A
+[INSERT CONTENT]
 
 
 
 ## Line Up & Wait (LUAW)
 
-N/A
+[INSERT CONTENT]
 
 
 
 ## Back-Taxi
 
-N/A
+[INSERT CONTENT]
 
 
 
 ## Intersection Departures
 
-N/A
+[INSERT CONTENT]
 
 
 
 ## Take-Off
 
-N/A
+[INSERT CONTENT]

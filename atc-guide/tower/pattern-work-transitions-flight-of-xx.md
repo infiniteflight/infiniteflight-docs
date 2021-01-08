@@ -13,6 +13,8 @@ order: 4
 
 ## Pattern Work
 
+[INSERT CONTENT]
+
 
 
 +++ SCENARIO - Re-Sequencing
@@ -46,10 +48,10 @@ order: 4
 
 ## Transitions
 
-N/A
+[INSERT CONTENT]
 
 
 
 ## Flight of XX
 
-N/A
+[INSERT CONTENT]

@@ -13,11 +13,33 @@ order: 5
 
 ## Exit Runway
 
-N/A
+[INSERT CONTENT]
 
 
 
 ## Go-Around
+
+A Go-Around (G/A) is an aborted landing by an aircraft on final approach and can either be initiated by the pilot or ATC.
+
+
+
+Possible reasons to Go-Around can include:
+
+
+
+- Loss of separation with the aircraft ahead
+- Landing/intersecting runway blocked by another aircraft
+- or an unstable approach (both pilot induced or due to environmental factors)
+
+
+
+It is important to note that the responsibility for a go-around lies equally with the pilot and the controller, if ATC is present.
+
+
+
+Manual
+
+: If working with a Radar Controller, you **should**{.red} try to let them know that the aircraft is "go-around" traffic so that they can work them into the plan, the aircraft can then be handed over to the Radar Controller unless they are VFR traffic or a prior arrangement has been made between Controllers.
 
 
 
