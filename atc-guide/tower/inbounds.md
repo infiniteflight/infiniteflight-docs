@@ -37,7 +37,7 @@ Manual
 
 {.scenario}
 
-![Pattern Entry and Sequencing](/Users/reganhawthorn/Documents/GitHub/infiniteflight-docs/atc-guide/tower/_images/manual/frames/atcg-pw-inbound.jpg)
+![Pattern Entry and Sequencing](_images/manual/frames/atcg-pw-inbound.jpg)
 
 | Technique 1                                                  | Pros / Cons                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
