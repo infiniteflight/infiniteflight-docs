@@ -9,9 +9,8 @@ order: 1
 
 # Separation
 
+[INSERT CONTENT]
+
 
 
 ![Image 3.1.1.1 - Tower Separation](_images/manual/graphics/atc-tower-separation.jpg)
-
-
-

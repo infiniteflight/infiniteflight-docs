@@ -13,6 +13,8 @@ order: 3
 
 ## Pattern Entry, Sequence and Clearance
 
+[INSERT CONTENT]
+
 
 
 ![The Traffic Pattern](_images/manual/graphics/atc-traffic-pattern.jpg)
@@ -65,6 +67,8 @@ Tip
 
 
 ## Runway Changes
+
+[INSERT CONTENT]
 
 
 
@@ -120,4 +124,4 @@ Tip
 
 ## Cleared for the Option
 
-N/A
+[INSERT CONTENT]
