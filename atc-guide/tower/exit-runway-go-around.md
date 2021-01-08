@@ -1,15 +1,27 @@
 ---
-id: go-around-avoidance
-title: Go-Around Avoidance
-meta: Find out how to avoid Go-Arounds in the Traffic Pattern when controlling in Infinite Flight.
-order: 4
+id: exit-runway-go-around
+title: Exit Runway / Go-Around
+meta: Exit Runway and Go-Around techniques when operating a tower facility within Infinite Flight.
+order: 5
 ---
 
 
 
-# Go-Around Avoidance
+# Exit Runway / Go-Around
 
 
+
+## Exit Runway
+
+N/A
+
+
+
+## Go-Around
+
+
+
++++ SCENARIO - Go-Around Avoidance
 
 | Scenario                                                     |
 | ------------------------------------------------------------ |
@@ -46,3 +58,6 @@ order: 4
 Tip
 
 : There is nothing wrong with a go-around but it is the final defence - if you can prevent this by being proactive then great! 
+
++++
+
