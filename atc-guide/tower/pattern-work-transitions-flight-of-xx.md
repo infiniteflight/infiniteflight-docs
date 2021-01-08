@@ -1,19 +1,25 @@
 ---
-id: re-sequencing
-title: Re-Sequencing
-meta: Find out how to re-sequence aircraft to maintain positive control on the Traffic Pattern when controlling in Infinite Flight.
-order: 2
+id: pattern-work-transitions-flight-of-xx
+title: Pattern Work / Transitions / Flight of XX
+meta: Pattern Work, Transitions and Flight of XX techniques when operating a tower facility within Infinite Flight.
+order: 4
 ---
 
 
 
-# Re-sequencing
+# Pattern Work / Transitions / Flight of XX
 
 
+
+## Pattern Work
+
+
+
++++ SCENARIO - Re-Sequencing
 
 | Scenario                                                     |
 | ------------------------------------------------------------ |
-| *I-DRUM* and *N1DC* have both already been sequenced and cleared for RWY05L, but as both aircraft continue downwind, it becomes clear that *I-DRUM* will continue downwind much further than *N1DC* |
+| *I-DRUM* and *N1DC* have both already been sequenced and cleared for RWY05L. As both aircraft continue downwind, *I-DRUM* has gone further downwind than the Controller expected |
 
 {.scenario}
 
@@ -33,3 +39,17 @@ order: 2
 | This will force *I-DRUM* to fly a tighter pattern | {.cross} Some aircraft may not be able to fly as tight a pattern |
 
 {.technique}
+
++++
+
+
+
+## Transitions
+
+N/A
+
+
+
+## Flight of XX
+
+N/A

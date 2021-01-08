@@ -1,13 +1,70 @@
 ---
-id: runway-changes
-title: Runway Changes
-meta: Find out how to change runways to maintain positive control on the Traffic Pattern when controlling in Infinite Flight.
+id: inbounds
+title: Inbounds
+meta: Techniques to handle inbound traffic when operating a tower facility within Infinite Flight.
 order: 3
 ---
 
 
 
-# Runway Changes
+# Inbounds
+
+
+
+## Pattern Entry, Sequence and Clearance
+
+
+
+![The Traffic Pattern](_images/manual/graphics/atc-traffic-pattern.jpg)
+
+
+
+Manual
+
+: When there is no Radar Controller present, Tower **must**{.red} issue a pattern entry and clearance to **ALL**{.red} aircraft as a **MINIMUM**{.red}, regardless of what the aircraft uses to check in on the Tower frequency - the use of sequencing will be dependent on traffic.
+
+
+
+![Image 3.3.1.1 - Tower Sequencing](_images/manual/graphics/atc-tower-sequencing.jpg)
+
+
+
++++ SCENARIO - Multiple Inbounds
+
+| Scenario                                                     |
+| ------------------------------------------------------------ |
+| Multiple aircraft have just announced inbound but the Controller is unsure on what order to sequence them in |
+
+{.scenario}
+
+![Pattern Entry and Sequencing](/Users/reganhawthorn/Documents/GitHub/infiniteflight-docs/atc-guide/tower/_images/manual/frames/atcg-pw-inbound.jpg)
+
+| Technique 1                                                  | Pros / Cons                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Only send a pattern entry to the aircraft you are unsure about in terms of sequencing | {.tick} Offers flexibility                                   |
+| Wait until the aircraft are closer, and once certain of their sequence, issue this along with their clearance | {.tick} Ensures aircraft know who they are following         |
+|                                                              | {.cross} May increase workload as you have to send two separate commands |
+
+{.technique}
+
+| Technique 2                                                  | Pros / Cons                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Send a pattern entry and the most likely sequence to all aircraft | {.tick} Good for workload management                         |
+| Monitor and if required, change the sequence as they get closer | {.cross} Aircraft may be unsure who they are following if the sequence is given too early |
+
+{.technique}
+
+
+
+Tip
+
+: Work from the inside out by making sure that all aircraft closest to the airport have been given a pattern entry, sequence (unless they are number 1) and clearance. Then progressively work your way out to all the other aircraft!
+
++++
+
+
+
+## Runway Changes
 
 
 
@@ -16,6 +73,8 @@ Manual
 : If a runway change is issued, a new pattern entry and clearance **must**{.red} be given (the use of sequencing will be dependent on traffic).
 
 
+
++++ SCENARIO - Runway Changes
 
 | Scenario                                                     |
 | ------------------------------------------------------------ |
@@ -54,3 +113,11 @@ Manual
 Tip
 
 : Remember that other variables (such as terrain) might influence what is the best technique to use on the day, be flexible! 
+
++++
+
+
+
+## Cleared for the Option
+
+N/A
