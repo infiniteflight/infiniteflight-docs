@@ -116,13 +116,13 @@ We recommend that you only appeal **Level 3** Violations as these prevent access
 
 Step 1
 
-: Access your [User Profile](/guide/getting-started/home-user-interface/user-profile#user-profile) and tap on the information link by your Grade
+: Access your [logbook](/guide/getting-started/home-user-interface/logbook#logbook) from the [home screen](/guide/getting-started/home-user-interface/home-screen#home-screen)
 
  
 
 Step 2
 
-: Tap the [Violation History Log](/guide/getting-started/home-user-interface/user-profile#the-grade-table), this will show all Violations, and specifically the controller’s name associated with the Violation you wish to appeal
+: Within Live Flights under the Notes column, you will be able to see any flights that resulted in a report. Tap the note and then select "View Flight Details" at the bottom of the screen. This will provide you with the IFC Username of the Controller that reported you should you wish to appeal
 
  
 

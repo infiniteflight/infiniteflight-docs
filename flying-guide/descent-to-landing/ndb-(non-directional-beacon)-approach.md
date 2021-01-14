@@ -2,6 +2,7 @@
 id: ndb-(non-directional-beacon)-approach
 title: NDB (Non-Directional Beacon) Approach
 meta: Learn how to fly a NDB Approach in Infinite Flight.
+type: Advanced
 order: 10
 ---
 

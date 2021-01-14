@@ -2,6 +2,7 @@
 id: ndb-(non-directional-beacon)-navigation
 title: NDB (Non-Directional Beacon) Navigation
 meta: Learn how to navigate using NDB's in Infinite Flight.
+type: Advanced
 order: 11
 ---
 
@@ -26,6 +27,8 @@ The Horizontal Situation Indicator or HSI, is the primary instrument used for na
 - Single blue pointer to represent BRG (bearing) 1 - when tuned to a navigation source (ILS, VOR or NDB) it will point to the navigation aid
 - Double blue pointer to represent BRG (bearing) 2 - when tuned to a navigation source (ILS, VOR or NDB) it will point to the navigation aid
 - Course Deviation Indicator (CDI) made up of the Course Pointer and Lateral Deviation Bar - displayed in magenta for GPS, and light green for NAV 1 and NAV 2
+
+![HSI Elements](_images/manual/graphics/hsi-elements.jpg)
 
 
 
