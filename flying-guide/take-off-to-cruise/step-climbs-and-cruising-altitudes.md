@@ -12,11 +12,11 @@ contributor: deercrusher
 
 ## What are Step Climbs?
 
-Generally speaking, as aircraft get higher, they will be more fuel efficient (not taking into account environmental factors, weight or aircraft design specifications). The problem is that when you're heavy you might not be able to get up there straight away, so instead we need to fly as close as possible to the 'Optimum Altitude' (the most efficient altitude to fly at, taking into account all of above factors) - and ultimately, this will increase aircraft range.
+Generally speaking, as aircraft get higher, they will be more fuel efficient (not taking into account environmental factors, weight or aircraft design specifications). The problem is that when you're heavy you might not be able to get up there straight away, so instead we need to fly as close as possible to the "Optimum Altitude" (the most efficient altitude to fly at, taking into account all of above factors) - and ultimately, this will increase aircraft range.
 
 
 
-This is where step climbing comes in and is a technique used to assist an aircraft in flying as close as possible to the optimum altitude. Initially the altitude might be quite low; but as the flight progresses and fuel is subsequently used, the aircraft will eventually lose enough weight to be able to 'step' to the next altitude. Dependent on the length of flight, multiple step climbs could be initiated over the course of the flight.
+This is where step climbing comes in and is a technique used to assist an aircraft in flying as close as possible to the optimum altitude. Initially the altitude might be quite low; but as the flight progresses and fuel is subsequently used, the aircraft will eventually lose enough weight to be able to "step" to the next altitude. Dependent on the length of flight, multiple step climbs could be initiated over the course of the flight.
 
 
 
@@ -75,7 +75,7 @@ There is currently no way to determine optimum altitude within Infinite Flight; 
 
 
 - If you are departing at, or close to your Maximum Take-Off Weight (MTOW), do not climb up to your final cruising altitude straight away. Use flight planning tools to plan the altitudes you will step climb to during the course of your flight
-- Refer to Cruising Altitudes if you are unsure what altitude you should be flying at based on your direction of travel
+- Refer to [Cruising Altitudes](/guide/flying-guide/take-off-to-cruise/step-climbs-and-cruising-altitudes#what-are-cruising-altitudes%3F) if you are unsure what altitude you should be flying at based on your direction of travel
 - If you find the aircraft is stalling, has an unusual pitch attitude, or you’re unable to maintain the altitude - you’re probably too heavy to be there! You will need to descend to a lower altitude, use more fuel and then try climbing later on in the flight when your weight is lower
 - Only take the fuel required for the flight. Don’t load 100% fuel if you don’t need it as this will only restrict how high you can cruise
 
@@ -84,6 +84,16 @@ There is currently no way to determine optimum altitude within Infinite Flight; 
 Tip
 
 : Still having issues or find that the aircraft is at a higher than normal engine power setting? Try dropping down 2000ft to the next available altitude for your direction of travel to see if this helps
+
+
+
+**Example Flight**
+
+![Step Climbing Example](_images/manual/graphics/pilot-step-climb-example.jpg)
+
+
+
+In the example flight shown above, this aircraft is en-route to CYYZ from EGLL. Their initial cruising altitude was FL340 and as they are heading westbound, their flight levels will generally be even. When the aircraft is ready to climb, lots of oceanic traffic prevents them going straight to FL360, so instead they make an intermediate climb to FL350. After eventually reaching FL360 the aircraft continues to burn fuel until it is able to climb one final time to FL380. This is maintained for the final leg of the journey before commencement of their decent into Toronto. 
 
 
 
@@ -126,8 +136,3 @@ Although the cruising altitude may vary dependent on some or all of the factors 
 | ----------------- | --------------------------------- |
 | 360 - 179 degrees | ODD (e.g. 1500, 3500, 5500, etc)  |
 | 180 - 359 degrees | EVEN (e.g. 2500, 4500, 6500, etc) |
-
-
-
-
-

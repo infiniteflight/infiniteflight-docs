@@ -3,6 +3,7 @@ id: dme-arc
 title: DME Arc
 meta: Learn how to fly DME Arcs within Infinite Flight.
 order: 6
+type: Advanced
 contributor: deercrusher
 ---
 
@@ -24,7 +25,7 @@ Around the arc will be a series of published radials from the NAVAID that are us
 
 
 
-[INSERT EXAMPLE DME ARC CHART]
+![PHNL Chart](_images/manual/graphics/phnl-chart.jpg)
 
 
 
@@ -40,8 +41,7 @@ The Horizontal Situation Indicator or HSI, is the primary instrument used for na
 - Double blue pointer to represent BRG (bearing) 2 - when tuned to a navigation source (ILS, VOR or NDB) it will point to the navigation aid
 - Course Deviation Indicator (CDI) made up of the Course Pointer and Lateral Deviation Bar - displayed in magenta for GPS, and light green for NAV 1 and NAV 2
 
-
-![HSI Elements](_images/manual/graphics/HSI.jpg)
+![HSI Elements](_images/manual/graphics/hsi-elements.jpg)
 
 
 
@@ -65,11 +65,11 @@ A predetermined heading change needs to be picked; 10 degrees is used in the exa
 
 
 
-[INSERT EXAMPLE WITH IMAGES]
+![DME Arc Flying Technique](_images/manual/graphics/dme-arc.jpg)
 
 
 
-In Image A above, you can see that the aircraft has made a 10 degree turn to begin cutting across the arc (the Bearing Pointer is now 5 degrees above the 90 degree relative bearing line). In Image B, the aircraft has now approached the end of the cut-across (the Bearing Pointer is now 5 degrees below the 90 degree relative bearing line). In Image C, the aircraft has now made another 10 degree turn to cut across the next segment of the arc (the Bearing Pointer is now 5 degrees above the 90 degree relative bearing line).
+In "HSI 1" above, you can see that the aircraft has made a 10 degree turn to begin cutting across the arc (the Bearing Pointer is now 5 degrees above the 90 degree relative bearing line). In "HSI 2", the aircraft has now approached the end of the cut-across (the Bearing Pointer is now 5 degrees below the 90 degree relative bearing line). In "HSI 3", the aircraft has now made another 10 degree turn to cut across the next segment of the arc (the Bearing Pointer is now 5 degrees above the 90 degree relative bearing line).
 
 
 
