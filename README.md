@@ -297,7 +297,7 @@ See  `_template.md` for an example on how to style a new article.
 
     ![image-20191119154554666](_images/image-20191119154554666.png)
     
-11. **HTML Containers (div) can be added by wrapping content in `:::`***
+11. **HTML Containers (div) can be added by wrapping content in `:::`**
     
     Our customized markdown has some styles associated with these containers for scenario headings and scenarios like so:
     
