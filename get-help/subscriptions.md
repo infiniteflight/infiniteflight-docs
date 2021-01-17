@@ -79,7 +79,7 @@ Step 6
 
 
 
-![Login](_images/manual/frames/login.jpg)
+![Login](_images/manual/frames/login2.jpg)
 
 
 

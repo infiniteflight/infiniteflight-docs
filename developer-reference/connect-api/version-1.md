@@ -3,12 +3,12 @@ id: version-1
 title: Connect API v1
 meta: Reference for the Infinite Flight Connect API Version 1
 order: 2
-contributor: KaiM
+contributor: KaiM,nicolas
 ---
 
 # Connect API v1
 
-This documentation is for Version 1 of the Connect API. Using this API is no longer recommended due to it's slow speed. See the [Version 2 Documentation](/guide/developer-reference/connect-api/version-2) for more information.
+This documentation is for Version 1 of the Connect API. Using this API is no longer recommended due to it's slow speed and limited features. See the [Version 2 Documentation](/guide/developer-reference/connect-api/version-2) for more information.
 
 ## Connection
 
@@ -26,12 +26,12 @@ This special command will request the airplane state from Infinite Flight. Respo
 A command message is a object of the following form :
 
 
-There are two types of command messages :
+There are two types of command messages:
  - Commands: `{ "Command": "Commands.{CommandName}", "Parameters": []}`
  - Axis: `{ "Command": "NetworkJoystick.{AxisCommandName}", "Parameters": []}`
 
 
-### List of commands
+## List of commands
 
 #### Joystick
 
@@ -51,7 +51,7 @@ Example :
 
 #### Plane Systems
 
-Commands to control various systems of the plane. Example, lower flaps down :
+Commands to control various systems of the plane. For example, to lower flaps down:
 ```json
 {
   "Command": "Commands.FlapsDown",
@@ -82,7 +82,7 @@ Commands to control various systems of the plane. Example, lower flaps down :
 
 #### Lights
 
-Following commands toggle the state of a light. Example :
+Following commands toggle the state of a light. For example:
 ```json
 {
   "Command": "Commands.LandingLights",
@@ -98,9 +98,9 @@ Following commands toggle the state of a light. Example :
 | `NavLights` | Toggle navigation lights |
 
 #### Camera
-##### Camera Commands
+**Camera Commands**
 
-Following commands can be used to control cameras. Example :
+Following commands can be used to control cameras. For example:
 ```json
 {
   "Command": "Commands.NextCamera",
@@ -125,9 +125,9 @@ Following commands can be used to control cameras. Example :
 | `CameraZoomOut` | Zoom the camera out |
 | `SetCockpitCamera` | Switch to the cockpit camera |
 
-##### Camera Axis
+**Camera Axis**
 
-Camera POV movements can be controlled via the following command :
+Camera POV movements can be controlled via the following command:
 ```json
 {
   "Command": "NetworkJoystick.SetPOVState",
@@ -138,7 +138,7 @@ Camera POV movements can be controlled via the following command :
 }
 ```
 
-X and Y values can be either `-1`, `0` or `1`: they determine if the camera will move on each axis, either negatively or positively (or stay still on the given axis with the `0` value). For example, to move the POV to the left only horizontaly, use the following command :
+X and Y values can be either `-1`, `0` or `1`: they determine if the camera will move on each axis, either negatively or positively (or stay still on the given axis with the `0` value). For example, to move the POV to the left only horizontally, use the following command :
 
 ```json
 {
@@ -150,10 +150,10 @@ X and Y values can be either `-1`, `0` or `1`: they determine if the camera will
 }
 ```
 
-#### ATC
+#### ATC (Live Mode Only)
 
-**Live only**
 Allows you to send messages to ATC according to the options available on the ATC window. Example, call the ATC command #3 (as shown on the ATC window) :
+
 ```json
 {
   "Command": "Commands.ATCEntry3",
@@ -179,35 +179,6 @@ Allows you to send messages to ATC according to the options available on the ATC
 
 Commands to set the value of an Autopilot param, or to toggle its state.
 
-##### Examples
-
-**Set HDG  to 270**
-
-```json
-{
-  "Command": "Commands.Autopilot.SetHeading",
-  "Parameters": [{ "Value": 270 }]
-}
-```
-
-**Enable HDG**
-
-```json
-{
-  "Command": "Commands.Autopilot.SetHeadingState",
-  "Parameters": [{ "Value": true }]
-}
-```
-
-**Toggle AP**
-
-```json
-{
-  "Command": "Commands.Autopilot.Toggle",
-  "Parameters": []
-}
-```
-
 | Command  | Description  |
 |---|---|
 | `Autopilot.Toggle` | Toggle autopilot |
@@ -225,9 +196,38 @@ Commands to set the value of an Autopilot param, or to toggle its state.
 | `FlightPlan.Clear` | Clear Flight Plan |
 | `FlightPlan.ActivateLeg` | Activate a given leg of the Flight Plan |
 
+**Examples**
+
+*Set HDG to 270*
+
+```json
+{
+  "Command": "Commands.Autopilot.SetHeading",
+  "Parameters": [{ "Value": 270 }]
+}
+```
+
+*Enable HDG*
+
+```json
+{
+  "Command": "Commands.Autopilot.SetHeadingState",
+  "Parameters": [{ "Value": true }]
+}
+```
+
+*Toggle AP*
+
+```json
+{
+  "Command": "Commands.Autopilot.Toggle",
+  "Parameters": []
+}
+```
+
 #### Simulator Commands
 
-Control on simulator. Example, toggle play/pause :
+Control on simulator. Example, toggle play/pause.
 ```json
 {
   "Command": "Commands.TogglePause",
