@@ -25,6 +25,8 @@ Around the arc will be a series of published radials from the NAVAID that are us
 
 
 
+Below is an example of what a DME Arc looks like on a chart; in this particular case, it leads aircraft onto the Final Approach Course for RWY04R in Honolulu (PHNL) via the ALANA IAF:
+
 ![PHNL Chart](_images/manual/graphics/phnl-chart.jpg)
 
 
@@ -47,7 +49,7 @@ The Horizontal Situation Indicator or HSI, is the primary instrument used for na
 
 ## DME Arc Flying Technique
 
-To enter an arc, aircraft are normally required to follow a radial which means that they are approaching the arc at a 90 degree angle. A 90 degree turn will require anticipation, we recommend using 1% of your groundspeed as an indicator of when to turn.
+To enter an arc, aircraft are normally required to follow a radial which means that they are approaching the arc at a 90 degree angle. A 90 degree turn will require anticipation, we recommend using 1% of your groundspeed as an indicator of when to turn unless the chart specifies a distance.
 
 
 
@@ -57,7 +59,7 @@ Tip
 
 
 
-Once established on the arc and to be able to follow the curved track keeping the DME distance the same, the aircraft heading would always need to be 90 degrees to the beacon (in nil wind conditions). However to fly this and match the radius of turn, the aircraft would need to adopt an angle of bank that varied continuously. As this is impractical, the best technique is to break the arc up into a series of controlled heading changes instead, cutting slightly across the arc each time.
+Once established on the arc and to be able to follow the curved track keeping the DME distance the same, the aircraft heading would always need to be 90 degrees to the beacon (in nil wind conditions). However to fly this and match the radius of turn, the aircraft would need to adopt an angle of bank that varied continuously due to the effects of wind on the aircraft groundspeed. As this is impractical, the best technique is to break the arc up into a series of controlled heading changes instead, cutting slightly across the arc each time.
 
 
 
@@ -132,7 +134,7 @@ Step 3
 
 Tip
 
-: We recommend not flying a DME Arc any faster than 180kts IAS to help reduce your workload; however, dependant on the aircraft type you may choose something slower than this if you wish
+: We recommend not flying a DME Arc any faster than 180kts IAS to help reduce your workload; however, dependant on the aircraft type you may fly at a different speed. In any case, make sure to comply with all altitude/speed restrictions!
 
 
 
@@ -161,11 +163,5 @@ Step 7
 
 
 Step 8
-
-: Whilst flying the arc, make sure to comply with all altitude/speed restrictions
-
-
-
-Step 9
 
 : When you pass the final radial as indicated on the chart, continue the turn to intercept the Final Approach Course
