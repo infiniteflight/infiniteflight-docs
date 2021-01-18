@@ -21,7 +21,7 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 
 ## Version: 21.1
 
-## Last Updated: 1530Z - 15 JAN 21
+## Last Updated: 1700Z - 18 JAN 21
 
 
 
@@ -30,15 +30,19 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 | Location                 | Change                                                       |
 | ------------------------ | ------------------------------------------------------------ |
 | 1A.1.3                   | Controllers should not be conversing in the *#discussions* channel whilst controlling |
+| 1A.1.3                   | Addition of the *#screenshots* channel                       |
 | 1A.1.3                   | Guidance on the use of the *@sup* tag                        |
 | 1B.1.6                   | Violation reasons re-ordered and updated to match in-app     |
+| 4.1.3                    | Reference to broadcast messages being sent on Radar re-added following an in-app fix |
 | 4.1.6                    | Removed reference to in-app restrictions that no longer apply |
+| 6.6.7                    | VFR Semi-Circular Rules added                                |
 | 6.7.2                    | Removal of reference to navigation aids until this is fixed in-app |
 | 6.9.4                    | Guidance added on the use of vectors for GPS Approaches      |
 | 7.2.2                    | Section 7E added                                             |
 | 7.3.4                    | Clarification on separation minima to be applied             |
 | 7A.2.6 / 7A.3.6 / 7C.2.4 | See respective channels for more information                 |
 | 7D.2.1 / 7D.2.4          | See channel for more information                             |
+| Section 7E               | See channel for more information                             |
 
 +++
 
