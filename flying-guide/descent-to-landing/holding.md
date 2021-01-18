@@ -153,7 +153,8 @@ Tip
 
 
 
-[INSERT PARALLEL ENTRY IMAGE]
+
+![Parallel Entry](_images/manual/graphics/parallel-hold-entry.jpg)
 
 
 
@@ -201,7 +202,8 @@ Step 5
 
 
 
-[INSERT TEARDROP ENTRY IMAGE]
+
+![Teardrop Entry](_images/manual/graphics/teardrop-hold-entry.jpg)
 
 
 
