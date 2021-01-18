@@ -37,7 +37,7 @@ Scenario
 
 {.technique}
 
-|                   | Pro or Con?                                                |
+| Technique 1       | Pro or Con?                                                |
 | ----------------- | ---------------------------------------------------------- |
 | :fa-check-circle: | Efficient                                                  |
 | :fa-check-circle: | Greater Pilot satisfaction                                 |
@@ -55,7 +55,7 @@ Scenario
 
 {.technique}
 
-|                   | Pro or Con?                                                  |
+| Technique 2       | Pro or Con?                                                  |
 | ----------------- | ------------------------------------------------------------ |
 | :fa-check-circle: | Can be efficient                                             |
 | :fa-times-circle: | Some pilots/aircraft may not be able to fly as tight a pattern |

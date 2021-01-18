@@ -52,7 +52,7 @@ Multiple aircraft have just announced inbound but the Controller is unsure on wh
 
 {.technique}
 
-|                   | Pro or Con?                                                  |
+| Technique 1       | Pro or Con?                                                  |
 | ----------------- | ------------------------------------------------------------ |
 | :fa-check-circle: | Offers flexibility                                           |
 | :fa-check-circle: | Ensures aircraft know who they are following                 |
@@ -70,7 +70,7 @@ Multiple aircraft have just announced inbound but the Controller is unsure on wh
 
 {.technique}
 
-|                   | Pro or Con?                                                  |
+| Technique 2       | Pro or Con?                                                  |
 | ----------------- | ------------------------------------------------------------ |
 | :fa-check-circle: | Good for workload management                                 |
 | :fa-times-circle: | Aircraft may be unsure who they are following if the sequence is given too early |
@@ -119,7 +119,7 @@ Scenario
 
 {.technique}
 
-|                   | Pro or Con?                                 |
+| **Technique 1**   | Pro or Con?                                 |
 | ----------------- | ------------------------------------------- |
 | :fa-check-circle: | Offers flexibility                          |
 | :fa-times-circle: | May cause confusion on who is following who |
@@ -137,7 +137,7 @@ Scenario
 
 {.technique}
 
-|                   | Pro or Con?                                                  |
+| **Technique 2**   | Pro or Con?                                                  |
 | ----------------- | ------------------------------------------------------------ |
 | :fa-check-circle: | Ensures separation between both aircraft                     |
 | :fa-times-circle: | *I F A E Eleven* may start the turn onto a right downwind before you have time to give the new pattern entry |
@@ -155,7 +155,7 @@ Scenario
 
 {.technique}
 
-|                   | Pro or Con?                                                  |
+| **Technique 3**   | Pro or Con?                                                  |
 | ----------------- | ------------------------------------------------------------ |
 | :fa-check-circle: | Prevents *I F A E Eleven* from entering right downwind       |
 | :fa-times-circle: | May add confusion when a pattern entry is used instead of "turn crosswind" |
