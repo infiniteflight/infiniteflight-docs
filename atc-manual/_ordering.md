@@ -14,4 +14,5 @@ ordering:
   - 7b.-testers
   - 7c.-recruiters
   - 7d.-supervisors
+  - 7e.-appeals
 ---
