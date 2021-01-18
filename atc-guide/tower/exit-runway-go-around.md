@@ -60,7 +60,7 @@ Both *N1DC* and *I-DRUM* are on final for RWY05L. With minimum separation and an
 | Try to anticipate the problem by creating separation sooner rather than later |
 | E.g. if both aircraft were downwind, rather than allowing *I-DRUM* to follow *N1DC* with minimum separation, you could instruct *I-DRUM* to "extend downwind, I'll call your base" to build more separation in between the two aircraft |
 {.technique}
-| **Technique 1** | Pro or Con?                       |
+| Technique 1 | Pro or Con?                       |
 | ------------------------------------------------------------ | --------------------------------- |
 | :fa-check-circle: | Could prevent a go-around |
 | :fa-times-circle: | May increase workload |
@@ -74,7 +74,7 @@ Both *N1DC* and *I-DRUM* are on final for RWY05L. With minimum separation and an
 | Instruct *I-DRUM* to "maintain slowest practical speed"      |
 | Once *N1DC* has landed and is at a sensible speed, you can instruct them to exit the runway expeditiously (if it is a full-stop) |
 {.technique}
-| **Technique 2** | Pro or Con?                       |
+| Technique 2 | Pro or Con?                       |
 | ------------------------------------------------------------ | --------------------------------- |
 | :fa-check-circle: | Could prevent a go-around |
 | :fa-times-circle: | May cause separation issues with other aircraft on final |
@@ -89,7 +89,7 @@ Both *N1DC* and *I-DRUM* are on final for RWY05L. With minimum separation and an
 | Instruct *I-DRUM* to "enter straight in RWY 05R"             |
 | Re-clear *I-DRUM* for RWY05R with the appropriate traffic pattern instruction if it is a touch & go |
 {.technique}
-| **Technique 3**   | Pro or Con?                                     |
+| Technique 3       | Pro or Con?                                     |
 | ----------------- | ----------------------------------------------- |
 | :fa-check-circle: | Good use of all available runways               |
 | :fa-times-circle: | May increase Pilot workload and cause confusion |
