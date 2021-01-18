@@ -19,28 +19,48 @@ order: 4
 
 +++ SCENARIO - Re-Sequencing
 
-| Scenario                                                     |
+::: scenario-heading
+Scenario
+:::
+
+::: scenario
+*I-DRUM* and *N1DC* have both already been sequenced and cleared for RWY05L. As both aircraft continue downwind, *I-DRUM* has gone further downwind than the Controller expected.
+::: 
+
+![](_images/manual/screens/atcg-pw-downwind.jpg){.scenario}
+
+| Technique 1                                                  |
 | ------------------------------------------------------------ |
-| *I-DRUM* and *N1DC* have both already been sequenced and cleared for RWY05L. As both aircraft continue downwind, *I-DRUM* has gone further downwind than the Controller expected |
-
-{.scenario}
-
-![Spacing Maneuvers](_images/manual/frames/atcg-pw-downwind.jpg)
-
-| Technique 1                                                  | Pros / Cons                                                  |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Re-clear *N1DC* as number 1                                  | {.tick} Efficient                                            |
-| Re-sequence *I-DRUM* as number 2                             | {.tick} Greater Pilot satisfaction                           |
-| If you are concerned about separation, you can tell *I-DRUM* to "extend downwind, I'll call your base" to alleviate this | {.cross} May increase workload as you have to send various commands |
+| Re-clear *N1DC* as number 1                                  |
+| Re-sequence *I-DRUM* as number 2                             |
+| If you are concerned about separation, you can tell *I-DRUM* to "extend downwind, I'll call your base" to alleviate this |
 
 {.technique}
 
-| Technique 2                                       | Pros / Cons                                                  |
-| ------------------------------------------------- | ------------------------------------------------------------ |
-| Instruct *I-DRUM* to "turn base"                  | {.tick} Can be efficient                                     |
-| This will force *I-DRUM* to fly a tighter pattern | {.cross} Some aircraft may not be able to fly as tight a pattern |
+|                   | Pro or Con?                                                |
+| ----------------- | ---------------------------------------------------------- |
+| :fa-check-circle: | Efficient                                                  |
+| :fa-check-circle: | Greater Pilot satisfaction                                 |
+| :fa-times-circle: | May increase workload as you have to send various commands |
+
+{.prosandcons}
+
+
+
+
+| Technique 2                                       |
+| ------------------------------------------------- |
+| Instruct *I-DRUM* to "turn base"                  |
+| This will force *I-DRUM* to fly a tighter pattern |
 
 {.technique}
+
+|                   | Pro or Con?                                                  |
+| ----------------- | ------------------------------------------------------------ |
+| :fa-check-circle: | Can be efficient                                             |
+| :fa-times-circle: | Some pilots/aircraft may not be able to fly as tight a pattern |
+
+{.prosandcons}
 
 +++
 
