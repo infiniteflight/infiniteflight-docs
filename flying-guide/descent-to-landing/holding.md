@@ -273,7 +273,8 @@ Step 2
 
 
 
-[INSERT DIRECT ENTRY IMAGE]
+
+![Direct Entry](_images/manual/graphics/direct-hold-entry.jpg)
 
 
 
