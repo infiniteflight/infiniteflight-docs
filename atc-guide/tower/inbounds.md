@@ -23,7 +23,7 @@ order: 3
 
 Manual
 
-: When there is no Radar Controller present, Tower **must**{.red} issue a pattern entry and clearance to **ALL**{.red} aircraft as a **MINIMUM**{.red}, regardless of what the aircraft uses to check in on the Tower frequency - the use of sequencing will be dependent on traffic. [More](/guide/atc-manual/3.-tower/3.3-inbounds#3.3.1)
+: When there is no Radar Controller present, Tower **must**{.red} issue a pattern entry and clearance to **ALL**{.red} aircraft as a **MINIMUM**{.red}, regardless of what the aircraft uses to check in on the Tower frequency - the use of sequencing will be dependent on traffic. [More Info?](/guide/atc-manual/3.-tower/3.3-inbounds#3.3.1)
 
 
 
@@ -95,7 +95,7 @@ Tip
 
 Manual
 
-: If a runway change is issued, a new pattern entry and clearance **must**{.red} be given (the use of sequencing will be dependent on traffic). [More](/guide/atc-manual/3.-tower/3.3-inbounds#3.3.3)
+: If a runway change is issued, a new pattern entry and clearance **must**{.red} be given (the use of sequencing will be dependent on traffic). [More Info?](/guide/atc-manual/3.-tower/3.3-inbounds#3.3.3)
 
 
 

@@ -39,7 +39,7 @@ It is important to note that the responsibility for a go-around lies equally wit
 
 Manual
 
-: If working with a Radar Controller, you **should**{.red} try to let them know that the aircraft is "go-around" traffic so that they can work them into the plan, the aircraft can then be handed over to the Radar Controller unless they are VFR traffic or a prior arrangement has been made between Controllers. [More](/guide/atc-manual/3.-tower/3.5-exit-runway-go-around#3.5.4)
+: If working with a Radar Controller, you **should**{.red} try to let them know that the aircraft is "go-around" traffic so that they can work them into the plan, the aircraft can then be handed over to the Radar Controller unless they are VFR traffic or a prior arrangement has been made between Controllers. [More Info?](/guide/atc-manual/3.-tower/3.5-exit-runway-go-around#3.5.4)
 
 
 
@@ -63,7 +63,7 @@ Both *N1DC* and *I-DRUM* are on final for RWY05L. With minimum separation and an
 | Technique 1 | Pro or Con?                       |
 | ------------------------------------------------------------ | --------------------------------- |
 | :fa-check-circle: | Could prevent a go-around |
-| :fa-times-circle: | May increase workload |
+| :fa-ban: | May increase workload |
 {.prosandcons}
 
 
@@ -77,7 +77,7 @@ Both *N1DC* and *I-DRUM* are on final for RWY05L. With minimum separation and an
 | Technique 2 | Pro or Con?                       |
 | ------------------------------------------------------------ | --------------------------------- |
 | :fa-check-circle: | Could prevent a go-around |
-| :fa-times-circle: | May cause separation issues with other aircraft on final |
+| :fa-ban: | May cause separation issues with other aircraft on final |
 {.prosandcons}
 
 
@@ -92,7 +92,7 @@ Both *N1DC* and *I-DRUM* are on final for RWY05L. With minimum separation and an
 | Technique 3       | Pro or Con?                                     |
 | ----------------- | ----------------------------------------------- |
 | :fa-check-circle: | Good use of all available runways               |
-| :fa-times-circle: | May increase Pilot workload and cause confusion |
+| :fa-ban:          | May increase Pilot workload and cause confusion |
 {.prosandcons}
 
 
