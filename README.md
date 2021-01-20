@@ -296,6 +296,46 @@ See  `_template.md` for an example on how to style a new article.
     Make sure the path is **relative**, that is, it must begin with `_images/`.
 
     ![image-20191119154554666](_images/image-20191119154554666.png)
+    
+11. **HTML Containers (div) can be added by wrapping content in `:::`**
+    
+    Our customized markdown has some styles associated with these containers for scenario headings and scenarios like so:
+    
+    ```markdown
+    ::: scenario-heading
+    This is my heading
+    :::
+    
+    ::: scenario
+    This is a longer description of the scenario [...]
+    :::
+    ```
+
+12. **Technique and associated Pros/Cons tables**
+
+    Using the class attributes `{.technique}` and `{.prosandcons}` allows us to create connected tables, provided no extra paragraph breaks are in between. These will have special styles applied to the table classes for easy viewing.
+    
+    ```markdown
+    | Technique 1                                                 |
+    | ------------------------------------------------------------|
+    | Try to anticipate the problem by creating separation sooner rather than later | 
+    | E.g. if both aircraft were downwind, rather than allowing *I-DRUM* to follow *N1DC* with [...] |
+    {.technique}
+    | Technique 1                                                  | Pro or Con?                       |
+    | ------------------------------------------------------------ | --------------------------------- |
+    | :fa-check-circle: | Could prevent a go-around |
+    | :fa-times-circle: | May increase workload |
+    {.prosandcons}
+    ```
+
+13. **FontAwesome Icons**
+
+    As shown in point 12, FontAwesome icons are available, who's class name can be found at [FontAwesome](https://fontawesome.com/icons). For example, the [Clipboard Check](https://fontawesome.com/icons/clipboard-check?style=solid) icon has a class attribute of `fas fa-clipboard-check`. To use this in the documentation, use the following markdown:
+    
+    ```markdown
+    :fa-clipboard-check:
+    ```
+
 
 11. **HTML Containers (div) can be added by wrapping content in `:::`**
     

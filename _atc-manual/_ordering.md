@@ -1,0 +1,18 @@
+---
+ordering:
+  - meta
+  - 1.-introduction
+  - 1a.-new-entrants
+  - 1b.-violations
+  - 2.-ground
+  - 3.-tower
+  - 4.-atis
+  - 5.-airspace
+  - 6.-radar
+  - 7.-recruitment-and-training
+  - 7a.-trainers
+  - 7b.-testers
+  - 7c.-recruiters
+  - 7d.-supervisors
+  - 7e.-appeals
+---
