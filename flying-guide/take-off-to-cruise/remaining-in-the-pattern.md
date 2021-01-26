@@ -25,7 +25,7 @@ In Infinite Flight the pattern altitude is 1000ft AAL (above aerodrome level) fo
 
 
 
-![The Traffic Pattern](_images/manual/graphics/atc-traffic-pattern.png)
+![The Traffic Pattern](_images/manual/graphics/atc-traffic-pattern.jpg)
 
 
 

@@ -28,7 +28,7 @@ The Horizontal Situation Indicator or HSI, is the primary instrument used for na
 - Double blue pointer to represent BRG (bearing) 2 - when tuned to a navigation source (ILS, VOR or NDB) it will point to the navigation aid
 - Course Deviation Indicator (CDI) made up of the Course Pointer and Lateral Deviation Bar - displayed in magenta for GPS, and light green for NAV 1 and NAV 2
 
-![HSI Elements](_images/manual/graphics/hsi-elements.png)
+![HSI Elements](_images/manual/graphics/hsi-elements.jpg)
 
 
 

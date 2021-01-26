@@ -63,7 +63,7 @@ Step 3
 
 Note: Airspace parameters and ATC jurisdictions may be altered with the use of NOTAMs and/or TFRs during special events
 
-![Image 5.1.1.1 - Airspace layout](_images/manual/graphics/atc-airspace-layout.png)
+![Image 5.1.1.1 - Airspace layout](_images/manual/graphics/atc-airspace-layout.jpg)
 
 
 

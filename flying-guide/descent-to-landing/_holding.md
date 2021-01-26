@@ -28,7 +28,7 @@ Tip
 
 
 
-![Image 6.7.4.1 - Standard Holding Pattern](_images/manual/graphics/atc-standard-hold.png)
+![Image 6.7.4.1 - Standard Holding Pattern](_images/manual/graphics/atc-standard-hold.jpg)
 
 
 
@@ -65,7 +65,7 @@ If an aircraft is approaching a hold from the direct entry side as shown in the 
 
 
 
-![Image 6.7.6.1 - Standard Hold Entries](_images/manual/graphics/atc-standard-hold-entry.png)
+![Image 6.7.6.1 - Standard Hold Entries](_images/manual/graphics/atc-standard-hold-entry.jpg)
 
 
 
@@ -81,7 +81,7 @@ The Horizontal Situation Indicator or HSI, is the primary instrument used for na
 - Double blue pointer to represent BRG (bearing) 2 - when tuned to a navigation source (ILS, VOR or NDB) it will point to the navigation aid
 - Course Deviation Indicator (CDI) made up of the Course Pointer and Lateral Deviation Bar - displayed in magenta for GPS, and light green for NAV 1 and NAV 2
 
-![HSI Elements](_images/manual/graphics/hsi-elements.png)
+![HSI Elements](_images/manual/graphics/hsi-elements.jpg)
 
 
 
@@ -154,7 +154,7 @@ Tip
 
 
 
-![Parallel Entry](_images/manual/graphics/parallel-hold-entry.png)
+![Parallel Entry](_images/manual/graphics/parallel-hold-entry.jpg)
 
 
 
@@ -203,7 +203,7 @@ Step 5
 
 
 
-![Teardrop Entry](_images/manual/graphics/teardrop-hold-entry.png)
+![Teardrop Entry](_images/manual/graphics/teardrop-hold-entry.jpg)
 
 
 
@@ -274,7 +274,7 @@ Step 2
 
 
 
-![Direct Entry](_images/manual/graphics/direct-hold-entry.png)
+![Direct Entry](_images/manual/graphics/direct-hold-entry.jpg)
 
 
 

@@ -62,7 +62,7 @@ Step 3
 
 
 
-![The Traffic Pattern](_images/manual/graphics/atc-traffic-pattern.png)
+![The Traffic Pattern](_images/manual/graphics/atc-traffic-pattern.jpg)
 
 
 

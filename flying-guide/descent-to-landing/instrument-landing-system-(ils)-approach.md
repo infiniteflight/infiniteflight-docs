@@ -19,7 +19,7 @@ To intercept the LOC of an ILS, Controllers will issue aircraft with an intercep
 
 
 
-![Image 6.10.3.1 - Intercepting the localizer](_images/manual/graphics/atc-intercept-loc.png)
+![Image 6.10.3.1 - Intercepting the localizer](_images/manual/graphics/atc-intercept-loc.jpg)
 
 
 
@@ -27,7 +27,7 @@ To intercept the G/S of an ILS, Controllers will issue an altitude that is below
 
 
 
-![Image 6.10.4.1 - Intercepting the glideslope](_images/manual/graphics/atc-intercept-gs.png)
+![Image 6.10.4.1 - Intercepting the glideslope](_images/manual/graphics/atc-intercept-gs.jpg)
 
 
 

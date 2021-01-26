@@ -17,7 +17,7 @@ order: 3
 
 
 
-![The Traffic Pattern](_images/manual/graphics/atc-traffic-pattern.png)
+![The Traffic Pattern](_images/manual/graphics/atc-traffic-pattern.jpg)
 
 
 
@@ -27,7 +27,7 @@ Manual
 
 
 
-![Image 3.3.1.1 - Tower Sequencing](_images/manual/graphics/atc-tower-sequencing.png)
+![Image 3.3.1.1 - Tower Sequencing](_images/manual/graphics/atc-tower-sequencing.jpg)
 
 
 
