@@ -41,7 +41,7 @@ Scenario
 Multiple aircraft have just announced inbound but the Controller is unsure on what order to sequence them in.
 ::: 
 
-![](_images/manual/screens/atcg-pw-inbound.jpg){.scenario}
+![](_images/manual/screens/atcg-pw-inbound.png){.scenario}
 
 
 
@@ -109,7 +109,7 @@ Scenario
 *VP-MAX* is departing RWY32L and *I F A E Eleven* is departing RWY32R. Both departures happened simultaneously. *I F A E Eleven* then asks for a RWY change to RWY32L.
 ::: 
 
-![](_images/manual/screens/atcg-pw-runway-change.jpg){.scenario}
+![](_images/manual/screens/atcg-pw-runway-change.png){.scenario}
 
 | Technique 1                                                  |
 | ------------------------------------------------------------ |

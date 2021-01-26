@@ -105,7 +105,7 @@ We are flying just south of PHNY towards the Lanai (LLD) NDB on a heading of 360
 
 
 
-![170 Radial](_images/manual/frames/170-radial.jpg)
+![170 Radial](_images/manual/frames/170-radial.png)
 
 
 
@@ -113,7 +113,7 @@ If we were to just turn towards the beacon (heading 350 degrees), we would never
 
 
 
-![Heading 340](_images/manual/frames/heading-340.jpg)
+![Heading 340](_images/manual/frames/heading-340.png)
 
 
 
@@ -121,7 +121,7 @@ In the image above, you can see we have changed the aircraft heading from 360 to
 
 
 
-![180 Radial](_images/manual/frames/180-radial.jpg)
+![180 Radial](_images/manual/frames/180-radial.png)
 
 
 
@@ -129,7 +129,7 @@ Once on the desired bearing, we can then monitor the blue bearing pointer and ad
 
 
 
-![Tracking 180 Radial](_images/manual/frames/tracking-180-radial.jpg)
+![Tracking 180 Radial](_images/manual/frames/tracking-180-radial.png)
 
 
 

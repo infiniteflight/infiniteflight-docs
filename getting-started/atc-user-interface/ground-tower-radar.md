@@ -13,7 +13,7 @@ Ground, Tower & Radar frequencies all share an interface in common, with each mo
 
 ## Aircraft Not On Frequency
 
-![Aircraft Not On Frequency](_images/manual/frames/atc-aircraft-not-on-frequency.jpg)
+![Aircraft Not On Frequency](_images/manual/frames/atc-aircraft-not-on-frequency.png)
 
 
 
@@ -35,7 +35,7 @@ Ground, Tower & Radar frequencies all share an interface in common, with each mo
 
 ## Aircraft On Frequency
 
-![Aircraft On Frequency](_images/manual/frames/atc-aircraft-on-frequency.jpg)
+![Aircraft On Frequency](_images/manual/frames/atc-aircraft-on-frequency.png)
 
 
 
@@ -53,7 +53,7 @@ Ground, Tower & Radar frequencies all share an interface in common, with each mo
 
 ## Message Menu
 
-![Message Menu 1](_images/manual/frames/atc-message-menu-1.jpg)
+![Message Menu 1](_images/manual/frames/atc-message-menu-1.png)
 
 
 
@@ -65,7 +65,7 @@ Ground, Tower & Radar frequencies all share an interface in common, with each mo
 
 
 
-![Message Menu 2](_images/manual/frames/atc-message-menu-2.jpg)
+![Message Menu 2](_images/manual/frames/atc-message-menu-2.png)
 
 
 
@@ -81,7 +81,7 @@ Ground, Tower & Radar frequencies all share an interface in common, with each mo
 
 
 
-![Message Menu 3](_images/manual/frames/atc-message-menu-3.jpg)
+![Message Menu 3](_images/manual/frames/atc-message-menu-3.png)
 
 
 
@@ -91,7 +91,7 @@ Ground, Tower & Radar frequencies all share an interface in common, with each mo
 
 ## Messages On Other Frequencies
 
-![Messages On Other Frequencies](_images/manual/frames/atc-messages-on-other-frequencies.jpg)
+![Messages On Other Frequencies](_images/manual/frames/atc-messages-on-other-frequencies.png)
 
 
 
@@ -101,7 +101,7 @@ Ground, Tower & Radar frequencies all share an interface in common, with each mo
 
 ## Aircraft Tag
 
-![Aircraft Tag](_images/manual/frames/atc-aircraft-tag.jpg)
+![Aircraft Tag](_images/manual/frames/atc-aircraft-tag.png)
 
 
 
@@ -111,7 +111,7 @@ Ground, Tower & Radar frequencies all share an interface in common, with each mo
 
 ## Drag & Vector Tool
 
-![Drag & Vector Tool](_images/manual/frames/atc-drag-and-vector.jpg)
+![Drag & Vector Tool](_images/manual/frames/atc-drag-and-vector.png)
 
 
 

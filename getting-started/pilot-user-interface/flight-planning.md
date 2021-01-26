@@ -11,7 +11,7 @@ order: 6
 
 ## Flight Plan
 
-![Flight Plan Screen](_images/manual/frames/flight-plan-screen.jpg)
+![Flight Plan Screen](_images/manual/frames/flight-plan-screen.png)
 
 
 
@@ -67,7 +67,7 @@ Tip
 
 ## Map
 
-![Flight Plan Map](_images/manual/frames/pilot-fpl-map.jpg)
+![Flight Plan Map](_images/manual/frames/pilot-fpl-map.png)
 
  
 
@@ -93,7 +93,7 @@ Tip
 
 ## Mini Map
 
-![Mini Map](_images/manual/frames/mini-map.jpg)
+![Mini Map](_images/manual/frames/mini-map.png)
 
 
 

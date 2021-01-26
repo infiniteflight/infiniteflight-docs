@@ -18,7 +18,7 @@ Step 1
 
 
 
-![Active Tower Frequency](_images/manual/frames/active-tower-frequency.jpg)
+![Active Tower Frequency](_images/manual/frames/active-tower-frequency.png)
 
 
 
@@ -28,7 +28,7 @@ Step 2
 
 
 
-![Request Departure 2](_images/manual/frames/request-departure-2.jpg)
+![Request Departure 2](_images/manual/frames/request-departure-2.png)
 
 
 
@@ -38,11 +38,11 @@ Step 3
 
 
 
-![Select Departure Runway 2](_images/manual/frames/select-departure-runway-2.jpg)
+![Select Departure Runway 2](_images/manual/frames/select-departure-runway-2.png)
 
 
 
-![Send Remaining in the Pattern Request](_images/manual/frames/send-remaining-in-the-pattern-request.jpg)
+![Send Remaining in the Pattern Request](_images/manual/frames/send-remaining-in-the-pattern-request.png)
 
 
 
@@ -52,7 +52,7 @@ Step 4
 
 
 
-![Reply to Take-Off Clearance 2](_images/manual/frames/reply-to-take-off-clearance-2.jpg)
+![Reply to Take-Off Clearance 2](_images/manual/frames/reply-to-take-off-clearance-2.png)
 
 
 
@@ -62,7 +62,7 @@ Step 5
 
 
 
-![Sequence and Clearance](_images/manual/frames/sequence-and-clearance.jpg)
+![Sequence and Clearance](_images/manual/frames/sequence-and-clearance.png)
 
 
 

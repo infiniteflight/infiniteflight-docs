@@ -16,7 +16,7 @@ Once spawned, the pilot will automatically be tuned to the ATIS frequency if it 
 
 
 
-![Tuned to ATIS](_images/manual/frames/tuned-to-atis.jpg)
+![Tuned to ATIS](_images/manual/frames/tuned-to-atis.png)
 
 
 
@@ -33,7 +33,7 @@ Once spawned, the pilot will automatically be tuned to the ATIS frequency if it 
     
 
 
-![ATIS Communication Box](_images/manual/frames/atis-communication-box.jpg)
+![ATIS Communication Box](_images/manual/frames/atis-communication-box.png)
 
 
 
@@ -99,7 +99,7 @@ Step 1
 
 
 
-![Active Ground Frequency](_images/manual/frames/active-ground-frequency.jpg)
+![Active Ground Frequency](_images/manual/frames/active-ground-frequency.png)
 
 
 
@@ -109,7 +109,7 @@ Step 2
 
 
 
-![Request Pushback](_images/manual/frames/request-pushback.jpg)
+![Request Pushback](_images/manual/frames/request-pushback.png)
 
 
 
@@ -125,7 +125,7 @@ Step 3
 
 
 
-![Send Pushback Request](_images/manual/frames/send-pushback-request.jpg)
+![Send Pushback Request](_images/manual/frames/send-pushback-request.png)
 
 
 
@@ -141,7 +141,7 @@ Step 4
 
 
 
-![Reply to Pushback Clearance](_images/manual/frames/reply-to-pushback-clearance.jpg)
+![Reply to Pushback Clearance](_images/manual/frames/reply-to-pushback-clearance.png)
 
 
 
@@ -159,7 +159,7 @@ Step 1
 
 
 
-![Request Taxi](_images/manual/frames/request-taxi.jpg)
+![Request Taxi](_images/manual/frames/request-taxi.png)
 
 
 
@@ -169,7 +169,7 @@ Step 2
 
 
 
-![Send Taxi Request](_images/manual/frames/send-taxi-request.jpg)
+![Send Taxi Request](_images/manual/frames/send-taxi-request.png)
 
 
 
@@ -185,7 +185,7 @@ Step 3
 
 
 
-![Reply to Taxi Clearance](_images/manual/frames/reply-to-taxi-clearance.jpg)
+![Reply to Taxi Clearance](_images/manual/frames/reply-to-taxi-clearance.png)
 
 
 

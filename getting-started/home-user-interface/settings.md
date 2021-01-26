@@ -11,7 +11,7 @@ contributor: deercrusher
 The Settings menu allows you to customize your Infinite Flight experience before and during play. Below is a guide to help you navigate your way around and to find the best settings for you!
 
 
-![Settings Page](_images/manual/frames/settings-main1.jpg)
+![Settings Page](_images/manual/frames/settings-main1.png)
 
 
 1. On the left hand side of the screen are 5 categories that split the settings up, tap each one to find settings within
@@ -74,7 +74,7 @@ Tip
 
  
 
-![Live Settings Page](_images/manual/frames/settings-live1.jpg)
+![Live Settings Page](_images/manual/frames/settings-live1.png)
 
 
 
@@ -116,7 +116,7 @@ Tip
 
 
 
-![Account Settings Page](_images/manual/frames/account.jpg)
+![Account Settings Page](_images/manual/frames/account.png)
 
 
 
@@ -126,7 +126,7 @@ There are two sliders that adjust the SFX and ATC Volume. Slide your finger alon
 
 
 
-![Audio Settings Page](_images/manual/frames/settings-audio1.jpg)
+![Audio Settings Page](_images/manual/frames/settings-audio1.png)
 
 
 
@@ -149,7 +149,7 @@ Infinite Flight supports both iOS and Android device; because of this, the graph
 
 
 
-![Graphics Settings Page](_images/manual/frames/settings-graphics1.jpg)
+![Graphics Settings Page](_images/manual/frames/settings-graphics1.png)
 
 
 
@@ -183,7 +183,7 @@ Infinite Flight supports both iOS and Android device; because of this, the graph
 
 
 
-![Control Settings Page](_images/manual/frames/settings-controls1.jpg)
+![Control Settings Page](_images/manual/frames/settings-controls1.png)
 
 
 

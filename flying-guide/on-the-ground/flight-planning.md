@@ -80,7 +80,7 @@ What to know what everything in the ATIS means? Visit our [ATC Manual](/guide/at
 
 ## Flight Plan
 
-![Map Screen](_images/manual/frames/flight-planning-map.jpg)
+![Map Screen](_images/manual/frames/flight-planning-map.png)
 Once you have spawned at the gate, by tapping on the [Globe](/guide/getting-started/pilot-user-interface/fly#fly-screen) button you can access the [Flight Planning](/guide/getting-started/pilot-user-interface/flight-planning#flight-planning) page where you can build your flight plan. You can also use the [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) to make adjustments.
 
 

@@ -19,7 +19,7 @@ When Flying Online, some features are controlled by the server, such as weather.
 
 ## Weather
 
-![Weather Screen](_images/manual/frames/weather.jpg)
+![Weather Screen](_images/manual/frames/weather.png)
 
  
 
@@ -38,7 +38,7 @@ On the live server, the weather setting is unavailable as the weather is updated
 
 ## Time
 
-![Time Screen](_images/manual/frames/time.jpg)
+![Time Screen](_images/manual/frames/time.png)
 
  
 
@@ -48,7 +48,7 @@ The time setting is available in all modes, on all servers and can be set to you
 
 ## **Weight & Balance**
 
-![Weight and Balance Screen](_images/manual/frames/weight-and-balance.jpg)
+![Weight and Balance Screen](_images/manual/frames/weight-and-balance.png)
 
 
 
@@ -76,7 +76,7 @@ The time setting is available in all modes, on all servers and can be set to you
 
 ## 20s Ago, Take Off and Short Final
 
- ![Pause Screen](_images/manual/frames/pause-screen.jpg)
+ ![Pause Screen](_images/manual/frames/pause-screen.png)
 
 
 
