@@ -27,7 +27,7 @@ Scenario
 *I-DRUM* and *N1DC* have both already been sequenced and cleared for RWY05L. As both aircraft continue downwind, *I-DRUM* has gone further downwind than the Controller expected.
 ::: 
 
-![](_images/manual/screens/atcg-pw-downwind.jpg){.scenario}
+![](_images/manual/screens/atcg-pw-downwind.png){.scenario}
 
 | Technique 1                                                  |
 | ------------------------------------------------------------ |

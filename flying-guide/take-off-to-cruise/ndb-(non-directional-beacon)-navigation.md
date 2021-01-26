@@ -28,7 +28,7 @@ The Horizontal Situation Indicator or HSI, is the primary instrument used for na
 - Double blue pointer to represent BRG (bearing) 2 - when tuned to a navigation source (ILS, VOR or NDB) it will point to the navigation aid
 - Course Deviation Indicator (CDI) made up of the Course Pointer and Lateral Deviation Bar - displayed in magenta for GPS, and light green for NAV 1 and NAV 2
 
-![HSI Elements](_images/manual/graphics/hsi-elements.jpg)
+![HSI Elements](_images/manual/graphics/hsi-elements.png)
 
 
 
@@ -105,7 +105,7 @@ We are flying just south of PHNY towards the Lanai (LLD) NDB on a heading of 360
 
 
 
-![170 Radial](_images/manual/frames/170-radial.jpg)
+![170 Radial](_images/manual/frames/170-radial.png)
 
 
 
@@ -113,7 +113,7 @@ If we were to just turn towards the beacon (heading 350 degrees), we would never
 
 
 
-![Heading 340](_images/manual/frames/heading-340.jpg)
+![Heading 340](_images/manual/frames/heading-340.png)
 
 
 
@@ -121,7 +121,7 @@ In the image above, you can see we have changed the aircraft heading from 360 to
 
 
 
-![180 Radial](_images/manual/frames/180-radial.jpg)
+![180 Radial](_images/manual/frames/180-radial.png)
 
 
 
@@ -129,7 +129,7 @@ Once on the desired bearing, we can then monitor the blue bearing pointer and ad
 
 
 
-![Tracking 180 Radial](_images/manual/frames/tracking-180-radial.jpg)
+![Tracking 180 Radial](_images/manual/frames/tracking-180-radial.png)
 
 
 

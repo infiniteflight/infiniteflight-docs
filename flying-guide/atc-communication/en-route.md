@@ -20,7 +20,7 @@ Step 1
 
 
 
-![Send and Switch](_images/manual/frames/send-and-switch.jpg)
+![Send and Switch](_images/manual/frames/send-and-switch.png)
 
 
 
@@ -37,7 +37,7 @@ Step 2
 
 
 
-![Initial Contact](_images/manual/frames/initial-contact.jpg)
+![Initial Contact](_images/manual/frames/initial-contact.png)
 
 
 
@@ -63,7 +63,7 @@ Step 3
 
 Note: Airspace parameters and ATC jurisdictions may be altered with the use of NOTAMs and/or TFRs during special events
 
-![Image 5.1.1.1 - Airspace layout](_images/manual/graphics/atc-airspace-layout.jpg)
+![Image 5.1.1.1 - Airspace layout](_images/manual/graphics/atc-airspace-layout.png)
 
 
 

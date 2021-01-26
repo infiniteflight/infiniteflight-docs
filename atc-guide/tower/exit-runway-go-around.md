@@ -53,7 +53,7 @@ Scenario
 Both *N1DC* and *I-DRUM* are on final for RWY05L. With minimum separation and an Approach Speed difference in excess of 80kts, the possibility of a go-around is high.
 ::: 
 
-![](_images/manual/screens/atcg-pw-go-around.jpg){.scenario}
+![](_images/manual/screens/atcg-pw-go-around.png){.scenario}
 
 | Technique 1                                                 |
 | ------------------------------------------------------------|

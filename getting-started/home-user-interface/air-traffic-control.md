@@ -7,7 +7,7 @@ order: 5
 
 # Air Traffic Control
 
-![ATC Page](_images/manual/frames/atc.jpg)
+![ATC Page](_images/manual/frames/atc.png)
 
 1. Pick your frequencies using the [Station Selection button](#station-selection).
 
@@ -29,7 +29,7 @@ order: 5
 
 Selecting frequencies is very similar to selecting an airport and parking position if you were about to fly. The globe is displayed in the same way, and you can either use the features below to choose where to begin, or zoom in with your fingers!
 
- ![ATC Map Page](_images/manual/frames/atc-map.jpg)
+ ![ATC Map Page](_images/manual/frames/atc-map.png)
 
 
 

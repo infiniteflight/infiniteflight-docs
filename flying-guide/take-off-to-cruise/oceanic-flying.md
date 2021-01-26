@@ -54,7 +54,7 @@ As well as this, due to weather patterns (including the presence of jet streams)
 
 ## What do the NAT Track labels mean?
 
-![Oceanic Flying](_images/manual/graphics/pilot-oceanic-flying.jpg)
+![Oceanic Flying](_images/manual/graphics/pilot-oceanic-flying.png)
 
 In the westbound daytime system, the track most northerly, at its point of origin, is designated Track A (Alpha). The next most northerly track is designated as Track B (Bravo), this is then repeated as tracks move more southerly.
 

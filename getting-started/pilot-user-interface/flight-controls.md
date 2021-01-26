@@ -7,7 +7,7 @@ order: 11
 
 # Flight Controls
 
-![Flight Controls](_images/manual/frames/flight-controls.jpg)
+![Flight Controls](_images/manual/frames/flight-controls.png)
 
 
 

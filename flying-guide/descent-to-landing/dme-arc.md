@@ -27,7 +27,7 @@ Around the arc will be a series of published radials from the NAVAID that are us
 
 Below is an example of what a DME Arc looks like on a chart; in this particular case, it leads aircraft onto the Final Approach Course for RWY04R in Honolulu (PHNL) via the ALANA IAF:
 
-![PHNL Chart](_images/manual/graphics/phnl-chart.jpg)
+![PHNL Chart](_images/manual/graphics/phnl-chart.png)
 
 
 
@@ -43,7 +43,7 @@ The Horizontal Situation Indicator or HSI, is the primary instrument used for na
 - Double blue pointer to represent BRG (bearing) 2 - when tuned to a navigation source (ILS, VOR or NDB) it will point to the navigation aid
 - Course Deviation Indicator (CDI) made up of the Course Pointer and Lateral Deviation Bar - displayed in magenta for GPS, and light green for NAV 1 and NAV 2
 
-![HSI Elements](_images/manual/graphics/hsi-elements.jpg)
+![HSI Elements](_images/manual/graphics/hsi-elements.png)
 
 
 
@@ -67,7 +67,7 @@ A predetermined heading change needs to be picked; 10 degrees is used in the exa
 
 
 
-![DME Arc Flying Technique](_images/manual/graphics/dme-arc.jpg)
+![DME Arc Flying Technique](_images/manual/graphics/dme-arc.png)
 
 
 

@@ -150,7 +150,7 @@ Step 2
 ## Traffic Collision Avoidance System (TCAS)
 
 
-![TCAS on Map](_images/manual/frames/tcas.jpg) 
+![TCAS on Map](_images/manual/frames/tcas.png) 
 
 
 1. On both the Map and Mini Map, your aircraft is displayed with a white aircraft symbol. These symbols vary in size/shape dependent on what aircraft you are flying

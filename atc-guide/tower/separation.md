@@ -13,4 +13,4 @@ order: 1
 
 
 
-![Image 3.1.1.1 - Tower Separation](_images/manual/graphics/atc-tower-separation.jpg)
+![Image 3.1.1.1 - Tower Separation](_images/manual/graphics/atc-tower-separation.png)

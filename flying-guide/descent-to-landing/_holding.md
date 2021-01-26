@@ -28,7 +28,7 @@ Tip
 
 
 
-![Image 6.7.4.1 - Standard Holding Pattern](_images/manual/graphics/atc-standard-hold.jpg)
+![Image 6.7.4.1 - Standard Holding Pattern](_images/manual/graphics/atc-standard-hold.png)
 
 
 
@@ -65,7 +65,7 @@ If an aircraft is approaching a hold from the direct entry side as shown in the 
 
 
 
-![Image 6.7.6.1 - Standard Hold Entries](_images/manual/graphics/atc-standard-hold-entry.jpg)
+![Image 6.7.6.1 - Standard Hold Entries](_images/manual/graphics/atc-standard-hold-entry.png)
 
 
 
@@ -81,7 +81,7 @@ The Horizontal Situation Indicator or HSI, is the primary instrument used for na
 - Double blue pointer to represent BRG (bearing) 2 - when tuned to a navigation source (ILS, VOR or NDB) it will point to the navigation aid
 - Course Deviation Indicator (CDI) made up of the Course Pointer and Lateral Deviation Bar - displayed in magenta for GPS, and light green for NAV 1 and NAV 2
 
-![HSI Elements](_images/manual/graphics/hsi-elements.jpg)
+![HSI Elements](_images/manual/graphics/hsi-elements.png)
 
 
 
@@ -154,7 +154,7 @@ Tip
 
 
 
-![Parallel Entry](_images/manual/graphics/parallel-hold-entry.jpg)
+![Parallel Entry](_images/manual/graphics/parallel-hold-entry.png)
 
 
 
@@ -176,7 +176,7 @@ Step 2
 
 
 
-![Intercept Inbound Hold Axis - Parallel](_images/manual/frames/intercept-inbound-hold-axis.jpg)
+![Intercept Inbound Hold Axis - Parallel](_images/manual/frames/intercept-inbound-hold-axis.png)
 
 
 
@@ -203,7 +203,7 @@ Step 5
 
 
 
-![Teardrop Entry](_images/manual/graphics/teardrop-hold-entry.jpg)
+![Teardrop Entry](_images/manual/graphics/teardrop-hold-entry.png)
 
 
 
@@ -225,7 +225,7 @@ Step 2
 
 
 
-![Offset Heading](_images/manual/frames/offset-heading.jpg)
+![Offset Heading](_images/manual/frames/offset-heading.png)
 
 
 
@@ -235,7 +235,7 @@ Step 3
 
 
 
-![Intercept Inbound Hold Axis - Teardrop](_images/manual/frames/intercept-inbound-hold-axis-2.jpg)
+![Intercept Inbound Hold Axis - Teardrop](_images/manual/frames/intercept-inbound-hold-axis-2.png)
 
 
 
@@ -274,7 +274,7 @@ Step 2
 
 
 
-![Direct Entry](_images/manual/graphics/direct-hold-entry.jpg)
+![Direct Entry](_images/manual/graphics/direct-hold-entry.png)
 
 
 

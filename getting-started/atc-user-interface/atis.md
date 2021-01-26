@@ -12,7 +12,7 @@ The Automatic Terminal Information Service, more commonly known as ATIS, will se
 
 
 
-![ATIS Page](_images/manual/frames/atc-atis.jpg)
+![ATIS Page](_images/manual/frames/atc-atis.png)
 
 
 
