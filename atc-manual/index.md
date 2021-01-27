@@ -21,7 +21,7 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 
 ## Version: 20.3.1
 
-## Last Updated: 1000Z - 26 JAN 21
+## Last Updated: 1130Z - 27 JAN 21
 
 
 
@@ -29,14 +29,14 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 
 | Location                 | Change                                                       |
 | ------------------------ | ------------------------------------------------------------ |
-| 1A.1.3                   | Controllers should not be conversing in the *#discussions* channel whilst controlling |
-| 1A.1.3                   | Addition of the *#screenshots* channel                       |
-| 1A.1.3                   | Guidance on the use of the *@sup* tag                        |
-| 1A.2.1                   | Removal of the off topic material restriction (including memes and GIFs) outside of the *#offtopic* channel |
-| 1A.3.1                   | Appeals rank added                                           |
-| 1B.1.5                   | Minor wording correction, primary method following a violation is to review the pilot's replay file |
-| 1B.1.6                   | Violation reasons re-ordered and updated to match in-app     |
-| 1B.2.1                   | Minor wording correction, Violation Appeals can only be appealed within 7 days of being issued |
+| 1A.1.3                   | See *#announcements* Discord channel for more information    |
+| 1A.1.3                   | See *#announcements* Discord channel for more information    |
+| 1A.1.3                   | See *#announcements* Discord channel for more information    |
+| 1A.2.1                   | See *#announcements* Discord channel for more information    |
+| 1A.3.1                   | See *#announcements* Discord channel for more information    |
+| 1B.1.5                   | See *#announcements* Discord channel for more information    |
+| 1B.1.6                   | See *#announcements* Discord channel for more information    |
+| 1B.2.1                   | See *#announcements* Discord channel for more information    |
 | 4.1.3                    | Reference to broadcast messages being sent on Radar re-added following an in-app fix |
 | 4.1.6                    | Removed reference to in-app restrictions that no longer apply |
 | 6.6.7                    | VFR Semi-Circular Rules added                                |
