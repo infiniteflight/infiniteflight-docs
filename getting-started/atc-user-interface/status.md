@@ -12,7 +12,7 @@ The Status tab can be selected from the left of the screen, and will then displa
 
 
 
-![ATC Status Page](_images/manual/frames/atc-status.jpg)
+![ATC Status Page](_images/manual/frames/atc-status.png)
 
 
 

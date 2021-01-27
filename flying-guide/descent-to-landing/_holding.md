@@ -176,7 +176,7 @@ Step 2
 
 
 
-![Intercept Inbound Hold Axis - Parallel](_images/manual/frames/intercept-inbound-hold-axis.jpg)
+![Intercept Inbound Hold Axis - Parallel](_images/manual/frames/intercept-inbound-hold-axis.png)
 
 
 
@@ -225,7 +225,7 @@ Step 2
 
 
 
-![Offset Heading](_images/manual/frames/offset-heading.jpg)
+![Offset Heading](_images/manual/frames/offset-heading.png)
 
 
 
@@ -235,7 +235,7 @@ Step 3
 
 
 
-![Intercept Inbound Hold Axis - Teardrop](_images/manual/frames/intercept-inbound-hold-axis-2.jpg)
+![Intercept Inbound Hold Axis - Teardrop](_images/manual/frames/intercept-inbound-hold-axis-2.png)
 
 
 

@@ -20,7 +20,7 @@ Step 1
 
 
 
-![Send and Switch](_images/manual/frames/send-and-switch.jpg)
+![Send and Switch](_images/manual/frames/send-and-switch.png)
 
 
 
@@ -37,7 +37,7 @@ Step 2
 
 
 
-![Initial Contact](_images/manual/frames/initial-contact.jpg)
+![Initial Contact](_images/manual/frames/initial-contact.png)
 
 
 

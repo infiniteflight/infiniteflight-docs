@@ -23,7 +23,7 @@ All flights and controlling sessions are recorded automatically and you can revi
 
  
 
- ![Replay page](_images/manual/frames/replay-page.jpg)
+ ![Replay page](_images/manual/frames/replay-page.png)
 
  
 
@@ -47,7 +47,7 @@ Step 2
 
 
 
- ![Pilot Replay page](_images/manual/frames/replay-pilot.jpg)
+ ![Pilot Replay page](_images/manual/frames/replay-pilot.png)
 
 
 
@@ -99,7 +99,7 @@ Step 2
 
 
 
- ![ATC Replay page](_images/manual/frames/replay-atc.jpg)
+ ![ATC Replay page](_images/manual/frames/replay-atc.png)
 
 
 

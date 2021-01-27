@@ -9,4 +9,4 @@ order: 7
 
 All live and solo flights are recorded here so that you can keep track of your flights.
 
-![Logbook Page](_images/manual/frames/logbook.jpg)
+![Logbook Page](_images/manual/frames/logbook.png)

@@ -7,7 +7,7 @@ order: 2
 
 # Calibration
 
-![Calibration Screen](_images/manual/frames/calibration-screen.jpg)
+![Calibration Screen](_images/manual/frames/calibration-screen.png)
 
 
 
