@@ -12,10 +12,10 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 
 
 
-| **NOTICE BEFORE READING THIS MANUAL** |                                          |
-| ------------------------------------- | ---------------------------------------- |
-| **Must**{.red}                        | The use of **must**{.red} or **must not**{.red} are considered **MANDATORY**{.red} and strict compliance is **REQUIRED**{.red} |
-| **Should**{.red}                      | The use of **should**{.red} or **should not**{.red} are considered **ADVISORY**{.red} and compliance is **STRONGLY RECOMMENDED**{.red} |
+| NOTICE BEFORE READING THIS MANUAL |                                                              |
+| --------------------------------- | ------------------------------------------------------------ |
+| **Must**{.red}                    | The use of **must**{.red} or **must not**{.red} are considered **MANDATORY**{.red} and strict compliance is **REQUIRED**{.red} |
+| **Should**{.red}                  | The use of **should**{.red} or **should not**{.red} are considered **ADVISORY**{.red} and compliance is **STRONGLY RECOMMENDED**{.red} |
 
 
 
@@ -68,7 +68,7 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 | 7.3 / 7.5                | Pro Tip added to remind Candidates to have adequate battery life and reliable internet connections for training and testing sessions |
 | 7.5.7                    | Officer Check Ride phase introduced                          |
 | 7.5.8                    | Flowchart label renamed for consistency with 7.4.7           |
-| 7A.1.7 / 7B.1.2 / 7C.1.4 | Testers **must not**{.red} "react" to the request if all available slots are already filled |
+| 7A.1.7 / 7B.1.2 / 7C.1.4 | Testers must not "react" to the request if all available slots are already filled |
 | 7A.2.3                   | Reference removed to old google spreadsheets that are no longer in use |
 | 7A.2.3                   | No Training to be conducted between 1700Z and 2359Z on Fridays |
 | 7A.2.7                   | Wording adjusted slightly to emphasize that any form of training is not authorized at test sites |
@@ -111,34 +111,6 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 | 7C.1.4   | *#trainer-trainee[1-3]* added                                |
 | 7D.1.3   | Activity requirements added                                  |
 | 7D.4.1   | Guidance on adding notes to Controller's records included    |
-
-+++
-
-
-
-+++ Summary of Changes - Version: 20.2.1
-
-| Location        | Change                                                       |
-| --------------- | ------------------------------------------------------------ |
-| 1.1.3           | Minor wording correction to accommodate Discord migration    |
-| 1A.1 - 4        | Minor wording corrections to accommodate Discord migration   |
-| 1A.1.3          | Channel purposes adjusted for Discord as well as the addition of new channels (i.e. *#announcements*, *#infinite-flight-rules*, *#offtopic* and *#role-assignments*). #issues channel removed |
-| 1A.2.1          | Controllers Discord Nickname **must**{.red} be the same as their IFC Username. In addition, Controllers **must**{.red} link their Community Forum Account before controlling |
-| 1A.5.1          | Minor wording correction to accommodate Discord migration    |
-| 1B.2.2          | Minor wording correction to accommodate Discord migration    |
-| 7.5.1           | Minor wording correction to accommodate Discord migration    |
-| 7.5.5           | Minor wording correction to accommodate Discord migration    |
-| 7A.1.7          | Minor wording correction to accommodate Discord migration    |
-| 7A.2.5          | Minor wording correction to accommodate Discord migration    |
-| 7A.3.3          | Minor wording correction to accommodate Discord migration    |
-| 7B.1.1          | Minor wording correction to accommodate Discord migration    |
-| 7B.1.2          | Reference to *#testers[1-3]* Discord channels added          |
-| 7B.1.3 / 7B.1.4 | Original 7B.1.2/7B.1.3 moved down by one to 7B.1.3/7B.1.4 respectively |
-| 7C.1.4          | Addition of Discord Channel information for Recruiters       |
-| 7C.2.2          | Minor wording correction to accommodate Discord migration    |
-| 7C.4.1          | Minor wording correction to accommodate Discord migration    |
-| 7D.1.1          | Minor wording correction to accommodate Discord migration    |
-| 7D.3.1          | Minor wording correction to accommodate Discord migration    |
 
 +++
 
