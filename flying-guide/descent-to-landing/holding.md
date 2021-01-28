@@ -52,11 +52,11 @@ There are three types of hold entries, these are:
 
  
 
- -    [Direct](/guide/flying-guide/descent-to-landing/holding#how-to-enter-the-hold-direct-entry)
+ -    [Direct](/guide/flying-guide/descent-to-landing/holding#how-to-enter-the-hold)
 
- -    [Parallel](/guide/flying-guide/descent-to-landing/holding#how-to-enter-the-hold-parallel-entry)
+ -    [Parallel](/guide/flying-guide/descent-to-landing/holding#how-to-enter-the-hold)
 
- -    [Teardrop](/guide/flying-guide/descent-to-landing/holding#how-to-enter-the-hold-teardrop-entry)
+ -    [Teardrop](/guide/flying-guide/descent-to-landing/holding#how-to-enter-the-hold)
 
 
 
@@ -139,7 +139,7 @@ Tip
 
 
 
-## How to Enter the Hold - Parallel Entry
+## How to Enter the Hold
 
 
 
@@ -148,6 +148,8 @@ Tip
 : As you get closer to a NAVAID in the hold, the sensitivity will increase. Therefore if you are really close, try not to chase the Bearing Pointer! 
 
 
+
++++ Parallel Entry
 
 
 ![Parallel Entry](_images/manual/graphics/parallel-hold-entry.jpg)
@@ -192,11 +194,11 @@ Step 5
 
 : Once overhead the holding fix, start the left/right turn and fly the normal holding pattern
 
++++
 
 
-## How to Enter the Hold - Teardrop Entry
 
-
++++ Teardrop Entry
 
 
 ![Teardrop Entry](_images/manual/graphics/teardrop-hold-entry.jpg)
@@ -251,11 +253,11 @@ Step 6
 
 : Once overhead the holding fix, start the left/right turn and fly the normal holding pattern
 
++++
 
 
-## How to Enter the Hold - Direct Entry
 
-
++++ Direct Entry
 
 Step 1
 
@@ -283,3 +285,18 @@ Step 2
 | 5        | Cross the Holding Fix, wait 10 seconds and then turn into the hold |
 | 6        | Cross the Holding Fix, wait 15 seconds and then turn into the hold |
 
++++
+
+
+
+## Recommended Speeds
+
+We recommend not exceeding the following speeds when flying holds:
+
+
+
+| Altitude (MSL)                           | Airspeed (KIAS) |
+| ---------------------------------------- | --------------- |
+| Minimum Holding Altitude (MHA) to 6000ft | 200             |
+| 6001ft to 14000ft                        | 230             |
+| 14,001ft and above                       | 265             |
