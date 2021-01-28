@@ -36,13 +36,13 @@ The abeam indication is the point at which the timing of the outbound leg commen
 
 
 
-In still air, at one minute from abeam, the relative bearing from the beacon will be about 30 degrees from the reciprocal of the hold axis (e.g. if the Inbound Hold Axis is 270 degrees, the reciprocal is 090 degrees and the gate bearing is therefore 060 degrees). This is referred to as the 'Gate'. The Gate is a useful tool to help indicate when to start the turn for the inbound leg, but the timing is the main method for this.
+In still air, at one minute from abeam, the relative bearing from the beacon will be about 30 degrees from the reciprocal of the hold axis (e.g. if the Inbound Hold Axis is 270 degrees, the reciprocal is 090 degrees and the gate bearing is therefore 060 degrees). This is referred to as the "Gate". The Gate is a useful tool to help indicate when to start the turn for the inbound leg, but the timing is the main method for this.
 
 
 
 Tip
 
-: If the length of the hold is greater than 1 minute (in still air), the 'gate' relative bearing of 30 degrees is no longer valid! 
+: If the length of the hold is greater than 1 minute (in still air), the "gate" relative bearing of 30 degrees is no longer valid! 
 
 
 
@@ -52,15 +52,15 @@ There are three types of hold entries, these are:
 
  
 
- -    Direct
+ -    [Direct](/guide/flying-guide/descent-to-landing/holding#how-to-enter-the-hold-direct-entry)
 
- -    Parallel
+ -    [Parallel](/guide/flying-guide/descent-to-landing/holding#how-to-enter-the-hold-parallel-entry)
 
- -    Teardrop
+ -    [Teardrop](/guide/flying-guide/descent-to-landing/holding#how-to-enter-the-hold-teardrop-entry)
 
- 
 
-If an aircraft is approaching a hold from the direct entry side as shown in the image *(see 6.7.6.1 below)*, you should plan to go 'direct' to the origin of the hold and then fly the standard holding pattern from there. For a parallel entry, a flight path similar to the blue line below should be followed before the standard holding pattern is flown. And finally, for the teardrop entry, a flight path similar to the red line.
+
+If an aircraft is approaching a hold from the direct entry side as shown in the image *(see 6.7.6.1 below)*, you should plan to go "direct" to the origin of the hold and then fly the standard holding pattern from there. For a parallel entry, a flight path similar to the blue line below should be followed before the standard holding pattern is flown. And finally, for the teardrop entry, a flight path similar to the red line.
 
 
 
@@ -139,17 +139,13 @@ Tip
 
 
 
-## How to Enter the Hold
+## How to Enter the Hold - Parallel Entry
 
 
 
 Tip
 
 : As you get closer to a NAVAID in the hold, the sensitivity will increase. Therefore if you are really close, try not to chase the Bearing Pointer! 
-
-
-
-**Parallel Entry**
 
 
 
@@ -198,7 +194,7 @@ Step 5
 
 
 
-**Teardrop Entry** 
+## How to Enter the Hold - Teardrop Entry
 
 
 
@@ -257,7 +253,7 @@ Step 6
 
 
 
-**Direct Entry**
+## How to Enter the Hold - Direct Entry
 
 
 
