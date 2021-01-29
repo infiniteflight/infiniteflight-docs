@@ -38,7 +38,7 @@ Tip
 
 Step 2
 
-: Load the STAR into you flight plan by following our step by step guide [here](/guide/getting-started/pilot-user-interface/navigation#selecting-departure%2C-arrival-and-approach-procedures)
+: Load the STAR into your flight plan by following our step by step guide [here](/guide/getting-started/pilot-user-interface/navigation#selecting-departure%2C-arrival-and-approach-procedures)
 
 
 
@@ -52,7 +52,7 @@ Step 3
 
 Step 1
 
-: Now that you're flight plan is loaded, we can utilize the [GPS Navigation](/guide/getting-started/pilot-user-interface/navigation#gps-navigation) to navigate the STAR
+: Now that your flight plan is loaded, we can utilize the [GPS Navigation](/guide/getting-started/pilot-user-interface/navigation#gps-navigation) to navigate the STAR
 
 
 
