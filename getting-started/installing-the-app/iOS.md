@@ -32,7 +32,7 @@ Step 1
 :  Open the App Store by finding and clicking on the App Store icon on your device home screen
 
 Step 2
-: Using the search function type in Infinite Flight and click search
+: Using the search function, type in Infinite Flight
 
 Step 3
 : Select Infinite Flight and tap on the price to purchase
