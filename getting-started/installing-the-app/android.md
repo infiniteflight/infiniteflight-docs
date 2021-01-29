@@ -30,7 +30,7 @@ Step 1
 : Open the Play Store by finding and clicking on the Play Store icon on your device home screen
 
 Step 2
-: Using the search function, type in Infinite Flight
+: Using the search function, type in Infinite Flight and click search
 
 Step 3
 : Select Infinite Flight and tap on the price to purchase
