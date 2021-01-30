@@ -165,7 +165,7 @@ Infinite Flight supports both iOS and Android device; because of this, the graph
 
 ## Controls
 
- In the control settings you can further adjust your control sensitivity for each axis. The 2 axes that your device’s accelerometers utilize are:
+In the control settings you can further adjust your control sensitivity for each axis. The 2 axes that your device’s accelerometers utilize are:
 
 
 
@@ -207,9 +207,11 @@ Tip
 
 ## ForeFlight
 
-"ForeFlight Link" allows Infinite Flight pilots to use ForeFlight and it’s many features as if they were in a real airplane. Practice approaches and procedures, and fly a route before spending that hard-earned money on fuel! You’ll have maps, approach plates, weather, performance data, traffic and synthetic vision right from your mobile device. With ForeFlight’s new connection method, we’ve put together this video to show you how to get started!
-
 
 
 
 @[vimeo](421197610)
+
+
+
+"ForeFlight Link" allows Infinite Flight pilots to use ForeFlight and its many features as if they were in a real airplane. Practice approaches and procedures, and fly a route before spending that hard-earned money on fuel! You’ll have maps, approach plates, weather, performance data, traffic and synthetic vision right from your mobile device. With ForeFlight’s new connection method, we’ve put together this video to show you how to get started!

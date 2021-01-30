@@ -51,47 +51,47 @@ Step 2
 
 
 
-1. ATC log with mute and auto scroll options. Pressing on an ATC command will fast forward to that spot.
+1. ATC log with mute and auto scroll options. Pressing on an ATC command will fast forward to that spot
 
    
 
-2. Mini map.
+2. Mini map
 
    
 
-3.  Pause/play replay.
+3.  Pause/play replay
 
    
 
-4. Back 15 seconds.
+4. Back 15 seconds
 
    
 
-5. Forward 15 seconds.
+5. Forward 15 seconds
 
    
 
-6. Replay timeline. Press on a spot to go directly to that spot.
+6. Replay timeline. Press on a spot to go directly to that spot
 
    
 
-7.  Take screenshot (see screenshot setting in [settings menu](/guide/getting-started/home-user-interface/settings#settings)).
+7.  Take screenshot (see screenshot setting in [settings menu](/guide/getting-started/home-user-interface/settings#settings))
 
    
 
-8. Show/hide the mini map.
+8. Show/hide the mini map
 
    
 
-9. Change views.
+9. Change views
 
    
 
-10. App menu.
+10. App menu
 
     
 
-11. Press and hold screen for 3 seconds to hide bar. Press and hold again to show bar.
+11. Press and hold screen for 3 seconds to hide bar. Press and hold again to show bar
 
  
 
@@ -103,43 +103,43 @@ Step 2
 
 
 
-1. ATC log. Press on the message to go to it in the timeline.
+1. ATC log. Press on the message to go to it in the timeline
 
    
 
-2. Pause/play replay.
+2. Pause/play replay
 
    
 
-3. Back 15 seconds.
+3. Back 15 seconds
 
    
 
-4. Forward 15 seconds.
+4. Forward 15 seconds
 
    
 
-5. Take screenshot (see screenshot setting in [settings menu](/guide/getting-started/home-user-interface/settings#settings)).
+5. Take screenshot (see screenshot setting in [settings menu](/guide/getting-started/home-user-interface/settings#settings))
 
    
 
-6. Show/hide radar.
+6. Show/hide radar
 
    
 
-7. Change views.
+7. Change views
 
    
 
-8. App menu.
+8. App menu
 
    
 
-9. Timeline. Orange lines are warnings sent to pilots, red lines are [Violations](/guide/getting-started/pilot-user-interface/violations#violations) issued to pilots.
+9. Timeline. Orange lines are warnings sent to pilots, red lines are [Violations](/guide/getting-started/pilot-user-interface/violations#violations) issued to pilots
 
    
 
-10. Radar. Tap on a pilot to bring up a menu, includes options to filter pilot details.
+10. Radar. Tap on a pilot to bring up a menu, includes options to filter pilot details
 
 
 
