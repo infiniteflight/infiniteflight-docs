@@ -257,7 +257,7 @@ Step 1
 
 Step 2
 
-: If when joining, the aircraft is approaching the Holding Fix at a "steep" angle (e.g. more than 30 degrees either side of the Inbound Holding Axis), you may need to adjust you initial turn for the Outbound Leg to compensate for this. Below is an an example of what may be required: 
+: If when joining, the aircraft is approaching the Holding Fix at a "steep" angle (e.g. more than 30 degrees either side of the Inbound Holding Axis), you may need to adjust your initial turn for the Outbound Leg to compensate for this. Below is an example of what may be required: 
 
 
 
