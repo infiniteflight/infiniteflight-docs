@@ -28,7 +28,7 @@ Standard Instrument Departures, known as SIDs, are a published flight procedure 
 
 Step 1
 
-: Once spawned, check the ATIS/D-ATIS for runway(s) and ATC preferred SID(s) in use. You should try to pick an ATC preferred SID and transition that takes your towards you destination
+: Once spawned, check the ATIS/D-ATIS for runway(s) and ATC preferred SID(s) in use. You should try to pick an ATC preferred SID and transition that takes you towards your destination
 
 
 
@@ -40,7 +40,7 @@ Tip
 
 Step 2
 
-: Load the SID into you flight plan by following our step by step guide [here](/guide/getting-started/pilot-user-interface/navigation#selecting-departure%2C-arrival-and-approach-procedures)
+: Load the SID into your flight plan by following our step by step guide [here](/guide/getting-started/pilot-user-interface/navigation#selecting-departure%2C-arrival-and-approach-procedures)
 
 
 
