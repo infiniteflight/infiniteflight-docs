@@ -36,16 +36,6 @@ The abeam indication is the point at which the timing of the outbound leg commen
 
 
 
-In still air, at one minute from abeam, the relative bearing from the beacon will be about 30 degrees from the reciprocal of the hold axis (e.g. if the Inbound Hold Axis is 270 degrees, the reciprocal is 090 degrees and the gate bearing is therefore 060 degrees). This is referred to as the "Gate". The Gate is a useful tool to help indicate when to start the turn for the inbound leg, but the timing is the main method for this.
-
-
-
-Tip
-
-: If the length of the hold is greater than 1 minute (in still air), the "gate" relative bearing of 30 degrees is no longer valid! 
-
-
-
 ## Hold Entries
 
 There are three types of hold entries, these are:
