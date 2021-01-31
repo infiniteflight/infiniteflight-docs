@@ -23,7 +23,7 @@ Step 1
 
 Step 2
 
-: A magenta Course Select Pointer (this is the radial to your next waypoint) and Radial Deviation Bar (indicates deviation from the required track) will appear on the [HSI](/guide/getting-started/pilot-user-interface/hud#head-up-display-(hud)). By keeping these inline, you will remain on track to your next waypoint. As you approach the waypoint on your map the flight plan will automatically cycle to the next waypoint and the Course Select Pointer will move so that you can follow the new course
+: A magenta Course Select Pointer (this is the radial to your next waypoint) and Radial Deviation Bar (indicates deviation from the required track) will appear on the [HSI](/guide/getting-started/pilot-user-interface/hud#head-up-display-(hud)). By keeping these in line, you will remain on track to your next waypoint. As you approach the waypoint on your map the flight plan will automatically cycle to the next waypoint and the Course Select Pointer will move so that you can follow the new course
 
 
 
@@ -51,13 +51,13 @@ Step 2
 
 Step 3
 
-: Tap the runway you want to tune to, it must have an ILS (Instrument Landing System)
+: Tap the runway you want to tune to (it must have an ILS)
 
  
 
 Step 4
 
-: Tap ‘Set NAV 1’. NAV 1 will display in green by the runway to show it has been tuned successfully
+: Tap "Set NAV 1". NAV 1 will display in green by the runway to show it has been tuned successfully
 
  
 
@@ -68,25 +68,31 @@ Step 4
 
 Step 1
 
-: Once you have tuned the ILS to NAV 1, tap ‘NAV’ on the Fly Screen
+: Tap "NAV" to display the Avionics tab on the Fly Screen
 
  
 
 Step 2
 
-: The Avionics tab will appear, NAV 1 will have the ILS frequency and ident displayed and beneath this, CRS (course) 1 will show the runway course. Make sure ‘SOURCE’ is set to ‘NAV 1’ to use it in the aircraft
+: "NAV 1" will have the ILS frequency & ident displayed and beneath this "CRS (course) 1" will show the runway course
 
- 
+
 
 Step 3
 
-: The Horizontal Situation Indicator (HSI) will display the Localizer (lateral) deviation scale and the Altitude tape will now show the Glideslope (vertical) deviation scale
+: Make sure "SOURCE" is set to "NAV 1" to use it in the aircraft
 
  
 
 Step 4
 
-: The course for the lateral deviation scale can be adjusted using CRS 1, this can be used to fly a Back Course Localizer
+: The Horizontal Situation Indicator (HSI) will display the Localizer (lateral) deviation scale and the Altitude tape will display the Glideslope (vertical) deviation scale
+
+ 
+
+Step 4
+
+: The course for the lateral deviation scale can be adjusted using "CRS 1" (this can be used if you wanted to fly a Back Course Localizer)
 
  
 
@@ -103,7 +109,7 @@ Step 1
 
 Step 2
 
-: For VOR’s tap ‘Set NAV 1’ or ‘Set NAV 2’. ‘Tuned to NAV 1 (or 2)’ will display beneath the VOR info. For NDB’s tap ‘Set ADF 1’ and similarly, ‘Tuned to ADF 1’ will be shown
+: For VORs tap "Set NAV 1" or "Set NAV 2". "Tuned to NAV 1 (or 2)" will display beneath the VOR info. For NDBs tap "Set ADF 1" and similarly, "Tuned to ADF 1" will be shown
 
  
 
@@ -114,7 +120,7 @@ Step 2
 
 Step 1
 
-: Once you have tuned the VOR to either NAV 1 or 2, tap ‘NAV’ on the Fly Screen
+: Once you have tuned the VOR to either NAV 1 or 2, tap "NAV" on the Fly Screen
 
  
 
@@ -126,7 +132,7 @@ Step 2
 
 Step 3
 
-: CRS (course) 1 or 2 will have 360 set by default but any radial can be selected. Provided ‘SOURCE’ is set to ‘NAV 1 (or 2)’, the HSI will display the lateral deviation scale, and the course can be adjusted to intercept and fly different radials to/from the VOR beacon
+: CRS (course) 1 or 2 will have 360 set by default but any radial can be selected. Provided "SOURCE" is set to "NAV 1 (or 2)", the HSI will display the lateral deviation scale, and the course can be adjusted to intercept and fly different radials to/from the VOR beacon
 
  
 
@@ -137,13 +143,13 @@ Step 3
 
 Step 1
 
-: Once you have tuned the NDB to ADF 1, tap ‘NAV’ on the Fly Screen
+: Once you have tuned the NDB to ADF 1, tap "NAV" on the Fly Screen
 
  
 
 Step 2
 
-: The Avionics tab will appear, ADF 1 will have the NDB frequency and ident displayed. BRG (bearing) 1 or 2 can be changed to ‘ADF’ and the selected needle will display this information on the Horizontal Situation Indicator (HSI)
+: The Avionics tab will appear, ADF 1 will have the NDB frequency and ident displayed. BRG (bearing) 1 or 2 can be changed to "ADF" and the selected needle will display this information on the Horizontal Situation Indicator (HSI)
 
  
 
@@ -153,11 +159,11 @@ Step 2
 ![TCAS on Map](_images/manual/frames/tcas.png) 
 
 
-1. On both the Map and Mini Map, your aircraft is displayed with a white aircraft symbol. These symbols vary in size/shape dependent on what aircraft you are flying
+1. On both the Map and Mini Map, your aircraft is displayed with a white aircraft symbol. These symbols vary in size/shape dependent on what aircraft is being flown
 
    
 
-2. Blue aircraft show other aircraft
+2. Other traffic is displayed by blue aircraft
 
    
 
@@ -198,4 +204,4 @@ Step 2
 
 Tip
 
-: The minimum aircraft separation that you must maintain at all times is 3nm of each other laterally, or 1000ft vertically. When under active ATC they will ensure this separation is maintained. In busy airspace it is common to see lots of Amber aircraft - don’t overreact, just keep a good eye on your mini map whilst flying!
+: The minimum aircraft separation that you must maintain at all times is 3nm of each other laterally, or 1000ft vertically. When under active ATC, they will ensure this separation is maintained. In busy airspace it is common to see lots of Amber aircraft symbols - don’t overreact, just keep a good eye on your mini map whilst flying!

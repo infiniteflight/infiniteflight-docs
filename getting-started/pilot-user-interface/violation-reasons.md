@@ -15,19 +15,19 @@ Below is a complete list of all the reasons that can be used by Controllers when
 
 Level 1 Violation
 
-: If a pilot receives 3 or more Level 1 Violations in one flight, they will automatically be removed from the server and will have to start a flight again.
+: If a pilot receives 3 or more Level 1 Violations in one flight, they will automatically be removed from the server and will have to start a flight again
 
 
 
 Level 2 Violation (Amber)
 
-: The pilot is disconnected from the server but can continue the flight offline. The pilot may return to the Expert Server immediately by starting a new flight provided the number of Level 2 and 3 Violations remain under the server allowed limits.
+: The pilot is disconnected from the server but can continue the flight offline. The pilot may return to the Expert Server immediately by starting a new flight provided the number of Level 2 and 3 Violations remain under the server allowed limits
 
 
 
 Level 3 Violation (Red)
 
-: The pilot is disconnected from the server but can continue the flight offline. The pilot will not be able to return to the Expert Server after the flight has been ended, with access being restricted for 7 days following this.
+: The pilot is disconnected from the server but can continue the flight offline. The pilot will not be able to return to the Expert Server after the flight has been ended, with access being restricted for 7 days following this
 
 
 
@@ -57,7 +57,7 @@ Situational awareness whilst flying is an important aspect that pilots must main
 
 
 
-Ground awarness is an essential part of any flight, therefore you must ensure that you have clearance to taxi or cross/enter runways (if ATC is active), and under all circumstances, check it is clear. Do not taxi through grass or terminal areas, block active taxiways or get too close to other aircraft.
+Ground awareness is an essential part of any flight, therefore you must ensure that you have clearance to taxi or cross/enter runways (if ATC is active), and under all circumstances, check it is clear. Do not taxi through grass or terminal areas, block active taxiways or get too close to other aircraft.
 
 
 
@@ -73,7 +73,7 @@ Ground awarness is an essential part of any flight, therefore you must ensure th
 
 
 
-Ground awarness is an essential part of any flight, therefore you must ensure that you have clearance to taxi or cross/enter runways (if ATC is active), and under all circumstances, check it is clear. Do not taxi through grass or terminal areas, block active taxiways or get too close to other aircraft.
+Ground awareness is an essential part of any flight, therefore you must ensure that you have clearance to taxi or cross/enter runways (if ATC is active), and under all circumstances, check it is clear. Do not taxi through grass or terminal areas, block active taxiways or get too close to other aircraft.
 
 
 
@@ -89,7 +89,7 @@ Ground awarness is an essential part of any flight, therefore you must ensure th
 
 
 
-Ground awarness is an essential part of any flight, therefore you must ensure that you have clearance to taxi or cross/enter runways (if ATC is active), and under all circumstances, check it is clear. Do not taxi through grass or terminal areas, block active taxiways or get too close to other aircraft.
+Ground awareness is an essential part of any flight, therefore you must ensure that you have clearance to taxi or cross/enter runways (if ATC is active), and under all circumstances, check it is clear. Do not taxi through grass or terminal areas, block active taxiways or get too close to other aircraft.
 
 
 
@@ -169,7 +169,7 @@ Taking-Off/Landing without permission, following your flight plan instead of ATC
 
 
 
-Ground awarness is an essential part of any flight, and this includes exiting the runway in an expeditious manner to ensure other aircraft are able to take-off or land safely. Failure to exit the runway might have caused a loss of separation with other aircraft, a go-around and/or a degradation in service - this could have resulted in you being removed from the server.
+Ground awareness is an essential part of any flight, and this includes exiting the runway in an expeditious manner to ensure other aircraft are able to take-off or land safely. Failure to exit the runway might have caused a loss of separation with other aircraft, a go-around and/or a degradation in service - this could have resulted in you being removed from the server.
 
 
 
@@ -237,7 +237,7 @@ Taking-Off/Landing without permission, following your flight plan instead of ATC
 
 
 
-Ground awarness is an essential part of any flight, therefore you must ensure that you have clearance to taxi or cross/enter runways (if ATC is active), and under all circumstances, check it is clear. Do not taxi through grass or terminal areas, block active taxiways or get too close to other aircraft.
+Ground awareness is an essential part of any flight, therefore you must ensure that you have clearance to taxi or cross/enter runways (if ATC is active), and under all circumstances, check it is clear. Do not taxi through grass or terminal areas, block active taxiways or get too close to other aircraft.
 
 
 
@@ -317,11 +317,11 @@ Taking-Off/Landing without permission, following your flight plan instead of ATC
 
 
 
-Inappropriate callsigns used to incite harm/violence such as the use of profanity, discriminatory or racist terms is not tolerated on the Expert Server - pilots can expect to be removed from the server.
+Inappropriate callsigns used to incite harm/violence such as the use of profanity, discriminatory or racist terms are not tolerated on the Expert Server - pilots can expect to be removed from the server.
 
 
 
-## Incorrect Arrival Procedures - Innapropriate Altitude, Speed, Position
+## Incorrect Arrival Procedures - Inappropriate Altitude, Speed, Position
 
 *Issued by: Tower/Radar*
 
@@ -377,7 +377,7 @@ Taking-Off/Landing without permission, following your flight plan instead of ATC
 
 
 
-## Spamming Frequency - Unecessary Duplicate Requests
+## Spamming Frequency - Unnecessary Duplicate Requests
 
 *Issued by: Ground/Tower/Radar*
 
@@ -413,7 +413,7 @@ Taking-Off/Landing without permission, following your flight plan instead of ATC
 
 
 
-Inappropriate behaviour such as taking-off/landing from grass, ramp areas and/or taxiways is not tolerated on the Expert Server - pilots can expect to be removed from the server.
+Inappropriate behavior such as taking-off/landing from grass, ramp areas and/or taxiways is not tolerated on the Expert Server - pilots can expect to be removed from the server.
 
 
 
@@ -425,7 +425,7 @@ Inappropriate behaviour such as taking-off/landing from grass, ramp areas and/or
 
 
 
-Ground awarness is an essential part of any flight, therefore you must ensure that you have clearance to taxi or cross/enter runways (if ATC is active), and under all circumstances, check it is clear. Do not taxi through grass or terminal areas, block active taxiways or get too close to other aircraft.
+Ground awareness is an essential part of any flight, therefore you must ensure that you have clearance to taxi or cross/enter runways (if ATC is active), and under all circumstances, check it is clear. Do not taxi through grass or terminal areas, block active taxiways or get too close to other aircraft.
 
 
 
@@ -441,7 +441,7 @@ Ground awarness is an essential part of any flight, therefore you must ensure th
 
 
 
-Ground awarness is an essential part of any flight, therefore you must ensure that you have clearance to taxi or cross/enter runways (if ATC is active), and under all circumstances, check it is clear. Do not taxi through grass or terminal areas, block active taxiways or get too close to other aircraft.
+Ground awareness is an essential part of any flight, therefore you must ensure that you have clearance to taxi or cross/enter runways (if ATC is active), and under all circumstances, check it is clear. Do not taxi through grass or terminal areas, block active taxiways or get too close to other aircraft.
 
 
 
@@ -457,7 +457,7 @@ Ground awarness is an essential part of any flight, therefore you must ensure th
 
 
 
-Ground awarness is an essential part of any flight, therefore you must ensure that you have clearance to taxi or cross/enter runways (if ATC is active), and under all circumstances, check it is clear. Do not taxi through grass or terminal areas, block active taxiways or get too close to other aircraft.
+Ground awareness is an essential part of any flight, therefore you must ensure that you have clearance to taxi or cross/enter runways (if ATC is active), and under all circumstances, check it is clear. Do not taxi through grass or terminal areas, block active taxiways or get too close to other aircraft.
 
 
 
@@ -473,7 +473,7 @@ Ground awarness is an essential part of any flight, therefore you must ensure th
 
 
 
-Ground awarness is an essential part of any flight, therefore you must ensure that you have clearance to taxi or cross/enter runways (if ATC is active), and under all circumstances, check it is clear. Do not taxi through grass or terminal areas, block active taxiways or get too close to other aircraft.
+Ground awareness is an essential part of any flight, therefore you must ensure that you have clearance to taxi or cross/enter runways (if ATC is active), and under all circumstances, check it is clear. Do not taxi through grass or terminal areas, block active taxiways or get too close to other aircraft.
 
 
 
@@ -489,7 +489,7 @@ Ground awarness is an essential part of any flight, therefore you must ensure th
 
 
 
-The Controller was unable to communicate with you and has subsequently removed you from the server. This has not resulted in a Violation and you can return to the server at any time.
+The Controller was unable to communicate with you and has subsequently removed you from the server. This has not been counted as a Violation and you can return to the server at any time. 
 
 
 

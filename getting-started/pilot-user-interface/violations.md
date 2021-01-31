@@ -16,7 +16,7 @@ Violations can either be automatically generated (Level 1) or issued by ATC (Lev
 
  
 
-**Level 1** Violations are automatically generated if a pilot violates any one of the set conditions. These are outlined below:
+**Level 1** Violations are automatically generated if a pilot violates any one of the following set conditions:
 
  
 
@@ -26,13 +26,13 @@ Violations can either be automatically generated (Level 1) or issued by ATC (Lev
 | Ground Overspeed           | Above 35kts GS (ground speed) on ground, excluding runways   |
 | Flight Overspeed           | Above 250kts IAS (indicated airspeed) below 10,000ft / exceeding max speed warning (VMO/MMO) - does not apply to military aircraft |
 | Aerobatics within Airspace | Aerobatics below 5,000ft and within 5 nautical miles of an airport |
-| Runway Idle                | Sit idle on a runway longer than 60 seconds without ATC clearance |
+| Runway Idle                | Sitting idle on a runway longer than 60 seconds without ATC clearance |
 
 
 
 Tip
 
-: The most commong Level 1 Violation received is Flight Overspeed - make sure to slow down below 250kts IAS well before reaching 10,000ft to avoid this. We also recommend not cruising at (or close to) 10,000ft with a speed above 250kts IAS as the altitude can fluctuate with the Autopilot engaged, resulting in a Violation!
+: The most common Level 1 Violation received is Flight Overspeed - make sure to slow down below 250kts IAS well before reaching 10,000ft to avoid this. We also recommend not cruising at (or close to) 10,000ft with a speed above 250kts IAS as the altitude can fluctuate with the Autopilot engaged, resulting in a Violation!
 
 
 
@@ -46,13 +46,13 @@ To ensure that all pilots get an enjoyable experience (and realistic experience 
 
 Level 1 Violation
 
-: If a pilot receives 3 or more Level 1 Violations in one flight, they will automatically be removed from the server and will have to start a flight again.
+: If a pilot receives 3 or more Level 1 Violations in one flight, they will automatically be removed from the server and will have to start a flight again
 
 
 
 Level 2 Violation (Amber)
 
-: The pilot is disconnected from the server but can continue the flight offline. The pilot may return to the Expert Server immediately by starting a new flight provided the number of Level 2 and 3 Violations remain under the server allowed limits.
+: The pilot is disconnected from the server but can continue the flight offline. The pilot may return to the Expert Server immediately by starting a new flight provided the number of Level 2 and 3 Violations remain under the server allowed limits
 
 
 ![Level 2 Violation](_images/manual/frames/violation-level2.png) 
@@ -76,13 +76,13 @@ Level 2 Violation (Amber)
 
 Level 3 Violation (Red)
 
-: The pilot is disconnected from the server but can continue the flight offline. The pilot will not be able to return to the Expert Server after the flight has been ended, with access being restricted for 7 days following this.
+: The pilot is disconnected from the server but can continue the flight offline. The pilot will not be able to return to the Expert Server after the flight has been ended, with access being restricted for 7 days following this
 
 
 ![Level 3 Violation](_images/manual/frames/violation-level3.png) 
 
 
-In addition, Violations are kept on a pilot’s record and therefore, if a pilot continues to receive Violations (**Level 2** and **Level 3** only), Expert Server access will be restricted for longer. Currently no more than five **Level 2** and/or **Level 3** Violations can be received within a 365 day rolling period for access to the server.
+In addition, Violations are kept on a pilot’s record and therefore, if a pilot continues to receive Violations (**Level 2** and **Level 3** only), Expert Server access will be restricted for longer. Currently, no more than five **Level 2** and/or **Level 3** Violations can be received within a 365 day rolling period for access to the server.
 
  
 
