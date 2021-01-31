@@ -39,7 +39,7 @@ Step 1
 
 Step 2
 
-: Tap ‘Replay’
+: Tap "Replay"
 
  
 
@@ -187,22 +187,22 @@ You can also import replays into your device to view them. To do this follow the
 
 Step 1
 
-: Using your device, navigate to where the file you wish to import is located
+: Access your "Replays" 
 
 
 
 Step 2
 
-: Tap on the file to open it *(the technique to open may vary dependent on the device being used - in particular, some devices require you to press & hold, followed by selecting "Share" and then "Open in Infinite Flight")*
+: Select "Import". A window will open allowing you to navigate to where the file you wish to import is located
 
 
 
 Step 3
 
-: Infinite Flight will open and import the replay into your "Replays
+: Tap on the file to open it *(the technique to open may vary dependent on the device being used - in particular, some devices require you to press & hold, followed by selecting "Share" and then "Open in Infinite Flight")*
 
 
 
 Step 4
 
-: Access your "Replays" to view it
+: Infinite Flight will open (if not already) and import the replay into your "Replays"
