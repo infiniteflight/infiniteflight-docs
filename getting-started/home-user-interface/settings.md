@@ -145,7 +145,7 @@ Tip
 
 ## Graphics
 
-Infinite Flight supports both iOS and Android devices; because of this, the graphics may require adjustments to ensure optimum performance for your device. Unfortunately, not all devices are able to perform with all settings on high. Different combinations of high, medium and low may be required. For a detailed look at what graphics settings each device can handle, take a look at [this](https://community.infiniteflight.com/t/device-compatibility-thread-20-3-built-by-us-for-you/323610) topic on the Infinite Flight Community Forum.
+Infinite Flight supports both iOS and Android devices; because of this, the settings may need to be changed to ensure optimum performance. Unfortunately, not all devices are able to perform with all settings on high. Different combinations of high, medium and low may be required. For a detailed look at what graphics settings each device can handle, take a look at [this](https://community.infiniteflight.com/t/device-compatibility-thread-20-3-built-by-us-for-you/323610) topic on the Infinite Flight Community Forum.
 
 
 
