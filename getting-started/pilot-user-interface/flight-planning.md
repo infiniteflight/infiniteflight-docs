@@ -19,14 +19,14 @@ order: 6
 
 2. The buttons at the bottom of the FPL page have the following functions:
 
-   | Button        | Function                                                     |
-   | ------------- | ------------------------------------------------------------ |
-   | -             | Delete a waypoint                                            |
-   | Act. Leg      | Make a waypoint the active leg by selecting the waypoint, and then tapping this button |
-   | Clear         | Clear entire flight plan                                     |
-   | Up/Down Arrow | Move a waypoint or procedure up/down in your flight plan by selecting the waypoint/procedure, and then using the arrows to position it as desired |
-   | Set Alt       | Tap a waypoint and then this button to set an altitude target that can be used with VNAV |
-   | Open/Share    | Your can open a flight plan using this button, or if you have a flight plan already programmed in, share it |
+   | Button                                                       | Function                                                     |
+   | ------------------------------------------------------------ | ------------------------------------------------------------ |
+   | -                                                            | Delete a waypoint                                            |
+   | Act. Leg                                                     | Make a waypoint the active leg by selecting the waypoint, and then tapping this button |
+   | Clear                                                        | Clear entire flight plan                                     |
+   | Up/Down Arrow                                                | Move a waypoint or procedure up/down in your flight plan by selecting the waypoint/procedure, and then using the arrows to position it as desired |
+   | Set Alt                                                      | Tap a waypoint and then this button to set an altitude target that can be used with VNAV |
+   | Open/[Share](/guide/getting-started/pilot-user-interface/flight-planning#share-flight-plan) | You can open a flight plan using this button, or if you already have a flight plan, share it |
 
 
 
@@ -60,6 +60,72 @@ order: 6
 Tip
 
 : If you're running an older device and/or experiencing crashing, try selecting "Hide Airspaces" as this may improve your device performance!
+
+
+
+## Share Flight Plan
+
+
+
+The "Open/Share" button allows you to save a specific Flight Plan, share a Flight Plan or import a Flight Plan made by another user. 
+
+
+
+**Exporting**
+
+Step 1
+
+: Create a Flight Plan
+
+
+
+Step 2
+
+: View the FPL and click the arrow icon
+
+
+
+Step 3
+
+: Select "Share"
+
+
+
+Step 4
+
+: Choose a sharing method (e.g. airdrop, email, notes, etc.)
+
+
+
+Step 5
+
+: Share with the respective user or save for future use
+
+
+
+**Importing**
+
+Step 1
+
+: Save a Flight Plan to the Files app
+
+
+
+Step 2
+
+: View the Flight Plan page within a flight and click the arrow icon
+
+
+
+Step 3
+
+: Select "Open Flight Plan"
+
+
+
+Step 4
+
+: Open the respective Flight Plan from the Files app
 
 
 
