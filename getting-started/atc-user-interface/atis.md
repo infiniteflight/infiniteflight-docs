@@ -27,7 +27,7 @@ The Automatic Terminal Information Service, more commonly known as ATIS, will se
    | ![](_images/manual/tables/weather-orange.png) | Crosswind above 3kts                     |
    | ![](_images/manual/tables/weather-red.png) | Tailwind above 3kts - runway not recommended |
 
-3. **REMARKS** can be added to the ATIS to provide pilots with more information such as 'No Pattern Work allowed'
+3. **REMARKS** can be added to the ATIS to provide pilots with more information such as "No Pattern Work allowed"
 
 
 4. **NOTAMS** are used in the same way as REMARKS above, and provide more information for pilots
@@ -62,7 +62,7 @@ Step 1
 
 Step 2
 
-: The information tab will be displayed initially; tap the 'wx' (weather) tab
+: The information tab will be displayed initially; tap the "wx" (weather) tab
 
 
 

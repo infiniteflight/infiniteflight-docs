@@ -25,7 +25,7 @@ Step 1
 
 Step 2
 
-: To perform a crosswind take-off, deflect you [Aileron](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) into wind (so if the wind is coming from the right, tilt your device to the right so that the right Aileron is up, and the left Aileron is down). To maintain the runway centerline, use the [Rudder](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls). Without any input, your aircraft will turn into wind as speed increases (known as weather cocking) and you could lose control of your aircraft
+: To perform a crosswind take-off, deflect your [Aileron](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) into wind (so if the wind is coming from the right, tilt your device to the right so that the right Aileron is up, and the left Aileron is down). To maintain the runway centerline, use the [Rudder](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls). Without any input, your aircraft will turn into wind as speed increases (known as weather cocking) and you could lose control of your aircraft
 
 
 

@@ -9,11 +9,11 @@ order: 5
 
 ![ATC Page](_images/manual/frames/atc.png)
 
-1. Pick your frequencies using the [Station Selection button](#station-selection).
+1. Pick your frequencies using the [Station Selection button](#station-selection)
 
    
 
-2. There are various servers for different experiences, select the [Server button](/guide/getting-started/home-screen/air-traffic-control#server) to pick the best fit for you (note that the Expert Server has restricted access for controlling).
+2. There are various servers for different experiences, select the [Server button](/guide/getting-started/home-screen/air-traffic-control#server) to pick the best fit for you (note that the Expert Server has restricted access for controlling)
 
    
 
@@ -21,7 +21,7 @@ order: 5
 
    
 
-4. Ready to go control? Tap on the [Control button](/guide/getting-started/atc-user-interface/ground-tower-radar#ground%2C-tower-%26-radar) to begin!
+4. Ready to go control? Tap on the [Control button](/guide/getting-started/atc-user-interface/ground-tower-radar#ground%2C-tower-%26-radar) to begin
 
  
 
@@ -33,7 +33,7 @@ Selecting frequencies is very similar to selecting an airport and parking positi
 
 
 
-1. The search function allows you to find the airport you want with ease. If you know the ICAO four letter code (e.g. KSFO for San Francisco Intl.) then you can type some or all of this, and a list of options will appear. Alternatively, just type in some or all of the city/airport name. 
+1. The search function allows you to find the airport you want with ease. If you know the ICAO four letter code (e.g. KSFO for San Francisco Intl.) then you can type some or all of this, and a list of options will appear. Alternatively, just type in some or all of the city/airport name
 
    
 
@@ -47,11 +47,11 @@ Selecting frequencies is very similar to selecting an airport and parking positi
 
 
 
-3. Magenta dots signify uncontrolled airports. The same colors as the blue dots are used to show weather. Check out the table above.
+3. Magenta dots signify uncontrolled airports. The same colors as the blue dots are used to show weather. Check out the table above
 
    
 
-4. Zoomed in too much? No problem, just tap ‘Reset Zoom’ if you want to zoom out again.
+4. Zoomed in too much? No problem, just tap ‘Reset Zoom’ if you want to zoom out again
 
    
 
@@ -71,11 +71,11 @@ Selecting frequencies is very similar to selecting an airport and parking positi
     
     
     
-6. You can select one or more frequencies to control, and dependent on the server, controller qualifications might affect what you can control too.
+6. You can select one or more frequencies to control, and dependent on the server, controller qualifications might affect what you can control too
 
     
 
-7. Red cones signify a runway that has an Instrument Landing System (ILS) approach to that runway threshold. White cones signify a Global Positioning System (GPS) approach.
+7. Red cones signify a runway that has an Instrument Landing System (ILS) approach to that runway threshold. White cones signify a Global Positioning System (GPS) approach
 
  
 

@@ -19,7 +19,7 @@ order: 3
 
    
 
-3. Ready to go flying? Tap on the [Fly button](/guide/getting-started/pilot-user-interface/fly#fly-screen) to begin!
+3. Ready to go flying? Tap on the [Fly button](/guide/getting-started/pilot-user-interface/fly#fly-screen) to begin
 
  
 
@@ -31,23 +31,23 @@ There are loads of different aircraft and liveries to choose from, maybe it’s 
 
 
 
-1. The various airline manufacturers are displayed on the left side, such as Airbus and Boeing.
+1. The various airline manufacturers are displayed on the left side, such as Airbus and Boeing
 
    
 
-2. Under each manufacturer, there is a list of aircraft types that you can scroll through.
+2. Under each manufacturer, there is a list of aircraft types that you can scroll through
 
    
 
-3. Once you have tapped on the aircraft you want to fly, you can select what livery you would like using the dropdown list in the top right of the screen.
+3. Once you have tapped on the aircraft you want to fly, you can select what livery you would like using the dropdown list in the top right of the screen
 
    
 
-4. Infinite Flight has been in constant development, and some of our earlier aircraft aren't the same standard as the latest aircraft in our fleet. If this box is ticked, all of our aircraft (including older, legacy aircraft) are shown on your list.
+4. Infinite Flight has been in constant development, and some of our earlier aircraft aren't the same standard as the latest aircraft in our fleet. If this box is ticked, all of our aircraft (including older, legacy aircraft) are shown on your list
 
    
 
-5. If you have re-installed the app or paid for a Pro Subscription, tap ‘Restore Purchases’ to make sure you have all of your purchased aircraft available for download.
+5. If you have re-installed the app or paid for a Pro Subscription, tap ‘Restore Purchases’ to make sure you have all of your purchased aircraft available for download
 
  
 
@@ -59,21 +59,21 @@ The entire globe is ready for you to explore, you can either use the features be
 
  
 
-1. The search function allows you to find the airport you want with ease. If you know the ICAO four letter code (e.g. KSFO for San Francisco Intl.) then you can type some or all of this, and a list of options will appear. Alternatively, just type in some or all of the city/airport name. 
+1. The search function allows you to find the airport you want with ease. If you know the ICAO four letter code (e.g. KSFO for San Francisco Intl.) then you can type some or all of this, and a list of options will appear. Alternatively, just type in some or all of the city/airport name
 
    
 
-2. Blue dots signify airports that have a tower facility (although it may not necessarily have active ATC).
+2. Blue dots signify airports that have a tower facility (although it may not necessarily have active ATC)
 
  
 
-3. Magenta dots signify uncontrolled airports.
+3. Magenta dots signify uncontrolled airports
 
    ![Map Zoomed In](_images/manual/frames/map-zoomed-in.png)
 
    
 
-4. Zoomed in too much? No problem, just tap ‘Reset Zoom’ if you want to zoom out again.
+4. Zoomed in too much? No problem, just tap ‘Reset Zoom’ if you want to zoom out again
 
    
 
@@ -87,7 +87,7 @@ The entire globe is ready for you to explore, you can either use the features be
 
     
 
-6. In solo mode you can park wherever you want, but in online mode all parking positions are size restricted. If the parking positions are red, you’re too big! 
+6. In solo mode you can park wherever you want, but in online mode all parking positions are size restricted. If the parking positions are red, you’re too big
 
     
 
@@ -97,7 +97,7 @@ The entire globe is ready for you to explore, you can either use the features be
 
     
 
-7. Once you’ve decided on your spawn point, you’ll be able to see what airport and gate has been selected in the bottom right hand corner.
+7. Once you’ve decided on your spawn point, you’ll be able to see what airport and gate has been selected in the bottom right hand corner
 
  
 

@@ -20,7 +20,7 @@ Below are the minimum requirements for a successful install on your device. In a
 
 
 
-*Note: Due to the large variety of Android devices, there is not a full list of devices supported although the vast majority can be found [here](https://community.infiniteflight.com/t/device-compatibility-thread-19-4-built-by-us-for-you/323610). Customers with devices that are not supported at this time will receive a message on the Google PlayStore when attempting to download the latest update for Infinite Flight to advise that the device in use is not supported.*
+*Note: Due to the large variety of Android devices, there is not a full list of devices supported although the vast majority can be found [here](https://community.infiniteflight.com/t/device-compatibility-thread-20-3-built-by-us-for-you/323610/2). Customers with devices that are not supported at this time will receive a message on the Google PlayStore when attempting to download the latest update for Infinite Flight to advise that the device in use is not supported.*
 
 
 
@@ -30,7 +30,7 @@ Step 1
 : Open the Play Store by finding and clicking on the Play Store icon on your device home screen
 
 Step 2
-: Using the search function, type in Infinite Flight
+: Using the search function, type in Infinite Flight and click search
 
 Step 3
 : Select Infinite Flight and tap on the price to purchase
