@@ -19,15 +19,15 @@ order: 4
 
    
 
-3. There are various servers for different experiences, select the [Server button](#server) to pick the best fit for you.
+3. There are various servers for different experiences, select the [Server button](#server) to pick the best fit for you
 
    
 
-4.  The Airspace Status table helps show you how many aircraft are inbound to a particular airport and if it has active ATC. You can tap the refresh button to make sure it’s up to date before you decide where to fly from and to.
+4.  The Airspace Status table helps show you how many aircraft are inbound to a particular airport and if it has active ATC. You can tap the refresh button to make sure it’s up to date before you decide where to fly from and to
 
    
 
-5. Ready to go flying? Tap on the [Fly button](/guide/getting-started/pilot-user-interface/fly#fly-screen) to begin!
+5. Ready to go flying? Tap on the [Fly button](/guide/getting-started/pilot-user-interface/fly#fly-screen) to begin
 
  
 

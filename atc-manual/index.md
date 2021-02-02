@@ -21,7 +21,7 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 
 ## Version: 20.3.1
 
-## Last Updated: 1230Z - 28 JAN 21
+## Last Updated: 1130Z - 02 FEB 21
 
 
 
@@ -43,6 +43,7 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 | 6.7.2                    | Removal of reference to navigation aids until this is fixed in-app |
 | 6.9.4                    | Guidance added on the use of vectors for GPS Approaches      |
 | 7.2.2                    | Section 7E added                                             |
+| 7.3.2                    | Removal of requirement to have made at least 1 attempt at the Initial Practical Test before Training |
 | 7.3.4                    | Clarification on separation minima to be applied             |
 | 7A.2.6 / 7A.3.6 / 7C.2.4 | See respective channels for more information                 |
 | 7D.2.1 / 7D.2.4          | See channel for more information                             |
@@ -113,5 +114,4 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 | 7D.4.1   | Guidance on adding notes to Controller's records included    |
 
 +++
-
 

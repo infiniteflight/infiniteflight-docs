@@ -36,31 +36,21 @@ The abeam indication is the point at which the timing of the outbound leg commen
 
 
 
-In still air, at one minute from abeam, the relative bearing from the beacon will be about 30 degrees from the reciprocal of the hold axis (e.g. if the Inbound Hold Axis is 270 degrees, the reciprocal is 090 degrees and the gate bearing is therefore 060 degrees). This is referred to as the 'Gate'. The Gate is a useful tool to help indicate when to start the turn for the inbound leg, but the timing is the main method for this.
-
-
-
-Tip
-
-: If the length of the hold is greater than 1 minute (in still air), the 'gate' relative bearing of 30 degrees is no longer valid! 
-
-
-
 ## Hold Entries
 
 There are three types of hold entries, these are:
 
  
 
- -    Direct
+ -    [Direct](/guide/flying-guide/descent-to-landing/holding#how-to-enter-the-hold)
 
- -    Parallel
+ -    [Parallel](/guide/flying-guide/descent-to-landing/holding#how-to-enter-the-hold)
 
- -    Teardrop
+ -    [Teardrop](/guide/flying-guide/descent-to-landing/holding#how-to-enter-the-hold)
 
- 
 
-If an aircraft is approaching a hold from the direct entry side as shown in the image *(see 6.7.6.1 below)*, you should plan to go 'direct' to the origin of the hold and then fly the standard holding pattern from there. For a parallel entry, a flight path similar to the blue line below should be followed before the standard holding pattern is flown. And finally, for the teardrop entry, a flight path similar to the red line.
+
+If an aircraft is approaching a hold from the direct entry side as shown in the image *(see 6.7.6.1 below)*, you should plan to go "direct" to the origin of the hold and then fly the standard holding pattern from there. For a parallel entry, a flight path similar to the blue line below should be followed before the standard holding pattern is flown. And finally, for the teardrop entry, a flight path similar to the red line.
 
 
 
@@ -149,9 +139,7 @@ Tip
 
 
 
-**Parallel Entry**
-
-
++++ Parallel Entry
 
 
 ![Parallel Entry](_images/manual/graphics/parallel-hold-entry.jpg)
@@ -196,11 +184,11 @@ Step 5
 
 : Once overhead the holding fix, start the left/right turn and fly the normal holding pattern
 
++++
 
 
-**Teardrop Entry** 
 
-
++++ Teardrop Entry
 
 
 ![Teardrop Entry](_images/manual/graphics/teardrop-hold-entry.jpg)
@@ -255,11 +243,11 @@ Step 6
 
 : Once overhead the holding fix, start the left/right turn and fly the normal holding pattern
 
++++
 
 
-**Direct Entry**
 
-
++++ Direct Entry
 
 Step 1
 
@@ -269,7 +257,7 @@ Step 1
 
 Step 2
 
-: If when joining, the aircraft is approaching the Holding Fix at a "steep" angle (e.g. more than 30 degrees either side of the Inbound Holding Axis), you may need to adjust you initial turn for the Outbound Leg to compensate for this. Below is an an example of what may be required: 
+: If when joining, the aircraft is approaching the Holding Fix at a "steep" angle (e.g. more than 30 degrees either side of the Inbound Holding Axis), you may need to adjust your initial turn for the Outbound Leg to compensate for this. Below is an example of what may be required: 
 
 
 
@@ -287,3 +275,18 @@ Step 2
 | 5        | Cross the Holding Fix, wait 10 seconds and then turn into the hold |
 | 6        | Cross the Holding Fix, wait 15 seconds and then turn into the hold |
 
++++
+
+
+
+## Recommended Speeds
+
+We recommend not exceeding the following speeds when flying holds:
+
+
+
+| Altitude (MSL)                           | Airspeed (KIAS) |
+| ---------------------------------------- | --------------- |
+| Minimum Holding Altitude (MHA) to 6000ft | 200             |
+| 6001ft to 14000ft                        | 230             |
+| 14,001ft and above                       | 265             |

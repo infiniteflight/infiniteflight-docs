@@ -125,7 +125,7 @@ In the image above, you can see we have changed the aircraft heading from 360 to
 
 
 
-Once on the desired bearing, we can then monitor the blue bearing pointer and adjust out heading to take into account wind (ensuring that we are tracking the correct radial).
+Once on the desired bearing, we can then monitor the blue bearing pointer and adjust our heading to take into account wind (ensuring that we are tracking the correct radial).
 
 
 

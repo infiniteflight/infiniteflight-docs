@@ -9,11 +9,11 @@ order: 12
 
 # Pause Menu
 
-The pause menu lets you customize your flight by changing Weather, Time, Weight & Balance, and instantly setting your aircraft to be on the runway ready for takeoff, or on short final.
+The pause menu lets you customize your flight by changing Weather, Time and Weight & Balance. It also allows you to instantly set your aircraft to be on the runway ready for takeoff or on short final.
 
 
 
-When Flying Online, some features are controlled by the server, such as weather.
+When Flying Online, some features are controlled by the server, such as weather. Other features, such as spawning your aircraft on the runway, are not available.
 
 
 
@@ -40,31 +40,31 @@ On the live server, the weather setting is unavailable as the weather is updated
 
 ![Time Screen](_images/manual/frames/time.png)
 
- 
+
 
 The time setting is available in all modes, on all servers and can be set to your own preference, or based on the current time for the location that you are in.
 
  
 
-## **Weight & Balance**
+## Weight & Balance
 
 ![Weight and Balance Screen](_images/manual/frames/weight-and-balance.png)
 
 
 
-1. The aircraft type is displayed here, along with options to select fuel, passengers or cargo. By tapping each category, sliders will appear on the right where the weight can be adjusted to your preference. You can also move these individually or tap ‘synchronize’ at the bottom of the screen to keep them balanced.
+1. The aircraft type is displayed here, along with options to select fuel, passengers or cargo. By tapping each category, sliders will appear on the right where the weight can be adjusted to your preference. You can also move these individually or tap "synchronize" at the bottom of the screen to keep them balanced
 
  
 
-2. Don’t want to customise your weights? No problem, just tap Light, Normal or Heavy at the bottom and we will set your weight for you! The option to display the weight in Kg or Lbs is also available here.
+2. Don’t want to customize your weights? No problem, just tap "Light", "Normal" or "Heavy" at the bottom and we will set your weight for you! The option to display the weight in Kg or Lbs is also available here
 
  
 
-3. At the top of the screen it will tally all your weights up as you go. Make sure you do not exceed your Maximum Take-Off Weight (MTOW). Your Maximum Landing Weight (MLW) can be exceeded but you’ll need to burn enough fuel en-route before you land.
+3. At the top of the screen it will tally all your weights up as you go. Make sure you do not exceed your Maximum Take-Off Weight (MTOW). Your Maximum Landing Weight (MLW) can be exceeded but you’ll need to burn enough fuel en-route before you land
 
  
 
-4. The typical fuel burn of your selected aircraft is displayed here to help you decide how much you need, as well as an estimated endurance time.
+4. The typical fuel burn of your selected aircraft is displayed here to help you decide how much you need, as well as an estimated endurance time
 
    
 

@@ -11,13 +11,13 @@ order: 10
 
 
 
-1. By tapping on the Autopilot (AP) symbol, the autopilot box will appear displaying the Flight Control Unit (FCU) options.
+1. By tapping on the Autopilot (AP) symbol, the autopilot box will appear displaying the Flight Control Unit (FCU) options
 
 
 
 Step 1
 
-: To engage the autopilot, tap the &#39;AP OFF&#39; button (you must be airborne for the autopilot functions to work correctly). The button will be highlighted by an orange hollow box and will change to &#39;AP ON'
+: To engage the autopilot, tap the "AP OFF" button (you must be airborne for the autopilot functions to work correctly). The button will be highlighted by an orange hollow box and will change to "AP ON"
 
 Step 2
 
@@ -29,7 +29,7 @@ Step 3
 
 Step 4
 
-: The altitude and heading selections have turquoise bugs which appear on the [HUD](/guide/getting-started/pilot-user-interface/flight-plan). These values can be pre-set before engagement of the Autopilot. 
+: The altitude and heading selections have turquoise bugs which appear on the [HUD](/guide/getting-started/pilot-user-interface/hud). These values can be pre-set before engagement of the Autopilot
 
 
 
@@ -51,7 +51,7 @@ When pressing the APPR button, the following displays will be shown beneath it:
 | "LOC" (solid green) and "ALT" (flashing amber) | The APPR mode is capturing or already established on the LOC, the G/S is armed and will capture provided you are below the G/S |
 | "LOC GS" (solid green)                         | The APPR mode is capturing or already established on both the LOC and G/S |
 
-For the best results, only engage the APPR mode when you are on an [intercept heading for the ILS](/guide/flying-guide/descent-to-landing/instrument-landing-system-(ils)-approach#what-is-an-ils-approach%3F) (we recommend no more than 30 degrees). Once engaged, the heading can still be adjusted however once the LOC capture is in progress, the heading can no longer be changed. 
+For the best results, only engage the APPR mode when you are on an [intercept heading for the ILS](/guide/flying-guide/descent-to-landing/instrument-landing-system-(ils)-approach#what-is-an-ils-approach%3F) (we recommend no more than 30 degrees). Once engaged, the heading can still be adjusted. However once the LOC capture is in progress, the heading can no longer be changed. 
 
 
 

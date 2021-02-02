@@ -63,7 +63,7 @@ Both *N1DC* and *I-DRUM* are on final for RWY05L. With minimum separation and an
 | Technique 1 | Pro or Con?                       |
 | ------------------------------------------------------------ | --------------------------------- |
 | :fa-check-circle: | Could prevent a go-around |
-| :fa-ban: | May increase workload |
+| :fa-times-circle: | May increase workload |
 {.prosandcons}
 
 
@@ -77,7 +77,7 @@ Both *N1DC* and *I-DRUM* are on final for RWY05L. With minimum separation and an
 | Technique 2 | Pro or Con?                       |
 | ------------------------------------------------------------ | --------------------------------- |
 | :fa-check-circle: | Could prevent a go-around |
-| :fa-ban: | May cause separation issues with other aircraft on final |
+| :fa-times-circle: | May cause separation issues with other aircraft on final |
 {.prosandcons}
 
 
@@ -92,7 +92,7 @@ Both *N1DC* and *I-DRUM* are on final for RWY05L. With minimum separation and an
 | Technique 3       | Pro or Con?                                     |
 | ----------------- | ----------------------------------------------- |
 | :fa-check-circle: | Good use of all available runways               |
-| :fa-ban:          | May increase Pilot workload and cause confusion |
+| :fa-times-circle: | May increase Pilot workload and cause confusion |
 {.prosandcons}
 
 

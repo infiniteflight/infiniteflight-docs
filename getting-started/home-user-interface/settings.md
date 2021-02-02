@@ -145,7 +145,7 @@ Tip
 
 ## Graphics
 
-Infinite Flight supports both iOS and Android device; because of this, the graphics settings may require attention to ensure you find the settings that work best for you and your device. Unfortunately, not all devices are able to perform with all settings on high. Different combinations of high, medium and/or low may be required.
+Infinite Flight supports both iOS and Android devices; because of this, the settings may need to be changed to ensure optimum performance. Unfortunately, not all devices are able to perform with all settings on high. Different combinations of high, medium and low may be required. For a detailed look at what graphics settings each device can handle, take a look at [this](https://community.infiniteflight.com/t/device-compatibility-thread-20-3-built-by-us-for-you/323610) topic on the Infinite Flight Community Forum.
 
 
 
@@ -165,7 +165,7 @@ Infinite Flight supports both iOS and Android device; because of this, the graph
 
 ## Controls
 
- In the control settings you can further adjust your control sensitivity for each axis. The 2 axes that your device’s accelerometers utilize are:
+In the control settings you can further adjust your control sensitivity for each axis. The 2 axes that your device’s accelerometers utilize are:
 
 
 
@@ -207,9 +207,11 @@ Tip
 
 ## ForeFlight
 
-"ForeFlight Link" allows Infinite Flight pilots to use ForeFlight and it’s many features as if they were in a real airplane. Practice approaches and procedures, and fly a route before spending that hard-earned money on fuel! You’ll have maps, approach plates, weather, performance data, traffic and synthetic vision right from your mobile device. With ForeFlight’s new connection method, we’ve put together this video to show you how to get started!
-
 
 
 
 @[vimeo](421197610)
+
+
+
+"ForeFlight Link" allows Infinite Flight pilots to use ForeFlight and its many features as if they were in a real airplane. Practice approaches and procedures, and fly a route before spending that hard-earned money on fuel! You’ll have maps, approach plates, weather, performance data, traffic and synthetic vision right from your mobile device. With ForeFlight’s new connection method, we’ve put together this video to show you how to get started!
