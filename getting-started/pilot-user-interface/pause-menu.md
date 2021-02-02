@@ -56,7 +56,7 @@ The time setting is available in all modes, on all servers and can be set to you
 
  
 
-2. Don’t want to customize your weights? No problem, just tap Light, Normal or Heavy at the bottom and we will set your weight for you! The option to display the weight in Kg or Lbs is also available here
+2. Don’t want to customize your weights? No problem, just tap "Light", "Normal" or "Heavy" at the bottom and we will set your weight for you! The option to display the weight in Kg or Lbs is also available here
 
  
 

@@ -16,7 +16,7 @@ order: 2
 
  
 
-Once you have spawned as the gate, by tapping on the [Pause Screen](/guide/getting-started/pilot-user-interface/fly#fly-screen) button you can access the [Weight & Balance](/guide/getting-started/pilot-user-interface/pause-menu#weight-%26-balance) page where you can adjust your fuel, passenger load, and cargo load.
+Once you have spawned at the gate, tap on the [Pause Screen](/guide/getting-started/pilot-user-interface/fly#fly-screen) button to access the [Weight & Balance](/guide/getting-started/pilot-user-interface/pause-menu#weight-%26-balance) page where you can adjust your fuel, passenger load, and cargo load.
 
 
 
@@ -74,7 +74,7 @@ Tip
 
 
 
-What to know what everything in the ATIS means? Visit our [ATC Manual](/guide/atc-manual/4.-atis/4.1-atis#4.1-atis) to find out!
+Want to know what everything in the ATIS means? Visit our [ATC Manual](/guide/atc-manual/4.-atis/4.1-atis#4.1-atis) to find out!
 
 
 
