@@ -9,11 +9,7 @@ order: 12
 
 # Pause Menu
 
-The pause menu lets you customize your flight by changing Weather, Time and Weight & Balance. It also allows you to instantly set your aircraft to be on the runway ready for takeoff or on short final.
-
-
-
-When Flying Online, some features are controlled by the server, such as weather. Other features, such as spawning your aircraft on the runway, are not available.
+The pause menu lets you customize your flight by changing Weather, Time and Weight & Balance. It also allows you to instantly set your aircraft to be on the runway ready for takeoff or on short final. When Flying Online, some features are controlled by the server and therefore cannot be changed (such as weather). In addition, other features, such as spawning your aircraft on the runway, are also not available.
 
 
 

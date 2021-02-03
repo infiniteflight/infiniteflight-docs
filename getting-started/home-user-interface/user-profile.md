@@ -77,31 +77,25 @@ Step 1
 
 Step 2
 
-: Tap your profile picture in the top right hand corner, a drop down box will appear. Tap the settings wheel that is in the top right hand corner of the drop down box
+: Tap your profile picture in the top right hand corner, a drop down box will appear. Tap the person icon and select "Preferences" settings wheel that is in the top right hand corner of the drop down box
 
 
 
 Step 3
 
-: Select "Preferences"
+: A new page will appear with a navigation bar on the left side of the screen, select "Profile" (on mobile devices select the drop down box called "Account" and then select "Profile")
 
 
 
 Step 4
 
-: A new page will appear with a navigation bar on the left side of the screen. Select "Profile"
+: Scroll down the page to "Virtual Organization" and select the VO that you are affiliated with from the drop-down box
 
 
 
 Step 5
 
-: Scroll down the page to "Virtual Organization" and select the VO that you are affiliated with from the drop-down box
-
-
-
-Step 6
-
-: Scroll to the bottom of the page and tap "Save Changes"
+: Then scroll to the bottom of the page and tap "Save Changes"
 
 
 
@@ -172,7 +166,7 @@ Below is a table that outlines all the Grade Table parameters and a brief descri
 | Landings (90 days)                     | Number of landings recorded in the last 90 days              |
 | Level 1 Violations (24 hours)          | Total number of Level 1 Violations accumulated in the last 24 hours |
 | Level 1 Violations (7 days)            | Total number of Level 1 Violations accumulated in the last 7 days |
-| Level 1 Violations/Landing (12 months) | Your total amount of Level 1 Violations is divided by your Landings (in the last 12 months) to determine a Violation to Landing ratio*. |
+| Level 1 Violations/Landing (12 months) | Your total amount of Level 1 Violations is divided by your Landings (in the last 12 months) to determine a Violation to Landing ratio* |
 | Level 2 Violations (1 year)            | Total number of Level 2 Violations accumulated in the last 1 year |
 | Level 3 Violations (7 days)            | Total number of Level 3 Violations in the last 7 days        |
 | Level 3 Violations (1 year)            | Total number of Level 3 Violations accumulated in the last 1 year |
@@ -196,7 +190,7 @@ Callsigns are used while flying to identify you and for the Air Traffic Controll
 
 Step 1
 
-: From the home screen, tap your user profile in the top right hand corner of your device
+: From the [home screen](/guide/getting-started/home-user-interface/home-screen), tap your user profile in the top right hand corner of your device
 
 
 
@@ -226,7 +220,7 @@ Step 5
 
 Tip
 
-: Want a more realistic experience? Try to match your aircraft livery with the callsign you are using! As well as this, make sure to only add the "Heavy" suffix when you have a gross take-off weight of more than 300,000lb (136,000kg) and the "Super" suffix when operating the A380
+: Want a more realistic experience? Try to match your aircraft livery with the callsign you are using! As well as this, make sure to only add the "Heavy" suffix when you have a gross take-off weight of more than 300,000lbs (136,000kgs) and the "Super" suffix when operating the A380
 
 
 
@@ -460,7 +454,7 @@ The table below shows the formatting that must be used when selecting an ID for 
 | United Arab Emirates | A6-*ABC*| |
 | United Kingdom | G-*ABCD*| |
 | United Nations | 4U-*ABC*| |
-| United States of America | N*1*, N*12*, N*123*, N*1234*, N*12345*, N*1A*, N*12A*, N*123A*, N*1234A*, N*1AB*, N*12AB*, N*123AB*| Cannot contain I or O. See the [FAA website](https://www.faa.gov/licenses_certificates/aircraft_certification/aircraft_registry/forming_nnumber/) for more information. |
+| United States of America | N*1*, N*12*, N*123*, N*1234*, N*12345*, N*1A*, N*12A*, N*123A*, N*1234A*, N*1AB*, N*12AB*, N*123AB*| Cannot contain I or O. See the [FAA website](https://www.faa.gov/licenses_certificates/aircraft_certification/aircraft_registry/forming_nnumber/) for more information |
 | Uruguay | CX-*ABC*|  |
 | Uzbekistan | UK*12345*| |
 | Vanuatu | YJ-*AB1*, YJ-*AB12*| |

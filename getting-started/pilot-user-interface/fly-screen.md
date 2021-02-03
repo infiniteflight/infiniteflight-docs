@@ -39,7 +39,7 @@ Let&#39;s get you ready to fly! Welcome to the screen you'll see once you've [ca
 
    
 
-7. Tapping this symbol will take you to the pause menu where you can edit settings, recalibrate your device, edit weight &amp; balance, and adjust time/weather/position (dependent on if you are in Fly Solo or Fly Online mode)
+7. Tapping this symbol will take you to the [pause menu](/guide/getting-started/pilot-user-interface/pause-menu) where you can edit settings, recalibrate your device, edit weight &amp; balance, and adjust time/weather/position (dependent on if you are in Fly Solo or Fly Online mode)
 
    
 

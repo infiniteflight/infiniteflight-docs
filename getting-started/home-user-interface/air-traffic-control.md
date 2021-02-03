@@ -13,7 +13,7 @@ order: 5
 
    
 
-2. There are various servers for different experiences, select the [Server button](/guide/getting-started/home-screen/air-traffic-control#server) to pick the best fit for you (note that the Expert Server has restricted access for controlling)
+2. There are various servers for different experiences, select the [Server button](/guide/getting-started/home-user-interface/air-traffic-control#server) to pick the best fit for you (note that the Expert Server has restricted access for controlling)
 
    
 
@@ -39,11 +39,11 @@ Selecting frequencies is very similar to selecting an airport and parking positi
 
 2. Blue dots signify airports that have a tower facility (although it may not necessarily have active ATC). We also use a variety of colors to give you an idea of what the weather is like. Check out the table below:
 
-    | Indication                                      | Meaning                      |
-    | ----------------------------------------------- | ---------------------------- |
-    | ![VFR](_images/manual/tables/weather-vfr.png)   | Visual Flight Rules          |
-    | ![MVFR](_images/manual/tables/weather-mvfr.png) | Marginal Visual Flight Rules |
-    | ![IFR](_images/manual/tables/weather-ifr.png)   | Instrument Flight Rules      |
+    | Indication                                  | Meaning                      |
+    | ------------------------------------------- | ---------------------------- |
+    | ![](_images/manual/tables/weather-vfr.png)  | Visual Flight Rules          |
+    | ![](_images/manual/tables/weather-mvfr.png) | Marginal Visual Flight Rules |
+    | ![](_images/manual/tables/weather-ifr.png)  | Instrument Flight Rules      |
 
 
 
@@ -51,17 +51,17 @@ Selecting frequencies is very similar to selecting an airport and parking positi
 
    
 
-4. Zoomed in too much? No problem, just tap ‘Reset Zoom’ if you want to zoom out again
+4. Zoomed in too much? No problem, just tap "Reset Zoom" if you want to zoom out again
 
    
 
-5. Runway color codes help you know where the wind is coming from. However, as the controller you’ll need to pick the runway’s taking into account the airport taxiway layout, where traffic currently is located, what the weather is like now, and what the weather is forecast to become. Check out the table below:
+5. Runway color codes help you know where the wind is coming from. However, as the controller you’ll need to pick the runways taking into account the airport taxiway layout, where traffic currently is located, what the weather is like now, and what the weather is forecast to become. Check out the table below:
 
-    | Indication                                                 | Meaning                                                      |
-    | ---------------------------------------------------------- | ------------------------------------------------------------ |
-    | ![Green Runway](_images/manual/tables/weather-green.png)   | Headwind above 3kts (or wind from any direction when under 3kts) - runway recommended |
-    | ![Orange Runway](_images/manual/tables/weather-orange.png) | Crosswind above 3kts                                         |
-    | ![Red Runway](_images/manual/tables/weather-red.png)       | Tailwind above 3kts - runway not recommended                 |
+    | Indication                                    | Meaning                                                      |
+    | --------------------------------------------- | ------------------------------------------------------------ |
+    | ![](_images/manual/tables/weather-green.png)  | Headwind above 3kts (or wind from any direction when under 3kts) - runway recommended |
+    | ![](_images/manual/tables/weather-orange.png) | Crosswind above 3kts                                         |
+    | ![](_images/manual/tables/weather-red.png)    | Tailwind above 3kts - runway not recommended                 |
     
      
     
@@ -81,4 +81,17 @@ Selecting frequencies is very similar to selecting an airport and parking positi
 
 ## Server
 
-See ["Home User Interface - Fly Online - Server"](/guide/getting-started/home-user-interface/fly-online#server)
+The various live servers available to use are displayed here. Each server has its own set of rules and minimum grade requirements, make sure to check these before trying to join! Tap on the one you want to fly in and then tap the "back" button.
+
+![Server Page](_images/manual/frames/server-page.png)
+
+ 
+
+| Server   | Description                                                  | Minimum [Grade](/guide/getting-started/home-user-interface/user-profile#the-grade-table) |
+| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Casual   | This server may be accessed by all grades. ATC is not available and pilots may fly freely without affecting their stats or grade. All users should still be respectful and courteous to other pilots | N/A                                                          |
+| Training | This server is used to practice pilot and ATC skills. All ATC facilities (except ATIS) can be accessed and procedures are enforced by server issued [Violations](/guide/getting-started/pilot-user-interface/violations#violations) | 2                                                            |
+| Expert   | This is a server where published rules must be adhered to. All procedures are strictly enforced by ATC (infractions may result in ATC issued [Violations](/guide/getting-started/pilot-user-interface/violations#violations)) | 3*                                                           |
+
+**In addition to the minimum grade requirement, the number of total Level 1 Violations must be at least 50% less than the number of total landings. Pilots may not have [5 or more Level 2 or 3 Violations in the last 365 days](/guide/getting-started/pilot-user-interface/violations#what-happens-if-i-get-a-violation%3F)*
+

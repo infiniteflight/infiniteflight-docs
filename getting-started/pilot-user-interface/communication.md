@@ -19,7 +19,7 @@ order: 5
 
    
 
-3. The boxes will automatically populate as you come into range with active frequencies (represented by a green text) or Unicom (uncontrolled) frequencies. Simply tap the frequency you want to tune to. You can also tune out of a frequency
+3. The boxes will automatically populate as you come into range with active frequencies (represented by green text) or Unicom (uncontrolled) frequencies. Simply tap the frequency you want to tune to. You can also tune out of a frequency
 
    
 

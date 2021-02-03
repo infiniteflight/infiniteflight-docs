@@ -26,7 +26,7 @@ order: 6
    | Clear                                                        | Clear entire flight plan                                     |
    | Up/Down Arrow                                                | Move a waypoint or procedure up/down in your flight plan by selecting the waypoint/procedure, and then using the arrows to position it as desired |
    | Set Alt                                                      | Tap a waypoint and then this button to set an altitude target that can be used with VNAV |
-   | Open/[Share](/guide/getting-started/pilot-user-interface/flight-planning#share-flight-plan) | You can open a flight plan using this button, or if you already have a flight plan, share it |
+   | Open/[Share](/guide/getting-started/pilot-user-interface/flight-planning#share-flight-plan) | You can open a flight plan using this button, or if you already have a flight plan you can share it |
 
 
 
@@ -59,7 +59,7 @@ order: 6
 
 Tip
 
-: If you're running an older device and/or experiencing crashing, try selecting "Hide Airspaces" as this may improve your device performance!
+: If you're running an older device and/or experiencing "crashes", try selecting "Hide Airspaces" as this may improve your device performance!
 
 
 
@@ -81,7 +81,7 @@ Step 1
 
 Step 2
 
-: View the FPL and click the arrow icon
+: View the FPL and click the "arrow" icon
 
 
 
@@ -113,7 +113,7 @@ Step 1
 
 Step 2
 
-: View the Flight Plan page within a flight and click the arrow icon
+: View the Flight Plan page within a flight and click the "arrow" icon
 
 
 
@@ -200,7 +200,7 @@ Step 3
 
 Step 1
 
-: Open the procedures tab by following the [step by step guide below](/guide/getting-started/pilot-user-interface/flight-planning#getting-more-from-your-map-and-mini-map)
+: Open the procedures tab by following the [step by step guide above](/guide/getting-started/pilot-user-interface/flight-planning#getting-more-from-your-map-and-mini-map)
 
 
 
@@ -230,7 +230,7 @@ Step 4
 
 Step 5
 
-: Once you're happy with your selection you can tap "Add to Flight Plan". The 'Back' button is available if you change your mind
+: Once you're happy with your selection you can tap "Add to Flight Plan". The "Back" button is available if you change your mind
 
 
 

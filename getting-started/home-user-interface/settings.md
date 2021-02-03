@@ -18,7 +18,7 @@ The Settings menu allows you to customize your Infinite Flight experience before
 
    
 
-2. Each setting is labelled and has a brief explanation beneath it
+2. Each setting is labelled and has a brief description beneath it
 
    
 
@@ -30,7 +30,7 @@ The Settings menu allows you to customize your Infinite Flight experience before
 
    
 
-5. The Back button will take you back to the [Home Screen](/guide/getting-started/home-screen/home-screen#home-screen)
+5. The Back button will take you back to the [Home Screen](/guide/getting-started/home-user-interface/home-screen)
 
    
 
@@ -58,7 +58,7 @@ The Settings menu allows you to customize your Infinite Flight experience before
 | Show Touches                            | Useful when recording videos/tutorials                       |
 | Enable Automatic Low Power              | Enters low power mode during longer flights to save battery (this intentionally reduces frame rates to be more efficient with power consumption - it is normal to see lower quality frame rates with this setting) |
 | Automatic Engine Start                  | Always starts with the engine running (once you spawn, engines will be heard & can be seen running) |
-| Weight Units                            | Select what weight unit you want to use i.e. Kg or Lbs (aircraft fuel quantity and consumption will then been shown in this unit) |
+| Weight Units                            | Select what weight unit you want to use i.e. Kgs or Lbs (aircraft fuel quantity and consumption will then been shown in this unit) |
 | Clear Scenery Cache                     | Clear scenery data cached on local storage (users that are experiencing issues falling through taxiways, aprons, ramps, runways or experiencing any other scenery related type of issues should tap on “Clear Cache”. If issues persist after you’ve tried that, consider making a [#support](https://community.infiniteflight.com/c/support/17) ticket to report your issue) |
 | Screenshot Resolution Scale             | Resolution scale factor for screenshots                      |
 
@@ -66,7 +66,7 @@ The Settings menu allows you to customize your Infinite Flight experience before
 
 Tip
 
-: Disable auto-coordination for more control and stability during [crosswind take-offs](/guide/flying-guide/take-off-to-cruise/crosswind-tailwind-take-off-technique#crosswind%2Ftailwind-take-off-technique) & [landings](/guide/flying-guide/descent-to-landing/crosswind-tailwind-landing#crosswind-landing)
+: Disable auto-coordination for more control and stability during [crosswind take-offs](/guide/flying-guide/take-off-to-cruise/crosswind-tailwind-take-off-technique#crosswind-take-off) & [landings](/guide/flying-guide/descent-to-landing/crosswind-tailwind-landing#crosswind-landing)
 
 
 
@@ -91,10 +91,10 @@ Tip
 
 
 
-*Follow the steps below to download new pilot voices:
+**Follow the steps below to download new pilot voices:*
 
-- iOS: Settings > Accessibility > Spoken Content > Voices
-- Android: General Management > Language & Input > Text-To-Speech Output > Tap on Setting right of Preferred Engine > Install Voice Data
+- *iOS: Settings > Accessibility > Spoken Content > Voices*
+- *Android: General Management > Language & Input > Text-To-Speech Output > Tap on Setting right of Preferred Engine > Install Voice Data*
 
 
 
