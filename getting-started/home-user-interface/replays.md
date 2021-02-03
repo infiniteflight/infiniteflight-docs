@@ -71,7 +71,7 @@ Step 2
 
    
 
-6. Replay timeline. Press on a spot to go directly to that spot
+6. Replay timeline. Pressing anywhere on this will fast forward (or rewind) to that spot
 
    
 

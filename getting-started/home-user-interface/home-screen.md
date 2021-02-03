@@ -33,7 +33,7 @@ Welcome to the home screen of your newly downloaded Infinite Flight app. Below y
 
    
 
-6. Each of your controlling sessions and flights are recorded and stored in [Replays](/guide/getting-started/home-user-interface/replays#replays) for when you want to look back
+6. All of your controlling sessions and flights are recorded and stored in [Replays](/guide/getting-started/home-user-interface/replays#replays) for when you want to look back
 
    
 

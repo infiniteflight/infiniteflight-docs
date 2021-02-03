@@ -7,7 +7,7 @@ order: 3
 
 # Ground, Tower & Radar
 
-Ground, Tower & Radar frequencies all share an interface in common, with each mode offering different commands depending on the situation of the pilot.
+Ground, Tower & Radar frequencies all share an interface in common, with each mode offering different commands depending on the phase of flight the aircraft is in, and what the pilot has requested.
 
 
 
@@ -25,7 +25,7 @@ Ground, Tower & Radar frequencies all share an interface in common, with each mo
 
    
 
-3. The current time (UTC) as well as time elapsed controlling is displayed here. By tapping on the elapsed time, controllers can set multiple timers which can be reset and used whilst controlling
+3. The current time (UTC), device battery life and time elapsed controlling is displayed here. By tapping on the elapsed time, controllers can set multiple timers which can be reset and used whilst controlling
 
    
 
@@ -105,7 +105,7 @@ Ground, Tower & Radar frequencies all share an interface in common, with each mo
 
 
 
-1. The aircraft tag cycles between callsign and aircraft type. The aircraft’s altitude and groundspeed is always displayed beneath this. If the aircraft is receiving an ATC service to an Airport, then the service, airport code, and runway (if applicable), will be displayed as well
+1. The aircraft tag cycles between callsign and aircraft type. The aircraft’s altitude and groundspeed is always displayed beneath this. If the aircraft is receiving an ATC service to an airport, then the service, airport code, and runway (if applicable), will be displayed as well
 
 
 

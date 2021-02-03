@@ -45,7 +45,7 @@ Step 2
 
 Step 3
 
-: The [account page](/guide/getting-started/home-user-interface/settings#account) will be displayed, from there, tap the "Get Pro" button next to "Your Infinite Flight Pro Subscription"
+: The [Account Settings page](/guide/getting-started/home-user-interface/settings#account) will be displayed, from there, tap the "Get Pro" button next to "Your Infinite Flight Pro Subscription"
 
 
 
@@ -103,7 +103,7 @@ Step 1
 
 Step 2
 
-: The [account page](/guide/getting-started/home-user-interface/settings#account) will be displayed, from there, tap the "Get Pro" button next to "Your Infinite Flight Pro Subscription"
+: The [Account Settings page](/guide/getting-started/home-user-interface/settings#account) will be displayed, from there, tap the "Get Pro" button next to "Your Infinite Flight Pro Subscription"
 
 
 
@@ -137,7 +137,7 @@ Step 1
 
 Step 2
 
-: The [account page](/guide/getting-started/home-user-interface/settings#account) will be displayed, from there, tap the "Switch Account" button
+: The [Account Settings page](/guide/getting-started/home-user-interface/settings#account) will be displayed, from there, tap the "Switch Account" button
 
 
 
