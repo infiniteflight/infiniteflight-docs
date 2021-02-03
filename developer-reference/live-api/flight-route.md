@@ -3,8 +3,6 @@ id: flight-route
 title: Get Flight Route
 meta: Overview of the flight route endpoint of the Infinite Flight Live API
 order: 4
-
-
 ---
 
 # Get Flight Route

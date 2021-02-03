@@ -2,7 +2,7 @@
 id: oceanic-tracks
 title: Get Oceanic Tracks
 meta: Overview of the Oceanic Tracks endpoint of the Infinite Flight Live API
-order: 10
+order: 11
 ---
 
 # Get Oceanic Tracks
@@ -11,7 +11,7 @@ Retrieves a list of Oceanic Tracks active in Infinite Flight multiplayer session
 
 ## Resource
 
-**GET** `https://api.infiniteflight.com/public/v2/airport/{airportIcao}/atis/{serverId}`
+**GET** `https://api.infiniteflight.com/public/v2/tracks`
 
 ## Authorization
 

@@ -2,7 +2,7 @@
 id: all-flightplans
 title: Get All Flight Plans (deprecated)
 meta: Overview of the flight plans endpoint of the Infinite Flight Live API
-order: 4
+order: 5
 ---
 
 # Get All Flight Plans (deprecated)
