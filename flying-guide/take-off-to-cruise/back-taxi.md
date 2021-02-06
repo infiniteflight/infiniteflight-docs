@@ -72,4 +72,5 @@ Step 5
 
 Tip
 
-: Familarise yourself with the ground layout of an airport before landing so that you can plan your exit strategy. Landing in the touchdown zone and using the correct amount of braking is sometimes all that is needed to prevent a back-taxi and save the workload of not only you, but also the ATC
+: Familiarize yourself with the ground layout of an airport before landing so that you can plan your exit strategy. Landing in the touchdown zone and using the correct amount of braking is sometimes all that is needed to prevent a back-taxi and save the workload of not only you, but also the ATC
+
