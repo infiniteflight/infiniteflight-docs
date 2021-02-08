@@ -36,8 +36,16 @@ Include your API key (`<apikey>`) by either:
   "errorCode": 0,
   "result": {
     "airportIcao": "VTBS",
-    "arrivalAircraftCount": 42,
-    "departureAircraftCount": 26,
+    "inboundFlightsCount": 40,
+    "inboundFlights": [
+      "4f559855-fecc-4a8a-a95e-1d097eed9b72",
+	  ...
+    ],
+    "outboundFlightsCount": 19,
+    "outboundFlights": [
+      "59e9509b-214a-4f8c-9d45-29c4f7ea01d7",
+	  ...
+    ],
     "atcFacilities": [
       {
         "frequencyId": "23bea566-20a0-2858-a40e-179d0699afc1",
@@ -69,8 +77,10 @@ Include your API key (`<apikey>`) by either:
 | Name                   | Type                | Description                                                  |
 | ---------------------- | ------------------- | ------------------------------------------------------------ |
 | `airportIcao`          | string              | ICAO of the airport                                          |
-| `arrivalAircraftCount` | integer             | Number of aircraft inbound to this airport (must have final waypoint in flight plan set as the airport ICAO) |
-| `username`             | integer             | Number of aircraft departing this airport (must have first waypoint in flight plan set as the airport ICAO) |
+| `inboundFlightsCount`  | integer             | Number of aircraft inbound to this airport (must have final waypoint in flight plan set as the airport ICAO) |
+| `inboundFlights`       | [string (uuid)]     | A list of flight identifiers inbound to this airport. Use this to get flight plans or flight route information |
+| `outboundFlightsCount` | integer             | Number of aircraft departing this airport (must have first waypoint in flight plan set as the airport ICAO) |
+| `outboundFlights`      | [string (uuid)]     | A list of flight identifiers outbound from this airport. Use this to get flight plans or flight route information |
 | `atcFacilities`        | [ActiveATCFacility] | Array of ActiveATCFacility objects                           |
 
 #### ActiveATCFacility
