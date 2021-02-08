@@ -7,7 +7,7 @@ order: 11
 
 # Get Airport Status
 
-Retrieve the ATIS for an airport on a specific server if it is active.
+Retrieve active ATC status information for an airport, and the number of inbound and outbound aircraft.
 
 ## Resource
 
