@@ -36,7 +36,7 @@ The Automatic Terminal Information Service, more commonly known as ATIS, will se
 
 - The latest *METAR
 - Runway(s) in use
-- REMARKS and/or NOTAMS to provide pilots with more information (e.g. 'No Pattern Work allowed')
+- REMARKS and/or NOTAMS to provide pilots with more information (e.g. "No Pattern Work Allowed")
 - And if there are multiple frequencies open, which one to contact
 
 
@@ -52,13 +52,13 @@ The Digital ATIS (D-ATIS) will display the same information as the ATIS, but in 
 
 Step 1
 
-: [Tap close to an airport on the map](/guide/getting-started/pilot-user-interface/flight-planning#getting-more-from-your-map-and-mini-map), a drop down list will appear
+: On the map [tap close to your chosen airport](/guide/getting-started/pilot-user-interface/flight-planning#getting-more-from-your-map-and-mini-map). A drop down list will appear
 
  
 
 Step 2
 
-: The information tab will be displayed initially; tap the 'wx' (weather) tab
+: The information tab will be displayed initially; tap the "wx" (weather) tab
 
 
 
@@ -81,7 +81,7 @@ Want to know what everything in the ATIS means? Visit our [ATC Manual](/guide/at
 ## Flight Plan
 
 ![Map Screen](_images/manual/frames/flight-planning-map.png)
-Once you have spawned at the gate, by tapping on the [Globe](/guide/getting-started/pilot-user-interface/fly#fly-screen) button you can access the [Flight Planning](/guide/getting-started/pilot-user-interface/flight-planning#flight-planning) page where you can build your flight plan. You can also use the [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) to make adjustments.
+Once you have spawned at the gate, you can access the [Flight Planning](/guide/getting-started/pilot-user-interface/flight-planning#flight-planning) page by tapping on the [Globe](/guide/getting-started/pilot-user-interface/fly#fly-screen) button. This will allow you to build your flight plan (you can also use the [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) to make adjustments).
 
 
 
@@ -98,4 +98,4 @@ The different types of airspace are defined on the Map and Mini Map using a colo
 | Terminal Control Area           | Light Green |
 | Flight Information Region (FIR) | White       |
 
-Pilots that want to add realism to their flight may wish to follow real world procedures; but for the purposes of Infinite Flight, the use of airspace by ATC has been simplified. For more information on what you can expect from ATC when flying, visit the [ATC Manual](/guide/atc-manual/5.-airspace/5.1-airspace#5.1-airspace).
+Pilots that want to add realism to their flight may wish to follow real world procedures, but for the purposes of Infinite Flight, the use of airspace by ATC has been simplified. For more information on what you can expect from ATC when flying, visit the [ATC Manual](/guide/atc-manual/5.-airspace/5.1-airspace#5.1-airspace).
