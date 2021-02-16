@@ -12,7 +12,11 @@ order: 9
 
 ## What is a VOR Approach?
 
-VOR Approaches can be flown in Infinite Flight using the techniques shown here, however ATC are currently unable to support these approach requests - for now, we recommend finding an uncontrolled airport or quiet area to practise in!
+A VOR Approach is a non-precision approach providing lateral guidance only. The Final Approach Course (as published on the relevant approach chart) utilises a radial from the VOR to provide this lateral guidance. 
+
+
+
+VOR Approaches can be flown in Infinite Flight using the techniques shown here, however ATC are currently unable to support these approach requests - for now, we recommend finding an uncontrolled airport or quiet area to practice in!
 
 
 

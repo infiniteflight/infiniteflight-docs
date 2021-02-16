@@ -12,7 +12,7 @@ order: 11
 
 ## What is an NDB?
 
-The Non-Directional Beacon, otherwise known as NDB; is a ground-based transmitter that emits radio signals and is identified with it's own frequency and a code (normally two or three letters). Aircraft equipped with an Automatic Direction Finder (ADF) can then interpret these signals and use them for navigation purposes. To use NDB's for navigation, you will need to [tune to the correct frequency](/guide/getting-started/pilot-user-interface/navigation#tuning-to-a-vor-or-adf), and then [display this in the cockpit](/guide/getting-started/pilot-user-interface/navigation#displaying-an-adf-in-your-aircraft).
+The Non-Directional Beacon, otherwise known as NDB; is a ground-based transmitter that emits radio signals and is identified with it's own frequency and a code (normally two or three letters). Aircraft equipped with an Automatic Direction Finder (ADF) can then interpret these signals and use them for navigation purposes. To use NDBs for navigation, you will need to [tune to the correct frequency](/guide/getting-started/pilot-user-interface/navigation#tuning-to-a-vor-or-adf), and then [display this in the cockpit](/guide/getting-started/pilot-user-interface/navigation#displaying-an-adf-in-your-aircraft).
 
 
 
