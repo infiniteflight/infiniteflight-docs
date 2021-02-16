@@ -36,7 +36,7 @@ Step 2
 
 Step 3
 
-: Release the [Park Brake](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) and increase [Power](/guide/getting-started/pilot-user-interface/hud#head-up-display-(hud)) to start the taxi
+: Release the [Park Brake](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) and increase [power](/guide/getting-started/pilot-user-interface/hud#head-up-display-(hud)) to start the taxi
 
  
 
@@ -54,7 +54,7 @@ Step 4
 
 Tip
 
-:   Do not exceed 35kts groundspeed to avoid in game violations, we recommend you keep your speed below 25kts in a straight line and 10kts or less during 90° turns for a safe operation.
+:   Do not exceed 35kts groundspeed to avoid in-game violations, we recommend you keep your speed below 25kts in a straight line and 10kts or less during 90° turns for a safe operation
 
  
 

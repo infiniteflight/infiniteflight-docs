@@ -19,7 +19,7 @@ The Automatic Terminal Information Service, more commonly known as ATIS, will se
 1. The Meteorological Terminal Air Report (more commonly known as a **METAR**), is the current weather at the airport and usually displays date/time recorded, wind direction and strength, visibility, weather and cloud, temperature and dew point, and finally pressure
 
 
-2. The available runways can be selected from this tab, and will use the red/amber/green colour code
+2. The available runways can be selected from this tab, and will use the red/amber/green color code
 
    | Indication                               | Meaning                                  |
    | ---------------------------------------- | ---------------------------------------- |

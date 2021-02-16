@@ -1,23 +1,15 @@
 ---
-id: exit-runway-go-around
-title: Exit Runway / Go-Around
-meta: Exit Runway and Go-Around techniques when operating a tower facility within Infinite Flight.
-order: 5
+id: go-around
+title: Go-Around
+meta: Go-Around techniques when operating a tower facility within Infinite Flight.
+order: 3
 ---
 
 
 
-# Exit Runway / Go-Around
+# Go-Around
 
 
-
-## Exit Runway
-
-[INSERT CONTENT]
-
-
-
-## Go-Around
 
 A Go-Around (G/A) is an aborted landing by an aircraft on final approach and can either be initiated by the pilot or ATC.
 
@@ -39,7 +31,7 @@ It is important to note that the responsibility for a go-around lies equally wit
 
 Manual
 
-: If working with a Radar Controller, you **should**{.red} try to let them know that the aircraft is "go-around" traffic so that they can work them into the plan, the aircraft can then be handed over to the Radar Controller unless they are VFR traffic or a prior arrangement has been made between Controllers. [More Info?](/guide/atc-manual/3.-tower/3.5-exit-runway-go-around#3.5.4)
+: If working with a Radar Controller, you **should**{.red} try to let them know that the aircraft is "go-around" traffic so that they can work them into the plan, the aircraft can then be handed over to the Radar Controller unless they are VFR traffic or a prior arrangement has been made between Controllers. [More info?](/guide/atc-manual/3.-tower/3.5-exit-runway-go-around#3.5.4)
 
 
 

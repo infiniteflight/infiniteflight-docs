@@ -47,7 +47,7 @@ There are loads of different aircraft and liveries to choose from, maybe it’s 
 
    
 
-5. If you have re-installed the app or paid for a Pro Subscription, tap ‘Restore Purchases’ to make sure you have all of your purchased aircraft available for download
+5. If you have re-installed the app or paid for a Pro Subscription, tap "Restore Purchases" to make sure you have all of your purchased aircraft available for download
 
  
 
@@ -73,11 +73,11 @@ The entire globe is ready for you to explore, you can either use the features be
 
    
 
-4. Zoomed in too much? No problem, just tap ‘Reset Zoom’ if you want to zoom out again
+4. Zoomed in too much? No problem, just tap "Reset Zoom" if you want to zoom out again
 
    
 
-5. Runway color codes help you know where the wind is coming from and which runways are ‘most likely’ in use. But watch out, sometimes controllers will be using a different runway than you’re expecting, make sure to look out for traffic! Check out the table below:
+5. Runway color codes help you know where the wind is coming from and which runways are "most likely" in use. But watch out, sometimes controllers will be using a different runway than you’re expecting, make sure to look out for traffic! Check out the table below:
 
     | Indication                                                 | Meaning                                                      |
     | ---------------------------------------------------------- | ------------------------------------------------------------ |
@@ -93,7 +93,7 @@ The entire globe is ready for you to explore, you can either use the features be
 
     Tip
 
-    : Select the aircraft you want to fly before selecting a parking position, then you’ll be able to see where you can and can’t park.
+    : Select the aircraft you want to fly before selecting a parking position, then you’ll be able to see where you can and can’t park
 
     
 

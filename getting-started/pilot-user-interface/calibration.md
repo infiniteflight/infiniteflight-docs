@@ -11,7 +11,7 @@ order: 2
 
 
 
-1. When you click &#39;fly&#39; the calibration screen will appear once it has finished loading. Simply tap the screen to continue
+1. When you click "fly" the calibration screen will appear once it has finished loading. Simply tap the screen to continue
 
    
 
