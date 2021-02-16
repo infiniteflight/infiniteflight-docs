@@ -68,7 +68,8 @@ Include your API key (`<apikey>`) by either:
 | `username`            | string        | The user's forum username if the account is linked. If the account isn't linked, this will be null |
 | `virtualOrganization` | string        | *(not currently in use)*                                     |
 | `airportName`         | string        | The 4-character ICAO identifier for the airport              |
-| `type`                | integer       | The type of frequency opened - not all of these are in use. *Enum:* `"Unknown = 0"`, `"Unused = 1"`, `"Recorded = 2"`, `"Unicom = 3"`, `"ClearanceDelivery = 4"`, `"Ground = 5"`, `"Tower = 6"`, `"Approach = 7"`, `"Departure = 8"`, `"Nav = 9"`, `"Ndb = 10"`, `"Center = 11"` |
+| `type`                | integer       | The type of frequency opened - not all of these are in use. *Enum:* `"Ground = 0"`, `"Tower = 1"`, `"Unicom = 2"`, `"Clearance = 3"`, `"Approach = 4"`, `"Departure = 5"`, `"Center = 6"`, `"ATIS = 7"`, `"Aircraft = 8"`, `"Recorded = 9"`, `"Unknown = 10"`, `"Unused = 11"` |
 | `latitude`            | float         | Decimal latitude of the airport                              |
 | `longitude`           | float         | Decimal longitude of the airport                             |
 | `startTime `          | string        | Time at which the frequency was opened, in the following format: `YYYY-MM-DD HH:mm:ssZ` |
+
