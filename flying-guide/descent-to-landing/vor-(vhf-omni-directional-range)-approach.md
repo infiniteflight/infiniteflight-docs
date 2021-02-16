@@ -12,7 +12,7 @@ order: 9
 
 ## What is a VOR Approach?
 
-A VOR Approach is a non-precision approach providing lateral guidance only. The Final Approach Course (as published on the relevant approach chart) utilises a radial from the VOR to provide this lateral guidance. 
+A VOR Approach is a non-precision approach providing lateral guidance only. The Final Approach Course (as published on the relevant approach chart) utilizes a radial from the VOR to provide this lateral guidance. 
 
 
 
