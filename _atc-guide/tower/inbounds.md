@@ -2,7 +2,7 @@
 id: inbounds
 title: Inbounds
 meta: Techniques to handle inbound traffic when operating a tower facility within Infinite Flight.
-order: 3
+order: 1
 ---
 
 
@@ -13,17 +13,13 @@ order: 3
 
 ## Pattern Entry, Sequence and Clearance
 
-[INSERT CONTENT]
-
-
-
 ![The Traffic Pattern](_images/manual/graphics/atc-traffic-pattern.jpg)
 
 
 
 Manual
 
-: When there is no Radar Controller present, Tower **must**{.red} issue a pattern entry and clearance to **ALL**{.red} aircraft as a **MINIMUM**{.red}, regardless of what the aircraft uses to check in on the Tower frequency - the use of sequencing will be dependent on traffic. [More Info?](/guide/atc-manual/3.-tower/3.3-inbounds#3.3.1)
+: When there is no Radar Controller present, Tower **must**{.red} issue a pattern entry and clearance to **ALL**{.red} aircraft as a **MINIMUM**{.red}, regardless of what the aircraft uses to check in on the Tower frequency - the use of sequencing will be dependent on traffic. [More info?](/guide/atc-manual/3.-tower/3.3-inbounds#3.3.1)
 
 
 
@@ -89,13 +85,13 @@ Tip
 
 ## Runway Changes
 
-Once a runway assignment has been issued, it would be ideal if we did not need to change it. However by using all available runways, changing the assigned runway (if required) is a useful tool to help deal with a dynamic environment, promoting an efficient operation.
+Once a runway assignment has been issued, it would be ideal if we did not need to change it. However by using all available runways, changing the assigned runway (if required) is a useful tool to help deal with a dynamic environment and promoting an efficient operation.
 
 
 
 Manual
 
-: If a runway change is issued, a new pattern entry and clearance **must**{.red} be given (the use of sequencing will be dependent on traffic). [More Info?](/guide/atc-manual/3.-tower/3.3-inbounds#3.3.3)
+: If a runway change is issued, a new pattern entry and clearance **must**{.red} be given (the use of sequencing will be dependent on traffic). [More info?](/guide/atc-manual/3.-tower/3.3-inbounds#3.3.3)
 
 
 
@@ -171,7 +167,3 @@ Tip
 +++
 
 
-
-## Cleared for the Option
-
-[INSERT CONTENT]
