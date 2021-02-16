@@ -13,17 +13,33 @@ order: 1
 
 ## Pattern Entry, Sequence and Clearance
 
+In Infinite Flight the pattern altitude is 1000ft AAL (above aerodrome level) for prop aircraft, and 1500ft AAL for jet aircraft. It consists of multiple legs, each being joined by a 90 degree turn, and these are shown in the image below:
+
+
+
 ![The Traffic Pattern](_images/manual/graphics/atc-traffic-pattern.jpg)
+
+
+
+The art of sequencing allows controllers to let pilots know who they are supposed to be following and is not just to be used with aircraft in the pattern. All inbounds need to be told who they are following, unless of course they aren't following anyone! For effective sequencing, it requires:
+
+
+
+- both the controller and the pilot to have a knowledge of the different pattern legs
+- the controller to issue sequencing in good time to keep the pilots informed
+- the controller to update the sequencing when things change or don't go to plan
+- the pilots to be courteous to each other by giving each pilot the space they need to maneuver
+- the pilots to follow the issued sequence
+
+
+
+![Image 3.3.1.1 - Tower Sequencing](_images/manual/graphics/atc-tower-sequencing.jpg)
 
 
 
 Manual
 
 : When there is no Radar Controller present, Tower **must**{.red} issue a pattern entry and clearance to **ALL**{.red} aircraft as a **MINIMUM**{.red}, regardless of what the aircraft uses to check in on the Tower frequency - the use of sequencing will be dependent on traffic. [More info?](/guide/atc-manual/3.-tower/3.3-inbounds#3.3.1)
-
-
-
-![Image 3.3.1.1 - Tower Sequencing](_images/manual/graphics/atc-tower-sequencing.jpg)
 
 
 
