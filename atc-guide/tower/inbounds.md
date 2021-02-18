@@ -21,6 +21,10 @@ In Infinite Flight the pattern altitude is 1000ft AAL (above aerodrome level) fo
 
 
 
+Pattern entries are key in making sure that pilots know where to join the pattern, and by doing so, promotes airport efficiency and good traffic management. Controllers can do this by imagining that each pattern leg continues to extend out, away from the airport. The leg that intersects with the aircraft's flight path is usually the best option but Controllers may need to change this based on current traffic. 
+
+
+
 The art of sequencing allows controllers to let pilots know who they are supposed to be following and is not just to be used with aircraft in the pattern. All inbounds need to be told who they are following, unless of course they aren't following anyone! For effective sequencing, it requires:
 
 
