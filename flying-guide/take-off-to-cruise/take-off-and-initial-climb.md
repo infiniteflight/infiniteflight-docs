@@ -15,11 +15,11 @@ order: 4
 
 Tip
 
-: You will rarely require full power for take-off; your weight, environmental factors such as altitude and temperature, and the runway length will effect how much thrust is required
+: You will rarely require full power for take-off; your weight, environmental factors such as altitude and temperature, and the runway length will affect how much thrust is required
 
 
 
-If you have been cleared for take-off by ATC or if you're on Unicom, you can commence the take-off roll provided the runway is completely clear. To do this follow the steps below:
+If you have been cleared for take-off by ATC or if you're on Unicom, you can commence the take-off roll provided the runway is completely clear. To do this, follow the steps below:
 
 
 

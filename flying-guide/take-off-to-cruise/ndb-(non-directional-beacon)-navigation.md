@@ -88,7 +88,7 @@ Tip
 
 Step 5
 
-: To intercept a specific radial, imagine that the NDB is at the "head" of the blue bearing pointer (arrow) and that the aircraft is at the "tail" of the blue bearing pointer. If you are navigating "to" the beacon, you need to "pull" the tail of the blue bearing pointer round to the new position by turning towards the tail, the head will begin to "fall" away and when it is close to the desired bearing to the beacon that you want to fly, you can turn back to that bearing. If you are navigating "from" the beacon, you will need to "push" the head of the blue bearing pointer by turning away from the "tail". The head will begin to "fall" away and "pull" the tail round, when it is close to the desired bearing from the beacon that you want to fly, you can turn back to that bearing.
+: To intercept a specific radial, imagine that the NDB is at the "head" of the blue bearing pointer (arrow) and that the aircraft is at the "tail" of the blue bearing pointer. If you are navigating "to" the beacon, you need to "pull" the tail of the blue bearing pointer round to the new position by turning towards the tail, the head will begin to "fall" away and when it is close to the desired bearing to the beacon that you want to fly, you can turn back to that bearing. If you are navigating "from" the beacon, you will need to "push" the head of the blue bearing pointer by turning away from the "tail". The head will begin to "fall" away and "pull" the tail round, when it is close to the desired bearing from the beacon that you want to fly, you can turn back to that bearing
 
 
 
