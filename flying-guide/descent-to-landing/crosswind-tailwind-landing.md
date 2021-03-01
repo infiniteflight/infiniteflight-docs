@@ -11,7 +11,7 @@ order: 14
 
 ## Crosswind Landing
 
-There are two techniques that can be used in a crosswind landing. The 'Crab' method which is usually preferred by airliners; and the 'Wing Low' method, usually the technique of choice for light General Aviation aircraft.
+There are two techniques that can be used in a crosswind landing. The "Crab" method which is usually preferred by airliners; and the "Wing Low" method, usually the technique of choice for light General Aviation aircraft.
 
 
 
@@ -93,7 +93,7 @@ Step 4
 
 Step 5
 
-: Use the [rudder](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) and 'into wind' [aileron](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) to maintain the runway centerline - more input will be required at slower speeds
+: Use the [rudder](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) and "into wind" [aileron](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) to maintain the runway centerline - more input will be required at slower speeds
 
 
 

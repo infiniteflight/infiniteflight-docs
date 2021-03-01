@@ -1,5 +1,6 @@
 ---
 ordering:
   - meta
+  - ground
   - tower
 ---

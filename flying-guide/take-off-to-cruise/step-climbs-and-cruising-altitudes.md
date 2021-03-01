@@ -64,7 +64,7 @@ Step 3
 
 
 Tip
-: If you are operating close to the aircraft limits in terms of environmental factors, weight or aircraft design specifications, then Technique 1 may not be possible as some aircraft struggle above their optimum altitude. Therefore, Technique 2 may need to be adopted in this case.
+: If you are operating close to the aircraft limits in terms of environmental factors, weight or aircraft design specifications, then Technique 1 may not be possible as some aircraft struggle above their optimum altitude. Therefore, Technique 2 may need to be adopted in this case
 
 
 

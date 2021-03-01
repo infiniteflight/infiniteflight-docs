@@ -88,7 +88,7 @@ Step 3
 
 Step 4
 
-: Make sure to have a plan on where to push, ATC may tell you what runway to expect for departure too. Use the [Cameras](/guide/getting-started/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) throughout the pushback and the [Rudder](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) to move the aircraft
+: Make sure to have a plan on where to push. ATC may tell you what runway to expect for departure too. Use the [Cameras](/guide/getting-started/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) throughout the pushback and the [Rudder](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) to move the aircraft
 
  
 
@@ -117,8 +117,6 @@ Tip
  
 
 ## Engine Start
-
- 
 
 Engine start can commence during or after the push back.
 
