@@ -13,20 +13,27 @@ order: 3
 
 ## Localizer
 
-**When:** Only when the airport has an ILS and/or LOC-Only approach
-**Where:** Placed 1000ft from the runway threshold (opposite end to the ILS/LOC-Only approach - e.g. so if the ILS is for RWY36, the antenna would be at the end of RWY18) - take note that the threshold might be displaced, so it is 1000ft from the white piano key markings, not 1000ft from the concrete!
-**Orientation:** Check out the pictures below but as a rule of thumb, place the antenna so that it is perpendicular to the runway with the electrical box side facing away from the runway
 
-*Note: the location of an additional red/white electrical box can be added but their locations vary significantly, if you can spot it on google maps or in some airport pictures that would be your best bet but it tends to be to one side of the LOC antenna and usually there is a bit of distance between them (i.e. not right next to each other like the G/S antenna - see below)*
+
+| Localizer   | Details                                                      |
+| ----------- | ------------------------------------------------------------ |
+| When        | Only when the airport has an ILS and/or LOC-Only approach    |
+| Where       | Placed 1000ft from the runway threshold (opposite end to the ILS/LOC-Only approach - e.g. so if the ILS is for RWY36, the antenna would be at the end of RWY18) - take note that the threshold might be displaced, so it is 1000ft from the white piano key markings, not 1000ft from the concrete! |
+| Orientation | Check out the pictures below but as a rule of thumb, place the antenna so that it is perpendicular to the runway with the electrical box side facing away from the runway |
+
+*Note: the location of an additional red/white electrical box can be added but their locations vary significantly, if you can spot it on google maps or in some airport pictures that would be your best bet but it tends to be to one side of the LOC antenna and usually there is a bit of distance between them (i.e. not right next to each other like the G/S antenna)*
 
 
 
 ## Glideslope
 
-**When:** Only when the airport has an ILS approach
-**Where:** Placed 750 -1250ft from the runway threshold (this time the approach end - e.g. if the ILS is for RWY36, it would be placed 750 -1250ft from the threshold of RWY36) and between 250 - 650ft from the runway centerline (most of the time the location coincides with abeam the main touchdown zone markings) - again, have a look on google maps, if you zoom in you'll probably see which side it is on and what it is in-line with in terms of runway markings (see image below)
 
-**Orientation:** Place the antenna so that the white/grey aerials are facing the landing aircraft (see image below)
+
+| Glideslope  | Details                                                      |
+| ----------- | ------------------------------------------------------------ |
+| When        | Only when the airport has an ILS approach                    |
+| Where       | Placed 750 - 1250ft from the runway threshold (this time the approach end - e.g. if the ILS is for RWY36, it would be placed 750 - 1250ft from the threshold of RWY36) and between 250 - 650ft from the runway centerline (most of the time the location coincides with abeam the main touchdown zone markings) - again, have a look on google maps, if you zoom in you'll probably see which side it is on and what it is in-line with in terms of runway markings |
+| Orientation | Place the antenna so that the white/grey aerials are facing the landing aircraft (see image below) |
 
 *Note: place a red/white electrical box behind the G/S antenna*
 
@@ -34,17 +41,27 @@ order: 3
 
 ## VOR
 
-**When:** Only when the airport has a **co-located** VOR (i.e. a VOR within the airport boundaries)
-**Where:** You will need to look at charts to work out roughly where the VOR is located, I would then go onto google maps and zoom in on that location (using the satellite option) to work out the exact location, you will also be able to tell from this if it is a large or small one (large: it's bigger than the other one and has loads of antenna coming out from the center - small: much more compact and does not have as many antenna sticking out)
-**Orientation:** I don't think anyone would really notice so I wouldn't worry about this!
+
+
+| VOR         | Details                                                      |
+| ----------- | ------------------------------------------------------------ |
+| When        | Only when the airport has a **co-located** VOR (i.e. a VOR within the airport boundaries) |
+| Where       | You will need to look at charts to work out roughly where the VOR is located, I would then go onto google maps and zoom in on that location (using the satellite option) to work out the exact location, you will also be able to tell from this if it is a large or small one (large: it's bigger than the other one and has loads of antenna coming out from the center - small: much more compact and does not have as many antenna sticking out) |
+| Orientation | I don't think anyone would really notice so I wouldn't worry about this! |
 
 
 
 ## Holding Point Lights
 
-**When:** At *most* airports
-**Where:** Each side of a runway holding point in-line with the yellow holding point lines
-**Orientation:** The lights need to be facing the aircraft, not the runway (see the image below)!
+
+
+| Holding Point Lights | Details                                                      |
+| -------------------- | ------------------------------------------------------------ |
+| When                 | At *most* airports                                           |
+| Where                | Each side of a runway holding point in-line with the yellow holding point lines |
+| Orientation          | The lights need to be facing the aircraft, not the runway!   |
+
+
 
 
 ## Top Tips

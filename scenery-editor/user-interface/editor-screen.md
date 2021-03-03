@@ -158,11 +158,9 @@ Once a building or object is selected, the properties can be edited using this t
 | Roof Orientation     | Tap the "+/-" symbols to adjust the orientation of the roof (you can also use the "Auto Roof Orientation" button) |
 | Facade               | The facade style can be changed here but it will change all sides of the building |
 | Roof Depth           | This shows the roof depth (in meters) of the building. Tap the number and then enter in a new value to adjust this |
-| [DEV] ID             | **TBC**{.red}                                                |
 | Latitude / Longitude | Current latitude/longitude of the building                   |
 | Altitude             | This shows the current altitude (in meters) of the building. Tap the number and then enter in a new value to adjust this |
 | Name                 | You can name the building using this field                   |
-| [DEV] Model ID       | **TBC**{.red}                                                |
 | Frozen               | Tap the "tick" symbols to toggle between the building being frozen (orange tick) and unfrozen (grey tick) |
 | Type                 | **Shows the type of building structure**{.red}               |
 
@@ -177,11 +175,9 @@ Once a building or object is selected, the properties can be edited using this t
 | 3D Model Name        | **Shows the name of the object**{.red}                       |
 | Animations           | **Shows the animations that are currently added to the object**{red} |
 | 3D Model Ref Name    | **Shows the name of the object**{.red}                       |
-| [DEV] ID             | **TBC**{.red}                                                |
 | Latitude / Longitude | Current latitude/longitude of the building                   |
 | Altitude             | This shows the current altitude (in meters) of the object. Tap the number and then enter in a new value to adjust this |
 | Name                 | You can name the object using this field                     |
-| [DEV] Model ID       | **TBC**{.red}                                                |
 | Frozen               | Tap the "tick" symbols to toggle between the object being frozen (orange tick) and unfrozen (grey tick) |
 | Type                 | **Shows the type of building structure**{.red}               |
 
@@ -237,6 +233,10 @@ This logs the activity of the app (not your editing).
 
 
 Currently it is recommended to use the "Airport/Scen Editor" camera.
+
+
+
+**[Video clip to be added to show how to use this]**{.red}
 
 
 

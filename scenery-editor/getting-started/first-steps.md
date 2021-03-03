@@ -2,7 +2,7 @@
 id: first-steps
 title: First Steps
 meta: Learn the first steps to be taken within the Scenery Editor of Infinite Flight.
-order: 1
+order: 2
 ---
 
 
