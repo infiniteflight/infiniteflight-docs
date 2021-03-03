@@ -36,10 +36,8 @@ Step 3
 | 3D Model Name        | **Shows the name of the object**{.red}                       |
 | Animations           | **Shows the animations that are currently added to the object**{red} |
 | 3D Model Ref Name    | **Shows the name of the object**{.red}                       |
-| [DEV] ID             | **TBC**{.red}                                                |
 | Latitude / Longitude | Current latitude/longitude of the building                   |
 | Altitude             | This shows the current altitude (in meters) of the object. Tap the number and then enter in a new value to adjust this |
 | Name                 | You can name the object using this field                     |
-| [DEV] Model ID       | **TBC**{.red}                                                |
 | Frozen               | Tap the "tick" symbols to toggle between the object being frozen (orange tick) and unfrozen (grey tick) |
 | Type                 | **Shows the type of building structure**{.red}               |

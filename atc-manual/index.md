@@ -26,7 +26,7 @@ Should
 
 ## Version: 21.1.0
 
-## Last Updated: 1300Z - 18 FEB 21
+## Last Updated: 1630Z - 03 MAR 21
 
 
 
@@ -47,6 +47,7 @@ Should
 | 7A.2.7                         | See relevant Discord channel for more information            |
 | 7A.2.8                         | Minor formatting optimization                                |
 | 7B.2.1                         | Minor formatting optimization                                |
+| 7D.3.2                         | Minor spelling mistake corrected                             |
 | 7E.1.3                         | Minor formatting optimization                                |
 
 +++

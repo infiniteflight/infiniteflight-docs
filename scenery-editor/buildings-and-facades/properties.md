@@ -35,11 +35,9 @@ Step 3
 | Roof Orientation     | Tap the "+/-" symbols to adjust the orientation of the roof (you can also use the "Auto Roof Orientation" button) |
 | Facade               | The facade style can be changed here but it will change all sides of the building |
 | Roof Depth           | This shows the roof depth (in meters) of the building. Tap the number and then enter in a new value to adjust this |
-| [DEV] ID             | **TBC**{.red}                                                |
 | Latitude / Longitude | Current latitude/longitude of the building                   |
 | Altitude             | This shows the current altitude (in meters) of the building. Tap the number and then enter in a new value to adjust this |
 | Name                 | You can name the building using this field                   |
-| [DEV] Model ID       | **TBC**{.red}                                                |
 | Frozen               | Tap the "tick" symbols to toggle between the building being frozen (orange tick) and unfrozen (grey tick) |
 | Type                 | **Shows the type of building structure**{.red}               |
 

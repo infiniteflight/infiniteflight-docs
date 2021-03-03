@@ -45,7 +45,7 @@ Tip
 
 
 
-Situational awareness whilst flying is an important aspect that pilots must maintain to enjoy a realistic expereince on the Expert Server. Not maintaining appropriate separation with other aircraft, not following sequencing, excessive speed, incorrect arrival procedures, alignment with or landing/departing from the wrong runway; can all result in removal from the Expert Server.
+Situational awareness whilst flying is an important aspect that pilots must maintain to enjoy a realistic experience on the Expert Server. Not maintaining appropriate separation with other aircraft, not following sequencing, excessive speed, incorrect arrival procedures, alignment with or landing/departing from the wrong runway; can all result in removal from the Expert Server.
 
 
 
@@ -105,7 +105,7 @@ Ground awareness is an essential part of any flight, therefore you must ensure t
 
 
 
-Situational awareness whilst flying is an important aspect that pilots must maintain to enjoy a realistic expereince on the Expert Server. Not maintaining appropriate separation with other aircraft, not following sequencing, excessive speed, incorrect arrival procedures, alignment with or landing/departing from the wrong runway; can all result in removal from the Expert Server.
+Situational awareness whilst flying is an important aspect that pilots must maintain to enjoy a realistic experience on the Expert Server. Not maintaining appropriate separation with other aircraft, not following sequencing, excessive speed, incorrect arrival procedures, alignment with or landing/departing from the wrong runway; can all result in removal from the Expert Server.
 
 
 
@@ -205,7 +205,7 @@ Taking-Off/Landing without permission, following your flight plan instead of ATC
 
 
 
-Situational awareness whilst flying is an important aspect that pilots must maintain to enjoy a realistic expereince on the Expert Server. Not maintaining appropriate separation with other aircraft, not following sequencing, excessive speed, incorrect arrival procedures, alignment with or landing/departing from the wrong runway; can all result in removal from the Expert Server.
+Situational awareness whilst flying is an important aspect that pilots must maintain to enjoy a realistic experience on the Expert Server. Not maintaining appropriate separation with other aircraft, not following sequencing, excessive speed, incorrect arrival procedures, alignment with or landing/departing from the wrong runway; can all result in removal from the Expert Server.
 
 
 
@@ -273,7 +273,7 @@ Taking-Off/Landing without permission, following your flight plan instead of ATC
 
 
 
-Situational awareness whilst flying is an important aspect that pilots must maintain to enjoy a realistic expereince on the Expert Server. Not maintaining appropriate separation with other aircraft, not following sequencing, excessive speed, incorrect arrival procedures, alignment with or landing/departing from the wrong runway; can all result in removal from the Expert Server.
+Situational awareness whilst flying is an important aspect that pilots must maintain to enjoy a realistic experience on the Expert Server. Not maintaining appropriate separation with other aircraft, not following sequencing, excessive speed, incorrect arrival procedures, alignment with or landing/departing from the wrong runway; can all result in removal from the Expert Server.
 
 
 
@@ -329,7 +329,7 @@ Inappropriate callsigns used to incite harm/violence such as the use of profanit
 
 
 
-Situational awareness whilst flying is an important aspect that pilots must maintain to enjoy a realistic expereince on the Expert Server. Not maintaining appropriate separation with other aircraft, not following sequencing, excessive speed, incorrect arrival procedures, alignment with or landing/departing from the wrong runway; can all result in removal from the Expert Server.
+Situational awareness whilst flying is an important aspect that pilots must maintain to enjoy a realistic experience on the Expert Server. Not maintaining appropriate separation with other aircraft, not following sequencing, excessive speed, incorrect arrival procedures, alignment with or landing/departing from the wrong runway; can all result in removal from the Expert Server.
 
 
 
@@ -341,7 +341,7 @@ Situational awareness whilst flying is an important aspect that pilots must main
 
 
 
-Situational awareness whilst flying is an important aspect that pilots must maintain to enjoy a realistic expereince on the Expert Server. Not maintaining appropriate separation with other aircraft, not following sequencing, excessive speed, incorrect arrival procedures, alignment with or landing/departing from the wrong runway; can all result in removal from the Expert Server.
+Situational awareness whilst flying is an important aspect that pilots must maintain to enjoy a realistic experience on the Expert Server. Not maintaining appropriate separation with other aircraft, not following sequencing, excessive speed, incorrect arrival procedures, alignment with or landing/departing from the wrong runway; can all result in removal from the Expert Server.
 
 
 
