@@ -26,7 +26,7 @@ Should
 
 ## Version: 21.1.0
 
-## Last Updated: 2130Z - 08 MAR 21
+## Last Updated: 2230Z - 09 MAR 21
 
 
 
@@ -37,11 +37,15 @@ Should
 | 1.1.4 / 6.8.6                  | Reference to ifatc.org removed (original 1.1.4 removed and 1.1.5 moved up to replace it) |
 | 1A.1.3                         | See *#announcements* Discord channel for more information    |
 | 1A.2.1                         | See *#announcements* Discord channel for more information    |
+| 1A.5.2                         | See *#announcements* Discord channel for more information    |
 | 1B.1.6                         | Minor formatting optimization                                |
 | 3.2.10                         | Guidance for Tower Controllers on when to issue "Frequency Changed Approved" |
 | 4.1.6                          | Use of "FPL required" in ATIS expanded to include when SID/STAR use is mandated |
 | 6.4.4 / 6.6.2 / 6.6.11 / 6.8.5 | Wording standardized for the use of "Altitude at your discretion" |
 | 6.6.10                         | Center Controllers can accept approach requests for an airport with an Approach Controller present, if the approach in use is known |
+| 6.8.10 / 6.8.11                | Guidance added to cover parallel operations                  |
+| 6.10.5                         | Clarification on the use of "reasonable" when issuing an ILS clearance without vectors |
+| 6.13.3 / 6.13.4 / 6.14.9       | Guidance added to cover the introduction of "maintain XXXkts until X mile final" |
 | 6.14.3                         | Minor formatting optimization                                |
 | 7.5.8                          | Recruiters no longer required to poll at the end of an Officer Check Ride phase |
 | 7A.2.7                         | See relevant Discord channel for more information            |
