@@ -37,7 +37,13 @@ Tip
 
 Step 4
 
-: The nodes for each corner will appear, by tapping a node it will turn magenta to show it has been selected. You can then tap, hold and then drag your finger on the screen to move it into the desired position
+: The nodes for each corner will appear, by tapping a node it will turn magenta to show it has been selected. You can also tap, hold and then drag your finger on the screen to select multiple nodes (a white box will appear to show the catchment area)
+
+
+
+Step 5
+
+: You can then tap, hold and then drag your finger on the screen to move the node(s) into the desired position
 
 
 

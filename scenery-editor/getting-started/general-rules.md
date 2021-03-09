@@ -26,4 +26,4 @@ The following rules must be observed at all times when editing airports:
 
 Tip
 
-: Please be aware that this is a pre-alpha build, and there are many things that are V1 and still in early development. This means that the app is likely to crash. Make sure you save your airport regularly and share to yourself via email as a backup. If an airport is lost, we cannot recover it at this time. There is no autosave function
+: Make sure you save your airport regularly and share to yourself via email as a backup!
