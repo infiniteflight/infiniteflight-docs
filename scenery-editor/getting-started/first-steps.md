@@ -31,7 +31,7 @@ Step 3
 
 Tip
 
-: If you have previously downloaded the OSM, it may be more appropriate to use "Download OSM at Cursor" instead, this will only download the data within 200m of the cursor on the map 
+: If you have previously downloaded the OSM but subsequently delete some buildings in error (and these changes are saved), it may be more appropriate to use "Download OSM at Cursor". This option will only download the data within 200m of the cursor on the map, and may help avoid duplicate buildings being downloaded (which could result from using the "Download OSM" button instead)
 
 
 

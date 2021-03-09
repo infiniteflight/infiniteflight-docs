@@ -157,7 +157,7 @@ Once a building or object is selected, the properties can be edited using this t
 | Height               | This shows the height (in meters) of the building. Tap the number and then enter in a new value to adjust this |
 | Roof Orientation     | Tap the "+/-" symbols to adjust the orientation of the roof (you can also use the "Auto Roof Orientation" button) |
 | Facade               | The facade style can be changed here but it will change all sides of the building |
-| Roof Depth           | This shows the roof depth (in meters) of the building. Tap the number and then enter in a new value to adjust this |
+| Roof Depth           | This shows the roof depth (in meters) of the building. Tap the number and then enter in a new value between 0 and 1 to adjust this |
 | Latitude / Longitude | Current latitude/longitude of the building                   |
 | Altitude             | This shows the current altitude (in meters) of the building. Tap the number and then enter in a new value to adjust this |
 | Name                 | You can name the building using this field                   |
@@ -207,9 +207,7 @@ This logs the activity of the app (not your editing).
 
 +++ Facades
 
-
-
-**TBC**{.red}
+This contains a repository of all available facade styles and their respective faces.
 
 +++
 

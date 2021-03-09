@@ -13,13 +13,13 @@ order: 3
 
 ## Localizer
 
-
+![Localizer Location](_images/manual/frames/localizer.png)
 
 | Localizer   | Details                                                      |
 | ----------- | ------------------------------------------------------------ |
 | When        | Only when the airport has an ILS and/or LOC-Only approach    |
 | Where       | Placed 1000ft from the runway threshold (opposite end to the ILS/LOC-Only approach - e.g. so if the ILS is for RWY36, the antenna would be at the end of RWY18) - take note that the threshold might be displaced, so it is 1000ft from the white piano key markings, not 1000ft from the concrete! |
-| Orientation | Check out the pictures below but as a rule of thumb, place the antenna so that it is perpendicular to the runway with the electrical box side facing away from the runway |
+| Orientation | As a rule of thumb, place the antenna so that it is perpendicular to the runway with the electrical box side facing away from the runway |
 
 *Note: the location of an additional red/white electrical box can be added but their locations vary significantly, if you can spot it on google maps or in some airport pictures that would be your best bet but it tends to be to one side of the LOC antenna and usually there is a bit of distance between them (i.e. not right next to each other like the G/S antenna)*
 
@@ -27,7 +27,7 @@ order: 3
 
 ## Glideslope
 
-
+![Glideslope Location](_images/manual/frames/glideslope.png)
 
 | Glideslope  | Details                                                      |
 | ----------- | ------------------------------------------------------------ |
@@ -53,7 +53,7 @@ order: 3
 
 ## Holding Point Lights
 
-
+![Holding Point Light Location](_images/manual/frames/holding-point-lights.png)
 
 | Holding Point Lights | Details                                                      |
 | -------------------- | ------------------------------------------------------------ |
