@@ -12,8 +12,6 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 
 
 
-## Important Notice
-
 Must
 
 : The use of **must**{.red} or **must not**{.red} within this manual is considered **MANDATORY**{.red} and strict compliance is **REQUIRED**{.red}
@@ -26,7 +24,7 @@ Should
 
 ## Version: 21.1.0
 
-## Last Updated: 2230Z - 09 MAR 21
+## Last Updated: 1200Z - 10 MAR 21
 
 
 
