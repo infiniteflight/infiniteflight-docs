@@ -14,17 +14,17 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 
 Must
 
-: The use of **must**{.red} or **must not**{.red} within this manual is considered **MANDATORY**{.red} and strict compliance is **REQUIRED**{.red}
+: The use of **must**{.red} or **must not**{.red} within this manual is considered **MANDATORY** and strict compliance is **REQUIRED**
 
 Should
 
-: The use of **should**{.red} or **should not**{.red} within this manual is considered **ADVISORY**{.red} and compliance is **STRONGLY RECOMMENDED**{.red}
+: The use of **should**{.red} or **should not**{.red} within this manual is considered **ADVISORY** and compliance is **STRONGLY RECOMMENDED**
 
 
 
 ## Version: 21.1.0
 
-## Last Updated: 1200Z - 10 MAR 21
+## Last Updated: 1930Z - 12 MAR 21
 
 
 
@@ -41,8 +41,8 @@ Should
 | 4.1.6                          | Use of "FPL required" in ATIS expanded to include when SID/STAR use is mandated |
 | 6.4.4 / 6.6.2 / 6.6.11 / 6.8.5 | Wording standardized for the use of "Altitude at your discretion" |
 | 6.6.10                         | Center Controllers can accept approach requests for an airport with an Approach Controller present, if the approach in use is known |
-| 6.8.10 / 6.8.11                | Guidance added to cover parallel operations                  |
 | 6.10.5                         | Clarification on the use of "reasonable" when issuing an ILS clearance without vectors |
+| 6.10.7 / 6.10.8                | Guidance added to cover parallel operations                  |
 | 6.13.3 / 6.13.4 / 6.14.9       | Guidance added to cover the introduction of "maintain XXXkts until X mile final" |
 | 6.14.3                         | Minor formatting optimization                                |
 | 7.5.8                          | Recruiters no longer required to poll at the end of an Officer Check Ride phase |

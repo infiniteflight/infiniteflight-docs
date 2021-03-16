@@ -50,6 +50,7 @@ Welcome to the editor screen within the Infinite Flight app. Below you’ll find
 | Share Selected Bundle   | By selecting the bundle you wish to share from the "Library", you can then tap this button to share it with other airport scenery editors |
 | Download OSM            | By tapping this button, the Open Street Map data will be downloaded which will usually provide most of the buildings within (and close to) the airport boundaries |
 | Download OSM at Cursor  | If buildings are missing or you accidentally delete some, you can download the OSM data at the cursor point with this button (it has an approximate range of 200 meters) |
+| Import GeoJson          | GeoJson files can be imported using this button              |
 | Scenery Stats           | This shows key stats about the objects currently placed including poly count |
 
 +++

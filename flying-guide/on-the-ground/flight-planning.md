@@ -84,6 +84,12 @@ Once you have spawned at the gate, you can access the [Flight Planning](/guide/g
 
 
 
+[SIDs](/guide/flying-guide/take-off-to-cruise/standard-instrument-departure-(sid)-navigation){.button}
+
+[STARs](https://infiniteflight.com/guide/flying-guide/descent-to-landing/standard-terminal-arrival-route-(star)-navigation){.button}
+
+
+
 ## Airspace 
 
 The different types of airspace are defined on the Map and Mini Map using a color code. These are shown in the following table:
