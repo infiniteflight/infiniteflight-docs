@@ -9,8 +9,6 @@ order: 1
 
 
 
-## What does Pushback mean?
-
 A pushback is a maneuver that can be used by aircraft to position from their parked position, onto a taxiway ready to taxi.
 
 
@@ -20,8 +18,6 @@ Tip
 : General Aviation (GA) and military aircraft (with the exception of the C-130) are not able to perform a pushback maneuver
 
 
-
-## How to send Pushback/Hold Position Commands
 
 [INSERT CLIP]
 
@@ -45,13 +41,9 @@ Step 3
 
 
 
-## What is Flow Control?
+## Flow Control
 
 Flow Control is a technique used by Controllers to limit the amount of aircraft inbound to a particular destination. This is usually done by holding aircraft at the gate to help stagger departures.
-
-
-
-## How to Manage Traffic Flow
 
 
 

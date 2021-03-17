@@ -9,13 +9,9 @@ order: 2
 
 
 
-## What does Taxiing mean?
-
 Taxiing is when aircraft maneuver on the ground under their own power. This is usually to get from the gate to the departure runway, or after landing to get from the runway to the gate.
 
 
-
-## How to send Taxi Commands
 
 Step 1
 
@@ -35,7 +31,7 @@ Step 3
 
 
 
-## What does Progressive Taxi and Give Way mean?
+## Progressive Taxi and Give Way
 
 As well as using the normal taxi commands, progressive taxi and give way instructions can be useful to help assist the Controller with ground management, particularly with one way systems, potential conflicts, and intersection departures.
 
@@ -44,10 +40,6 @@ As well as using the normal taxi commands, progressive taxi and give way instruc
 Manual
 
 : "Taxi to RWYXX, contact tower when ready" and "Taxi to Parking" are the default commands that **must**{.red} be used by Controllers for the purposes of departing/arriving aircraft. [More info?](/guide/atc-manual/2.-ground/2.2-taxi-and-use-of-give-way#2.2.2)
-
-
-
-## How to send Progressive Taxi / Give Way Commands
 
 
 
