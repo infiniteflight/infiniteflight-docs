@@ -63,8 +63,8 @@ Multiple aircraft have just announced inbound but the Controller is unsure on wh
 
 | Technique 1                                                  |
 | ------------------------------------------------------------ |
-| Only send a pattern entry to the aircraft you are unsure about in terms of sequencing |
-| Wait until the aircraft are closer, and once certain of their sequence, issue this along with their clearance |
+| 1: Only send a pattern entry to the aircraft you are unsure about in terms of sequencing |
+| 2: Wait until the aircraft are closer, and once certain of their sequence, issue this along with their clearance |
 
 {.technique}
 
@@ -81,8 +81,8 @@ Multiple aircraft have just announced inbound but the Controller is unsure on wh
 
 | Technique 2                                                  |
 | ------------------------------------------------------------ |
-| Send a pattern entry and the most likely sequence to all aircraft |
-| Monitor and if required, change the sequence as they get closer |
+| 1: Send a pattern entry and the most likely sequence to all aircraft |
+| 2: Monitor and if required, change the sequence as they get closer |
 
 {.technique}
 
@@ -129,9 +129,9 @@ Scenario
 
 | Technique 1                                                  |
 | ------------------------------------------------------------ |
-| Instruct *I F A E Eleven* to "enter right downwind RWY32L, number 2, traffic to follow is on left downwind” |
-| If you are concerned about a conflict on the other end, then you can also tell *I F A E Eleven* to "extend downwind, I'll call your base" to alleviate this |
-| When you clear *I F A E Eleven*, you can then give them left traffic if you wish to do so to move them onto that side for subsequent patterns |
+| 1: Instruct *I F A E Eleven* to "enter right downwind RWY32L, number 2, traffic to follow is on left downwind” |
+| 2: If you are concerned about a conflict on the other end, then you can also tell *I F A E Eleven* to "extend downwind, I'll call your base" to alleviate this |
+| 3: When you clear *I F A E Eleven*, you can then give them left traffic if you wish to do so to move them onto that side for subsequent patterns |
 
 {.technique}
 
@@ -147,9 +147,9 @@ Scenario
 
 | Technique 2                                                  |
 | ------------------------------------------------------------ |
-| Instruct *VP-MAX* to "turn crosswind”                        |
-| When you are happy with the separation, tell *I F A E Eleven* to "enter left downwind for RWY32L, number 2, traffic to follow is on left downwind” |
-| If during this time, *I F A E Eleven* starts a right turn for RWY32R, then adopt Technique 1 instead |
+| 1: Instruct *VP-MAX* to "turn crosswind”                     |
+| 2: When you are happy with the separation, tell *I F A E Eleven* to "enter left downwind for RWY32L, number 2, traffic to follow is on left downwind” |
+| 3: If during this time, *I F A E Eleven* starts a right turn for RWY32R, then adopt Technique 1 instead |
 
 {.technique}
 
@@ -165,9 +165,9 @@ Scenario
 
 | Technique 3                                                  |
 | ------------------------------------------------------------ |
-| Instruct *I F A E Eleven* "extend upwind, I'll call your crosswind” |
-| Wait until separation between *VP-MAX* and *I F A E Eleven* is adequate (you can expedite this by telling *VP-MAX* to "turn crosswind"), and then tell *I F A E Eleven* to "enter left downwind for RWY32L, number 2, traffic to follow is on left downwind” |
-| The new pattern entry supersedes the previous instruction    |
+| 1: Instruct *I F A E Eleven* "extend upwind, I'll call your crosswind” |
+| 2: Wait until separation between *VP-MAX* and *I F A E Eleven* is adequate (you can expedite this by telling *VP-MAX* to "turn crosswind"), and then tell *I F A E Eleven* to "enter left downwind for RWY32L, number 2, traffic to follow is on left downwind” |
+| 3: The new pattern entry supersedes the previous instruction |
 
 {.technique}
 

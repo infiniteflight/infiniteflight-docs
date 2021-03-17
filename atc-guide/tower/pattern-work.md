@@ -37,9 +37,9 @@ Scenario
 
 | Technique 1                                                  |
 | ------------------------------------------------------------ |
-| Re-clear *N1DC* as number 1                                  |
-| Re-sequence *I-DRUM* as number 2                             |
-| If you are concerned about separation, you can tell *I-DRUM* to "extend downwind, I'll call your base" to alleviate this |
+| 1: Re-clear *N1DC* as number 1                               |
+| 2: Re-sequence *I-DRUM* as number 2                          |
+| 3: If you are concerned about separation, you can tell *I-DRUM* to "extend downwind, I'll call your base" to alleviate this |
 
 {.technique}
 
@@ -54,10 +54,10 @@ Scenario
 
 
 
-| Technique 2                                       |
-| ------------------------------------------------- |
-| Instruct *I-DRUM* to "turn base"                  |
-| This will force *I-DRUM* to fly a tighter pattern |
+| Technique 2                                          |
+| ---------------------------------------------------- |
+| 1: Instruct *I-DRUM* to "turn base"                  |
+| 2: This will force *I-DRUM* to fly a tighter pattern |
 
 {.technique}
 
