@@ -2,7 +2,7 @@
 id: go-around
 title: Go-Around
 meta: Go-Around techniques when operating a tower facility within Infinite Flight.
-order: 3
+order: 4
 ---
 
 
@@ -32,6 +32,34 @@ It is important to note that the responsibility for a go-around lies equally wit
 Manual
 
 : If working with a Radar Controller, you **should**{.red} try to let them know that the aircraft is "go-around" traffic so that they can work them into the plan, the aircraft can then be handed over to the Radar Controller unless they are VFR traffic or a prior arrangement has been made between Controllers. [More info?](/guide/atc-manual/3.-tower/3.5-exit-runway-go-around#3.5.4)
+
+
+
+[INSERT CLIP]
+
+
+
+Step 1
+
+: Tap the aircraft on the map (and then "Other Message"), or the flight progress strip to bring up the communication menu
+
+
+
+Step 2
+
+: Tap "Go Around > Make [Left/Right] Traffic > [Select RWY]"
+
+
+
+Step 3
+
+: If there is an aircraft that has been cleared for take-off and a collision risk exits, cancel their take-off clearance by tapping "Cancel Take-Off Clearance"
+
+
+
+Step 4
+
+: Unless the traffic is VFR (or a prior arrangement has been made with the Radar Controller), hand the go-around traffic to them (if present) by tapping "Contact Other Frequency > [Select Frequency]"
 
 
 
