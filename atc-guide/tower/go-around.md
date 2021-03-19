@@ -47,7 +47,13 @@ Step 1
 
 Step 2
 
-: Tap "Go Around > Make [Left/Right] Traffic > [Select RWY]"
+: Tap "Go Around > make [left/right] traffic > [select RWY]"
+
+
+
+Tip
+
+: When selecting the direction for G/A traffic, make sure to take other aircraft and terrain into consideration! 
 
 
 
@@ -59,7 +65,7 @@ Step 3
 
 Step 4
 
-: Unless the traffic is VFR (or a prior arrangement has been made with the Radar Controller), hand the go-around traffic to them (if present) by tapping "Contact Other Frequency > [Select Frequency]"
+: Unless the traffic is VFR (or a prior arrangement has been made with the Radar Controller), hand the go-around traffic to them (if present) by tapping "Contact Other Frequency > [select frequency]"
 
 
 

@@ -27,7 +27,7 @@ Step 2
 
 Step 3
 
-: Tap "Taxi to > [Select RWY]"
+: Tap "Taxi to > [select RWY]"
 
 
 
@@ -45,7 +45,7 @@ As well as using the normal taxi commands, progressive taxi and give way instruc
 
 Manual
 
-: "Taxi to RWYXX, contact tower when ready" and "Taxi to Parking" are the default commands that **must**{.red} be used by Controllers for the purposes of departing/arriving aircraft. [More info?](/guide/atc-manual/2.-ground/2.2-taxi-and-use-of-give-way#2.2.2)
+: "Taxi to RWYXX, contact tower when ready" and "Taxi to parking" are the default commands that **must**{.red} be used by Controllers for the purposes of departing/arriving aircraft. [More info?](/guide/atc-manual/2.-ground/2.2-taxi-and-use-of-give-way#2.2.2)
 
 
 
@@ -63,7 +63,7 @@ Step 1
 
 Step 2
 
-: This will bring up the communication menu, tap "Give way to > [Select appropriate reference to other aircraft]"
+: This will bring up the communication menu, tap "Give way to > [select appropriate reference to other aircraft]"
 
 
 
@@ -83,7 +83,7 @@ Step 1
 
 Step 2
 
-: This will bring up the communication menu. After issuing the normal taxi clearance (i.e. taxi to RWYXX or taxi to parking), tap "Progressive Taxi > [Select appropriate directions]"
+: This will bring up the communication menu. After issuing the normal taxi clearance (i.e. taxi to RWYXX or taxi to parking), tap "Progressive Taxi > [select appropriate directions]"
 
 
 
