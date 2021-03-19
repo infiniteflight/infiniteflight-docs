@@ -71,7 +71,7 @@ Step 3
 
 Step 4
 
-: If a large amount of aircraft are inbound to this destination, you can stagger departures by hold aircraft at the gate
+: If a large amount of aircraft are inbound to this destination, you can stagger departures by holding aircraft at the gate
 
 
 
@@ -83,4 +83,4 @@ Step 5
 
 Tip
 
-: Set a reminder by tapping the aircraft on the map followed by "Set Reminder". The aircraft and their flight progress strip will flash amber when the timer is up! 
+: Set a reminder by tapping the aircraft on the map followed by "Set Reminder". The aircraft and their flight progress strip will flash green when the timer is up! 

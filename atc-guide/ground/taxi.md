@@ -27,7 +27,13 @@ Step 2
 
 Step 3
 
-: If it is clear, tap "Taxi to > [Select RWY]". In all other cases tap "Hold Position"
+: Tap "Taxi to > [Select RWY]"
+
+
+
+Tip
+
+: Dependant on traffic, a taxi command may need to be immediately followed with progressive taxi or give way instructions
 
 
 
