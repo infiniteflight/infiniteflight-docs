@@ -29,7 +29,7 @@ Step 1
 
 Step 2
 
-: Tap "Exit Runway > [Select Direction] > [Select from Options Below]"
+: Tap "Exit Runway > [select left/right/any] > [select from options below]"
 
 
 
@@ -43,13 +43,13 @@ Step 2
 
 
 
-Step 3
-
-: Dependant on what option is sent, a frequency change may be required. To do this, tap "Contact Other Frequency > [Select Frequency]"
-
-
-
 Tip
 
 : The expedite command is usually best used when there is an aircraft on final within 2nm (or 3nm with another aircraft lined up on the runway ready to depart) 
+
+
+
+Step 3
+
+: Dependant on what option is sent, a frequency change may be required. To do this, tap "Contact Other Frequency > [select frequency]"
 

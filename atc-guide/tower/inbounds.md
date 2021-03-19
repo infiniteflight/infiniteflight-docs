@@ -47,6 +47,40 @@ Manual
 
 
 
+[INSERT CLIP]
+
+
+
+Step 1
+
+: When an aircraft calls inbound, the aircraft symbol will flash amber on the map as well as their callsign on the flight progress strip
+
+
+
+Step 2
+
+: Either tap the aircraft on the map (and then "Other Message"), or the flight progress strip to bring up the communication menu
+
+
+
+Step 3
+
+: Determine the pattern entry required, then tap "Pattern Instructions > [select Pattern Entry] > [select RWY] > Send"
+
+
+
+Tip
+
+: If the aircraft is not number 1, once you know which aircraft they are following, sequencing can be given by tapping "Sequencing... > [select number] > [select current position of traffic to follow]"
+
+
+
+Step 4
+
+: Once the aircraft has been given a pattern entry (and sequence if required), the aircraft can be cleared by tapping "Cleared to Land/For the Option > [select number] > [select Cleared to Land/Cleared for the Option] > [select RWY]"
+
+
+
 +++ SCENARIO - Multiple Inbounds
 
 ::: scenario-heading
@@ -112,6 +146,46 @@ Once a runway assignment has been issued, it would be ideal if we did not need t
 Manual
 
 : If a runway change is issued, a new pattern entry and clearance **must**{.red} be given (the use of sequencing will be dependent on traffic). [More info?](/guide/atc-manual/3.-tower/3.3-inbounds#3.3.3)
+
+
+
+[INSERT CLIP]
+
+
+
+Step 1
+
+: If an aircraft requests a runway change, the aircraft symbol will flash amber on the map as well as their callsign on the flight progress strip
+
+
+
+Step 2
+
+: Either tap the aircraft on the map (and then "Other Message"), or the flight progress strip to bring up the communication menu
+
+
+
+Step 3
+
+: If the Controller is unable to grant the request, tap "Unable"
+
+
+
+Step 4
+
+: If the Controller is able to approve the request, or if the Controller decides to issue a runway change without a request from the aircraft (e.g. due to traffic), determine the pattern entry required, then tap "Pattern Instructions > [select Pattern Entry] > [select RWY] > Send"
+
+
+
+Tip
+
+: If the aircraft is not number 1, once you know which aircraft they are following, sequencing can be given by tapping "Sequencing... > [select number] > [select current position of traffic to follow]"
+
+
+
+Step 5
+
+: Once the aircraft has been given a pattern entry (and sequence if required), the aircraft can be cleared by tapping "Cleared to Land/For the Option > [select number] > [select Cleared to Land/Cleared for the Option] > [select RWY]"
 
 
 
@@ -185,5 +259,57 @@ Tip
 : Remember that other variables (such as terrain) might influence what is the best technique to use on the day, be flexible! 
 
 +++
+
+
+
+## Cleared for the Option
+
+
+
+Manual
+
+: If an aircraft is in the pattern "Cleared for the Option" **must**{.red} be used as it gives the pilot the option of a landing / touch & go / stop & go or low approach. [More info?](/guide/atc-manual/3.-tower/3.3-inbounds#3.3.5)
+
+
+
+[INSERT CLIP]
+
+
+
+Step 1
+
+: When an aircraft calls inbound for touch & go's, the aircraft symbol will flash amber on the map as well as their callsign on the flight progress strip
+
+
+
+Step 2
+
+: Either tap the aircraft on the map (and then "Other Message"), or the flight progress strip to bring up the communication menu
+
+
+
+Step 3
+
+: Determine the pattern entry required, then tap "Pattern Instructions > [select Pattern Entry] > [select RWY] > Send"
+
+
+
+Tip
+
+: If the aircraft is not number 1, once you know which aircraft they are following, sequencing can be given by tapping "Sequencing... > [select number] > [select current position of traffic to follow]"
+
+
+
+Step 4
+
+: Once the aircraft has been given a pattern entry (and sequence if required), the aircraft can be cleared by tapping "Cleared to Land/For the Option > [select number] > [select Cleared for the Option] > [select RWY] > [select send or make left/right traffic]"
+
+
+
+| Options                   | When to Use                                                  |
+| ------------------------- | ------------------------------------------------------------ |
+| "Send"                    | If the aircraft has already been instructed to make left/right traffic from the initial take-off clearance or the previous landing clearance |
+| "Make Left/Right Traffic" | If the pilot is given a new pattern entry or new runway      |
+
 
 
