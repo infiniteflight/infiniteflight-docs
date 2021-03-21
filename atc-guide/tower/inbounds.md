@@ -2,7 +2,7 @@
 id: inbounds
 title: Inbounds
 meta: Techniques to handle inbound traffic when operating a tower facility within Infinite Flight.
-order: 1
+order: 3
 ---
 
 
@@ -69,15 +69,15 @@ Step 3
 
 
 
+Step 4
+
+: Once the aircraft has been given a pattern entry (and sequence if not number 1), the aircraft can be cleared by tapping "Cleared to Land/For the Option > [select number] > [select Cleared to Land/Cleared for the Option] > [select RWY]"
+
+
+
 Tip
 
 : If the aircraft is not number 1, once you know which aircraft they are following, sequencing can be given by tapping "Sequencing... > [select number] > [select current position of traffic to follow]"
-
-
-
-Step 4
-
-: Once the aircraft has been given a pattern entry (and sequence if required), the aircraft can be cleared by tapping "Cleared to Land/For the Option > [select number] > [select Cleared to Land/Cleared for the Option] > [select RWY]"
 
 
 
@@ -177,15 +177,15 @@ Step 4
 
 
 
+Step 5
+
+: Once the aircraft has been given a pattern entry (and sequence if not number 1), the aircraft can be cleared by tapping "Cleared to Land/For the Option > [select number] > [select Cleared to Land/Cleared for the Option] > [select RWY]"
+
+
+
 Tip
 
 : If the aircraft is not number 1, once you know which aircraft they are following, sequencing can be given by tapping "Sequencing... > [select number] > [select current position of traffic to follow]"
-
-
-
-Step 5
-
-: Once the aircraft has been given a pattern entry (and sequence if required), the aircraft can be cleared by tapping "Cleared to Land/For the Option > [select number] > [select Cleared to Land/Cleared for the Option] > [select RWY]"
 
 
 
@@ -294,15 +294,15 @@ Step 3
 
 
 
+Step 4
+
+: Once the aircraft has been given a pattern entry (and sequence if not number 1), the aircraft can be cleared by tapping "Cleared to Land/For the Option > [select number] > [select Cleared for the Option] > [select RWY] > [select send or make left/right traffic]"
+
+
+
 Tip
 
 : If the aircraft is not number 1, once you know which aircraft they are following, sequencing can be given by tapping "Sequencing... > [select number] > [select current position of traffic to follow]"
-
-
-
-Step 4
-
-: Once the aircraft has been given a pattern entry (and sequence if required), the aircraft can be cleared by tapping "Cleared to Land/For the Option > [select number] > [select Cleared for the Option] > [select RWY] > [select send or make left/right traffic]"
 
 
 

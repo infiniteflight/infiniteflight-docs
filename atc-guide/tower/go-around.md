@@ -2,7 +2,7 @@
 id: go-around
 title: Go-Around
 meta: Go-Around techniques when operating a tower facility within Infinite Flight.
-order: 4
+order: 6
 ---
 
 

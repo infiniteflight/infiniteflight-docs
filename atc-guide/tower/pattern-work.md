@@ -2,7 +2,7 @@
 id: pattern-work
 title: Pattern Work
 meta: How to manage the Pattern when operating a tower facility within Infinite Flight.
-order: 2
+order: 4
 ---
 
 
