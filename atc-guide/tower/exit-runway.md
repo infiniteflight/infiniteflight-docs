@@ -2,7 +2,7 @@
 id: exit-runway
 title: Exit Runway
 meta: How to manage aircraft exiting the runway when operating a tower facility within Infinite Flight.
-order: 3
+order: 5
 ---
 
 
