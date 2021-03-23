@@ -87,7 +87,7 @@ The use of this command instructs the aircraft holding short to taxi onto the ru
 
 Manual
 
-: Controller can issue the LUAW command to more than one aircraft provided it will not compromise the integrity of the first aircraft that is due to depart. [More info?](/guide/atc-manual/3.-tower/3.2-departures#3.2.3)
+: Controllers can issue the LUAW command to more than one aircraft provided it will not compromise the integrity of the first aircraft that is due to depart. [More info?](/guide/atc-manual/3.-tower/3.2-departures#3.2.3)
 
 
 
