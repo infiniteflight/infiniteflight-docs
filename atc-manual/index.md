@@ -24,7 +24,7 @@ Should
 
 ## Version: 21.1.0
 
-## Last Updated: 1930Z - 12 MAR 21
+## Last Updated: 2145Z - 24 MAR 21
 
 
 
@@ -33,9 +33,7 @@ Should
 | Location                       | Change                                                       |
 | ------------------------------ | ------------------------------------------------------------ |
 | 1.1.4 / 6.8.6                  | Reference to ifatc.org removed (original 1.1.4 removed and 1.1.5 moved up to replace it) |
-| 1A.1.3                         | See *#announcements* Discord channel for more information    |
-| 1A.2.1                         | See *#announcements* Discord channel for more information    |
-| 1A.5.2                         | See *#announcements* Discord channel for more information    |
+| Section 1A                     | See *#announcements* Discord channel for more information    |
 | 1B.1.6                         | Minor formatting optimization                                |
 | 3.2.10                         | Guidance for Tower Controllers on when to issue "Frequency Changed Approved" |
 | 4.1.6                          | Use of "FPL required" in ATIS expanded to include when SID/STAR use is mandated |

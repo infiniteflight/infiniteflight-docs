@@ -11,6 +11,10 @@ order: 1
 
 
 
+![Image 3.1.1.1 - Tower Separation](_images/manual/graphics/atc-tower-separation.jpg)
+
+
+
 Manual
 
 : The table below outlines the separation requirements that **must**{.red} be applied to **ALL**{.red} aircraft:
