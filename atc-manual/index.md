@@ -24,7 +24,7 @@ Should
 
 ## Version: 21.1.0
 
-## Last Updated: 2145Z - 24 MAR 21
+## Last Updated: 1415Z - 25 MAR 21
 
 
 
@@ -32,7 +32,9 @@ Should
 
 | Location                       | Change                                                       |
 | ------------------------------ | ------------------------------------------------------------ |
+| 1.1                            | Introduction page renamed                                    |
 | 1.1.4 / 6.8.6                  | Reference to ifatc.org removed (original 1.1.4 removed and 1.1.5 moved up to replace it) |
+| 1.2                            | Abbreviations moved to new page                              |
 | Section 1A                     | See *#announcements* Discord channel for more information    |
 | 1B.1.6                         | Minor formatting optimization                                |
 | 3.2.10                         | Guidance for Tower Controllers on when to issue "Frequency Changed Approved" |
