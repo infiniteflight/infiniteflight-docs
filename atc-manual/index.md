@@ -24,7 +24,7 @@ Should
 
 ## Version: 21.1.0
 
-## Last Updated: 1415Z - 25 MAR 21
+## Last Updated: 1200Z - 26 MAR 21
 
 
 
@@ -38,7 +38,8 @@ Should
 | Section 1A                     | See *#announcements* Discord channel for more information    |
 | 1B.1.6                         | Minor formatting optimization                                |
 | 3.2.10                         | Guidance for Tower Controllers on when to issue "Frequency Changed Approved" |
-| 4.1.6                          | Use of "FPL required" in ATIS expanded to include when SID/STAR use is mandated |
+| Section 4                      | Reworked                                                     |
+| 4.2.1                          | Use of "FPL required" in ATIS expanded to include when SID/STAR use is mandated |
 | 6.4.4 / 6.6.2 / 6.6.11 / 6.8.5 | Wording standardized for the use of "Altitude at your discretion" |
 | 6.6.10                         | Center Controllers can accept approach requests for an airport with an Approach Controller present, if the approach in use is known |
 | 6.10.5                         | Clarification on the use of "reasonable" when issuing an ILS clearance without vectors |
