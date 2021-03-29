@@ -59,6 +59,4 @@ This issue is usually only temporary and resolves itself on the hour. If it rema
 
 This is generally a tricky one and often traces back to a spotty connection. If this should happen to you, one thing that could help is to put your device to “Flight mode” for about 30 seconds so that the connection to our Live servers is re-established. If that doesn’t help, please depart the airspace and divert to another airport. This is to avoid interference with other traffic in the area.
 
-If you however should be reported due to this, the controller have most likely used “Unable to communicate - Contact Moderator” as the reason. The best course of action then is to do just that, contact a moderator.
-
-It is also strongly recommend to take screenshots during these incidents to the best of your ability.
+If however, you find that you have been issued with a report for this, the controller would have most likely used the ["Unable to communicate"](/guide/getting-started/pilot-user-interface/violation-reasons#unable-to-communicate) violation reason. This would have removed you from the server but you can return at any time as this is not counted as a violation.

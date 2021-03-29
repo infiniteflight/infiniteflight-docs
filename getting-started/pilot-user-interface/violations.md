@@ -104,7 +104,13 @@ The best way to prevent Violations is to:
 
 If you do still find that you receive violations try to find out why, and learn from the experience.
 
- 
+
+
+Tip
+
+: It is important to note that controllers may not always be able to issue a warning (or series of warnings) before a violation, especially when it is very busy or for obvious infractions!
+
+
 
 ## Appealing a Level 2 or 3 Violation
 
