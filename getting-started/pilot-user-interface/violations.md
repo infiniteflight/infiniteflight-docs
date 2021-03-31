@@ -84,7 +84,7 @@ Level 3 Violation (Red)
 
 In addition, Violations are kept on a pilot’s record and therefore, if a pilot continues to receive Violations (**Level 2** and **Level 3** only), Expert Server access will be restricted for longer. Currently, no more than five **Level 2** and/or **Level 3** Violations can be received within a 365 day rolling period for access to the server.
 
- 
+
 
 ## How to prevent Violations
 
