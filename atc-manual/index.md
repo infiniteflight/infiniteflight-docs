@@ -24,7 +24,7 @@ Should
 
 ## Version: 21.1.0
 
-## Last Updated: 1230Z - 31 MAR 21
+## Last Updated: 1630Z - 04 APR 21
 
 
 
@@ -46,6 +46,8 @@ Should
 | 6.10.7 / 6.10.8                | Guidance added to cover parallel operations                  |
 | 6.13.3 / 6.13.4 / 6.14.9       | Guidance added to cover the introduction of "maintain XXXkts until X mile final" |
 | 6.14.3                         | Minor formatting optimization                                |
+| 7.4.2 / 7.5.7                  | Removal of requirement to include an asterisk when in a Check Ride phase |
+| 7.5.1                          | Removal of ATC Schedule reference                            |
 | 7.5.8                          | Recruiters no longer required to poll at the end of an Officer Check Ride phase |
 
 +++
