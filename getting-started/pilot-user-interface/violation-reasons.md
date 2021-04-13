@@ -45,7 +45,7 @@ Tip
 
 
 
-Situational awareness whilst flying is an important aspect that pilots must maintain to enjoy a realistic expereince on the Expert Server. Not maintaining appropriate separation with other aircraft, not following sequencing, excessive speed, incorrect arrival procedures, alignment with or landing/departing from the wrong runway; can all result in removal from the Expert Server.
+Situational awareness whilst flying is an important aspect that pilots must maintain to enjoy a realistic experience on the Expert Server. Not maintaining appropriate separation with other aircraft, not following sequencing, excessive speed, incorrect arrival procedures, alignment with or landing/departing from the wrong runway; can all result in removal from the Expert Server.
 
 
 
@@ -105,7 +105,27 @@ Ground awareness is an essential part of any flight, therefore you must ensure t
 
 
 
-Situational awareness whilst flying is an important aspect that pilots must maintain to enjoy a realistic expereince on the Expert Server. Not maintaining appropriate separation with other aircraft, not following sequencing, excessive speed, incorrect arrival procedures, alignment with or landing/departing from the wrong runway; can all result in removal from the Expert Server.
+Situational awareness whilst flying is an important aspect that pilots must maintain to enjoy a realistic experience on the Expert Server. Not maintaining appropriate separation with other aircraft, not following sequencing, excessive speed, incorrect arrival procedures, alignment with or landing/departing from the wrong runway; can all result in removal from the Expert Server.
+
+
+
++++ Fighter Aircraft Etiquette
+
+There is currently no system limit on speeds for fighter aircraft, however a reasonable speed should always be maintained when in a controlled airspace, whether tower or approach. As a general rule 250-300kts should never be exceeded when under the control of ATC.
+
+
+
+The following are a good rule of thumb and the *recommended* military aircraft parameters:
+
+- Do not exceed M1.0 in normal flight
+- Do not exceed 300KIAS under ATC control or in a congested airspace
+- Do not exceed 250KIAS within 15 miles of the landing airport
+
+
+
+Instructions, sequence, and traffic volume should **always** dictate your speed and cause increased awareness of your surroundings.
+
++++
 
 
 
@@ -205,7 +225,7 @@ Taking-Off/Landing without permission, following your flight plan instead of ATC
 
 
 
-Situational awareness whilst flying is an important aspect that pilots must maintain to enjoy a realistic expereince on the Expert Server. Not maintaining appropriate separation with other aircraft, not following sequencing, excessive speed, incorrect arrival procedures, alignment with or landing/departing from the wrong runway; can all result in removal from the Expert Server.
+Situational awareness whilst flying is an important aspect that pilots must maintain to enjoy a realistic experience on the Expert Server. Not maintaining appropriate separation with other aircraft, not following sequencing, excessive speed, incorrect arrival procedures, alignment with or landing/departing from the wrong runway; can all result in removal from the Expert Server.
 
 
 
@@ -273,7 +293,7 @@ Taking-Off/Landing without permission, following your flight plan instead of ATC
 
 
 
-Situational awareness whilst flying is an important aspect that pilots must maintain to enjoy a realistic expereince on the Expert Server. Not maintaining appropriate separation with other aircraft, not following sequencing, excessive speed, incorrect arrival procedures, alignment with or landing/departing from the wrong runway; can all result in removal from the Expert Server.
+Situational awareness whilst flying is an important aspect that pilots must maintain to enjoy a realistic experience on the Expert Server. Not maintaining appropriate separation with other aircraft, not following sequencing, excessive speed, incorrect arrival procedures, alignment with or landing/departing from the wrong runway; can all result in removal from the Expert Server.
 
 
 
@@ -329,7 +349,7 @@ Inappropriate callsigns used to incite harm/violence such as the use of profanit
 
 
 
-Situational awareness whilst flying is an important aspect that pilots must maintain to enjoy a realistic expereince on the Expert Server. Not maintaining appropriate separation with other aircraft, not following sequencing, excessive speed, incorrect arrival procedures, alignment with or landing/departing from the wrong runway; can all result in removal from the Expert Server.
+Situational awareness whilst flying is an important aspect that pilots must maintain to enjoy a realistic experience on the Expert Server. Not maintaining appropriate separation with other aircraft, not following sequencing, excessive speed, incorrect arrival procedures, alignment with or landing/departing from the wrong runway; can all result in removal from the Expert Server.
 
 
 
@@ -341,7 +361,7 @@ Situational awareness whilst flying is an important aspect that pilots must main
 
 
 
-Situational awareness whilst flying is an important aspect that pilots must maintain to enjoy a realistic expereince on the Expert Server. Not maintaining appropriate separation with other aircraft, not following sequencing, excessive speed, incorrect arrival procedures, alignment with or landing/departing from the wrong runway; can all result in removal from the Expert Server.
+Situational awareness whilst flying is an important aspect that pilots must maintain to enjoy a realistic experience on the Expert Server. Not maintaining appropriate separation with other aircraft, not following sequencing, excessive speed, incorrect arrival procedures, alignment with or landing/departing from the wrong runway; can all result in removal from the Expert Server.
 
 
 

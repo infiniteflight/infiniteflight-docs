@@ -16,7 +16,7 @@ order: 2
 
  
 
-Once you have spawned at the gate, tap on the [Pause Screen](/guide/getting-started/pilot-user-interface/fly#fly-screen) button to access the [Weight & Balance](/guide/getting-started/pilot-user-interface/pause-menu#weight-%26-balance) page where you can adjust your fuel, passenger load, and cargo load.
+Once you have spawned at the gate, tap on the [Pause Screen](/guide/getting-started/pilot-user-interface/fly-screen) button to access the [Weight & Balance](/guide/getting-started/pilot-user-interface/pause-menu#weight-%26-balance) page where you can adjust your fuel, passenger load, and cargo load.
 
 
 
@@ -34,11 +34,10 @@ The Automatic Terminal Information Service, more commonly known as ATIS, will se
 
 
 
-- The latest *METAR
+- The latest METAR*
 - Runway(s) in use
 - REMARKS and/or NOTAMS to provide pilots with more information (e.g. "No Pattern Work Allowed")
 - And if there are multiple frequencies open, which one to contact
-
 
 
 
@@ -46,19 +45,19 @@ The Automatic Terminal Information Service, more commonly known as ATIS, will se
 
 
 
-The Digital ATIS (D-ATIS) will display the same information as the ATIS, but in text format. To find the D-ATIS follow the steps below:
+The Digital ATIS (D-ATIS) will display the same information as the ATIS, but in text format. To find the D-ATIS, follow the steps below:
 
 
 
 Step 1
 
-: On the map [tap close to your chosen airport](/guide/getting-started/pilot-user-interface/flight-planning#getting-more-from-your-map-and-mini-map). A drop down list will appear
+: By [tapping close to your chosen airport](/guide/getting-started/pilot-user-interface/flight-planning#getting-more-from-your-map-and-mini-map) on the map, a drop down list will appear where you can select the airport
 
  
 
 Step 2
 
-: The information tab will be displayed initially; tap the "wx" (weather) tab
+: The information tab will be displayed initially, tap the "wx" (weather) tab
 
 
 
@@ -70,7 +69,7 @@ Step 3
 
 Tip
 
-: Range for the D-ATIS is unlimited, use this to help with planning before tuning to an active frequency
+: Range for the D-ATIS is unlimited; use this to help with planning before tuning to an active frequency
 
 
 
@@ -81,7 +80,13 @@ Want to know what everything in the ATIS means? Visit our [ATC Manual](/guide/at
 ## Flight Plan
 
 ![Map Screen](_images/manual/frames/flight-planning-map.png)
-Once you have spawned at the gate, you can access the [Flight Planning](/guide/getting-started/pilot-user-interface/flight-planning#flight-planning) page by tapping on the [Globe](/guide/getting-started/pilot-user-interface/fly#fly-screen) button. This will allow you to build your flight plan (you can also use the [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) to make adjustments).
+Once you have spawned at the gate, you can access the [Flight Planning](/guide/getting-started/pilot-user-interface/flight-planning#flight-planning) page by tapping on the [Globe](/guide/getting-started/pilot-user-interface/fly-screen) button. This will allow you to build your flight plan (you can also use the [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) to make adjustments).
+
+
+
+[SIDs](/guide/flying-guide/take-off-to-cruise/standard-instrument-departure-(sid)-navigation){.button}
+
+[STARs](https://infiniteflight.com/guide/flying-guide/descent-to-landing/standard-terminal-arrival-route-(star)-navigation){.button}
 
 
 

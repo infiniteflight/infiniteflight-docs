@@ -21,7 +21,7 @@ Flights conducted under VFR can only be operated if the weather conditions are s
 
 
 - navigate visually
-- and 'see & avoid' obstacles such as terrain and other aircraft
+- and "see & avoid" obstacles such as terrain and other aircraft
 
 
 
@@ -75,7 +75,7 @@ The different types of airspace displayed on your [map and mini map](/guide/gett
 
 ## Right of Way
 
-All aircraft, but in particular, VFR traffic; must be operated under a 'see and avoid' mentality. The main principle is that the aircraft that does not have right of way, must take corrective action, usually in the form of a right turn.
+All aircraft, but in particular, VFR traffic; must be operated under a "see and avoid" mentality. The main principle is that the aircraft that does not have right of way, must take corrective action, usually in the form of a right turn.
 
 
 
@@ -124,7 +124,7 @@ Tip
 
 Step 2
 
-: Use visual markers to help you such as terrain, coastlines, islands etc.
+: Use visual markers to help you such as terrain, coastlines, islands etc
 
 
 

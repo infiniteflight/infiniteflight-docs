@@ -14,7 +14,7 @@ Descent preparation is a crucial step in any flight, the following tools will he
 
 
 - You as the pilot - we will show you how you can calculate the Rate of Descent (ROD) required, your Top of Descent (TOD) point, and how many track miles you need to lose the altitude.
-- The Altitude Arc, also known as a 'banana'
+- The Altitude Arc, also known as a "banana"
 - [Vertical Navigation (VNAV)](/guide/flying-guide/descent-to-landing/vertical-navigation-(vnav)#vertical-navigation-(vnav))
 
 
@@ -69,7 +69,7 @@ Tip
 
 
 
-The Altitude Arc, commonly referred to as the 'banana'; is a blue, curved line that depicts on the map/mini map where you will reach the bugged altitude that is currently selected on your [Autopilot FCU](/guide/getting-started/pilot-user-interface/autopilot#autopilot).
+The Altitude Arc, commonly referred to as the "banana"; is a blue, curved line that depicts on the map/mini map where you will reach the bugged altitude that is currently selected on your [Autopilot FCU](/guide/getting-started/pilot-user-interface/autopilot#autopilot).
 
 
 
@@ -135,7 +135,7 @@ Step 4
 
 Step 5
 
-: Look at how many track miles you 'think' you have to go before the Final Approach Point where we want to be at 3000ft
+: Look at how many track miles you "think" you have to go before the Final Approach Point where we want to be at 3000ft
 
 
 
@@ -189,13 +189,13 @@ Tip
 
 Step 1
 
-: Continue to do the above calculation and compare how many track miles you 'need', with how many track miles you 'have'
+: Continue to do the above calculation and compare how many track miles you "need", with how many track miles you "have"
 
 
 
 Step 2
 
-: If the difference in those two figures is reducing, you are 'regaining' the profile. If the difference is increasing, you are becoming more high/low on the profile and therefore your ROD needs to be changed!
+: If the difference in those two figures is reducing, you are "regaining" the profile. If the difference is increasing, you are becoming more high/low on the profile and therefore your ROD needs to be changed!
 
 
 

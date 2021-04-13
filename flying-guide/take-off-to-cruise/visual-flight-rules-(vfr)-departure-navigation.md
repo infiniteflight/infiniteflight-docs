@@ -21,7 +21,7 @@ Flights conducted under VFR can only be operated if the weather conditions are s
 
 
 - navigate visually
-- and 'see & avoid' obstacles such as terrain and other aircraft
+- and "see & avoid" obstacles such as terrain and other aircraft
 
 
 
@@ -49,7 +49,7 @@ Step 1
 
 Step 2
 
-: We always recommend [filing a flight plan](/guide/flying-guide/on-the-ground/flight-planning#flight-planning),however it is not a requirement of VFR flights
+: We always recommend [filing a flight plan](/guide/flying-guide/on-the-ground/flight-planning#flight-planning), however it is not a requirement of VFR flights
 
 
 
@@ -136,4 +136,4 @@ Tip
 
 Step 6
 
-: Continue flying VFR and remember that you are responsible for terrain and traffic avoidance. ATC may however, issue vectors to de-conflict with IFR traffic. If this happens, continue to follow those instructions until you are told to 'resume own navigation'  
+: Continue flying VFR and remember that you are responsible for terrain and traffic avoidance. ATC may however, issue vectors to de-conflict with IFR traffic. If this happens, continue to follow those instructions until you are told to "resume own navigation" 

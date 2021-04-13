@@ -1,5 +1,0 @@
----
-ordering:
-  - meta
-  - tower
----

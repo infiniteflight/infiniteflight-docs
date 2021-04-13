@@ -41,7 +41,7 @@ Step 2
 
 Step 3
 
-: If you have been vectored off of your flight plan, Radar Controllers will ensure that you are instructed to 'Continue as Filed' before issuing a clearance for the approach. Utilize your [GPS Navigation](/guide/getting-started/pilot-user-interface/navigation#gps-navigation) to follow your flight plan and approach
+: If you have been vectored off of your flight plan, Radar Controllers will ensure that you are instructed to "Continue as Filed" before issuing a clearance for the approach. Utilize your [GPS Navigation](/guide/getting-started/pilot-user-interface/navigation#gps-navigation) to follow your flight plan and approach
 
 
 
