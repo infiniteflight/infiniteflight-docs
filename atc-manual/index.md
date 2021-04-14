@@ -24,7 +24,7 @@ Should
 
 ## Version: 21.1.0
 
-## Last Updated: 1030Z - 14 APR 21
+## Last Updated: 1130Z - 14 APR 21
 
 
 
@@ -38,6 +38,7 @@ Should
 | Section 1A                     | Complete rework                                              |
 | Section 1B                     | Complete rework                                              |
 | 3.2.10                         | Guidance for Tower Controllers on when to issue "Frequency Changed Approved" |
+| 3.4.1                          | Added image of the traffic pattern                           |
 | Section 4                      | Complete rework                                              |
 | 4.2.1                          | Use of "FPL required" in ATIS expanded to include when SID/STAR use is mandated |
 | 6.4.4 / 6.6.2 / 6.6.11 / 6.8.5 | Wording standardized for the use of "Altitude at your discretion" |
