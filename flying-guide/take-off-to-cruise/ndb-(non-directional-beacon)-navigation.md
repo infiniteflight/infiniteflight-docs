@@ -10,6 +10,12 @@ order: 11
 
 
 
+Tip
+
+: The principles of navigating using an NDB are incredibly similar to using VORs, make sure to check out our tutorial on [VOR Navigation](/guide/flying-guide/take-off-to-cruise/vor-(vhf-omni-directional-range)-navigation) for more help!
+
+
+
 ## What is an NDB?
 
 The Non-Directional Beacon, otherwise known as NDB; is a ground-based transmitter that emits radio signals and is identified with it's own frequency and a code (normally two or three letters). Aircraft equipped with an Automatic Direction Finder (ADF) can then interpret these signals and use them for navigation purposes. To use NDBs for navigation, you will need to [tune to the correct frequency](/guide/getting-started/pilot-user-interface/navigation#tuning-to-a-vor-or-adf), and then [display this in the cockpit](/guide/getting-started/pilot-user-interface/navigation#displaying-an-adf-in-your-aircraft).
@@ -88,7 +94,7 @@ Tip
 
 Step 5
 
-: To intercept a specific radial, imagine that the NDB is at the "head" of the blue bearing pointer (arrow) and that the aircraft is at the "tail" of the blue bearing pointer. If you are navigating "to" the beacon, you need to "pull" the tail of the blue bearing pointer round to the new position by turning towards the tail, the head will begin to "fall" away and when it is close to the desired bearing to the beacon that you want to fly, you can turn back to that bearing. If you are navigating "from" the beacon, you will need to "push" the head of the blue bearing pointer by turning away from the "tail". The head will begin to "fall" away and "pull" the tail round, when it is close to the desired bearing from the beacon that you want to fly, you can turn back to that bearing.
+: To intercept a specific radial, imagine that the NDB is at the "head" of the blue bearing pointer (arrow) and that the aircraft is at the "tail" of the blue bearing pointer. If you are navigating "to" the beacon, you need to "pull" the tail of the blue bearing pointer round to the new position by turning towards the tail, the head will begin to "fall" away and when it is close to the desired bearing to the beacon that you want to fly, you can turn back to that bearing. If you are navigating "from" the beacon, you will need to "push" the head of the blue bearing pointer by turning away from the "tail". The head will begin to "fall" away and "pull" the tail round, when it is close to the desired bearing from the beacon that you want to fly, you can turn back to that bearing
 
 
 

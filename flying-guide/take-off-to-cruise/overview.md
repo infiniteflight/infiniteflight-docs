@@ -13,4 +13,4 @@ order: 1
 
 
 
-This section covers everything from take-off to cruise including, how to back-taxi, take-off techniques in crosswinds and navigation procedures once you're airborne. Ready for departure? Let's get you into the air!
+This section covers everything from take-off to cruise including how to back-taxi, take-off techniques in crosswinds and navigation procedures once you're airborne. Ready for departure? Let's get you into the air!
