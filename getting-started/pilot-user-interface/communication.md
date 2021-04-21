@@ -58,3 +58,30 @@ Step 2
 Step 3
 
 : Tap "TUNE" next to any frequency to make it COM 1 (you must be within range of an airport to tune to its frequencies and you can only tune to radar frequencies when airborne)
+
+
+
+## Away Mode
+
+![Away Mode](_images/manual/frames/away-mode.png)
+
+
+
+When aircraft are tuned into a frequency with a controller, their flight strip will have either a green or amber circle displayed which will indicate to the controller if the pilot is "active" or "away".
+
+
+
+This can be useful when you fly for long distances and aren't at your device for the whole time. After 2 minutes of inactivity (i.e. no input with your device), your aircraft will be shown to controllers as "away". Provided you are in the cruise, this will let them know that you are unlikely to respond and any conflicts are assumed unintentional! 
+
+
+
+Tip
+
+: During critical phases of flight or when entering busy airspace, make sure to remain with your device and follow all ATC instructions! 
+
+
+
+
+
+
+
