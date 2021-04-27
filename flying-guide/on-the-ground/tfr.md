@@ -12,7 +12,7 @@ order: 3
 
 ## What is a TFR?
 
-[INSERT IMAGE]
+![TFR](_images/manual/frames/tfr.png)
 
 
 
@@ -233,5 +233,5 @@ Step 7
 
 Tip
 
-: If you use an Android device, there is currently an onboing issue where TFRs sometimes will not show until you restart the app. Before flying it is recommended to always check the [IFC](https://community.infiniteflight.com) for temporary TFRs that may be in place for an event
+: If you use an Android device, there is currently an ongoing issue where TFRs sometimes will not show until you restart the app. Before flying it is recommended to always check the [IFC](https://community.infiniteflight.com) for temporary TFRs that may be in place for an event
 
