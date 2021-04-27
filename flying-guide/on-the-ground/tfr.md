@@ -3,6 +3,7 @@ id: temporary-flight-restrictions-(tfrs)
 title: Temporary Flight Restrictions (TFRs)
 meta: Learn about TFRs in Infinite Flight.
 order: 3
+contributor: deercrusher
 ---
 
 
@@ -12,7 +13,7 @@ order: 3
 
 ## What is a TFR?
 
-![TFR](_images/manual/frames/tfr.png)
+![KASE and KEGE Active TFRs](_images/manual/frames/tfr.png)
 
 
 
@@ -34,6 +35,10 @@ Within Infinite Flight, TFRs can be found on the Expert Server and are depicted 
 | ------ | -------- |
 | Red    | Active   |
 | Orange | Inactive |
+
+
+
+![Inactive TFRs](_images/manual/frames/tfr-2.png)
 
 
 
