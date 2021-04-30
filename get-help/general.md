@@ -39,7 +39,7 @@ Our minimum device requirements for the Global versions of Infinite Flight is as
 
 
 
-Additionally, we strongly recommend that your device has **at least** 1GB+ of internal device memory (RAM).
+Additionally, we strongly recommend that your device has **at least** 2GB+ of internal device memory (RAM).
 
 
 
@@ -51,17 +51,23 @@ Additionally, we strongly recommend that your device has **at least** 1GB+ of in
 
 
 
-- Android 7.0 (Nougat) operating system or later
+- Android 7.0 (Nougat) operating system or later with a 64bit processor 
 
- - Device must support OpenGL ES 3.0, [click here to check.](https://play.google.com/store/apps/details?id=littledreamstudios.openglcheck&hl=en)
+ - Device must support OpenGL ES 3.0, [click here to check](https://play.google.com/store/apps/details?id=littledreamstudios.openglcheck&hl=en)
 
    
 
-Additionally, we strongly recommend that your device has **at least** 1GB+ of internal device memory (RAM).
+Additionally, we strongly recommend that your device has **at least** 2GB+ of internal device memory (RAM).
 
 
 
-*Note: Due to the large variety of Android devices, there is not a full list of devices supported although the vast majority can be found [here](https://community.infiniteflight.com/t/device-compatibility-thread-19-4-built-by-us-for-you/323610). Customers with devices that are not supported at this time will receive a message on the Google PlayStore when attempting to download the latest update for Infinite Flight to advise that the device in use is not supported.*
+*Note: Due to the large variety of Android devices, there is not a full list of devices supported although the vast majority can be found [here](https://community.infiniteflight.com/t/device-compatibility-thread-19-4-built-by-us-for-you/323610). Customers with devices that are not supported at this time will receive a message on the Google Play Store when attempting to download the latest update for Infinite Flight to advise that the device in use is not supported.*
+
+
+
+Tip
+
+: If your device doesn’t have a 64bit processor and cannot be upgraded to Android 7.0, you will still be able to enjoy Infinite Flight on versions prior to 21.1. To find out if your device meets these requirements, check [here](https://community.infiniteflight.com/t/21-1-android-support/560936)
 
 
 
