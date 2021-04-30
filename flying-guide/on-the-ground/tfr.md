@@ -233,10 +233,3 @@ Step 6
 Step 7
 
 : We also recommend checking the [IFC](https://community.infiniteflight.com) for upcoming events that may have temporary TFRs added, as these may not be displayed on your [map](/guide/getting-started/pilot-user-interface/flight-planning#map) or [mini map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) yet
-
-
-
-Tip
-
-: If you use an Android device, there is currently an ongoing issue where TFRs sometimes will not show until you restart the app. Before flying it is recommended to always check the [IFC](https://community.infiniteflight.com) for temporary TFRs that may be in place for an event
-
