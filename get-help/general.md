@@ -33,8 +33,7 @@ Our minimum device requirements for the Global versions of Infinite Flight is as
 
 
 
- -    64 bit device
- -    iOS 10 operating system or later
+ -    iOS 10 operating system or later with a 64-bit processor 
  -    [Click here to see full list of devices supported](https://community.infiniteflight.com/t/device-compatibility-thread-19-4-built-by-us-for-you/323610)
 
 
@@ -51,7 +50,7 @@ Additionally, we strongly recommend that your device has **at least** 2GB+ of in
 
 
 
-- Android 7.0 (Nougat) operating system or later with a 64bit processor 
+- Android 7.0 (Nougat) operating system or later with a 64-bit processor 
 
  - Device must support OpenGL ES 3.0, [click here to check](https://play.google.com/store/apps/details?id=littledreamstudios.openglcheck&hl=en)
 
@@ -67,7 +66,7 @@ Additionally, we strongly recommend that your device has **at least** 2GB+ of in
 
 Tip
 
-: If your device doesn’t have a 64bit processor and cannot be upgraded to Android 7.0, you will still be able to enjoy Infinite Flight on versions prior to 21.1. To find out if your device meets these requirements, check [here](https://community.infiniteflight.com/t/21-1-android-support/560936)
+: If your device doesn’t have a 64-bit processor and cannot be upgraded to Android 7.0, you will still be able to enjoy Infinite Flight on versions prior to 21.1. To find out if your device meets these requirements, check [here](https://community.infiniteflight.com/t/21-1-android-support/560936)
 
 
 

@@ -14,7 +14,7 @@ Infinite Flight is available for download on the Google Play Store.
 
 Below are the minimum requirements for a successful install on your device. In addition to this, we strongly recommend that your device has **at least** 2GB+ of internal device memory (RAM):
 
- -    Android 7.0 (Nougat) operating system or later with a 64bit processor
+ -    Android 7.0 (Nougat) operating system or later with a 64-bit processor
 
  -    Device must support OpenGL ES 3.0, [click here to check](https://play.google.com/store/apps/details?id=littledreamstudios.openglcheck&hl=en)
 
@@ -26,7 +26,7 @@ Below are the minimum requirements for a successful install on your device. In a
 
 Tip
 
-: If your device doesn’t have a 64bit processor and cannot be upgraded to Android 7.0, you will still be able to enjoy Infinite Flight on versions prior to 21.1. To find out if your device meets these requirements, check [here](https://community.infiniteflight.com/t/21-1-android-support/560936)
+: If your device doesn’t have a 64-bit processor and cannot be upgraded to Android 7.0, you will still be able to enjoy Infinite Flight on versions prior to 21.1. To find out if your device meets these requirements, check [here](https://community.infiniteflight.com/t/21-1-android-support/560936)
 
 
 
