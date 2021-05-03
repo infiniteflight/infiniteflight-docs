@@ -24,7 +24,7 @@ Should
 
 ## Version: 21.1.0
 
-## Last Updated: 1300Z - 21 APR 21
+## Last Updated: 1430Z - 03 MAY 21
 
 
 
@@ -113,5 +113,3 @@ Should
 | 7D.4.4                   | See relevant Discord channel for more information            |
 
 +++
-
-
