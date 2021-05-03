@@ -247,6 +247,10 @@ Key:
 
 The table below shows the formatting that must be used when selecting an ID for a General Aviation callsign:
 
+
+
++++ General Aviation Callsign Formatting
+
 | Country | Format | Notes |
 |---|---|---|
 | Afghanistan | YA-*ABC*| |
@@ -463,3 +467,6 @@ The table below shows the formatting that must be used when selecting an ID for 
 | Yemen | 7O-*ABC*| |
 | Zambia | 9J-*ABC*| |
 | Zimbabwe | Z-*ABC*|  |
+
++++
+
