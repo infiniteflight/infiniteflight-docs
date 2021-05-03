@@ -17,7 +17,7 @@ contributor: deercrusher
 
 
 
-A Temporary Flight Restriction, referred to as a TFR, is a block of airspace that has had restrictions put in place. This could be due to numerous factors such as:
+A Temporary Flight Restriction, referred to as a TFR, is a block of airspace that has had restrictions put in place. In real life this could be due to numerous factors such as:
 
 
 
