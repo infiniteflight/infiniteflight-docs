@@ -172,6 +172,22 @@ RWY 16R/34L CLOSED. RWY16R/34L to be used as taxiway ONLY.
 
 
 
++++ NZQN (Queenstown)
+
+Aircraft larger than A321/B757 not authorized. Larger aircraft MUST divert.
+
+| Parameters | Restrictions         |
+| ---------- | -------------------- |
+| Type       | TFR                  |
+| From       | 05/03/2021 10:52Z    |
+| To         | Until Further Notice |
+| Floor      | SFC                  |
+| Ceiling    | 10,000ft             |
+
++++
+
+
+
 +++ OBBI (Bahrain Intl)
 
 RWY 12R/30L CLOSED. RWY 12R/30L to be used as taxiway ONLY.
@@ -180,6 +196,38 @@ RWY 12R/30L CLOSED. RWY 12R/30L to be used as taxiway ONLY.
 | ---------- | -------------------- |
 | Type       | NOTAM                |
 | From       | 01/01/2000 06:00Z    |
+| To         | Until Further Notice |
+| Floor      | SFC                  |
+| Ceiling    | 10,000ft             |
+
++++
+
+
+
++++ OOMS (Muscat Intl)
+
+RWY 08R/26L CLOSED. RWY08R/26L to be used as taxiway ONLY.
+
+| Parameters | Restrictions         |
+| ---------- | -------------------- |
+| Type       | NOTAM                |
+| From       | 05/01/2021 10:47Z    |
+| To         | Until Further Notice |
+| Floor      | SFC                  |
+| Ceiling    | 10,000ft             |
+
++++
+
+
+
++++ OPIS (Islamabad)
+
+RWY 10L/28R CLOSED. RWY 10L/28R to be used as taxiway ONLY.
+
+| Parameters | Restrictions         |
+| ---------- | -------------------- |
+| Type       | NOTAM                |
+| From       | 05/01/2021 23:09Z    |
 | To         | Until Further Notice |
 | Floor      | SFC                  |
 | Ceiling    | 10,000ft             |
