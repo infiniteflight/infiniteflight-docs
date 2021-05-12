@@ -78,4 +78,4 @@ Tip
 
 
 
-Want to know what everything in the ATIS means? Visit our [ATC Manual](/guide/atc-manual/4.-atis/4.1-atis#4.1-atis) to find out!
+Want to know what everything in the ATIS means? Visit our [ATC Manual](https://infiniteflight.com/guide/atc-manual/4.-atis/4.2-remarks-and-notams) to find out!
