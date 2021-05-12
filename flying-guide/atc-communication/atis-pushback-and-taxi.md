@@ -86,7 +86,6 @@ Below are two tables that define the meaning of all REMARKS and NOTAMS that may 
 | :------------------------- | :------------------------------------------------ | :----------------------------------------------------------- |
 | Event in Progress          | An event is in progress.                          | The pilot may experience delays or, depending on the event, will not be allowed to participate. |
 | Size Restrictions in Place | The airport cannot handle certain sized aircraft. | The pilot should think about the size of their aircraft in relation to the airport. |
-| Severe Weather             | Extreme weather conditions have been reported.    | The pilot should expect high winds/turbulence.               |
 | Low Visibility             | Low visibility has been reported.                 | The pilot should expect low visibility.                      |
 
 

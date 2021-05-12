@@ -217,7 +217,31 @@ Step 4
 
 
 
+## I can't Connect to ForeFlight or another Third-Party App
 
 
 
+If you are having issues connecting to a third-party app such as ForeFlight, the following steps can help:
+
+
+
+Step 1
+
+: Ensure you are connected on the same WiFi network as the device running the third-party app
+
+
+
+Step 2
+
+: Ensure "Infinite Flight Connect" and "ForeFlight Link" are both enabled in Settings > General
+
+
+
+Step 3
+
+: Check you have permission to communicate with other devices on the local network. This varies on Android, but on iOS, a popup will appear that you must select "OK" to (if you selected no, you can go to iOS Settings > Infinite Flight and tick "Local Network")
+
+
+
+![iOS Popup](_images/manual/frames/connect-devices.png)
 
