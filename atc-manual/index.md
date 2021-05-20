@@ -22,30 +22,27 @@ Should
 
 
 
-## Version: 21.1.1 (WIP)
+## Version: 21.1.1
 
-## Last Updated: 1730Z - 12 MAY 21
+## Last Updated: 1030Z - 20 MAY 21
 
 
 
 +++ Summary of Changes - Version: 21.1.1 (CURRENT VERSION)
 
-| Location        | Change                                                |
-| --------------- | ----------------------------------------------------- |
-| 1A.1.2 / 1A.2.2 | Removal of *#controlling[1-5]* Discord voice channels |
-| 1A.1.4 - 1A.1.8 | Guidance on new temporary Voice Channels added        |
-| 4.2.1           | Removal of "Severe Weather" ATIS remark               |
-| 6.6.12          | Minor spelling mistake corrected                      |
-| 7A.2.7          | "Must" changed to "should"                            |
-| 7D.4.2          | Guidance for Supervisors on issuing feedback          |
+| Location        | Change                                                       |
+| --------------- | ------------------------------------------------------------ |
+| 1A.1.2 / 1A.2.2 | Removal of *#controlling[1-5]* Discord voice channels        |
+| 1A.1.4 - 1A.1.8 | Guidance on new temporary Voice Channels added               |
+| 1A.4.2          | Minimum controlling times have now been reduced to 30 minutes for all facilities |
+| 1A.5.1          | Added more detail on how Supervisors are selected            |
+| 4.2.1           | Removal of "Severe Weather" ATIS remark                      |
+| 6.6.12          | Minor spelling mistake corrected                             |
+| 6.10.3          | Minor wording correction with example now referencing a westerly runway, image 6.10.3.1 will be changed in due course to support this |
+| 7A.2.7          | "Must" changed to "should"                                   |
+| 7D.4.2          | Guidance for Supervisors on issuing feedback                 |
 
 +++
-
-
-
-**add detail on how supervisors are selected**{.red}
-
-**possible new rank between officer and sup**{.red}
 
 
 
@@ -101,5 +98,4 @@ Should
 | Section 7E               | See relevant Discord channel for more information            |
 
 +++
-
 
