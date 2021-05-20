@@ -22,13 +22,31 @@ Should
 
 
 
-## Version: 21.1.0
+## Version: 21.1.1
 
-## Last Updated: 1430Z - 03 MAY 21
+## Last Updated: 1030Z - 20 MAY 21
 
 
 
-+++ Summary of Changes - Version: 21.1.0 (CURRENT VERSION)
++++ Summary of Changes - Version: 21.1.1 (CURRENT VERSION)
+
+| Location        | Change                                                       |
+| --------------- | ------------------------------------------------------------ |
+| 1A.1.2 / 1A.2.2 | Removal of *#controlling[1-5]* Discord voice channels        |
+| 1A.1.4 - 1A.1.8 | Guidance on new temporary Voice Channels added               |
+| 1A.4.2          | Minimum controlling times have now been reduced to 30 minutes for all facilities |
+| 1A.5.1          | Added more detail on how Supervisors are selected            |
+| 4.2.1           | Removal of "Severe Weather" ATIS remark                      |
+| 6.6.12          | Minor spelling mistake corrected                             |
+| 6.10.3          | Minor wording correction with example now referencing a westerly runway, image 6.10.3.1 will be changed in due course to support this |
+| 7A.2.7          | "Must" changed to "should"                                   |
+| 7D.4.2          | Guidance for Supervisors on issuing feedback                 |
+
++++
+
+
+
++++ Summary of Changes - Version: 21.1.0
 
 | Location                       | Change                                                       |
 | ------------------------------ | ------------------------------------------------------------ |
@@ -81,35 +99,3 @@ Should
 
 +++
 
-
-
-+++ Summary of Changes - Version: 20.3.0
-
-| Location                 | Change                                                       |
-| ------------------------ | ------------------------------------------------------------ |
-| All                      | Hyperlinks fixed                                             |
-| 1.1.3                    | Amended to account for the new Report Form and Feedback Status Spreadsheet |
-| 1A.1                     | See *#announcements* Discord channel for more information    |
-| 1A.1.4                   | See *#announcements* Discord channel for more information    |
-| 1B.1.6                   | See *#announcements* Discord channel for more information    |
-| 3.2.2                    | Pro Tip added to help clarify departure sequencing           |
-| 3.3.2                    | Clarification on the use of "Continue Inbound" added, a pattern entry is still required |
-| 3.6.3                    | Added a note to clarify the use of "if req"                  |
-| 4.1.5                    | Minor wording correction                                     |
-| 7.3 / 7.5                | Pro Tip added to remind Candidates to have adequate battery life and reliable internet connections for training and testing sessions |
-| 7.5.7                    | Officer Check Ride phase introduced                          |
-| 7.5.8                    | Flowchart label renamed for consistency with 7.4.7           |
-| 7A.1.7 / 7B.1.2 / 7C.1.4 | See relevant Discord channel for more information            |
-| 7A.2.3                   | See relevant Discord channel for more information            |
-| 7A.2.3                   | See relevant Discord channel for more information            |
-| 7A.2.7                   | See relevant Discord channel for more information            |
-| 7B.1.1                   | See relevant Discord channel for more information            |
-| 7B.2 / 7B.3              | See relevant Discord channel for more information            |
-| 7B.2.1                   | See relevant Discord channel for more information            |
-| 7C.2.4                   | See relevant Discord channel for more information            |
-| 7C.2.4                   | See relevant Discord channel for more information            |
-| 7C.2.6                   | See relevant Discord channel for more information            |
-| 7C.3.3                   | See relevant Discord channel for more information            |
-| 7D.4.4                   | See relevant Discord channel for more information            |
-
-+++
