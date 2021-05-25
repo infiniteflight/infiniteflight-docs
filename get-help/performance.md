@@ -9,7 +9,7 @@ order: 3
 
 **General tips regardless of device:**
 
-- Turn Limit Frame Rate **ON** (box should be ticked) if you notice that your device tends to heat up or if you are experiencing lag. A device that heats up too much is more likely to suffer performance degradation which could lead to lag and app crashes.
+- We recommend that the "Frame rate limit" should be set to **30fps** for most devices. Some high-performance devices can use **60fps**, but it requires more of your device in terms of performance and power consumption. If you start noticing performance degradations while using the 60fps option, it's strongly recommended that you lower it to **30fps**. 
 
 - Infinite Flight doesn’t take up a specific amount of storage, it can change depending on the area you’re flying in, how many aircraft that needs to be downloaded during online flights etc. We therefore recommend that you always have at least **1GB** of storage available on your device.
 
@@ -28,11 +28,14 @@ order: 3
   - Lower the Rendering Resolution setting.
 
   - Disable Anti-Aliasing.
+
   - Lower the Rendering Quality setting.
 
   - Lower the Texture Quality setting.
 
   - Lower Airplane count.
+
+  - Lower 3D Object Density.
 
 At any point if you’re experiencing decreased performance, “Limit frame rate” should always be ticked. This setting can have a great negative impact on performance unless your device is considered high performance.
 
