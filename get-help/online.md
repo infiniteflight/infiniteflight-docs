@@ -23,8 +23,7 @@ For the time being, we have decided to stream our terrain & scenery imagery whic
 
 ## When I try to Login, I Receive "Error Code 1"?
 
-This is something you can see when you have yet to create an account in Infinite Flight. An account is created when you purchase a PRO subscription and can’t be created before that. You then have the option to link your account to a Google profile. You are most likely trying to sign in with credentials that have yet to be linked to an account in Infinite Flight yet. 
-
+This is something you can see when you have yet to create an account in Infinite Flight and are trying to sign in. As you purchase your first subscription, an account in Infinite Flight is created for you. You can then choose to link your account with a Infinite Flight Community profile which allows you to use your subscription on multiple devices, as well as securing your account in case you lose access to it for some reason. If you try to sign in and are receiving Error Code 1, it means that you're trying to sign in to an account that does not exist in the applications database as of yet. 
 
 
 ## I only see Boxes and/or Names of Other Pilots in the App, not their Actual Aircraft? 
