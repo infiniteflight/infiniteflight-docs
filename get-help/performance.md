@@ -37,7 +37,6 @@ order: 3
 
   - Lower 3D Object Density.
 
-At any point if you’re experiencing decreased performance, “Limit frame rate” should always be ticked. This setting can have a great negative impact on performance unless your device is considered high performance.
 
 **General iOS tips:**
 
