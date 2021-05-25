@@ -15,7 +15,7 @@ A visual approach is an approach to a runway conducted under [IFR](/guide/flying
 
 
 
-There are multiple ways in which a visual approach can be given to the pilot but generally speaking, and terrain permitting; Radar Controllers will position the pilot in a recognizable position such as downwind, base, or even straight in. The pilot will then be asked to ‘report the airfield in sight’, and once this has been confirmed the pilot will be cleared for the appraoch and handed over to Tower/Unicom as appropriate. 
+There are multiple ways in which a visual approach can be given to the pilot but generally speaking, and terrain permitting; Radar Controllers will position the pilot in a recognizable position such as downwind, base, or even straight in. The pilot will then be asked to "report the airfield in sight", and once this has been confirmed the pilot will be cleared for the approach and handed over to Tower/Unicom as appropriate. 
 
 
 

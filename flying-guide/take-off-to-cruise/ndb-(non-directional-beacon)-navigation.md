@@ -2,6 +2,7 @@
 id: ndb-(non-directional-beacon)-navigation
 title: NDB (Non-Directional Beacon) Navigation
 meta: Learn how to navigate using NDB's in Infinite Flight.
+type: Advanced
 order: 11
 ---
 
@@ -9,9 +10,15 @@ order: 11
 
 
 
+Tip
+
+: The principles of navigating using an NDB are incredibly similar to using VORs, make sure to check out our tutorial on [VOR Navigation](/guide/flying-guide/take-off-to-cruise/vor-(vhf-omni-directional-range)-navigation) for more help!
+
+
+
 ## What is an NDB?
 
-The Non-Directional Beacon, otherwise known as NDB; is a ground-based transmitter that emits radio signals and is identified with it's own frequency and a code (normally two or three letters). Aircraft equipped with an Automatic Direction Finder (ADF) can then interpret these signals and use them for navigation purposes. To use NDB's for navigation, you will need to [tune to the correct frequency](/guide/getting-started/pilot-user-interface/navigation#tuning-to-a-vor-or-adf), and then [display this in the cockpit](/guide/getting-started/pilot-user-interface/navigation#displaying-an-adf-in-your-aircraft).
+The Non-Directional Beacon, otherwise known as NDB; is a ground-based transmitter that emits radio signals and is identified with it's own frequency and a code (normally two or three letters). Aircraft equipped with an Automatic Direction Finder (ADF) can then interpret these signals and use them for navigation purposes. To use NDBs for navigation, you will need to [tune to the correct frequency](/guide/getting-started/pilot-user-interface/navigation#tuning-to-a-vor-or-adf), and then [display this in the cockpit](/guide/getting-started/pilot-user-interface/navigation#displaying-an-adf-in-your-aircraft).
 
 
 
@@ -26,6 +33,8 @@ The Horizontal Situation Indicator or HSI, is the primary instrument used for na
 - Single blue pointer to represent BRG (bearing) 1 - when tuned to a navigation source (ILS, VOR or NDB) it will point to the navigation aid
 - Double blue pointer to represent BRG (bearing) 2 - when tuned to a navigation source (ILS, VOR or NDB) it will point to the navigation aid
 - Course Deviation Indicator (CDI) made up of the Course Pointer and Lateral Deviation Bar - displayed in magenta for GPS, and light green for NAV 1 and NAV 2
+
+![HSI Elements](_images/manual/graphics/hsi-elements.jpg)
 
 
 
@@ -85,7 +94,7 @@ Tip
 
 Step 5
 
-: To intercept a specific radial, imagine that the NDB is at the "head" of the blue bearing pointer (arrow) and that the aircraft is at the "tail" of the blue bearing pointer. If you are navigating "to" the beacon, you need to "pull" the tail of the blue bearing pointer round to the new position by turning towards the tail, the head will begin to "fall" away and when it is close to the desired bearing to the beacon that you want to fly, you can turn back to that bearing. If you are navigating "from" the beacon, you will need to "push" the head of the blue bearing pointer by turning away from the "tail". The head will begin to "fall" away and "pull" the tail round, when it is close to the desired bearing from the beacon that you want to fly, you can turn back to that bearing.
+: To intercept a specific radial, imagine that the NDB is at the "head" of the blue bearing pointer (arrow) and that the aircraft is at the "tail" of the blue bearing pointer. If you are navigating "to" the beacon, you need to "pull" the tail of the blue bearing pointer round to the new position by turning towards the tail, the head will begin to "fall" away and when it is close to the desired bearing to the beacon that you want to fly, you can turn back to that bearing. If you are navigating "from" the beacon, you will need to "push" the head of the blue bearing pointer by turning away from the "tail". The head will begin to "fall" away and "pull" the tail round, when it is close to the desired bearing from the beacon that you want to fly, you can turn back to that bearing
 
 
 
@@ -102,7 +111,7 @@ We are flying just south of PHNY towards the Lanai (LLD) NDB on a heading of 360
 
 
 
-![170 Radial](_images/manual/frames/170-radial.jpg)
+![170 Radial](_images/manual/frames/170-radial.png)
 
 
 
@@ -110,7 +119,7 @@ If we were to just turn towards the beacon (heading 350 degrees), we would never
 
 
 
-![Heading 340](_images/manual/frames/heading-340.jpg)
+![Heading 340](_images/manual/frames/heading-340.png)
 
 
 
@@ -118,15 +127,15 @@ In the image above, you can see we have changed the aircraft heading from 360 to
 
 
 
-![180 Radial](_images/manual/frames/180-radial.jpg)
+![180 Radial](_images/manual/frames/180-radial.png)
 
 
 
-Once on the desired bearing, we can then monitor the blue bearing pointer and adjust out heading to take into account wind (ensuring that we are tracking the correct radial).
+Once on the desired bearing, we can then monitor the blue bearing pointer and adjust our heading to take into account wind (ensuring that we are tracking the correct radial).
 
 
 
-![Tracking 180 Radial](_images/manual/frames/tracking-180-radial.jpg)
+![Tracking 180 Radial](_images/manual/frames/tracking-180-radial.png)
 
 
 

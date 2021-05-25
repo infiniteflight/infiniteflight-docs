@@ -12,14 +12,14 @@ The Automatic Terminal Information Service, more commonly known as ATIS, will se
 
 
 
-![ATIS Page](_images/manual/frames/atc-atis.jpg)
+![ATIS Page](_images/manual/frames/atc-atis.png)
 
 
 
 1. The Meteorological Terminal Air Report (more commonly known as a **METAR**), is the current weather at the airport and usually displays date/time recorded, wind direction and strength, visibility, weather and cloud, temperature and dew point, and finally pressure
 
 
-2. The available runways can be selected from this tab, and will use the red/amber/green colour code
+2. The available runways can be selected from this tab, and will use the red/amber/green color code
 
    | Indication                               | Meaning                                  |
    | ---------------------------------------- | ---------------------------------------- |
@@ -27,7 +27,7 @@ The Automatic Terminal Information Service, more commonly known as ATIS, will se
    | ![](_images/manual/tables/weather-orange.png) | Crosswind above 3kts                     |
    | ![](_images/manual/tables/weather-red.png) | Tailwind above 3kts - runway not recommended |
 
-3. **REMARKS** can be added to the ATIS to provide pilots with more information such as 'No Pattern Work allowed'
+3. **REMARKS** can be added to the ATIS to provide pilots with more information such as "No Pattern Work allowed"
 
 
 4. **NOTAMS** are used in the same way as REMARKS above, and provide more information for pilots
@@ -62,7 +62,7 @@ Step 1
 
 Step 2
 
-: The information tab will be displayed initially; tap the 'wx' (weather) tab
+: The information tab will be displayed initially; tap the "wx" (weather) tab
 
 
 
@@ -78,4 +78,4 @@ Tip
 
 
 
-What to know what everything in the ATIS means? Visit our [ATC Manual](/guide/atc-manual/4.-atis/4.1-atis#4.1-atis) to find out!
+Want to know what everything in the ATIS means? Visit our [ATC Manual](https://infiniteflight.com/guide/atc-manual/4.-atis/4.2-remarks-and-notams) to find out!

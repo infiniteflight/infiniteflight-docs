@@ -53,7 +53,7 @@ Step 3
 
 
 
-![Account Settings Page](_images/manual/frames/account.jpg)
+![Account Settings Page](_images/manual/frames/account.png)
 
 
 
@@ -63,7 +63,7 @@ Step 4
 
 
 
-![Get Pro](_images/manual/frames/get-pro.jpg)
+![Get Pro](_images/manual/frames/get-pro.png)
 
 
 
@@ -79,7 +79,7 @@ Step 6
 
 
 
-![Login](_images/manual/frames/login2.jpg)
+![Login](_images/manual/frames/login2.png)
 
 
 
@@ -163,7 +163,7 @@ Auto-Renew can be cancelled directly from the Google Play or App Store. Please f
 
 
 
-![Account Settings Page](_images/manual/frames/account.jpg)
+![Account Settings Page](_images/manual/frames/account.png)
 
 
 

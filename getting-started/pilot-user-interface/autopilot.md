@@ -7,17 +7,17 @@ order: 10
 
 # Autopilot
 
-![Autopilot](_images/manual/frames/autopilot.jpg)
+![Autopilot](_images/manual/frames/autopilot.png)
 
 
 
-1. By tapping on the Autopilot (AP) symbol, the autopilot box will appear displaying the Flight Control Unit (FCU) options.
+1. By tapping on the Autopilot (AP) symbol, the autopilot box will appear displaying the Flight Control Unit (FCU) options
 
 
 
 Step 1
 
-: To engage the autopilot, tap the &#39;AP OFF&#39; button (you must be airborne for the autopilot functions to work correctly). The button will be highlighted by an orange hollow box and will change to &#39;AP ON'
+: To engage the autopilot, tap the "AP OFF" button (you must be airborne for the autopilot functions to work correctly). The button will be highlighted by an orange hollow box and will change to "AP ON"
 
 Step 2
 
@@ -29,4 +29,32 @@ Step 3
 
 Step 4
 
-: The altitude and heading selections have turquoise bugs which appear on the [HUD](/guide/getting-started/pilot-user-interface/flight-plan). These values can be pre-set before engagement of the Autopilot. 
+: The altitude and heading selections have turquoise bugs which appear on the [HUD](/guide/getting-started/pilot-user-interface/hud). These values can be pre-set before engagement of the Autopilot
+
+
+
+## Use of Approach Mode
+
+@[vimeo](495491039)
+
+
+
+Aircraft may be fitted with the Approach (APPR) mode which allows the autopilot to intercept an ILS and perform an automatic landing if it is kept engaged until touchdown. Before engaging the APPR mode, make sure to check that the ILS has been [tuned](/guide/getting-started/pilot-user-interface/navigation#tuning-to-an-ils) and [displayed](/guide/getting-started/pilot-user-interface/navigation#displaying-an-ils-in-your-aircraft).
+
+
+
+When pressing the APPR button, the following displays will be shown beneath it:
+
+| Autopilot Mode                                 | Meaning                                                      |
+| ---------------------------------------------- | ------------------------------------------------------------ |
+| "LOC ALT" (flashing amber)                     | The APPR mode has been armed                                 |
+| "LOC" (solid green) and "ALT" (flashing amber) | The APPR mode is capturing or already established on the LOC, the G/S is armed and will capture provided you are below the G/S |
+| "LOC GS" (solid green)                         | The APPR mode is capturing or already established on both the LOC and G/S |
+
+For the best results, only engage the APPR mode when you are on an [intercept heading for the ILS](/guide/flying-guide/descent-to-landing/instrument-landing-system-(ils)-approach#what-is-an-ils-approach%3F) (we recommend no more than 30 degrees). Once engaged, the heading can still be adjusted. However once the LOC capture is in progress, the heading can no longer be changed. 
+
+
+
+Tip
+
+: If LNAV and VNAV are engaged and the APPR button is tapped, the last heading and vertical speed that the aircraft was flying will be maintained however this can result in abnormal autopilot behaviour

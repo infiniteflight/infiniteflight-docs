@@ -33,7 +33,7 @@ Step 1
 
 Step 2
 
-: Tune to the active frequency and [report ready for departure](/guide/flying-guide/atc-communication/take-off-and-departure#take-off-communication-summary), or if there is no active ATC, tune to the Unicom frequency
+: Tune to the active tower frequency and [report ready for departure](/guide/flying-guide/atc-communication/take-off-and-departure#take-off-communication-summary), or if there is no active ATC, tune to the Unicom frequency
 
 
 
@@ -54,7 +54,7 @@ Step 3
 
 Step 4
 
-: If you have been cleared to Back-Taxi and Line Up and Wait (LUAW) by ATC, taxi onto the runway in the opposite direction in which you are planning to take-off in, and continue until you are happy with the amount of runway you have behind you. Once you have done this make a 180 degree turn and align  yourself with the centerline ready for take-off (you do not need to taxi to the runway end if you do not need it).
+: If you have been cleared to Back-Taxi and Line Up and Wait (LUAW) by ATC, taxi onto the runway in the opposite direction in which you are planning to take-off in, and continue until you are happy with the amount of runway you have behind you. Once you have done this, make a 180 degree turn and align yourself with the centerline (you do not need to taxi to the runway end if you do not need it)
 
 
 
@@ -66,10 +66,11 @@ Tip
 
 Step 5
 
-: If you have just landed and pass the last usable exit, you will be cleared to Back-Taxi and contact Ground when off the runway by ATC, wait until you are at a sensible speed before attempting to make a 180 degree turn. 
+: If you have just landed and pass the last usable exit, you will be cleared to Back-Taxi and contact Ground when off the runway by ATC. Wait until you are at a sensible speed before attempting to make a 180 degree turn
 
 
 
 Tip
 
-: Familarise yourself with the ground layout of an airport before landing so that you can plan your exit strategy. Landing in the touchdown zone and using the correct amount of braking is sometimes all that is needed to prevent a back-taxi and save the workload of not only you, but also the ATC
+: Familiarize yourself with the ground layout of an airport before landing so that you can plan your exit strategy. Landing in the touchdown zone and using the correct amount of braking is sometimes all that is needed to prevent a back-taxi and save the workload of not only you, but also the ATC
+

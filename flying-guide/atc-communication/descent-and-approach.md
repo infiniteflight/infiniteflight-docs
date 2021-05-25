@@ -41,7 +41,7 @@ Step 3
 
 
 
-!["Check In" with Center](_images/manual/frames/_check-in_-with-center.jpg)
+!["Check In" with Center](_images/manual/frames/_check-in_-with-center.png)
 
 
 
@@ -51,7 +51,7 @@ Step 4
 
 
 
-![Request descent via](_images/manual/frames/request-descent.jpg)
+![Request descent via](_images/manual/frames/request-descent.png)
 
 
 
@@ -61,7 +61,7 @@ Step 5
 
 
 
-![Descent Clearance](_images/manual/frames/descent-clearance.jpg)
+![Descent Clearance](_images/manual/frames/descent-clearance.png)
 
 
 
@@ -79,7 +79,7 @@ Step 2
 
 
 
-![Reply to Handoff 2](_images/manual/frames/reply-to-handoff-2.jpg)
+![Reply to Handoff 2](_images/manual/frames/reply-to-handoff-2.png)
 
 
 
@@ -89,7 +89,7 @@ Step 3
 
 
 
-![Request Approach](_images/manual/frames/request-approach.jpg)
+![Request Approach](_images/manual/frames/request-approach.png)
 
 
 
@@ -99,7 +99,7 @@ Step 4
 
 
 
-![Destination Airport](_images/manual/frames/destination-airport.jpg)
+![Destination Airport](_images/manual/frames/destination-airport.png)
 
 
 
@@ -115,7 +115,7 @@ Step 5
 
 
 
-![Approach and Runway](_images/manual/frames/approach-and-runway.jpg)
+![Approach and Runway](_images/manual/frames/approach-and-runway.png)
 
 
 
@@ -125,11 +125,11 @@ Step 6
 
 
 
-![Continue as Filed](_images/manual/frames/continue-as-filed.jpg)
+![Continue as Filed](_images/manual/frames/continue-as-filed.png)
 
 
 
-![Expect Vectors](_images/manual/frames/expect-vectors.jpg)
+![Expect Vectors](_images/manual/frames/expect-vectors.png)
 
 
 
@@ -139,7 +139,7 @@ Step 7
 
 
 
-![Receive Vectors](_images/manual/frames/receive-vectors.jpg)
+![Receive Vectors](_images/manual/frames/receive-vectors.png)
 
 
 
@@ -149,7 +149,7 @@ Step 8
 
 
 
-![Contact Tower](_images/manual/frames/contact-tower.jpg)
+![Contact Tower](_images/manual/frames/contact-tower.png)
 
 
 

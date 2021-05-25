@@ -23,7 +23,7 @@ All flights and controlling sessions are recorded automatically and you can revi
 
  
 
- ![Replay page](_images/manual/frames/replay-page.jpg)
+ ![Replay page](_images/manual/frames/replay-page.png)
 
  
 
@@ -39,7 +39,7 @@ Step 1
 
 Step 2
 
-: Tap ‘Replay’
+: Tap "Replay"
 
  
 
@@ -47,51 +47,51 @@ Step 2
 
 
 
- ![Pilot Replay page](_images/manual/frames/replay-pilot.jpg)
+ ![Pilot Replay page](_images/manual/frames/replay-pilot.png)
 
 
 
-1. ATC log with mute and auto scroll options. Pressing on an ATC command will fast forward to that spot.
-
-   
-
-2. Mini map.
+1. ATC log with mute and auto scroll options. Pressing on an ATC command will fast forward to that spot
 
    
 
-3.  Pause/play replay.
+2. Mini map
 
    
 
-4. Back 15 seconds.
+3.  Pause/play replay
 
    
 
-5. Forward 15 seconds.
+4. Back 15 seconds
 
    
 
-6. Replay timeline. Press on a spot to go directly to that spot.
+5. Forward 15 seconds
 
    
 
-7.  Take screenshot (see screenshot setting in [settings menu](/guide/getting-started/home-user-interface/settings#settings)).
+6. Replay timeline. Pressing anywhere on this will fast forward (or rewind) to that spot
 
    
 
-8. Show/hide the mini map.
+7.  Take screenshot (see screenshot setting in [settings menu](/guide/getting-started/home-user-interface/settings#settings))
 
    
 
-9. Change views.
+8. Show/hide the mini map
 
    
 
-10. App menu.
+9. Change views
+
+   
+
+10. App menu
 
     
 
-11. Press and hold screen for 3 seconds to hide bar. Press and hold again to show bar.
+11. Press and hold screen for 3 seconds to hide bar. Press and hold again to show bar
 
  
 
@@ -99,47 +99,47 @@ Step 2
 
 
 
- ![ATC Replay page](_images/manual/frames/replay-atc.jpg)
+ ![ATC Replay page](_images/manual/frames/replay-atc.png)
 
 
 
-1. ATC log. Press on the message to go to it in the timeline.
-
-   
-
-2. Pause/play replay.
+1. ATC log. Press on the message to go to it in the timeline
 
    
 
-3. Back 15 seconds.
+2. Pause/play replay
 
    
 
-4. Forward 15 seconds.
+3. Back 15 seconds
 
    
 
-5. Take screenshot (see screenshot setting in [settings menu](/guide/getting-started/home-user-interface/settings#settings)).
+4. Forward 15 seconds
 
    
 
-6. Show/hide radar.
+5. Take screenshot (see screenshot setting in [settings menu](/guide/getting-started/home-user-interface/settings#settings))
 
    
 
-7. Change views.
+6. Show/hide radar
 
    
 
-8. App menu.
+7. Change views
 
    
 
-9. Timeline. Orange lines are warnings sent to pilots, red lines are [Violations](/guide/getting-started/pilot-user-interface/violations#violations) issued to pilots.
+8. App menu
 
    
 
-10. Radar. Tap on a pilot to bring up a menu, includes options to filter pilot details.
+9. Timeline. Orange lines are warnings sent to pilots, red lines are [Violations](/guide/getting-started/pilot-user-interface/violations#violations) issued to pilots
+
+   
+
+10. Radar. Tap on a pilot to bring up a menu, includes options to filter pilot details
 
 
 
@@ -187,22 +187,22 @@ You can also import replays into your device to view them. To do this follow the
 
 Step 1
 
-: Using your device, navigate to where the file you wish to import is located
+: Access your "Replays" 
 
 
 
 Step 2
 
-: Tap on the file to open it *(the technique to open may vary dependent on the device being used - in particular, some devices require you to press & hold, followed by selecting "Share" and then "Open in Infinite Flight")*
+: Select "Import". A window will open allowing you to navigate to where the file you wish to import is located
 
 
 
 Step 3
 
-: Infinite Flight will open and import the replay into your "Replays
+: Tap on the file to open it *(the technique to open may vary dependent on the device being used - in particular, some devices require you to press & hold, followed by selecting "Share" and then "Open in Infinite Flight")*
 
 
 
 Step 4
 
-: Access your "Replays" to view it
+: Infinite Flight will open (if not already) and import the replay into your "Replays"

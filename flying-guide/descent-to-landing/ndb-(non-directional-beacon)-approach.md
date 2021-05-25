@@ -2,6 +2,7 @@
 id: ndb-(non-directional-beacon)-approach
 title: NDB (Non-Directional Beacon) Approach
 meta: Learn how to fly a NDB Approach in Infinite Flight.
+type: Advanced
 order: 10
 ---
 
@@ -11,7 +12,11 @@ order: 10
 
 ## What is an NDB Approach?
 
-NDB Approaches can be flown in Infinite Flight using the techniques shown here, however ATC are currently unable to support these approach requests - for now, we recommend finding an uncontrolled airport or quiet area to practise in!
+An NDB Approach is a non-precision approach providing lateral guidance only. The Final Approach Course (as published on the relevant approach chart) utilizes a radial from the NDB to provide this lateral guidance. 
+
+
+
+NDB Approaches can be flown in Infinite Flight using the techniques shown here, however ATC are currently unable to support these approach requests - for now, we recommend finding an uncontrolled airport or quiet area to practice in!
 
 
 

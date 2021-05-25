@@ -11,14 +11,14 @@ contributor: deercrusher
 The Settings menu allows you to customize your Infinite Flight experience before and during play. Below is a guide to help you navigate your way around and to find the best settings for you!
 
 
-![Settings Page](_images/manual/frames/settings-main1.jpg)
+![Settings Page](_images/manual/frames/settings-main1.png)
 
 
 1. On the left hand side of the screen are 5 categories that split the settings up, tap each one to find settings within
 
    
 
-2. Each setting is labelled and has a brief explanation beneath it
+2. Each setting is labelled and has a brief description beneath it
 
    
 
@@ -30,7 +30,7 @@ The Settings menu allows you to customize your Infinite Flight experience before
 
    
 
-5. The Back button will take you back to the [Home Screen](/guide/getting-started/home-screen/home-screen#home-screen)
+5. The Back button will take you back to the [Home Screen](/guide/getting-started/home-user-interface/home-screen)
 
    
 
@@ -58,7 +58,7 @@ The Settings menu allows you to customize your Infinite Flight experience before
 | Show Touches                            | Useful when recording videos/tutorials                       |
 | Enable Automatic Low Power              | Enters low power mode during longer flights to save battery (this intentionally reduces frame rates to be more efficient with power consumption - it is normal to see lower quality frame rates with this setting) |
 | Automatic Engine Start                  | Always starts with the engine running (once you spawn, engines will be heard & can be seen running) |
-| Weight Units                            | Select what weight unit you want to use i.e. Kg or Lbs (aircraft fuel quantity and consumption will then been shown in this unit) |
+| Weight Units                            | Select what weight unit you want to use i.e. Kgs or Lbs (aircraft fuel quantity and consumption will then been shown in this unit) |
 | Clear Scenery Cache                     | Clear scenery data cached on local storage (users that are experiencing issues falling through taxiways, aprons, ramps, runways or experiencing any other scenery related type of issues should tap on “Clear Cache”. If issues persist after you’ve tried that, consider making a [#support](https://community.infiniteflight.com/c/support/17) ticket to report your issue) |
 | Screenshot Resolution Scale             | Resolution scale factor for screenshots                      |
 
@@ -66,7 +66,7 @@ The Settings menu allows you to customize your Infinite Flight experience before
 
 Tip
 
-: Disable auto-coordination for more control and stability during [crosswind take-offs](/guide/flying-guide/take-off-to-cruise/crosswind-tailwind-take-off-technique#crosswind%2Ftailwind-take-off-technique) & [landings](/guide/flying-guide/descent-to-landing/crosswind-tailwind-landing#crosswind-landing)
+: Disable auto-coordination for more control and stability during [crosswind take-offs](/guide/flying-guide/take-off-to-cruise/crosswind-tailwind-take-off-technique#crosswind-take-off) & [landings](/guide/flying-guide/descent-to-landing/crosswind-tailwind-landing#crosswind-landing)
 
 
 
@@ -74,7 +74,7 @@ Tip
 
  
 
-![Live Settings Page](_images/manual/frames/settings-live1.jpg)
+![Live Settings Page](_images/manual/frames/settings-live1.png)
 
 
 
@@ -91,10 +91,10 @@ Tip
 
 
 
-*Follow the steps below to download new pilot voices:
+**Follow the steps below to download new pilot voices:*
 
-- iOS: Settings > Accessibility > Spoken Content > Voices
-- Android: General Management > Language & Input > Text-To-Speech Output > Tap on Setting right of Preferred Engine > Install Voice Data
+- *iOS: Settings > Accessibility > Spoken Content > Voices*
+- *Android: General Management > Language & Input > Text-To-Speech Output > Tap on Setting right of Preferred Engine > Install Voice Data*
 
 
 
@@ -116,7 +116,7 @@ Tip
 
 
 
-![Account Settings Page](_images/manual/frames/account.jpg)
+![Account Settings Page](_images/manual/frames/account.png)
 
 
 
@@ -126,7 +126,7 @@ There are two sliders that adjust the SFX and ATC Volume. Slide your finger alon
 
 
 
-![Audio Settings Page](_images/manual/frames/settings-audio1.jpg)
+![Audio Settings Page](_images/manual/frames/settings-audio1.png)
 
 
 
@@ -145,11 +145,11 @@ Tip
 
 ## Graphics
 
-Infinite Flight supports both iOS and Android device; because of this, the graphics settings may require attention to ensure you find the settings that work best for you and your device. Unfortunately, not all devices are able to perform with all settings on high. Different combinations of high, medium and/or low may be required.
+Infinite Flight supports both iOS and Android devices; because of this, the settings may need to be changed to ensure optimum performance. Unfortunately, not all devices are able to perform with all settings on high. Different combinations of high, medium and low may be required. For a detailed look at what graphics settings each device can handle, take a look at [this](https://community.infiniteflight.com/t/device-compatibility-thread-20-3-built-by-us-for-you/323610) topic on the Infinite Flight Community Forum.
 
 
 
-![Graphics Settings Page](_images/manual/frames/settings-graphics1.jpg)
+![Graphics Settings Page](_images/manual/frames/settings-graphics1.png)
 
 
 
@@ -165,7 +165,7 @@ Infinite Flight supports both iOS and Android device; because of this, the graph
 
 ## Controls
 
- In the control settings you can further adjust your control sensitivity for each axis. The 2 axes that your device’s accelerometers utilize are:
+In the control settings you can further adjust your control sensitivity for each axis. The 2 axes that your device’s accelerometers utilize are:
 
 
 
@@ -183,7 +183,7 @@ Infinite Flight supports both iOS and Android device; because of this, the graph
 
 
 
-![Control Settings Page](_images/manual/frames/settings-controls1.jpg)
+![Control Settings Page](_images/manual/frames/settings-controls1.png)
 
 
 
@@ -207,9 +207,11 @@ Tip
 
 ## ForeFlight
 
-"ForeFlight Link" allows Infinite Flight pilots to use ForeFlight and it’s many features as if they were in a real airplane. Practice approaches and procedures, and fly a route before spending that hard-earned money on fuel! You’ll have maps, approach plates, weather, performance data, traffic and synthetic vision right from your mobile device. With ForeFlight’s new connection method, we’ve put together this video to show you how to get started!
-
 
 
 
 @[vimeo](421197610)
+
+
+
+"ForeFlight Link" allows Infinite Flight pilots to use ForeFlight and its many features as if they were in a real airplane. Practice approaches and procedures, and fly a route before spending that hard-earned money on fuel! You’ll have maps, approach plates, weather, performance data, traffic and synthetic vision right from your mobile device. With ForeFlight’s new connection method, we’ve put together this video to show you how to get started!

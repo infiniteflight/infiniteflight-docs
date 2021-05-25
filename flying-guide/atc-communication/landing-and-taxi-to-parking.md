@@ -26,7 +26,7 @@ Step 2
 
 
 
-![Call Inbound](_images/manual/frames/call-inbound.jpg)
+![Call Inbound](_images/manual/frames/call-inbound.png)
 
 
 
@@ -36,7 +36,7 @@ Step 3
 
 
 
-![Intention](_images/manual/frames/intention.jpg)
+![Intention](_images/manual/frames/intention.png)
 
 
 
@@ -56,7 +56,7 @@ Step 4
 
 
 
-![Type](_images/manual/frames/type.jpg)
+![Type](_images/manual/frames/type.png)
 
 
 
@@ -66,7 +66,7 @@ Step 5
 
 
 
-![Send](_images/manual/frames/send.jpg)
+![Send](_images/manual/frames/send.png)
 
 
 
@@ -86,7 +86,7 @@ Step 6
 
 
 
-![Sent](_images/manual/frames/sent.jpg)
+![Sent](_images/manual/frames/sent.png)
 
 
 
@@ -96,7 +96,7 @@ Step 7
 
 
 
-![Reply to Landing Clearance](_images/manual/frames/reply-to-landing-clearance.jpg)
+![Reply to Landing Clearance](_images/manual/frames/reply-to-landing-clearance.png)
 
 
 
@@ -145,11 +145,11 @@ Step 7
 
 Step 1
 
-: After landing, expeditiously exit the runway in a controller manner. The exit transmission may also include which direction to exit, and hold shot/crossing instructions for other runways
+: After landing, expeditiously exit the runway in a controlled manner. The exit transmission may also include which direction to exit, and hold shot/crossing instructions for other runways
 
 
 
-![Runway Exit Instruction](_images/manual/frames/runway-exit-instruction.jpg)
+![Runway Exit Instruction](_images/manual/frames/runway-exit-instruction.png)
 
 
 
@@ -159,7 +159,7 @@ Step 2
 
 
 
-![Wilco](_images/manual/frames/wilco.jpg)
+![Wilco](_images/manual/frames/wilco.png)
 
 
 
@@ -169,7 +169,7 @@ Step 3
 
 
 
-![Contact Ground](_images/manual/frames/contact-ground.jpg)
+![Contact Ground](_images/manual/frames/contact-ground.png)
 
 
 
@@ -185,7 +185,7 @@ Step 4
 
 
 
-![Request Taxi to Parking](_images/manual/frames/request-taxi-to-parking.jpg)
+![Request Taxi to Parking](_images/manual/frames/request-taxi-to-parking.png)
 
 
 
@@ -195,7 +195,7 @@ Step 5
 
 
 
-![Reply to Ground](_images/manual/frames/reply-to-ground.jpg)
+![Reply to Ground](_images/manual/frames/reply-to-ground.png)
 
 
 
