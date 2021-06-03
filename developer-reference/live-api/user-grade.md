@@ -92,19 +92,23 @@ _Response Type:_ `application/json`
 
 #### GradeInfo
 
-| Name                    | Type               | Description                                                                                            |
-| ----------------------- | ------------------ | ------------------------------------------------------------------------------------------------------ |
-| `userId`                | string (uuid)      | Unique identifier for the user                                                                         |
-| `virtualOrganization`   | string             | The virtual organization of the user's forum account if linked. Can be null if not set                 |
-| `discourseUsername`     | string             | The user's forum username if the account is linked. If the account isn't linked, this will be null     |
-| `groups`                | [string (uuid)]    | **Deprecated - will be removed soon.** A list of groups the user can be a part of.                     |
-| `roles`                 | [integer]          | A list of roles a user has been assigned. See below for a list of main roles.                          |
-| `errorCode`             | integer            | Status code of user query. Not in use for this endpoint.                                               |
-| `gradeDetails`          | GradeConfiguration | Full Grade Table                                                                                       |
-| `violationCountByLevel` | dict               | A dictionary with a count of violations issued to the user, split up by levels (Level 1/2/3).          |
-| `totalXP`               | double             | Total XP obtained in multiplayer                                                                       |
-| `atcOperations`         | integer            | Total number of ATC Operations.                                                                        |
-| `atcRank`               | integer            | ATC Rank on the Expert Server. See below for the ranks. Can be null if user isn't an IFATC controller. |
+| Name                    | Type                 | Description                                                                                                                       |
+| ----------------------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| `userId`                | string (uuid)        | Unique identifier for the user                                                                                                    |
+| `virtualOrganization`   | string               | The virtual organization of the user's forum account if linked. Can be null if not set                                            |
+| `discourseUsername`     | string               | The user's forum username if the account is linked. If the account isn't linked, this will be null                                |
+| `groups`                | [string (uuid)]      | **Deprecated - will be removed soon.** A list of groups the user can be a part of.                                                |
+| `roles`                 | [integer]            | A list of roles a user has been assigned. See below for a list of main roles.                                                     |
+| `errorCode`             | integer              | Status code of user query. Not in use for this endpoint.                                                                          |
+| `gradeDetails`          | GradeConfiguration   | Full Grade Table                                                                                                                  |
+| `violationCountByLevel` | dict                 | A dictionary with a count of violations issued to the user, split up by levels (Level 1/2/3).                                     |
+| `totalXP`               | double               | Total XP obtained in multiplayer                                                                                                  |
+| `atcOperations`         | integer              | Total number of ATC Operations.                                                                                                   |
+| `atcRank`               | integer              | ATC Rank on the Expert Server. See below for the ranks. Can be null if user isn't an IFATC controller.                            |
+| total12MonthsViolations | integer              | Total amount of Level 1, 2, and 3 violations received in the last 12 months                                                       |
+| lastLevel1ViolationDate | string (datetime)    | Date of the user's last Level 1 violation                                                                                         |
+| lastReportViolationDate | string (datetime)    | Date of the user's last Level 2 or 3 violation (report). Defaults to `0001-01-01T00:00:00` if the user does not have any reports. |
+| violationCountByLevel   | ViolationLevelCounts | The amount of violations the user has received, by level                                                                          |
 
 #### Roles
 
