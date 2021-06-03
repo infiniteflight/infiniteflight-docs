@@ -46,7 +46,7 @@ Tip
 
 Step 2
 
-: If ATC is active, call inbound and announce your intentions, the Tower Controller will issue you with a pattern entry instruction. If it is Unicom, you can request traffic advisories. 
+: If ATC is active, call inbound and announce your intentions, the Tower Controller will issue you with a pattern entry instruction. If it is Unicom, you can request traffic advisories
 
 
 

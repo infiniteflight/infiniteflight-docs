@@ -18,7 +18,7 @@ Step 1
 
 
 
-![Active Tower Frequency](_images/manual/frames/active-tower-frequency.jpg)
+![Active Tower Frequency](_images/manual/frames/active-tower-frequency.png)
 
 
 
@@ -28,7 +28,7 @@ Step 2
 
 
 
-![Request Departure](_images/manual/frames/request-departure.jpg)
+![Request Departure](_images/manual/frames/request-departure.png)
 
 
 
@@ -38,11 +38,11 @@ Step 3
 
 
 
-![Select Departure Runway](_images/manual/frames/select-departure-runway.jpg)
+![Select Departure Runway](_images/manual/frames/select-departure-runway.png)
 
 
 
-![Send Departure Request](_images/manual/frames/send-departure-request.jpg)
+![Send Departure Request](_images/manual/frames/send-departure-request.png)
 
 
 
@@ -58,7 +58,7 @@ Step 4
 
 
 
-![Reply to Take-Off Clearance](_images/manual/frames/reply-to-take-off-clearance.jpg)
+![Reply to Take-Off Clearance](_images/manual/frames/reply-to-take-off-clearance.png)
 
 
 
@@ -118,7 +118,7 @@ Step 1
 
 
 
-![Contact Radar Frequency](_images/manual/frames/contact-radar-frequency.jpg)
+![Contact Radar Frequency](_images/manual/frames/contact-radar-frequency.png)
 
 
 
@@ -128,7 +128,7 @@ Step 2
 
 
 
-![Reply to Handoff](_images/manual/frames/reply-to-handoff.jpg)
+![Reply to Handoff](_images/manual/frames/reply-to-handoff.png)
 
 
 
@@ -138,7 +138,7 @@ Step 3
 
 
 
-![Send and Switch](_images/manual/frames/send-and-switch.jpg)
+![Send and Switch](_images/manual/frames/send-and-switch.png)
 
 
 
@@ -155,7 +155,7 @@ Step 4
 
 
 
-![Initial Contact](_images/manual/frames/initial-contact.jpg)
+![Initial Contact](_images/manual/frames/initial-contact.png)
 
 
 

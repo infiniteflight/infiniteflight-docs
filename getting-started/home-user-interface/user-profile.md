@@ -15,11 +15,11 @@ order: 1
 
 ## Linking Community Forum Account
 
-[Callsigns](/guide/getting-started/home-user-interface/user-profile#callsigns) are used whilst flying to identify you and for the Air Traffic Controllers to communicate with you, in addition to this, a unique identifier is shown by default. If however, you have an [Infinite Flight Community](https://community.infiniteflight.com) (IFC) account, you can choose to have your username displayed instead of the unique identifier. To do this, follow the steps below to link your account:
+[Callsigns](/guide/getting-started/home-user-interface/user-profile#callsigns) are used whilst flying to identify you and for the Air Traffic Controllers to communicate with you. In addition to this, a unique user identifier is shown by default. If, however, you have an [Infinite Flight Community](https://community.infiniteflight.com) (IFC) account, you can choose to have your username displayed alongside your callsign. To link your account, follow the steps below:
 
 
 
-![Account Settings Page](_images/manual/frames/account.jpg)
+![Account Settings Page](_images/manual/frames/account.png)
 
 
 
@@ -77,37 +77,31 @@ Step 1
 
 Step 2
 
-: Tap your profile picture in the top right hand corner, a drop down box will appear. Tap the settings wheel that is in the top right hand corner of the drop down box
+: Tap your profile picture in the top right hand corner, a drop down box will appear. Tap the person icon and select "Preferences" settings wheel that is in the top right hand corner of the drop down box
 
 
 
 Step 3
 
-: Select "Preferences"
+: A new page will appear with a navigation bar on the left side of the screen, select "Profile" (on mobile devices select the drop down box called "Account" and then select "Profile")
 
 
 
 Step 4
 
-: A new page will appear, on the left hand side of the screen will be a navigation bar, select "Profile"
+: Scroll down the page to "Virtual Organization" and select the VO that you are affiliated with from the drop-down box
 
 
 
 Step 5
 
-: Scroll down the page to "Virtual Organization" and select the VO that you are affiliated with from the drop-down box
-
-
-
-Step 6
-
-: Scroll to the bottom of the page and tap "Save Changes"
+: Then scroll to the bottom of the page and tap "Save Changes"
 
 
 
 ## The Grade Table
 
-The Grade Table is broken up into 4 sections, these are:
+The Grade Table is categorized into the following 4 sections:
 
 
 
@@ -118,26 +112,26 @@ The Grade Table is broken up into 4 sections, these are:
 
 
 
-![Grade Table](_images/manual/frames/grade-table1.jpg)
+![Grade Table](_images/manual/frames/grade-table1.png)
 
 
 
-1. The first column lists the parameters that determine your grade, these are listed in the table below.
+1. The first column lists the parameters that determine your grade, these are listed in the table below
 
    
 
-2. This column (displayed in white) shows what you have currently logged/received as a pilot.
+2. This column (displayed in white) shows what you have currently logged/received as a pilot
 
    
 
 3. The final column shows the requirements that you need to meet in order to progress to the next grade:
 
    - green parameters mean you have met the requirements for the next grade
-   - orange parameters mean that you are yet to meet the requirement, this may be due to a deficiency, or if you have exceeded the limitation
+   - orange parameters mean that you are yet to meet the requirement - this may be due to a deficiency or an exceeded limitation
 
    
 
-4. The 'Show Violation History' tab will open a log which shows all violations, why they were received and if issued by a Controller, their name. This can then be used when wanting to [appeal a Level 2 or Level 3 Violation](/guide/getting-started/pilot-user-interface/violations#appealing-a-level-2-or-3-violation) if you believe it was issued in error.
+4. The "Show Violation History" tab will open a log that shows all violations, why they were received, and, if issued by a Controller, their username. This can then be used when [appealing a Level 2 or Level 3 Violation](/guide/getting-started/pilot-user-interface/violations#appealing-a-level-2-or-3-violation) if you believe it was issued in error
 
 
 
@@ -172,7 +166,7 @@ Below is a table that outlines all the Grade Table parameters and a brief descri
 | Landings (90 days)                     | Number of landings recorded in the last 90 days              |
 | Level 1 Violations (24 hours)          | Total number of Level 1 Violations accumulated in the last 24 hours |
 | Level 1 Violations (7 days)            | Total number of Level 1 Violations accumulated in the last 7 days |
-| Level 1 Violations/Landing (12 months) | Your total amount of Level 1 Violations is divided by your Landings (in the last 12 months) to determine a Violation to Landing ratio*. |
+| Level 1 Violations/Landing (12 months) | Your total amount of Level 1 Violations is divided by your Landings (in the last 12 months) to determine a Violation to Landing ratio* |
 | Level 2 Violations (1 year)            | Total number of Level 2 Violations accumulated in the last 1 year |
 | Level 3 Violations (7 days)            | Total number of Level 3 Violations in the last 7 days        |
 | Level 3 Violations (1 year)            | Total number of Level 3 Violations accumulated in the last 1 year |
@@ -184,19 +178,19 @@ Below is a table that outlines all the Grade Table parameters and a brief descri
 
 - 10 Level 1 Violations (total) and 20 Landings (12 months) would give a ratio of **0.50**
 - 10 Level 1 Violations (total) and 10 Landings (12 months) would give a ratio of **1.00**
-- 20 Level 1 Violations (total) and 10 Landings (12 months) would give a ratio of **1.50**
+- 20 Level 1 Violations (total) and 10 Landings (12 months) would give a ratio of **2.00**
 
 
 
 ## Callsigns
 
-Callsigns are used whilst flying to identify you and for the Air Traffic Controllers to communicate with you, follow the steps below to find out how to change your callsign: 
+Callsigns are used while flying to identify you and for the Air Traffic Controllers to communicate with you. Follow the steps below to change your callsign: 
 
 
 
 Step 1
 
-: From the home screen, tap your user profile in the top right hand corner of your device
+: From the [home screen](/guide/getting-started/home-user-interface/home-screen), tap your user profile in the top right hand corner of your device
 
 
 
@@ -220,13 +214,13 @@ Step 4
 
 Step 5
 
-: There are three columns displayed that can be used to customize your callsign. If you selected the "Airlines" tab, then you can scroll through the first column to select the airline you wish to use. The second column can be tapped to enter an alphanumeric identifier, tap "OK" when you are happy with your selection. Finally, a "Suffix" can be added by tapping the desired one, you can select "None" if you do not wish to use one
+: There are three columns displayed that can be used to customize your callsign. If you selected the "Airlines" tab, then you can scroll through the first column to select the airline you wish to use. The second column can be tapped to enter an alphanumeric identifier, tap "OK" when you are happy with your selection. Finally, a "Suffix" can be added by tapping the desired one. You can select "None" if you do not wish to use one
 
 
 
 Tip
 
-: Want a more realistic experience? Try to match your aircraft livery with the callsign you are using! As well as this, make sure to only add the "Heavy" suffix when you have a gross take-off weight of more than 300,000lb (136,000kg) and the "Super" suffix when operating the A380
+: Want a more realistic experience? Try to match your aircraft livery with the callsign you are using! As well as this, make sure to only add the "Heavy" suffix when you have a gross take-off weight of more than 300,000lbs (136,000kgs) and the "Super" suffix when operating the A380
 
 
 
@@ -253,6 +247,10 @@ Key:
 
 The table below shows the formatting that must be used when selecting an ID for a General Aviation callsign:
 
+
+
++++ General Aviation Callsign Formatting
+
 | Country | Format | Notes |
 |---|---|---|
 | Afghanistan | YA-*ABC*| |
@@ -262,8 +260,7 @@ The table below shows the formatting that must be used when selecting an ID for 
 | Angola | D2-*ABC*| |
 | Anguilla | VP-A*AB*| |
 | Antigua and Barbuda | V2-*ABC*| |
-| Argentina | LQ-*ABC*| |
-| Argentina | LV-*ABC*| |
+| Argentina | LQ-*ABC*, LV-*ABC* | |
 | Armenia | EK-*12345*| |
 | Aruba | P4-*ABC*| |
 | Australia | VH-*ABC*| |
@@ -282,10 +279,7 @@ The table below shows the formatting that must be used when selecting an ID for 
 | Bolivia | CP-*1234*| |
 | Bosnia and Herzegovina | T9-*ABC*| |
 | Botswana | A2-*ABC*| |
-| Brazil | PP-*ABC*| |
-| Brazil | PR-*ABC*| |
-| Brazil | PT-*ABC*| |
-| Brazil | PU-*ABC*| |
+| Brazil | PP-*ABC*, PR-*ABC*, PT-*ABC*, PU-*ABC* | |
 | British Virgin Islands | VP-L*AB*| |
 | Brunei | V8-*ABC*, V8-*AB1*, V8-*123*| |
 | Bulgaria | LZ-*ABC*| |
@@ -293,10 +287,7 @@ The table below shows the formatting that must be used when selecting an ID for 
 | Burundi | 9U-*ABC*| |
 | Cambodia | XU-*123*| |
 | Cameroon | TJ-*ABC*| |
-| Canada | CF-*ABC*| |
-| Canada | C-F*ABC*| |
-| Canada | C-G*ABC*| |
-| Canada | C-I*ABC*| |
+| Canada | CF-*ABC*, C-F*ABC*, C-G*ABC*, C-I*ABC* | |
 | Cape Verde | D4-*ABC*| |
 | Cayman Islands | VP-C*AB*| |
 | Central African Republic | TL-*ABC*| |
@@ -304,12 +295,9 @@ The table below shows the formatting that must be used when selecting an ID for 
 | Chile | CC-*ABC*| |
 | China | B-*1234*| |
 | Taiwan | B-*12345*| |
-| Hong Kong | B-H*AB*| |
-| Hong Kong | B-K*AB*| |
-| Hong Kong | B-L*AB*| |
+| Hong Kong | B-H*AB*, B-K*AB*, B-L*AB* | |
 | Macau | B-M*AB*| |
-| Colombia | HJ-*1234A*| |
-| Colombia | HK-*1234A*| |
+| Colombia | HJ-*1234A*, HK-*1234A* | |
 | Comoros | D6-*ABC*| |
 | Congo, Republic of | TN-*ABC*| |
 | Cook Islands | E5-*ABC*| |
@@ -319,10 +307,8 @@ The table below shows the formatting that must be used when selecting an ID for 
 | Cuba | CU-T*1234*| |
 | Cyprus, Republic of | 5B-*ABC*| |
 | Czech Republic | OK-*ABC*, OK-*ABC12*, OK-*1234*, OK-*A123*| |
-| Denmark | OY-*ABC*| |
+| Denmark | OY-*ABC*, OY-X*AB*, OY-B*AB* | |
 | Denmark, Greenland and the Faroe Islands | OY-H*AB*| |
-| Denmark | OY-X*AB*| |
-| Denmark | OY-B*AB*| |
 | Djibouti | J2-*ABC*| |
 | Dominica | J7-*ABC*| |
 | Dominican Republic | HI-*123AB*| |
@@ -394,9 +380,7 @@ The table below shows the formatting that must be used when selecting an ID for 
 | Marshall Islands | V7-*1234*| |
 | Mauritania | 5T-*ABC*| |
 | Mauritius | 3B-*ABC*| |
-| Mexico | XA-*ABC*| |
-| Mexico | XB-*ABC*| |
-| Mexico | XC-*ABC*, XC-*ABC12*| |
+| Mexico | XA-*ABC*, XB-*ABC*, XC-*ABC*, XC-*ABC12* | |
 | Micronesia | V6-*ABC*| |
 | Moldova | ER-*ABC*, ER-*12345*| |
 | Monaco | 3A-*ABC*| |
@@ -405,16 +389,13 @@ The table below shows the formatting that must be used when selecting an ID for 
 | Montserrat | VP-M*AB*| |
 | Morocco | CN-*ABC*| |
 | Mozambique | C9-*ABC*| |
-| Myanmar | XY-*ABC*| |
-| Myanmar | XZ-*ABC*| |
+| Myanmar | XY-*ABC*, XZ-*ABC* | |
 | Namibia | V5-*ABC*| |
 | Nauru | C2-*ABC*| |
 | Nepal | 9N-*ABC*| |
 | Netherlands | PH-*ABC*| |
 | Netherlands Antilles | PJ-*ABC*| |
-| New Zealand | ZK-*ABC*| |
-| New Zealand | ZL-*ABC*| |
-| New Zealand | ZM-*ABC*| |
+| New Zealand | ZK-*ABC*, ZL-*ABC*, ZM-*ABC* | |
 | Nicaragua | YN-*ABC*| |
 | Niger | 5U-*ABC*| |
 | Nigeria | 5N-*ABC*| |
@@ -427,8 +408,7 @@ The table below shows the formatting that must be used when selecting an ID for 
 | Peru | OB-*1234*| |
 | Philippines | RPC-*1234*| |
 | Poland | SP-*ABC*| |
-| Portugal | CR-*ABC*| |
-| Portugal | CS-*ABC*| |
+| Portugal | CR-*ABC*, CS-*ABC* | |
 | Qatar | A7-*ABC*| |
 | Reunion Island | F-OD*AB*| |
 | Romania | YR-*ABC*| |
@@ -442,8 +422,7 @@ The table below shows the formatting that must be used when selecting an ID for 
 | San Marino | T7-*ABC*| |
 | Sao Tome and Principe | S9-*ABC*| |
 | Saudi Arabia | HZ-*ABC*, HZ-*AB1*, HZ-*AB12*, HZ-*ABC1*| |
-| Senegal | 6V-*ABC*| |
-| Senegal | 6W-*ABC*| |
+| Senegal | 6V-*ABC*, 6W-*ABC* | |
 | Serbia | YU-*ABC*| |
 | Seychelles | S7-*ABC*| |
 | Sierra Leone | 9L-*ABC*| |
@@ -452,9 +431,7 @@ The table below shows the formatting that must be used when selecting an ID for 
 | Slovenia | S5-*ABC*| |
 | Solomon Islands | H4-*ABC*| |
 | Somalia | 6O-*ABC*| |
-| South Africa | ZS-*ABC*| |
-| South Africa | ZT-*ABC*| |
-| South Africa | ZU-*ABC*| |
+| South Africa | ZS-*ABC*, ZT-*ABC*, ZU-*ABC* | |
 | South Sudan | Z8-*ABC*| |
 | Spain | EC-*ABC*| |
 | Sri Lanka | 4R-*ABC*| |
@@ -481,7 +458,7 @@ The table below shows the formatting that must be used when selecting an ID for 
 | United Arab Emirates | A6-*ABC*| |
 | United Kingdom | G-*ABCD*| |
 | United Nations | 4U-*ABC*| |
-| United States of America | N*1*, N*12*, N*123*, N*1234*, N*12345*, N*1A*, N*12A*, N*123A*, N*1234A*, N*1AB*, N*12AB*, N*123AB*| Cannot contain I or O. See the [FAA website](https://www.faa.gov/licenses_certificates/aircraft_certification/aircraft_registry/forming_nnumber/) for more information. |
+| United States of America | N*1*, N*12*, N*123*, N*1234*, N*12345*, N*1A*, N*12A*, N*123A*, N*1234A*, N*1AB*, N*12AB*, N*123AB*| Cannot contain I or O. See the [FAA website](https://www.faa.gov/licenses_certificates/aircraft_certification/aircraft_registry/forming_nnumber/) for more information |
 | Uruguay | CX-*ABC*|  |
 | Uzbekistan | UK*12345*| |
 | Vanuatu | YJ-*AB1*, YJ-*AB12*| |
@@ -490,3 +467,6 @@ The table below shows the formatting that must be used when selecting an ID for 
 | Yemen | 7O-*ABC*| |
 | Zambia | 9J-*ABC*| |
 | Zimbabwe | Z-*ABC*|  |
+
++++
+

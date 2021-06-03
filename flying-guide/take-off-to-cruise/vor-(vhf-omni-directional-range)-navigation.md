@@ -16,7 +16,7 @@ order: 10
 
 ## What is a VOR?
 
-The VHF (Very High Frequency) Omni-Directional Range, otherwise known as VOR; is a ground-based transmitter that emits radio signals and is identified with it's own frequency and three letter code. Aircraft equipped with VHF Navigation Receivers can then interpret these signals and use them for navigation purposes. To use VOR's for navigation, you will need to [tune to the correct frequency](/guide/getting-started/pilot-user-interface/navigation#tuning-to-a-vor-or-adf), and then [display this in the cockpit](/guide/getting-started/pilot-user-interface/navigation#displaying-a-vor-in-your-aircraft).
+The VHF (Very High Frequency) Omni-Directional Range, otherwise known as VOR; is a ground-based transmitter that emits radio signals and is identified with it's own frequency and three letter code. Aircraft equipped with VHF Navigation Receivers can then interpret these signals and use them for navigation purposes. To use VORs for navigation, you will need to [tune to the correct frequency](/guide/getting-started/pilot-user-interface/navigation#tuning-to-a-vor-or-adf), and then [display this in the cockpit](/guide/getting-started/pilot-user-interface/navigation#displaying-a-vor-in-your-aircraft).
 
 
 
@@ -48,8 +48,9 @@ The Horizontal Situation Indicator or HSI, is the primary instrument used for na
 - Double blue pointer to represent BRG (bearing) 2 - when tuned to a navigation source (ILS, VOR or NDB) it will point to the navigation aid
 - Course Deviation Indicator (CDI) made up of the Course Pointer and Lateral Deviation Bar - displayed in magenta for GPS, and light green for NAV 1 and NAV 2
 
+![HSI Elements](_images/manual/graphics/hsi-elements.jpg)
 
-![HSI Elements](_images/manual/graphics/HSI.jpg)
+
 
 
 ## How to Set Up your Horizontal Situation Indicator (HSI)
@@ -136,23 +137,23 @@ We have departed Athens (LGAV) off of Runway 03R, and are making a right downwin
 
 Before departure we have tuned and displayed the ATV VOR (NAV 1 in this example), selected a CRS of 270 and ensured that the SOURCE is set to NAV 1.
 
-![Avionics Set-Up](_images/manual/frames/avionics-set-up.jpg)
+![Avionics Set-Up](_images/manual/frames/avionics-set-up.png)
 
 Once we depart and make a right turn to head downwind, our heading will be 210, this is a 60 intercept so instead we have adjusted our heading to 240 degrees to give us a slightly shallower intercept as we are not far from the VOR.
 
-![Right Downwind](_images/manual/frames/right-downwind.jpg)
+![Right Downwind](_images/manual/frames/right-downwind.png)
 
 With a heading of 240 degrees, we can watch the blue bearing pointer (representing where the VOR is) start to move, as this gets closer to 270 I have started to anticipate when the turn will be required onto a heading of 270.
 
-![Adjusted Intercept Heading](_images/manual/frames/adjusted-intercept-heading.jpg)
+![Adjusted Intercept Heading](_images/manual/frames/adjusted-intercept-heading.png)
 
 As the Lateral Deviation Bar comes "alive" I begin the turn to fly the 270 magnetic bearing to the beacon. 
 
-![CDI Alive](_images/manual/frames/cdi-alive.jpg)
+![CDI Alive](_images/manual/frames/cdi-alive.png)
 
 Once we are on this heading, we can adjust it to ensure that we are tracking on the 090 radial to the beacon (taking wind drift into account).
 
-![Heading 270](_images/manual/frames/heading-270.jpg)
+![Heading 270](_images/manual/frames/heading-270.png)
 
 
 
@@ -160,5 +161,5 @@ Tip
 
 : Use the dashed green line on the HSI to help you understand the affect of wind drift when selecting an alternate heading
 
-![Tracking 090 Radial](_images/manual/frames/tracking-090-radial.jpg)
+![Tracking 090 Radial](_images/manual/frames/tracking-090-radial.png)
 

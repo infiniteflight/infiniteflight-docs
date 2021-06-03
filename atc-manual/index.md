@@ -12,106 +12,75 @@ Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is desi
 
 
 
-| **NOTICE BEFORE READING THIS MANUAL** |                                          |
-| ------------------------------------- | ---------------------------------------- |
-| **Must**{.red}                        | The use of **must**{.red} or **must not**{.red} are considered **MANDATORY**{.red} and strict compliance is **REQUIRED**{.red} |
-| **Should**{.red}                      | The use of **should**{.red} or **should not**{.red} are considered **ADVISORY**{.red} and compliance is **STRONGLY RECOMMENDED**{.red} |
+Must
+
+: The use of **must**{.red} or **must not**{.red} within this manual is considered **MANDATORY** and strict compliance is **REQUIRED**
+
+Should
+
+: The use of **should**{.red} or **should not**{.red} within this manual is considered **ADVISORY** and compliance is **STRONGLY RECOMMENDED**
 
 
 
-## Version: 20.3
+## Version: 21.2.0
 
-## Last Updated: 1930Z - 17 DEC 20
-
-
-
-+++ Summary of Changes - Version: 20.3 (CURRENT VERSION)
-
-| Location                 | Change                                                       |
-| ------------------------ | ------------------------------------------------------------ |
-| All                      | Hyperlinks fixed                                             |
-| 1.1.3                    | Amended to account for the new Report Form and Feedback Status Spreadsheet |
-| 1A.1                     | IFATC Discord can be used for advice but the IFC Forum is the only place for official in-app support |
-| 1A.1.4                   | *!manualfeedback*, *!feedbackstatus*, and *!lightaircraft* bot commands amended/added |
-| 1B.1.6                   | Spelling mistake fixed                                       |
-| 3.2.2                    | Pro Tip added to help clarify departure sequencing           |
-| 3.3.2                    | Clarification on the use of "Continue Inbound" added, a pattern entry is still required |
-| 3.6.3                    | Added a note to clarify the use of "if req"                  |
-| 4.1.5                    | Minor wording correction                                     |
-| 7.3 / 7.5                | Pro Tip added to remind Candidates to have adequate battery life and reliable internet connections for training and testing sessions |
-| 7.5.7                    | Officer Check Ride phase introduced                          |
-| 7.5.8                    | Flowchart label renamed for consistency with 7.4.7           |
-| 7A.1.7 / 7B.1.2 / 7C.1.4 | Testers **must not**{.red} "react" to the request if all available slots are already filled |
-| 7A.2.3                   | Reference removed to old google spreadsheets that are no longer in use |
-| 7A.2.3                   | No Training to be conducted between 1700Z and 2359Z on Fridays |
-| 7A.2.7                   | Wording adjusted slightly to emphasize that any form of training is not authorized at test sites |
-| 7B.1.1                   | Only people involved in a Practical Test are authorized to attend |
-| 7B.2 / 7B.3              | Pro Tip added to remind Trainers that any form of training is not authorized at test sites |
-| 7B.2.1                   | Spelling mistake fixed                                       |
-| 7C.2.4                   | Guidance added on handling "no shows" to the Initial Practical Test |
-| 7C.2.4                   | Pro Tip added to remind Recruiters to inform Candidates of Training if they become eligible |
-| 7C.2.6                   | Guidance added for Recruiters to monitor Candidates activity during the Recruitment process |
-| 7C.3.3                   | Pro Tip added providing Recruiters with guidance on removing Controllers from *#testers* before a test |
-| 7D.4.4                   | Supervisor guidance for adding notes to Controller profiles further clarified |
-
-+++
+## Last Updated: 1230Z - 01 JUN 21
 
 
 
-+++ Summary of Changes - Version: 20.2.2
++++ Summary of Changes - Version: 21.2.0 (CURRENT VERSION)
 
 | Location | Change                                                       |
 | -------- | ------------------------------------------------------------ |
-| 1.1.5    | VC (Voice Channel) abbreviation added                        |
-| 1A.1.3   | *#botcommands* and *#controllers[1-5]* added                 |
-| 1A.1.4   | Available commands updated                                   |
-| 1A.1.5   | Introduction of guidance for use of Voice Channels within Discord |
-| 1A.2.1   | Changes made to accommodate the use of Voice Channels        |
-| 1A.2.1   | Region changeover grace period reduced from 1 hour to 30 minutes |
-| 4.1.3    | Minor wording correction (broadcast of ATIS change only required on Ground/Tower - currently not available on Radar) |
-| 5.2.1    | Minor restructuring of paragraph                             |
-| 6.2.3    | Minor wording correction                                     |
-| 6.8.9    | A key for flight plan approach prefixes added                |
-| 6.9.2    | The GPS Approach is authorized provided the pilot has a published procedure in their flight plan (and not just random waypoints) leading to the intended arrival runway |
-| 7.1.4    | Minor wording correction (1 day changed to 24 hour period)   |
-| 7.3.4    | Automatic fail if aircraft separation lost in The Initial Practical Test |
-| 7.5.6    | Automatic fail if terrain/aircraft separation lost in The Radar Practical Test |
-| 7A.1.7   | *#trainer-trainee[1-3]* added                                |
-| 7A.1.8   | Trainer specific guidance for use of Voice Channels within Discord |
-| 7A.2.8   | Initial and Radar Trainer Checklist incorporated from Google Docs |
-| 7B.2.1   | Maximum aircraft permitted at The Initial Practical Test added |
-| 7B.3.1   | Maximum aircraft permitted at The Radar Practical Test added |
-| 7C.1.4   | *#trainer-trainee[1-3]* added                                |
-| 7D.1.3   | Activity requirements added                                  |
-| 7D.4.1   | Guidance on adding notes to Controller's records included    |
+| 6.10.7   | Pro Tip added to clarify that reduced separation for parallel ops is only to be applied on ILS approaches |
+| 7D.2.4   | Reference to *#supervisors* Discord Channel removed          |
+| 7D.2.5   | Added reference to the Appeals Team when violations are issued for a final verdict |
 
 +++
 
 
 
-+++ Summary of Changes - Version: 20.2.1
++++ Summary of Changes - Version: 21.1.1
 
 | Location        | Change                                                       |
 | --------------- | ------------------------------------------------------------ |
-| 1.1.3           | Minor wording correction to accommodate Discord migration    |
-| 1A.1 - 4        | Minor wording corrections to accommodate Discord migration   |
-| 1A.1.3          | Channel purposes adjusted for Discord as well as the addition of new channels (i.e. *#announcements*, *#infinite-flight-rules*, *#offtopic* and *#role-assignments*). #issues channel removed |
-| 1A.2.1          | Controllers Discord Nickname **must**{.red} be the same as their IFC Username. In addition, Controllers **must**{.red} link their Community Forum Account before controlling |
-| 1A.5.1          | Minor wording correction to accommodate Discord migration    |
-| 1B.2.2          | Minor wording correction to accommodate Discord migration    |
-| 7.5.1           | Minor wording correction to accommodate Discord migration    |
-| 7.5.5           | Minor wording correction to accommodate Discord migration    |
-| 7A.1.7          | Minor wording correction to accommodate Discord migration    |
-| 7A.2.5          | Minor wording correction to accommodate Discord migration    |
-| 7A.3.3          | Minor wording correction to accommodate Discord migration    |
-| 7B.1.1          | Minor wording correction to accommodate Discord migration    |
-| 7B.1.2          | Reference to *#testers[1-3]* Discord channels added          |
-| 7B.1.3 / 7B.1.4 | Original 7B.1.2/7B.1.3 moved down by one to 7B.1.3/7B.1.4 respectively |
-| 7C.1.4          | Addition of Discord Channel information for Recruiters       |
-| 7C.2.2          | Minor wording correction to accommodate Discord migration    |
-| 7C.4.1          | Minor wording correction to accommodate Discord migration    |
-| 7D.1.1          | Minor wording correction to accommodate Discord migration    |
-| 7D.3.1          | Minor wording correction to accommodate Discord migration    |
+| 1A.1.2 / 1A.2.2 | Removal of *#controlling[1-5]* Discord voice channels        |
+| 1A.1.4 - 1A.1.8 | Guidance on new temporary Voice Channels added               |
+| 1A.4.2          | Minimum controlling times have now been reduced to 30 minutes for all facilities |
+| 1A.5.3          | Added more detail on how Supervisors are selected            |
+| 1A.5.4          | 1A.5.3 moved to 1A.5.4                                       |
+| 4.2.1           | Removal of "Severe Weather" ATIS remark                      |
+| 6.6.12          | Minor spelling mistake corrected                             |
+| 6.10.3          | Minor wording correction with example now referencing a westerly runway, image 6.10.3.1 will be changed in due course to support this |
+| 7A.2.7          | "Must" changed to "should"                                   |
+| 7D.4.2          | Guidance for Supervisors on issuing feedback                 |
+
++++
+
+
+
++++ Summary of Changes - Version: 21.1.0
+
+| Location                       | Change                                                       |
+| ------------------------------ | ------------------------------------------------------------ |
+| 1.1                            | Introduction page renamed                                    |
+| 1.1.4 / 6.8.6                  | Reference to ifatc.org removed (original 1.1.4 removed and 1.1.5 moved up to replace it) |
+| 1.2                            | Abbreviations moved to new page                              |
+| Section 1A                     | Complete rework                                              |
+| Section 1B                     | Complete rework                                              |
+| 3.2.10                         | Guidance for Tower Controllers on when to issue "Frequency Changed Approved" |
+| 3.4.1                          | Added image of the traffic pattern                           |
+| Section 4                      | Complete rework                                              |
+| 4.2.1                          | Use of "FPL required" in ATIS expanded to include when SID/STAR use is mandated |
+| 6.4.4 / 6.6.2 / 6.6.11 / 6.8.5 | Wording standardized for the use of "Altitude at your discretion" |
+| 6.6.10                         | Center Controllers can accept approach requests for an airport with an Approach Controller present, if the approach in use is known |
+| 6.10.5                         | Clarification on the use of "reasonable" when issuing an ILS clearance without vectors |
+| 6.10.7 / 6.10.8                | Guidance added to cover parallel operations                  |
+| 6.13.3 / 6.13.4 / 6.14.9       | Guidance added to cover the introduction of "maintain XXXkts until X mile final" |
+| 6.14.3                         | Minor formatting optimization                                |
+| 7.4.2 / 7.5.7                  | Removal of requirement to include an asterisk when in a Check Ride phase |
+| 7.5.1                          | Removal of ATC Schedule reference                            |
+| 7.5.8                          | Recruiters no longer required to poll at the end of an Officer Check Ride phase |
 
 +++
 

@@ -1,18 +1,18 @@
 ---
 id: atis
 title: Get Airport ATIS
-meta: Overview of the ATC endpoint of the Infinite Flight Live API
-order: 8
+meta: Overview of the Airport ATIS endpoint of the Infinite Flight Live API
+order: 10
 contributor: KaiM
 ---
 
 # Get Airport ATIS
 
-Retrieve the ATIS for an airport, if any.
+Retrieve the ATIS for an airport on a specific server if it is active.
 
 ## Resource
 
-**GET** `https://api.infiniteflight.com/public/v2/airport/atis?airportIcao={airportIcao}&sessionId={sessionId}`
+**GET** `https://api.infiniteflight.com/public/v2/airport/{airportIcao}/atis/{serverId}`
 
 ## Authorization
 
@@ -35,7 +35,7 @@ Include your API key (`<apikey>`) by either:
 ```json
 {
     "errorCode":0,
-    "result":"Manchester  airport, ATIS information DELTA, time 2355 ZULU, Wind 350 at 6 Visibility 21, Temperature 2, Dew Point 0, QNH 1024. Remarks, no pattern work allowed, no light aircraft accepted at this time. Landing Runways 05L and 05R, Departing Runways 05L and 05R. Advise on initial contact, you have information DELTA."
+    "result":"Manchester Airport, ATIS information DELTA, time 2355 ZULU, Wind 350 at 6 Visibility 21, Temperature 2, Dew Point 0, QNH 1024. Remarks, no pattern work allowed, no light aircraft accepted at this time. Landing Runways 05L and 05R, Departing Runways 05L and 05R. Advise on initial contact, you have information DELTA."
 }
 ```
 

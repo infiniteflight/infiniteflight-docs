@@ -1,5 +1,0 @@
----
-ordering:
-  - meta
-  - pattern-work
----

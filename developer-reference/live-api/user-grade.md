@@ -2,7 +2,7 @@
 id: user-grade
 title: Get User Grade
 meta: Overview of the user grade endpoint of the Infinite Flight Live API
-order: 7
+order: 9
 contributor: KaiM
 ---
 
@@ -60,6 +60,17 @@ Include your API key (`<apikey>`) by either:
       68
     ],
     "userId": "b0018209-e010-40a0-afe1-00ecd5856c5e",
+    "violationCountByLevel": {
+      "level1": 9,
+      "level2": 0,
+      "level3": 0
+    },
+    "roles": [
+      41,
+      53,
+      61,
+      64
+    ],
     "virtualOrganization": "IFATC [IFATC]",
     "discourseUsername": "KaiM",
     "groups": [
@@ -81,47 +92,29 @@ _Response Type:_ `application/json`
 
 #### GradeInfo
 
-| Name                    | Type                 | Description                                                                                                                       |
-| ----------------------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| gradeDetails            | GradeConfiguration   | Full Grade Table                                                                                                                  |
-| totalXP                 | double               | Total XP obtained in multiplayer                                                                                                  |
-| atcOperations           | integer              | Total number of ATC Operations.                                                                                                   |
-| atcRank                 | integer              | ATC Rank on the Expert Server. See below for the ranks. `null` if user isn't an IFATC controller.                                 |
-| total12MonthsViolations | integer              | Total amount of Level 1, 2, and 3 violations received in the last 12 months                                                       |
-| lastLevel1ViolationDate | string (datetime)    | Date of the user's last Level 1 violation                                                                                         |
-| lastReportViolationDate | string (datetime)    | Date of the user's last Level 2 or 3 violation (report). Defaults to `0001-01-01T00:00:00` if the user does not have any reports. |
-| violationCountByLevel   | ViolationLevelCounts | The amount of violations the user has received, by level                                                                          |
-| roles                   | [int]                | Roles the user has assigned to them. Main roles are `Staff = 1, Moderator = 2, Ifatc = 64`                                        |
-| userId                  | stirng (uuid)        | The user's unique ID                                                                                                              |
-| virtualOrganization     | string               | The user's VO affiliation                                                                                                         |
-| discourseUsername       | string               | The user's forum username, or `null` if they are flying anonymously or don't have an account linked                               |
-| groups                  | [string (uuid)]      | Array of Group IDs for the groups a user is part of                                                                               |
-| errorCode               | integer              | Not in use for this endpoint                                                                                                      |
+| Name                    | Type               | Description                                                                                            |
+| ----------------------- | ------------------ | ------------------------------------------------------------------------------------------------------ |
+| `userId`                | string (uuid)      | Unique identifier for the user                                                                         |
+| `virtualOrganization`   | string             | The virtual organization of the user's forum account if linked. Can be null if not set                 |
+| `discourseUsername`     | string             | The user's forum username if the account is linked. If the account isn't linked, this will be null     |
+| `groups`                | [string (uuid)]    | **Deprecated - will be removed soon.** A list of groups the user can be a part of.                     |
+| `roles`                 | [integer]          | A list of roles a user has been assigned. See below for a list of main roles.                          |
+| `errorCode`             | integer            | Status code of user query. Not in use for this endpoint.                                               |
+| `gradeDetails`          | GradeConfiguration | Full Grade Table                                                                                       |
+| `violationCountByLevel` | dict               | A dictionary with a count of violations issued to the user, split up by levels (Level 1/2/3).          |
+| `totalXP`               | double             | Total XP obtained in multiplayer                                                                       |
+| `atcOperations`         | integer            | Total number of ATC Operations.                                                                        |
+| `atcRank`               | integer            | ATC Rank on the Expert Server. See below for the ranks. Can be null if user isn't an IFATC controller. |
 
-#### Groups
+#### Roles
 
-The main groups are as follows.
+The main roles are as follows.
 
-| ID                                     | Name          |
-| -------------------------------------- | ------------- |
-| `d07afad8-79df-4363-b1c7-a5a1dde6e3c8` | Staff         |
-| `8c93a113-0c6c-491f-926d-1361e43a5833` | Moderators    |
-| `df0f6341-5f6a-40ef-8b73-087a0ec255b5` | IFATC Members |
-
-#### ATC Ranks
-
-The ATC Ranks are as follows.
-
-| ID  | Name           |
-| --- | -------------- |
-| 0   | Observer       |
-| 1   | ATC Trainee    |
-| 2   | ATC Apprentice |
-| 3   | ATC Specialist |
-| 4   | ATC Officer    |
-| 5   | ATC Supervisor |
-| 6   | ATC Recruiter  |
-| 7   | ATC Manager    |
+| ID  | Name                  |
+| --- | --------------------- |
+| 1   | Infinite Flight Staff |
+| 2   | Moderators            |
+| 64  | IFATC Members         |
 
 #### Groups
 
