@@ -24,7 +24,7 @@ Should
 
 ## Version: 21.2.0
 
-## Last Updated: 1230Z - 01 JUN 21
+## Last Updated: 1130Z - 07 JUN 21
 
 
 
@@ -32,6 +32,7 @@ Should
 
 | Location | Change                                                       |
 | -------- | ------------------------------------------------------------ |
+| 1A.5.2   | Removal of minimum activity percentage when applying for Radar Training |
 | 6.10.7   | Pro Tip added to clarify that reduced separation for parallel ops is only to be applied on ILS approaches |
 | 7D.2.4   | Reference to *#supervisors* Discord Channel removed          |
 | 7D.2.5   | Added reference to the Appeals Team when violations are issued for a final verdict |
@@ -83,5 +84,4 @@ Should
 | 7.5.8                          | Recruiters no longer required to poll at the end of an Officer Check Ride phase |
 
 +++
-
 

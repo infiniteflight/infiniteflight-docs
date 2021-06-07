@@ -19,7 +19,7 @@ Tip
 
 
 
-[INSERT CLIP]
+@[vimeo](558244099)
 
 
 

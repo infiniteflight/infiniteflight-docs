@@ -2,7 +2,7 @@
 id: review-and-release-process
 title: Review and Release Process
 meta: Learn how the Review and Release Process for 3D Airports is conducted within Infinite Flight.
-order: 1
+order: 2
 ---
 
 

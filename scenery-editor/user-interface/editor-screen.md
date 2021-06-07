@@ -231,11 +231,13 @@ This contains a repository of all available facade styles and their respective f
 
 
 
-Currently it is recommended to use the "Airport/Scen Editor" camera.
+Tip
+
+: Currently it is recommended to use the "Airport/Scen Editor" camera
 
 
 
-**[Video clip to be added to show how to use this]**{.red}
+@[vimeo](558260851)
 
 
 
