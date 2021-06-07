@@ -27,6 +27,7 @@ Tip
 - Objects within boundary have their altitudes set
 - Duplicate Buildings have been verified removed if Download OSM and Download OSM at Cursor were utilized
 
+
 Tip
 
 : Switch time and day to sunset or sunrise while conducting the secondary sweep of the airport boundary to ensure no green building outlines are visible

@@ -2,7 +2,7 @@
 id: properties
 title: Properties
 meta: Learn how to edit object properties within the Scenery Editor of Infinite Flight.
-order: 2
+order: 3
 ---
 
 
