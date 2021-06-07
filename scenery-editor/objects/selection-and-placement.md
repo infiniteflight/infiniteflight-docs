@@ -2,7 +2,7 @@
 id: selection-and-placement
 title: Selection and Placement
 meta: Learn how to select and place objects within the Scenery Editor of Infinite Flight.
-order: 1
+order: 2
 ---
 
 
