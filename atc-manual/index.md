@@ -24,7 +24,7 @@ Should
 
 ## Version: 21.2.0
 
-## Last Updated: 1130Z - 07 JUN 21
+## Last Updated: 0915Z - 09 JUN 21
 
 
 
@@ -34,6 +34,7 @@ Should
 | -------- | ------------------------------------------------------------ |
 | 1A.5.2   | Removal of minimum activity percentage when applying for Radar Training |
 | 6.10.7   | Pro Tip added to clarify that reduced separation for parallel ops is only to be applied on ILS approaches |
+| 7.5.8    | Minor wording correction in Radar Training flowchart         |
 | 7D.2.4   | Reference to *#supervisors* Discord Channel removed          |
 | 7D.2.5   | Added reference to the Appeals Team when violations are issued for a final verdict |
 
