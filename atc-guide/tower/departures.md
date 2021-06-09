@@ -11,7 +11,7 @@ order: 2
 
 
 
-[INSERT CLIP]
+@[vimeo](560144457)
 
 
 
@@ -121,7 +121,7 @@ Manual
 
 
 
-[INSERT CLIP]
+@[vimeo](560560579)
 
 
 
