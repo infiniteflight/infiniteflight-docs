@@ -28,7 +28,5 @@ Manual
 
 
 
-[INSERT CLIP]
-
-
+@[vimeo](560553430)
 
