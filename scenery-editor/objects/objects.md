@@ -1,13 +1,13 @@
 ---
-id: technical-locations
-title: Technical Locations
-meta: Learn how the technical locations of certain objects within the Scenery Editor of Infinite Flight.
-order: 4
+id: objects
+title: Objects
+meta: A list of all current objects within the Scenery Editor of Infinite Flight.
+order: 1
 ---
 
 
 
-# Technical Locations
+# Objects
 
 
 

@@ -1,0 +1,58 @@
+---
+id: review-and-release-process
+title: Review and Release Process
+meta: Learn how the Review and Release Process for 3D Airports is conducted within Infinite Flight.
+order: 2
+---
+
+
+
+# Review and Release Process
+
+
+
+## Review 
+
+Tip
+
+: All conversation relating to a specific airport must be done within the IFC [Scenery Editing](https://community.infiniteflight.com/c/scenery-editing/47) category for that particular airport to ensure a record is kept
+
+
+
+The following process outlines how airports are reviewed before release:
+
+
+
+Step 1
+
+: Staff will select the next airports for release
+
+
+
+Step 2
+
+: The selected airports will then be assigned to editors (if they have not already been assigned/edited)
+
+
+
+Step 3
+
+: If the airport has already been completed, the airport will be passed onto the 3D Airport Reviewers for review. If the airport is yet to be edited (or still in progress), a deadline for completion will be established and other editors will be assigned if required to ensure this is met
+
+
+
+Tip
+
+: 3D Airport Reviewers should avoid reviewing airports that they have edited. In these circumstances another 3D Airport Reviewer is required for a final verdict
+
+
+
+Step 4
+
+: Following a review, the 3D Airport Reviewers will provide feedback as required and this will continue until the airport is "Ready for Release" 
+
+
+
+## Release
+
+Once all airports that are to be included in the next release are marked as "Ready for Release" from the 3D Airport Reviewers, this will be passed onto staff for release. 

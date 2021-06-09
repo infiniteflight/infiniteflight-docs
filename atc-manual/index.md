@@ -22,13 +22,27 @@ Should
 
 
 
-## Version: 21.1.1
+## Version: 21.2.0
 
-## Last Updated: 1100Z - 21 MAY 21
+## Last Updated: 0915Z - 09 JUN 21
 
 
 
-+++ Summary of Changes - Version: 21.1.1 (CURRENT VERSION)
++++ Summary of Changes - Version: 21.2.0 (CURRENT VERSION)
+
+| Location | Change                                                       |
+| -------- | ------------------------------------------------------------ |
+| 1A.5.2   | Removal of minimum activity percentage when applying for Radar Training |
+| 6.10.7   | Pro Tip added to clarify that reduced separation for parallel ops is only to be applied on ILS approaches |
+| 7.5.8    | Minor wording correction in Radar Training flowchart         |
+| 7D.2.4   | Reference to *#supervisors* Discord Channel removed          |
+| 7D.2.5   | Added reference to the Appeals Team when violations are issued for a final verdict |
+
++++
+
+
+
++++ Summary of Changes - Version: 21.1.1
 
 | Location        | Change                                                       |
 | --------------- | ------------------------------------------------------------ |
@@ -69,34 +83,6 @@ Should
 | 7.4.2 / 7.5.7                  | Removal of requirement to include an asterisk when in a Check Ride phase |
 | 7.5.1                          | Removal of ATC Schedule reference                            |
 | 7.5.8                          | Recruiters no longer required to poll at the end of an Officer Check Ride phase |
-
-+++
-
-
-
-+++ Summary of Changes - Version: 20.3.1
-
-| Location                 | Change                                                       |
-| ------------------------ | ------------------------------------------------------------ |
-| 1A.1.3                   | See *#announcements* Discord channel for more information    |
-| 1A.1.3                   | See *#announcements* Discord channel for more information    |
-| 1A.1.3                   | See *#announcements* Discord channel for more information    |
-| 1A.2.1                   | See *#announcements* Discord channel for more information    |
-| 1A.3.1                   | See *#announcements* Discord channel for more information    |
-| 1B.1.5                   | See *#announcements* Discord channel for more information    |
-| 1B.1.6                   | See *#announcements* Discord channel for more information    |
-| 1B.2.1                   | See *#announcements* Discord channel for more information    |
-| 4.1.3                    | Reference to broadcast messages being sent on Radar re-added following an in-app fix |
-| 4.1.6                    | Removed reference to in-app restrictions that no longer apply |
-| 6.6.7                    | VFR Semi-Circular Rules added                                |
-| 6.7.2                    | Removal of reference to navigation aids until this is fixed in-app |
-| 6.9.4                    | Guidance added on the use of vectors for GPS Approaches      |
-| 7.2.2                    | Section 7E added                                             |
-| 7.3.2                    | Removal of requirement to have made at least 1 attempt at the Initial Practical Test before Training |
-| 7.3.4                    | Clarification on separation minima to be applied             |
-| 7A.2.6 / 7A.3.6 / 7C.2.4 | See respective Discord channels for more information         |
-| 7D.2.1 / 7D.2.4          | See relevant Discord channel for more information            |
-| Section 7E               | See relevant Discord channel for more information            |
 
 +++
 
