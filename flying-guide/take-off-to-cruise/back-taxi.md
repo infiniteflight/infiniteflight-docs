@@ -43,7 +43,7 @@ Step 3
 
  
 
-| LIGHTS  |        |
+| LIGHTS  | Action |
 | ------- | ------ |
 | Strobes | **ON** |
 | Land    | **ON** |

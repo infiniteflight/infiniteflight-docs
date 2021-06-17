@@ -17,7 +17,7 @@ Below is a checklist that editors should ensure is completed before marking an a
 
 Tip
 
-: If you would like to download this checklist to "tick" off as you go, it can be downloaded here (link coming soon)
+: If you leave this page, items that you have "checked off" will not be remembered. Do not navigate away or refresh this page until you have completed the checklist 
 
 
 
