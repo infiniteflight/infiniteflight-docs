@@ -13,25 +13,33 @@ order: 3
 
 Step 1
 
-: Select the building by tapping on or near the blue circle that is in the center of the object. You can also tap, hold and then drag your finger on the screen to select multiple buildings (a white box will appear to show the catchment area)
+: Select the building by tapping on or near the blue circle that is in the center of the object **(1)**. You can also tap, hold and then drag your finger on the screen **(2)** to select multiple buildings (a white box will appear to show the catchment area)
+
+
+
+![Selecting Buildings](_images/manual/frames/selecting-buildings.jpg)
 
 
 
 Step 2
 
-: The circle will turn magenta to indicate it has been selected
+: The circle will turn magenta **(3)** to indicate it has been selected
 
 
 
 Step 3
 
-: Tap the "Building" button on the left side of the screen, and then "Edit Building"
+: Tap the "Building" button **(4)** on the left side of the screen, and then "Edit Building" **(5)**
+
+
+
+![Editing Buildings](_images/manual/frames/editing-buildings.jpg)
 
 
 
 Tip
 
-: Ensure that you have the "Move" button on the right side of the screen is selected (highlighted in orange)
+: Ensure that the "Move" button **(6)** on the right side of the screen is selected (highlighted in orange)
 
 
 

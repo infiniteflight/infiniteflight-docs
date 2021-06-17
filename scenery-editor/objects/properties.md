@@ -33,11 +33,11 @@ Step 3
 | -------------------- | ------------------------------------------------------------ |
 | Scale                | Tap the "+/-" symbols to adjust the scale of the object      |
 | Orientation          | Tap the "+/-" symbols to adjust the orientation of the object |
-| 3D Model Name        | **Shows the name of the object**{.red}                       |
-| Animations           | **Shows the animations that are currently added to the object**{red} |
-| 3D Model Ref Name    | **Shows the name of the object**{.red}                       |
+| 3D Model Name        | N/A                                                          |
+| Animations           | N/A                                                          |
+| 3D Model Ref Name    | N/A                                                          |
 | Latitude / Longitude | Current latitude/longitude of the building                   |
 | Altitude             | This shows the current altitude (in meters) of the object. Tap the number and then enter in a new value to adjust this |
 | Name                 | You can name the object using this field                     |
-| Frozen               | Tap the "tick" symbols to toggle between the object being frozen (orange tick) and unfrozen (grey tick) |
-| Type                 | **Shows the type of building structure**{.red}               |
+| Frozen               | Tap the "tick" symbols to toggle between the building being frozen (orange tick) and unfrozen (grey tick). Frozen buildings cannot be edited until they have been unfrozen, this can be useful to avoid changing buildings by accident whilst editing other things nearby |
+| Type                 | N/A                                                          |
