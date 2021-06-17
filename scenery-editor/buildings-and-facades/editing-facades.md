@@ -17,7 +17,7 @@ Step 1
 
 
 
-![Selecting a Building](_images/manual/frames/selecting-building-2.jpg)
+![Selecting a Building](_images/manual/frames/selecting-building-2.png)
 
 
 
@@ -33,7 +33,7 @@ Step 3
 
 
 
-![Building Selected](_images/manual/frames/building-selected.jpg)
+![Building Selected](_images/manual/frames/building-selected.png)
 
 
 
@@ -43,7 +43,7 @@ Step 4
 
 
 
-![Selecting a Different Style](_images/manual/frames/set-textures-&-facades.jpg)
+![Selecting a Different Style](_images/manual/frames/set-textures-&-facades.png)
 
 
 
@@ -65,7 +65,7 @@ Step 7
 
 
 
-![Selecting Side of Building](_images/manual/frames/selecting-one-side.jpg)
+![Selecting Side of Building](_images/manual/frames/selecting-one-side.png)
 
 
 
@@ -85,7 +85,7 @@ Step 1
 
 
 
-![Selecting Multiple Buildings](_images/manual/frames/selecting-multiple-buildings.jpg)
+![Selecting Multiple Buildings](_images/manual/frames/selecting-multiple-buildings.png)
 
 
 
@@ -101,7 +101,7 @@ Step 3
 
 
 
-![Multiple Buildings Selected](_images/manual/frames/multiple-buildings-selected.jpg)
+![Multiple Buildings Selected](_images/manual/frames/multiple-buildings-selected.png)
 
 
 
@@ -111,7 +111,7 @@ Step 4
 
 
 
-![Changing Facades](_images/manual/frames/changing-facades.jpg)
+![Changing Facades](_images/manual/frames/changing-facades.png)
 
 
 
