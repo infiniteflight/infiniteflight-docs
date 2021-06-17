@@ -170,13 +170,13 @@ Step 2
 
 Step 3
 
-: As the aircraft approaches the Inbound Hold Axis, the bearing pointer will begin to 'fall away' from the aircraft nose providing a steep intercept angle. To manage this, turn a few degrees towards the Bearing Pointer so that the intercept angle is approximately 20 degrees
+: As the aircraft approaches the Inbound Hold Axis, the bearing pointer will begin to "fall away" from the aircraft nose providing a steep intercept angle. To manage this, turn a few degrees towards the Bearing Pointer so that the intercept angle is approximately 20 degrees
 
 
 
 Step 4
 
-: Continue this process until the Bearing Pointer is within 10 degrees of the Inbound Hold Axis, at his point, intercept the Inbound Hold Axis
+: Continue this process until the Bearing Pointer is within 10 degrees of the Inbound Hold Axis, at this point, intercept the Inbound Hold Axis
 
 
 
@@ -229,13 +229,13 @@ Step 3
 
 Step 4
 
-: As the aircraft approaches the Inbound Hold Axis, the bearing pointer will begin to 'fall away' from the aircraft nose providing a steep intercept angle. To manage this, turn a few degrees towards the Bearing Pointer so that the intercept angle is approximately 20 degrees
+: As the aircraft approaches the Inbound Hold Axis, the bearing pointer will begin to "fall away" from the aircraft nose providing a steep intercept angle. To manage this, turn a few degrees towards the Bearing Pointer so that the intercept angle is approximately 20 degrees
 
 
 
 Step 5
 
-: Continue this process until the Bearing Pointer is within 10 degrees of the Inbound Hold Axis, at his point, intercept the Inbound Hold Axis
+: Continue this process until the Bearing Pointer is within 10 degrees of the Inbound Hold Axis, at this point, intercept the Inbound Hold Axis
 
 
 
