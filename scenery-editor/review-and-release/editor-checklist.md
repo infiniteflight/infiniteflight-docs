@@ -23,11 +23,11 @@ Tip
 
 ## Airport Boundary & OSM
 
-[] OSM outside of airport boundary have been confirmed to be deleted
+[X] OSM outside of airport boundary have been confirmed to be deleted
 
-[] Objects within boundary have their altitudes set
+[X] Objects within boundary have their altitudes set
 
-[] Duplicate Buildings have been verified removed if Download OSM and Download OSM at Cursor were utilized
+[X] Duplicate Buildings have been verified removed if Download OSM and Download OSM at Cursor were utilized
 
 
 
