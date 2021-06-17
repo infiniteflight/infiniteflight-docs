@@ -64,7 +64,7 @@ Step 5
 
  
 
-| Lights  |        |
+| Lights  | Action |
 | ------- | ------ |
 | Strobes | **ON** |
 | Land    | **ON** |

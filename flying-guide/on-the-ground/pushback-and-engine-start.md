@@ -19,7 +19,7 @@ Before commencing a pushback, make sure to access the [Systems](/guide/getting-s
 
 
 
-| Electrical  |           |
+| Electrical  | Action    |
 | ----------- | --------- |
 | Master Batt | **ON**    |
 | APU*        | **START** |
@@ -31,7 +31,7 @@ Before commencing a pushback, make sure to access the [Systems](/guide/getting-s
 
 
 
-| Passengers |        |
+| Passengers | Action |
 | ---------- | ------ |
 | Seat Belts | **ON** |
 | No Smoking | **ON** |
@@ -40,7 +40,7 @@ Before commencing a pushback, make sure to access the [Systems](/guide/getting-s
 
 
 
-| Lights |        |
+| Lights | Action |
 | ------ | ------ |
 | Nav    | **ON** |
 
@@ -70,7 +70,7 @@ Step 3
 
  
 
-| Lights |        |
+| Lights | Action |
 | ------ | ------ |
 | Beacon | **ON** |
 
@@ -78,7 +78,7 @@ Step 3
 
 
 
-| Misc      |         |
+| Misc      | Action  |
 | --------- | ------- |
 | Push Back | **TAP** |
 
@@ -98,7 +98,7 @@ Step 5
 
  
 
-| Misc          |         |
+| Misc          | Action  |
 | ------------- | ------- |
 | Stop Pushback | **TAP** |
 
@@ -134,7 +134,7 @@ Step 2
 
  
 
-| Engines       |         |
+| Engines       | Action  |
 | ------------- | ------- |
 | Eng ‘X’ 0% N1 | **TAP** |
 
@@ -156,7 +156,7 @@ Alternatively you can use the **Auto Start** function for a more easy experience
 
  
 
-| Misc       |         |
+| Misc       | Action  |
 | ---------- | ------- |
 | Auto Start | **TAP** |
 
@@ -170,7 +170,7 @@ Step 3
 
  
 
-| Electrical |         |
+| Electrical | Action  |
 | ---------- | ------- |
 | APU*       | **OFF** |
 

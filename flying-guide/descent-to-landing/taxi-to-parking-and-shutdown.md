@@ -17,7 +17,7 @@ Step 1
 
 
 
-| LIGHTS  |         |
+| LIGHTS  | Action  |
 | ------- | ------- |
 | Strobes | **OFF** |
 | Land    | **OFF** |
@@ -44,7 +44,7 @@ Step 3
 
 
 
-| Electrical |           |
+| Electrical | Action    |
 | ---------- | --------- |
 | APU*       | **START** |
 
@@ -86,7 +86,7 @@ Step 6
 
  
 
-| Lights  |        |
+| Lights  | Action |
 | ------- | ------ |
 | Strobes | **ON** |
 | Land    | **ON** |
@@ -125,7 +125,7 @@ Step 4
 
  
 
-| Engines         |         |
+| Engines         | Action  |
 | --------------- | ------- |
 | Eng ‘X’ 'X'% N1 | **TAP** |
 
@@ -133,7 +133,7 @@ Step 4
 
 
 
-| Lights |         |
+| Lights | Action  |
 | ------ | ------- |
 | Beacon | **OFF** |
 
@@ -142,7 +142,7 @@ Step 4
 
 
 
-| Passengers |         |
+| Passengers | Action  |
 | ---------- | ------- |
 | Seat Belts | **OFF** |
 
