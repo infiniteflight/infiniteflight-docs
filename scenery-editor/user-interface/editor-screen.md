@@ -141,7 +141,7 @@ Step 4
 
 
 
-![Adding Objects](_images/manual/frames/adding-object.jpg)
+![Adding Objects](_images/manual/frames/adding-object.png)
 
 +++
 

@@ -29,7 +29,7 @@ Step 3
 
 
 
-![Downloading OSM](_images/manual/frames/downloading-osm.jpg)
+![Downloading OSM](_images/manual/frames/downloading-osm.png)
 
 
 
@@ -45,7 +45,7 @@ Step 4
 
 
 
-![Deleting OSM Buildings](_images/manual/frames/deleting-osm-buildings.jpg)
+![Deleting OSM Buildings](_images/manual/frames/deleting-osm-buildings.png)
 
 
 

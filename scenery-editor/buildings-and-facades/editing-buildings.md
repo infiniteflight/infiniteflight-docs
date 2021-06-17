@@ -17,7 +17,7 @@ Step 1
 
 
 
-![Selecting Buildings](_images/manual/frames/selecting-buildings.jpg)
+![Selecting Buildings](_images/manual/frames/selecting-buildings.png)
 
 
 
@@ -33,7 +33,7 @@ Step 3
 
 
 
-![Editing Buildings](_images/manual/frames/editing-buildings.jpg)
+![Editing Buildings](_images/manual/frames/editing-buildings.png)
 
 
 
