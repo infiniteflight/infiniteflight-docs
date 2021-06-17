@@ -19,11 +19,21 @@ Step 1
 
 Step 2
 
-: Tap the "Properties" tab on the right side of the screen
+: The circle will turn magenta to indicate it has been selected **(1)**. If there are multiple objects in close proximity, a list will appear so you can select the object you want
 
 
 
 Step 3
+
+: Tap the "Properties" tab **(2)** on the right side of the screen
+
+
+
+![Changing Object Properties](_images/manual/frames/selecting-object-properties.png)
+
+
+
+Step 4
 
 : You can then adjust the following properties:
 
