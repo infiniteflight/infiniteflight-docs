@@ -15,11 +15,11 @@ The following rules must be observed at all times when editing airports:
 
 
 
-- Delete OSM buildings not in the airport boundary
+- Always delete OSM buildings not in the airport boundary
 - Do not add vehicles or objects to road surfaces
 - Keep objects and facades as realistic as possible
 - Do not add objects to fill empty spaces if there are no objects shown on maps
-- Only edit the airports allocated to you in the welcome post
+- Only edit the airports allocated to you
 - No custom ATC Towers are permitted (the only exception to this is when the tower cab is placed in/on a poly building however poly buildings must not be used to make "support" legs)
 
 

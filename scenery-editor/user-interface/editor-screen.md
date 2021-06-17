@@ -15,23 +15,23 @@ Welcome to the editor screen within the Infinite Flight app. Below you’ll find
 
 
 
-1. The management buttons allow you to manage files, edit recent activity, change the view, adjust object altitude, change roof orientation, change building facades, and edit buildings
+1. The [management buttons](/guide/scenery-editor/user-interface/editor-screen#management-buttons) allow you to manage files, edit recent activity, change the view, adjust object altitude, change roof orientation, change building facades, and edit buildings
 
     
 
-2. The main navigation bar allows you to change between the library of objects, properties, loaded items, log and facades
+2. The main [navigation bar](/guide/scenery-editor/user-interface/editor-screen#navigation-bar) allows you to change between the library of objects, properties, loaded items, log and facades
 
     
 
-3. The edit buttons allow you to move, copy & paste, or deleted selected buildings and objects (you can also insert points if a building is selected)
+3. The [edit buttons](/guide/scenery-editor/user-interface/editor-screen#edit-buttons) allow you to move, copy & paste, or deleted selected buildings and objects (you can also insert points if a building is selected)
 
     
 
-4. The camera in use can be changed here
+4. The [camera](/guide/scenery-editor/user-interface/editor-screen#camera) in use can be changed here
 
     
 
-5. The settings page can be shown by tapping this button
+5. The [settings](/guide/scenery-editor/user-interface/editor-screen#settings) page can be shown by tapping this button
 
 
 
@@ -75,11 +75,11 @@ Welcome to the editor screen within the Infinite Flight app. Below you’ll find
 
 +++ View
 
-| Button              | Function                                                     |
-| ------------------- | ------------------------------------------------------------ |
-| Hide Buildings      | **Currently broken so I don't know what it actually does**{.red} |
-| Show Start Location | Shows all locations that aircraft are able to spawn in-app   |
-| Facade Editor       | **TBC**{.red}                                                |
+| Button              | Function                                                   |
+| ------------------- | ---------------------------------------------------------- |
+| Hide Buildings      | **Currently not in use**{.red}                             |
+| Show Start Location | Shows all locations that aircraft are able to spawn in-app |
+| Facade Editor       | **Currently not in use**{.red}                             |
 
 +++
 
@@ -125,19 +125,23 @@ Step 1
 
 Step 2
 
-: Tap the object that you want to add
+: Tap the object **(1)** that you want to add
 
 
 
 Step 3
 
-: Tap on the airport to move the white cursor to the location where you would like the object to be located
+: Tap on the airport **(2)** to move the white cursor to the location where you would like the object to be located
 
 
 
 Step 4
 
-: Tap "Add Object"
+: Tap "Add Object" **(3)**
+
+
+
+![Adding Objects](_images/manual/frames/adding-object.jpg)
 
 +++
 
@@ -157,13 +161,13 @@ Once a building or object is selected, the properties can be edited using this t
 | -------------------- | ------------------------------------------------------------ |
 | Height               | This shows the height (in meters) of the building. Tap the number and then enter in a new value to adjust this |
 | Roof Orientation     | Tap the "+/-" symbols to adjust the orientation of the roof (you can also use the "Auto Roof Orientation" button) |
-| Facade               | The facade style can be changed here but it will change all sides of the building |
+| Facade               | The facade style can be changed here but it will change all sides of the building, see [Editing Facades](/guide/scenery-editor/buildings-and-facades/editing-facades) for more information |
 | Roof Depth           | This shows the roof depth (in meters) of the building. Tap the number and then enter in a new value between 0 and 1 to adjust this |
 | Latitude / Longitude | Current latitude/longitude of the building                   |
 | Altitude             | This shows the current altitude (in meters) of the building. Tap the number and then enter in a new value to adjust this |
 | Name                 | You can name the building using this field                   |
-| Frozen               | Tap the "tick" symbols to toggle between the building being frozen (orange tick) and unfrozen (grey tick) |
-| Type                 | **Shows the type of building structure**{.red}               |
+| Frozen               | Tap the "tick" symbols to toggle between the building being frozen (orange tick) and unfrozen (grey tick). Frozen buildings cannot be edited until they have been unfrozen, this can be useful to avoid changing buildings by accident whilst editing other things nearby |
+| Type                 | N/A                                                          |
 
 
 
@@ -173,14 +177,14 @@ Once a building or object is selected, the properties can be edited using this t
 | -------------------- | ------------------------------------------------------------ |
 | Scale                | Tap the "+/-" symbols to adjust the scale of the object      |
 | Orientation          | Tap the "+/-" symbols to adjust the orientation of the object |
-| 3D Model Name        | **Shows the name of the object**{.red}                       |
-| Animations           | **Shows the animations that are currently added to the object**{red} |
-| 3D Model Ref Name    | **Shows the name of the object**{.red}                       |
+| 3D Model Name        | N/A                                                          |
+| Animations           | N/A                                                          |
+| 3D Model Ref Name    | N/A                                                          |
 | Latitude / Longitude | Current latitude/longitude of the building                   |
 | Altitude             | This shows the current altitude (in meters) of the object. Tap the number and then enter in a new value to adjust this |
 | Name                 | You can name the object using this field                     |
-| Frozen               | Tap the "tick" symbols to toggle between the object being frozen (orange tick) and unfrozen (grey tick) |
-| Type                 | **Shows the type of building structure**{.red}               |
+| Frozen               | Tap the "tick" symbols to toggle between the building being frozen (orange tick) and unfrozen (grey tick). Frozen buildings cannot be edited until they have been unfrozen, this can be useful to avoid changing buildings by accident whilst editing other things nearby |
+| Type                 | N/A                                                          |
 
 +++
 
