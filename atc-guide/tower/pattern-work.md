@@ -88,7 +88,7 @@ Manual
 
 
 
-[INSERT CLIP]
+@[vimeo](563250409)
 
 
 
@@ -132,7 +132,7 @@ Manual
 
 
 
-[INSERT CLIP]
+@[vimeo](563261625)
 
 
 
