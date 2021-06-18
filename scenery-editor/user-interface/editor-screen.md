@@ -77,9 +77,9 @@ Welcome to the editor screen within the Infinite Flight app. Below you’ll find
 
 | Button              | Function                                                   |
 | ------------------- | ---------------------------------------------------------- |
-| Hide Buildings      | **Currently not in use**{.red}                             |
+| Hide Buildings      | Currently not in use                                       |
 | Show Start Location | Shows all locations that aircraft are able to spawn in-app |
-| Facade Editor       | **Currently not in use**{.red}                             |
+| Facade Editor       | Currently not in use                                       |
 
 +++
 

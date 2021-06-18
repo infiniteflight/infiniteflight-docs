@@ -41,7 +41,7 @@ Tip
 
 Step 4
 
-: Delete all buildings outside of the airport boundary by tapping on or near the blue circle that is in the center of the building **(1)** and then tapping "Delete Selection" **(2)** on the right side of the screen. You can also tap, hold and then drag your finger on the screen to select multiple buildings (a white box will appear to show the catchment area)
+: Delete all buildings outside of the airport boundary by tapping on or near the blue circle that is in the center of the building **(3)** and then tapping "Delete Selection" **(4)** on the right side of the screen. You can also tap, hold and then drag your finger on the screen to select multiple buildings (a white box will appear to show the catchment area)
 
 
 
