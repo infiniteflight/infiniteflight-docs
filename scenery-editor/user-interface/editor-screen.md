@@ -250,3 +250,39 @@ Tip
 
 
 Currently there are no new settings. Please look at the [Getting Started Guide](https://infiniteflight.com/guide/getting-started/home-user-interface/settings) for more information. 
+
+
+
+## In-App Ruler
+
+To use the ruler, follow the steps below:
+
+
+
+Step 1
+
+: Place two fingers on your device's screen and hold
+
+
+
+Step 2
+
+: A rule will appear (both fingers must remain on the screen whilst using the ruler)
+
+
+
+Step 3
+
+: The ruler can then be used to measure by sliding your two fingers on the screen. It will provide measurements in meters, feet and nautical miles as well as bearing information 
+
+
+
+Tip
+
+: Make sure to have on screen what you would like to measure (the ruler will disappear if you try to move the camera)
+
+
+
+Step 4
+
+: When you are finished with the ruler, simply remove your fingers from the screen
