@@ -12,6 +12,12 @@ Welcome to the Scenery Editor Guide, designed to help newly qualified and vetera
 
 
 
+## Version: 21.3.0
+
+## Last Updated: 1430Z - 18 JUN 21
+
+
+
 **Important Getting Started Rules:**
 
 - Deliberate leaks will result in access to beta, editing and potentially IFC/VA accounts to be removed
@@ -28,10 +34,3 @@ Welcome to the Scenery Editor Guide, designed to help newly qualified and vetera
 Tip
 
 : For more information on Getting Started, make sure to check out the [First Steps](https://infiniteflight.com/guide/scenery-editor/getting-started/first-steps) and [General Rules](https://infiniteflight.com/guide/scenery-editor/getting-started/general-rules) pages
-
-
-
-## Version: 21.3.0
-
-## Last Updated: 1530Z - 17 JUN 21
-
