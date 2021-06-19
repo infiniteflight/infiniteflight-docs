@@ -39,25 +39,14 @@ Step 4
 
 
 
-| Button               | Function                                                     |                                                              |
+| Button               | Function                                                     | Notes                                                        |
 | -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Height               | This shows the height (in meters) of the building. Tap the number and then enter in a new value to adjust this | OSM will add a value to buildings that are imported but this can be manually adjusted to make sure that it looks in proportion (for example a hanger that you know has a 777, needs to be high enough to accommodate this aircraft) |
-| Roof Orientation     | Tap the "+/-" symbols to adjust the orientation of the roof (you can also use the "Auto Roof Orientation" button) |                                                              |
-| Facade               | The facade style can be changed here but it will change all sides of the building, see [Editing Facades](/guide/scenery-editor/buildings-and-facades/editing-facades) for more information |                                                              |
-| Roof Depth           | This shows the roof depth (in meters) of the building. Tap the number and then enter in a new value between 0 and 1 to adjust this |                                                              |
+| Height               | This shows the height (in meters) of the building. Tap the number and then enter in a new value to adjust this | When OSM is imported it will automatically give buildings a default height but this can be manually adjusted to make sure that it looks in proportion (e.g. a hanger that you know can park a 777 inside needs to be given a height that can accommodate this) |
+| Roof Orientation     | Tap the "+/-" symbols to adjust the orientation of the roof (you can also use the "Auto Roof Orientation" button) | Building roofs have a square pattern, use this tool to get the lines to match the building edges for aesthetic purposes. You can also use the [Auto Roof Orientation](/guide/scenery-editor/user-interface/editor-screen#management-buttons) by tapping Object > Auto Roof Orientation (this may still require manual adjustments) |
+| Facade               | The facade group can be changed here but it will change all sides of the selected building(s) | This can be good to use if you are changing multiple buildings at the same time however you are only able to change the facade group, facade styles and individual sides of the building(s) will have to be adjusted using the [other technique](/guide/scenery-editor/buildings-and-facades/editing-facades) |
+| Roof Depth           | This shows the roof depth (in meters) of the building. Tap the number and then enter in a new value between 0 and 1 to adjust this | Adds an "edge" around the building. If being used, only add to top level of buildings. |
 | Latitude / Longitude | Current latitude/longitude of the building                   |                                                              |
-| Altitude             | This shows the current altitude (in meters) of the building. Tap the number and then enter in a new value to adjust this |                                                              |
-| Name                 | You can name the building using this field                   |                                                              |
-| Frozen               | Tap the "tick" symbols to toggle between the building being frozen (orange tick) and unfrozen (grey tick). Frozen buildings cannot be edited until they have been unfrozen, this can be useful to avoid changing buildings by accident whilst editing other things nearby |                                                              |
+| Altitude             | This shows the current altitude (in meters) of the building. Tap the number and then enter in a new value to adjust this | The altitude is always based on the bottom of the building. You can also use [Auto Altitude](/guide/scenery-editor/user-interface/editor-screen#management-buttons) by tapping Object > Auto Altitude if the building is positioned on top of the building you want it to go on top of (perfect for layering!) |
+| Name                 | You can name the building using this field                   | OPTIONAL: we recommend labelling buildings to help keep track (e.g. "Lvl 1 Terminal 1") |
+| Frozen               | Tap the "tick" symbol to toggle between the building being frozen (orange tick) and unfrozen (grey tick) | Frozen buildings cannot be edited until they have been unfrozen, this can be useful to avoid changing buildings by accident whilst editing other things nearby |
 | Type                 | N/A                                                          |                                                              |
-
-
-
-Add a section about aircraft categories and stand information
-
-
-
-Layering
-
-
-

@@ -39,15 +39,33 @@ Step 4
 
 
 
-| Button               | Function                                                     |
-| -------------------- | ------------------------------------------------------------ |
-| Scale                | Tap the "+/-" symbols to adjust the scale of the object      |
-| Orientation          | Tap the "+/-" symbols to adjust the orientation of the object |
-| 3D Model Name        | N/A                                                          |
-| Animations           | N/A                                                          |
-| 3D Model Ref Name    | N/A                                                          |
-| Latitude / Longitude | Current latitude/longitude of the building                   |
-| Altitude             | This shows the current altitude (in meters) of the object. Tap the number and then enter in a new value to adjust this |
-| Name                 | You can name the object using this field                     |
-| Frozen               | Tap the "tick" symbols to toggle between the building being frozen (orange tick) and unfrozen (grey tick). Frozen buildings cannot be edited until they have been unfrozen, this can be useful to avoid changing buildings by accident whilst editing other things nearby |
-| Type                 | N/A                                                          |
+| Button               | Function                                                     | Notes                                                        |
+| -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Scale                | Tap the "+/-" symbols to adjust the scale of the object      | Really useful for making objects match in size what you see from external sources (e.g. lighting AC units and blast deflectors etc.) |
+| Orientation          | Tap the "+/-" symbols to adjust the orientation of the object |                                                              |
+| 3D Model Name        | N/A                                                          |                                                              |
+| Animations           | N/A                                                          |                                                              |
+| 3D Model Ref Name    | N/A                                                          |                                                              |
+| Latitude / Longitude | Current latitude/longitude of the building                   |                                                              |
+| Altitude             | This shows the current altitude (in meters) of the object. Tap the number and then enter in a new value to adjust this | Always based on the bottom of the surface they you are working from. Can be adjusted here manually or go to Object > auto altitude if youre doing layering for example |
+| Name                 | You can name the object using this field                     |                                                              |
+| Frozen               | Tap the "tick" symbols to toggle between the building being frozen (orange tick) and unfrozen (grey tick) | Frozen buildings cannot be edited until they have been unfrozen, this can be useful to avoid changing buildings by accident whilst editing other things nearby |
+| Type                 | N/A                                                          |                                                              |
+
+
+
+## Jetbridges
+
+| Button        | Function                                                     | Notes                                                        |
+| ------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Base Rotation | Tap the "+/-" symbols to adjust the orientation of the jetbridge, it is based on a default position from the base/connector and rotates counter clockwise | Orientation in [Properties](/guide/scenery-editor/user-interface/editor-screen#navigation-bar) can be used for the same function |
+| Height        | Tap the "+/-" symbols to adjust the height of the jetbridge floor | Use to match the level of the aircraft door (some stands accept multiple aircraft types and so you can just pick a default height that would cater to most in these cases) |
+| Extension     | Tap the "+/-" symbols to adjust the length of the jetbridge  | Try to match the jetbridge length with the external sources being used |
+| Head Rotation | Tap the "+/-" symbols to moves the head of the jetbridge     | Adjust to be parallel with aircraft door                     |
+| Columns       | Tap the "+/-" symbols to adjust the column height at the end of a jetbridge | Use to ensure that wheels are not above or below ground level |
+
+
+
+Tip
+
+: When adjusting height and column height for low aircraft, if the jetbridge is fully (or close to being fully) extended it can be difficult to get the jetbridge low enough without the wheels being "submerged" in the ground. Avoid this by reducing the extension or by setting the height slightly above the aircraft door

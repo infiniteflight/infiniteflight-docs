@@ -11,6 +11,35 @@ order: 2
 
 
 
+## How to see Aircraft Start Locations 
+
+Before placing objects near aircraft start locations, it is recommended to turn on Aircraft Start Locations following these steps:
+
+
+
+Step 1
+
+: On the left of the screen, tap "View"
+
+
+
+Step 2
+
+: The tap "Show Start Locations"
+
+
+
+Step 3
+
+: Each start location will be represented by a green dot. By zooming in on a start location you will be able to see the start location details including:
+
+- Identifier (i.e. stand number)
+- Type (i.e. Gate, Tie-down, Misc or Hanger)
+- Gate Size (i.e. maximum aircraft category)
+- Ramp Operation Type (i.e. GA, Airline, Cargo or Military)
+
+
+
 ## Selecting and Placing an Object
 
 
