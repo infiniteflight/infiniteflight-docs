@@ -28,26 +28,26 @@ The following table outlines what aircraft within Infinite Flight fall into each
 
 | Aircraft Category | Current Aircraft in Infinite Flight                          |
 | ----------------- | ------------------------------------------------------------ |
-| A                 | Cessna 172, Cirrus SR22, F-14, F-16, F/A-18, F-22, Spitfire, TBM, XCub |
-| B                 | A-10, Cessna 208, Cessna Citation X, Bombardier CRJ, P-38    |
-| C                 | A318/319/320/321, B717, B737, Bombardier Dash 8 Q400, E170/175/190/195 |
-| D                 | B757, B767, C-17, C-130, MD-11/DC-10                         |
+| A                 | C172, SR22, F-14, F-16, F/A-18, F-22, Spitfire, TBM-930, XCub |
+| B                 | A-10, C208, Citation X, CRJ, P-38                            |
+| C                 | A318/319/320/32, B717, B737, Dash-8 Q400, E170/175/190/195   |
+| D                 | B757, B767, C-17, C-130, MD-11, DC-10                        |
 | E                 | A330, A340, A350, B747-200/400, B777, B787                   |
 | F                 | A380, B747-8                                                 |
 
 
 
-## Minimum Hanger Heights for Aircraft
+## Minimum Hangar Heights for Aircraft
 
-| Aircraft   | Minimum Height Required (meters) |
-| ---------- | -------------------------------- |
-| C172       | 4.5                              |
-| C208/TBM   | 6.5                              |
-| CRJ/Dash 8 | 11                               |
-| A320/B737  | 18                               |
-| B757       | 19                               |
-| B767       | 21                               |
-| A330       | 23                               |
-| A350/B777  | 25                               |
-| B747       | 27+                              |
+| Aircraft        | Minimum Height Required (meters) |
+| --------------- | -------------------------------- |
+| C172            | 4.5                              |
+| C208/TBM-930    | 6.5                              |
+| CRJ/Dash-8 Q400 | 11                               |
+| A320/B737       | 18                               |
+| B757            | 19                               |
+| B767            | 21                               |
+| A330            | 23                               |
+| A350/B777       | 25                               |
+| B747            | 27+                              |
 

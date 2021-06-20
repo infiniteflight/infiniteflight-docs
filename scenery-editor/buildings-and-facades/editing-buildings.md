@@ -69,53 +69,59 @@ The below steps highlight a good method for adding detail to buildings (layering
 
 Step 1
 
-: Conform the building to the path of where you are putting it. OSM will place the building wherever it is, but move the buildings to match more flush with the pavement, maybe adjust the perimeter to match the pavement 
+: [OSM](/guide/scenery-editor/user-interface/editor-screen#management-buttons) will automatically place the buildings when downloaded however you may find that they do not completely align with pavements. You can [move the buildings](/guide/scenery-editor/buildings-and-facades/editing-buildings) to make them more "flush" with the pavement edging
 
 
 
 Tip
 
-: Change the facade to a bland default to make it look easier for depth perception (e.g termin 1 face 1, it is plain which helps when layering)
+: We recommend [changing the whole building facade](/guide/scenery-editor/buildings-and-facades/editing-facades) to something plain (e.g. terminal 1, face 1) before starting to layer as this will make it easier for depth perception 
 
 
 
 Step 2
 
-: Changing the overall building height, if it was a terminal that will have jetbridges, make it a height of usually be 4.5 meters (may need to be changed slightly based on different jetbridges used) for the first layer. When you then attach jetbridges, the next layer will mean facades will match with the next layer. Also change the roof depth to zero on the first layer to flat
+: Change the [building height](/guide/scenery-editor/buildings-and-facades/properties). If it is a hanger you can use the [minimum hangar heights](/guide/scenery-editor/getting-started/aircraft-categories#minimum-hangar-heights-for-aircraft) for guidance. For terminals or other complicated buildings, it is better to create multiple levels. Any level that is not the top floor should have the [roof depth](/guide/scenery-editor/buildings-and-facades/properties) set to zero
+
+
+
+Tip
+
+: For terminals that have jetbridges, the first layer should be given a height of approximately 4.5 meters (varies dependant on what type of jetbridge being used). When jetbridges are then attached, the floor will align with the second layer
 
 
 
 Step 3
 
-: Layer 2 is now ready, tap on building, copy the building, and then paste 
+: If making multiple floors, first [copy & paste](/guide/scenery-editor/buildings-and-facades/selection-and-placement#copy-%26-pasting-a-building) the first layer of the building
 
 
 
 Tip
 
-: Tap somewhere else on the ramp before tapping paste to avoid an app crash
+: Before tapping paste, tap somewhere else on the map to avoid in-app crashes
 
 
 
 Step 4
 
-: Drag the newly copied building  so that the magenta dot is somewhere over level 1 (original building)
+: [Drag the newly copied building](/guide/scenery-editor/buildings-and-facades/selection-and-placement#changing-orientation-of-a-building) so that the magenta dot is somewhere over the first layer (original building)
 
 
 
 Step 5
 
-: Open up object tab and click auto altitude, this will raise the newly copied building to make it level 2 (roof height of level 1)
+: [Using the management buttons](/guide/scenery-editor/user-interface/editor-screen#management-buttons) on the left of the screen, tap "Object" and then "Auto Altitude". This will raise the newly copied building to make it the second layer (roof height of the first layer)
 
 
 
 Step 6
 
-: Then continue to adjust size and shapes to match your external sources
+: Using external sources, [continue to adjust the size and shapes](/guide/scenery-editor/buildings-and-facades/editing-buildings) of the layers to replicate the overall look of the building. For passenger terminals a minimum of three layers is recommended
 
 
 
 Tip
 
-: Recommend a minimum of three layers for pax terminals, for hangers, even if the third layer is tiny. You can even make a tiny height and change the facade to get a different roof color and this will show even without the sides showing
+: Don't forget that you can also make layers that are a tiny height, this will give you the option of changing the roof colour for example without the different facade being visible to keep the building look the same
 
