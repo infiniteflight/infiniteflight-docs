@@ -375,8 +375,15 @@ See  `_template.md` for an example on how to style a new article.
     ```markdown
     :fa-clipboard-check:
     ```
+14. Task Lists
 
-
+    Tasks lists can be added in the same way one would [add in github](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-issues/about-task-lists). 
+    
+    ```markdown
+    - [ ] List item number one
+    - [ ] List item number two
+    - [x] List item number three, which is checked by default
+    ```
 
 
 A useful reference is the [Markdown Cheatsheet]( https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet ).
