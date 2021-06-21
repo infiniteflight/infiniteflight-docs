@@ -19,19 +19,23 @@ Welcome to the editor screen within the Infinite Flight app. Below you’ll find
 
     
 
-2. The main [navigation bar](/guide/scenery-editor/user-interface/editor-screen#navigation-bar) allows you to change between the library of objects, properties, loaded items, log and facades
+2. When a new editing session is started (even if you remain in-app), it will reset the "Last Saved" on the bottom bar to "N/A" (note: anything previously saved will still be there as the "last saved" information is only specific to the current editing session)
 
     
 
-3. The [edit buttons](/guide/scenery-editor/user-interface/editor-screen#edit-buttons) allow you to move, copy & paste, or deleted selected buildings and objects (you can also insert points if a building is selected)
+3. The main [navigation bar](/guide/scenery-editor/user-interface/editor-screen#navigation-bar) allows you to change between the library of objects, properties, loaded items, log and facades
 
-    
+     
 
-4. The [camera](/guide/scenery-editor/user-interface/editor-screen#camera) in use can be changed here
+4. The [edit buttons](/guide/scenery-editor/user-interface/editor-screen#edit-buttons) allow you to move, copy & paste, or deleted selected buildings and objects (you can also insert points if a building is selected)
 
-    
+     
 
-5. The [settings](/guide/scenery-editor/user-interface/editor-screen#settings) page can be shown by tapping this button
+5. The [camera](/guide/scenery-editor/user-interface/editor-screen#camera) in use can be changed here
+
+   
+
+6. The [settings](/guide/scenery-editor/user-interface/editor-screen#settings) page can be shown by tapping this button
 
 
 
@@ -63,17 +67,11 @@ Welcome to the editor screen within the Infinite Flight app. Below you’ll find
 | ------------------ | ------------------------------------------------------------ |
 | Undo               | Undo your latest edit                                        |
 | Redo               | Redo your latest edit                                        |
-| Selection (Add)    |                                                              |
-| Selection (Remove) |                                                              |
-| Lock Selected      | Locks the selected building(s) and/or object(s) and prevents them from being moved or their properties adjusted |
-| Unlock Selected    | Unlocks the selected building(s) and/or object(s) and allows them to be moved and their properties adjusted |
+| Selection (Add)    | Create a selection of several objects to move or edit them as a group. While "Selection (Add)" is active, all objects you select [by tapping on them or using the "rectangular selection tool"](/guide/scenery-editor/objects/selection-and-placement#selecting-and-placing-an-object) will be added to the selection |
+| Selection (Remove) | Objects that are selected [by tapping on them or using the "rectangular selection tool"](/guide/scenery-editor/objects/selection-and-placement#selecting-and-placing-an-object) while the "Selection (Remove)" feature is active are removed from the existing selection |
+| Lock Selected      | Locks the selected building(s) and/or object(s) and prevents them from being moved or their properties adjusted. For more information check out the Frozen function within [Properties](/guide/scenery-editor/buildings-and-facades/properties) |
+| Unlock Selected    | Unlocks the selected building(s) and/or object(s) and allows them to be moved and their properties adjusted. For more information check out the Frozen function within [Properties](/guide/scenery-editor/buildings-and-facades/properties) |
 | Unlock All         | Unlocks all building(s) and/or object(s) and allows them to be moved and their properties adjusted |
-
-
-
-Add something about selection add/remove
-
-See freezing bits in properties for lock/unlock selected
 
 +++
 
