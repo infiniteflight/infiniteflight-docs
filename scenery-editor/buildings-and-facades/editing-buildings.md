@@ -111,7 +111,7 @@ Step 4
 
 Step 5
 
-: [Using the management buttons](/guide/scenery-editor/user-interface/editor-screen#management-buttons) on the left of the screen, tap "Object" and then "Auto Altitude". This will raise the newly copied building to make it the second layer (roof height of the first layer)
+: [Using the management buttons](/guide/scenery-editor/user-interface/editor-screen#management-buttons) on the left of the screen, tap "Object" and then "Auto Altitude". This will raise the newly copied building to make it the second layer (roof height of the first layer). You can also set the [height](/guide/scenery-editor/buildings-and-facades/properties) of the building manually if needed for the same effect
 
 
 

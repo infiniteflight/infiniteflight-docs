@@ -11,6 +11,12 @@ order: 4
 
 
 
+Tip
+
+: Don't forget that airport charts are a great way to see the placement of equipment such as the localizer
+
+
+
 ## Localizer
 
 ![Localizer Location](_images/manual/frames/localizer.png)
@@ -68,5 +74,5 @@ order: 4
 
 - Have a look online to see if you can find airport images that will help with object placement
 - Look up the charts for an airport, in particular the ground charts as these will often show the location of windsock(s), the tower(s), cargo area(s) and fire station(s)
-- Google satellite maps are your friend
+- Using multiple satellite maps for cross-referencing 
 - The tips above on localizer and glideslope locations are for standard approaches ONLY. Places like LOWI are a special case - if in doubt, just ask!
