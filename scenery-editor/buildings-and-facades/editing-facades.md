@@ -13,31 +13,43 @@ order: 4
 
 Step 1
 
-: Select the building by tapping on or near the blue circle that is in the center of the building
+: Select the building by tapping on or near the blue circle **(1)** that is in the center of the building
+
+
+
+![Selecting a Building](_images/manual/frames/selecting-building-2.png)
 
 
 
 Step 2
 
-: The circle will turn magenta to indicate it has been selected
+: The circle will turn magenta **(2)** to indicate it has been selected
 
 
 
 Step 3
 
-: Tap the "Building" button on the left side of the screen, and then "Set Texture & Facades"
+: Tap the "Building" button **(3)** on the left side of the screen, and then "Set Texture & Facades" **(4)**
+
+
+
+![Building Selected](_images/manual/frames/building-selected.png)
 
 
 
 Step 4
 
-: Tap the bottom left hand button to select a different style 
+: Tap the bottom left hand button **(5)** to select a different style 
+
+
+
+![Selecting a Different Style](_images/manual/frames/set-textures-&-facades.png)
 
 
 
 Step 5
 
-: The building will automatically change all faces to match the style selected and will be surrounded by green lines that join each node. To change individual sides, tap one of these green lines (it will turn magenta to show it is selected). You can also tap, hold and then drag your finger on the screen to select multiple lines (a white box will appear to show the catchment area)
+: The building will automatically change all faces to match the style selected and will be surrounded by green lines that join each node. To change individual sides, tap one of these green **(6)** lines (it will turn magenta to show it is selected). You can also tap, hold and then drag your finger on the screen to select multiple lines (a white box will appear to show the catchment area)
 
 
 
@@ -49,7 +61,11 @@ Step 6
 
 Step 7
 
-: Select the desired face and then tap "Assign" (it will not let you assign a face without one or more sides of a building selected)
+: Select the desired face and then tap "Assign" **(7)**. It will not let you assign a face without one or more sides of a building selected
+
+
+
+![Selecting Side of Building](_images/manual/frames/selecting-one-side.png)
 
 
 
@@ -59,31 +75,43 @@ Tip
 
 
 
-You can also change the facade style on multiple buildings at the same time, to do this:
+**You can also change the facade style on multiple buildings at the same time, to do this:**
 
 
 
 Step 1
 
-: Tap, hold and then drag your finger on the screen to select multiple buildings (a white box will appear to show the catchment area)
+: Tap, hold and then drag your finger on the screen to select **(8)** multiple buildings (a white box will appear to show the catchment area)
+
+
+
+![Selecting Multiple Buildings](_images/manual/frames/selecting-multiple-buildings.png)
 
 
 
 Step 2
 
-: The circles in the center of the buildings will turn magenta to indicate they have been selected
+: The circles in the center of the buildings will turn magenta **(9)** to indicate they have been selected
 
 
 
 Step 3
 
-: Tap "Properties"
+: Tap "Properties" **(10)**
+
+
+
+![Multiple Buildings Selected](_images/manual/frames/multiple-buildings-selected.png)
 
 
 
 Step 4
 
-: Tap the facade style next to "Facade" and select an option from the drop-down list, you can scroll up/down the list to see the different styles available
+: Tap the facade style next to "Facade" **(11)** and select an option from the drop-down list, you can scroll up/down the list to see the different styles available **(12)**
+
+
+
+![Changing Facades](_images/manual/frames/changing-facades.png)
 
 
 

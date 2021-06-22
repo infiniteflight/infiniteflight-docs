@@ -11,6 +11,35 @@ order: 2
 
 
 
+## How to see Aircraft Start Locations 
+
+Before placing objects near aircraft start locations, it is recommended to turn on Aircraft Start Locations following these steps:
+
+
+
+Step 1
+
+: On the left of the screen, tap "View"
+
+
+
+Step 2
+
+: The tap "Show Start Locations"
+
+
+
+Step 3
+
+: Each start location will be represented by a green dot. By zooming in on a start location you will be able to see the start location details including:
+
+- Identifier (i.e. stand number)
+- Type (i.e. Gate, Tie-down, Misc or Hanger)
+- Gate Size (i.e. maximum aircraft category)
+- Ramp Operation Type (i.e. GA, Airline, Cargo or Military)
+
+
+
 ## Selecting and Placing an Object
 
 
@@ -23,13 +52,17 @@ Step 1
 
 Step 2
 
-: Select the object you wish to place by tapping it
+: Select the object you wish to place by tapping it **(1)**
 
 
 
 Step 3
 
-: Tap in the area of the airport that you want to add the object to, this will place a white cursor. Adjust this as required and then tap "Add Object"
+: Tap in the area of the airport that you want to add the object to, this will place a white cursor **(2)**. Adjust this as required and then tap "Add Object" **(3)**
+
+
+
+![Object Placement](_images/manual/frames/placing-object.png)
 
 
 
@@ -45,19 +78,19 @@ Step 1
 
 Step 2
 
-: The circle will turn magenta to indicate it has been selected
+: The circle will turn magenta to indicate it has been selected **(1)**. If there are multiple objects in close proximity, a list will appear so you can select the object you want
 
 
 
 Step 3
 
-: Tap the "Move" button on the right side of the screen
+: Tap the "Move" button **(2)** on the right side of the screen
 
 
 
 Step 4
 
-: Two circles will appear as well as a compass rose. Tap and hold on the circle to move the object or to change orientation:
+: Two circles will appear as well as a compass rose. Tap and hold on the circle **(3)** to move the object or to change orientation:
 
 
 
@@ -68,31 +101,39 @@ Step 4
 
 
 
+![Object Movement](_images/manual/frames/moving-object.png)
+
+
+
 ## Copy & Pasting an Object
 
 
 
 Step 1
 
-: Select the object by tapping on or near the blue circle that is in the center of the object. You can also tap, hold and then drag your finger on the screen to select multiple objects (a white box will appear to show the catchment area)
+: Select the object by tapping on or near the blue circle **(1)** that is in the center of the object. You can also tap, hold and then drag your finger on the screen to select multiple objects (a white box will appear to show the catchment area)
 
 
 
 Step 2
 
-: The circle will turn magenta to indicate it has been selected
+: The circle will turn magenta to indicate it has been selected. If there are multiple objects in close proximity, a list will appear so you can select the object you want
 
 
 
 Step 3
 
-: Tap the "Copy" button on the right side of the screen
+: Tap the "Copy" button **(2)** on the right side of the screen
 
 
 
 Step 4
 
-: Tap in the area of the airport that you want to add the copied object to, this will place a white cursor. Adjust this as required and then tap "Paste"
+: Tap in the area of the airport that you want to add the copied object to, this will place a white cursor **(3)**. Adjust this as required and then tap "Paste" **(4)**
+
+
+
+![Copy & Pasting an Object](_images/manual/frames/copy-and-paste-object.png)
 
 
 
@@ -108,13 +149,15 @@ Step 1
 
 Step 2
 
-: The circle will turn magenta to indicate it has been selected
+: The circle will turn magenta to indicate it has been selected **(1)**. If there are multiple objects in close proximity, a list will appear so you can select the object you want
 
 
 
 Step 3
 
-: Tap the "Delete Selection" button on the right side of the screen
+: Tap the "Delete Selection" button **(2)** on the right side of the screen
 
 
+
+![Object Deletion](_images/manual/frames/delete-object.png)
 

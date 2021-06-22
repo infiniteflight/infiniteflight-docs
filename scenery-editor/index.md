@@ -12,26 +12,25 @@ Welcome to the Scenery Editor Guide, designed to help newly qualified and vetera
 
 
 
+## Version: 21.3.0
+
+## Last Updated: 2130Z - 22 JUN 21
+
+
+
 **Important Getting Started Rules:**
 
-- Deliberate leaks will result in access to beta, editing and potentially IFC/VA accounts to be removed
-- All communication must be via the IFC Forum in the correct category, any deviation from this is treated as a leak and may be subject to the same loss of access as a deliberate leak would be
-- Editors are allowed to pick their first airport provided it is not too big (however this must still be approved before commencement of editing). Following this, airport selection is strictly controlled and you must receive permission to deviate from the pre-approved list
-- On occasion, volunteers may be sort for specific airports to be completed, or if necessary, editors may be assigned a particular airport for completion
-- Activity is no expected to be continuous however all editors are asked to try to maintain a consistent level (please inform us if this is not possible)
-- Major HUBs can take a month or more to complete if only a few hours are completed every week, or in a few days if worked on continuously
+- Deliberate leaks will result in access to beta, editing and potentially IFC/VA accounts being removed
+- All communication must be via the IFC Forum in the correct category, any deviation from this is treated as a leak and may be subject to the same loss of access as a deliberate leak
+- Editors are permitted a choice of their first few airports (these must be approved by staff before work can commence). Following this, airport selection is strictly controlled and you must receive permission to deviate from the pre-approved list
+- On occasion, volunteers may be sought for specific airports to be completed, or if necessary, editors may be assigned a particular airport for completion
+- Activity is not expected to be continuous however all editors are asked to try to maintain a consistent level (please inform us if this is not possible)
+- Major hubs can take a month or more to complete if only a few hours are completed every week, or in a few days if worked on continuously
 - The editing process is complex and so questions are encouraged however this guide should be read through in it's entirety before any editing is attempted
-- Only work on airport that have been assigned, never work on an airport that has been edited unless you have permission to do so 
+- Only work on airports that have been assigned, never work on an airport that has been edited unless you have permission to do so 
 
 
 
 Tip
 
 : For more information on Getting Started, make sure to check out the [First Steps](https://infiniteflight.com/guide/scenery-editor/getting-started/first-steps) and [General Rules](https://infiniteflight.com/guide/scenery-editor/getting-started/general-rules) pages
-
-
-
-## Version: 21.2.0
-
-## Last Updated: 2130Z - 02 JUN 21
-
