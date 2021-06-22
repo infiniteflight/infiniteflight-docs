@@ -20,7 +20,7 @@ The following rules must be observed at all times when editing airports:
 - Keep objects and facades as realistic as possible
 - Do not add objects to fill empty spaces if there are no objects shown on maps
 - Only edit the airports allocated to you
-- Customs towers are only permitted when a tower cab - i.e. when the tower cab is placed in/on a poly building (poly buildings must not be used to make "support" legs)
+- Adding customs towers should be avoided where possible however if you feel that it is required for the overall look of the airport, a request must be made beforehand for authorization
 
 
 

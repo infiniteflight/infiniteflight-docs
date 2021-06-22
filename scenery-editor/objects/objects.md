@@ -27,9 +27,7 @@ order: 1
 
 
 
-Tip
-
-: Consider using steel pipe to connect fuel tanks if required
+> Consider using steel pipe to connect fuel tanks if required
 
 +++
 
@@ -74,6 +72,10 @@ Tip
 | ![](_images/manual/tables/atc_tower_small_cab.png)  | Small (Cab)  |                           |
 | ![](_images/manual/tables/atc_tower_small.png)      | Small        |                           |
 
+
+
+> When the "Free" camera is selected, the default location is the tower view. When placing towers this can be useful as you can then pan down to look at the ground and place the tower in the exact location (make sure to [scale](/guide/scenery-editor/objects/properties) the tower so that the cab is just at or below the camera)
+
 +++
 
 
@@ -94,9 +96,7 @@ Tip
 
 
 
-Tip
-
-: Containers should be placed on top of pallet dolleys when at stands or can be placed on the ground when in a cargo area or away from stands. The [altitude](/guide/scenery-editor/objects/properties) of the containers should be increased by 0.4 to account for the pallet dolley 
+> Containers should be placed on top of pallet dolleys when at stands or can be placed on the ground when in a cargo area or away from stands. The [altitude](/guide/scenery-editor/objects/properties) of the containers should be increased by 0.4 to account for the pallet dolley 
 
 +++
 
@@ -136,9 +136,7 @@ Tip
 
 
 
-Tip
-
-: Containers should be placed on top of pallet dolleys when at stands or can be placed on the ground when in a cargo area or away from stands. The [altitude](/guide/scenery-editor/objects/properties) of the containers should be increased by 0.4 to account for the pallet dolley 
+> Containers should be placed on top of pallet dolleys when at stands or can be placed on the ground when in a cargo area or away from stands. The [altitude](/guide/scenery-editor/objects/properties) of the containers should be increased by 0.4 to account for the pallet dolley 
 
 +++
 
@@ -179,9 +177,7 @@ Tip
 
 
 
-Tip
-
-: If making large portions of fence, place 5 - 15 fence panels together and then copy & paste to help speed up the process. Upwards of 20 fences panels can make it difficult to connect fences together
+> If making large portions of fence, place 5 - 15 fence panels together and then copy & paste to help speed up the process. Upwards of 20 fences panels can make it difficult to connect fences together
 
 +++
 
@@ -197,9 +193,7 @@ Tip
 
 
 
-Tip
-
-: Optional - to add variety consider adding a fire truck or two around the airport rather than just at the fire station
+> Optional - to add variety consider adding a fire truck or two around the airport rather than just at the fire station
 
 +++
 
@@ -214,9 +208,7 @@ Tip
 
 
 
-Tip
-
-: Optional - consider using steel pipe to connect fuel tanks if required
+> Optional - consider using steel pipe to connect fuel tanks if required
 
 +++
 
@@ -308,9 +300,7 @@ Tip
 
 
 
-Tip
-
-: You can add two walkways together and flip one so that it creates a walkway with a guard rail on each side
+> You can add two walkways together and flip one so that it creates a walkway with a guard rail on each side
 
 +++
 
@@ -374,9 +364,7 @@ Tip
 
 
 
-Tip
-
-: Vehicles should be used sparingly. Try to change the vehicles up and spread them out to add variety! 
+> Vehicles should be used sparingly. Try to change the vehicles up and spread them out to add variety! 
 
 +++
 

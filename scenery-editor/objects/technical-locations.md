@@ -27,7 +27,7 @@ Tip
 | Where       | Placed 1000ft from the runway threshold (opposite end to the ILS/LOC-Only approach - e.g. so if the ILS is for RWY36, the antenna would be at the end of RWY18) - take note that the threshold might be displaced, so it is 1000ft from the white piano key markings, not 1000ft from the concrete! |
 | Orientation | As a rule of thumb, place the antenna so that it is perpendicular to the runway with the electrical box side facing away from the runway |
 
-*Note: the location of an additional red/white electrical box can be added but their locations vary significantly, if you can spot it on google maps or in some airport pictures that would be your best bet but it tends to be to one side of the LOC antenna and usually there is a bit of distance between them (i.e. not right next to each other like the G/S antenna)*
+> Note: the location of an additional red/white electrical box can be added but their locations vary significantly, if you can spot it on google maps or in some airport pictures that would be your best bet but it tends to be to one side of the LOC antenna and usually there is a bit of distance between them (i.e. not right next to each other like the G/S antenna)
 
 
 
@@ -41,7 +41,7 @@ Tip
 | Where       | Placed 750 - 1250ft from the runway threshold (this time the approach end - e.g. if the ILS is for RWY36, it would be placed 750 - 1250ft from the threshold of RWY36) and between 250 - 650ft from the runway centerline (most of the time the location coincides with abeam the main touchdown zone markings) - again, have a look on google maps, if you zoom in you'll probably see which side it is on and what it is in-line with in terms of runway markings |
 | Orientation | Place the antenna so that the white/grey aerials are facing the landing aircraft (see image below) |
 
-*Note: place a red/white electrical box behind the G/S antenna*
+> Note: place a red/white electrical box behind the G/S antenna
 
 
 

@@ -75,7 +75,7 @@ Tip
 
 
 
-You can also change the facade style on multiple buildings at the same time, to do this:
+**You can also change the facade style on multiple buildings at the same time, to do this:**
 
 
 

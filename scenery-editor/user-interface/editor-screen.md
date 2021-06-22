@@ -49,7 +49,7 @@ Welcome to the editor screen within the Infinite Flight app. Below you’ll find
 | Button                  | Function                                                     |
 | ----------------------- | ------------------------------------------------------------ |
 | File Manager            | This will show details of the latest changes to the airport as well as the option to "share", "upload", "download", and "close". *Note: Airports will only be uploaded to the server when "upload complete" is shown. Downloading a version from the server will override your local device version* |
-| Save                    | Saves the latest changes locally to your device              |
+| Save                    | Saves the latest changes locally to your device. *Note: The autosave function will automatically save once every minute to ensure work is not lost* |
 | Save Selected as Bundle | Select a group of buildings and/or objects and then tap this button to save them as a bundle for future use to speed up editing times |
 | Share Selected Bundle   | By selecting the bundle you wish to share from the "Library", you can then tap this button to share it with other airport scenery editors |
 | Download OSM            | By tapping this button, the Open Street Map data will be downloaded which will usually provide most of the buildings within (and close to) the airport boundaries |
@@ -153,54 +153,7 @@ Step 4
 
 +++ Properties
 
-
-
-Once a building or object is selected, the properties can be edited using this tab. The tables below show the options available for buildings and objects:
-
-
-
-**Buildings**
-
-| Button               | Function                                                     | Notes                                                        |
-| -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Height               | This shows the height (in meters) of the building. Tap the number and then enter in a new value to adjust this | When OSM is imported it will automatically give buildings a default height but this can be manually adjusted to make sure that it looks in proportion (e.g. a hanger that you know can park a 777 inside needs to be given a height that can accommodate this) |
-| Roof Orientation     | Tap the "+/-" symbols to adjust the orientation of the roof (you can also use the "Auto Roof Orientation" button) | Building roofs have a square pattern, use this tool to get the lines to match the building edges for aesthetic purposes. You can also use the [Auto Roof Orientation](/guide/scenery-editor/user-interface/editor-screen#management-buttons) by tapping Object > Auto Roof Orientation (this may still require manual adjustments) |
-| Facade               | The facade group can be changed here but it will change all sides of the selected building(s) | This can be good to use if you are changing multiple buildings at the same time however you are only able to change the facade group, facade styles and individual sides of the building(s) will have to be adjusted using the [other technique](/guide/scenery-editor/buildings-and-facades/editing-facades) |
-| Roof Depth           | This shows the roof depth (in meters) of the building. Tap the number and then enter in a new value between 0 and 1 to adjust this | Adds an "edge" around the building. If being used, only add to top level of buildings. |
-| Latitude / Longitude | Current latitude/longitude of the building                   |                                                              |
-| Altitude             | This shows the current altitude (in meters) of the building. Tap the number and then enter in a new value to adjust this | The altitude is always based on the bottom of the building. You can also use [Auto Altitude](/guide/scenery-editor/user-interface/editor-screen#management-buttons) by tapping Object > Auto Altitude if the building is positioned on top of the building you want it to go on top of (perfect for layering!) |
-| Name                 | You can name the building using this field                   | OPTIONAL: we recommend labelling buildings to help keep track (e.g. "Lvl 1 Terminal 1") |
-| Frozen               | Tap the "tick" symbol to toggle between the building being frozen (orange tick) and unfrozen (grey tick) | Frozen buildings cannot be edited until they have been unfrozen, this can be useful to avoid changing buildings by accident whilst editing other things nearby |
-| Type                 | N/A                                                          |                                                              |
-
-
-
-**Objects**
-
-| Button               | Function                                                     | Notes                                                        |
-| -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Scale                | Tap the "+/-" symbols to adjust the scale of the object      | Really useful for making objects match in size what you see from external sources (e.g. lighting AC units and blast deflectors etc.) |
-| Orientation          | Tap the "+/-" symbols to adjust the orientation of the object |                                                              |
-| 3D Model Name        | N/A                                                          |                                                              |
-| Animations           | N/A                                                          |                                                              |
-| 3D Model Ref Name    | N/A                                                          |                                                              |
-| Latitude / Longitude | Current latitude/longitude of the building                   |                                                              |
-| Altitude             | This shows the current altitude (in meters) of the object. Tap the number and then enter in a new value to adjust this | Always based on the bottom of the surface they you are working from. Can be adjusted here manually or go to Object > auto altitude if youre doing layering for example |
-| Name                 | You can name the object using this field                     |                                                              |
-| Frozen               | Tap the "tick" symbols to toggle between the building being frozen (orange tick) and unfrozen (grey tick) | Frozen buildings cannot be edited until they have been unfrozen, this can be useful to avoid changing buildings by accident whilst editing other things nearby |
-| Type                 | N/A                                                          |                                                              |
-
-
-
-**Objects (Jetbridges)**
-
-| Button        | Function                                                     | Notes                                                        |
-| ------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Base Rotation | Tap the "+/-" symbols to adjust the orientation of the jetbridge, it is based on a default position from the base/connector and rotates counter clockwise | Orientation in [Properties](/guide/scenery-editor/user-interface/editor-screen#navigation-bar) can be used for the same function |
-| Height        | Tap the "+/-" symbols to adjust the height of the jetbridge floor | Use to match the level of the aircraft door (some stands accept multiple aircraft types and so you can just pick a default height that would cater to most in these cases) |
-| Extension     | Tap the "+/-" symbols to adjust the length of the jetbridge  | Try to match the jetbridge length with the external sources being used |
-| Head Rotation | Tap the "+/-" symbols to moves the head of the jetbridge     | Adjust to be parallel with aircraft door                     |
-| Columns       | Tap the "+/-" symbols to adjust the column height at the end of a jetbridge | Use to ensure that wheels are not above or below ground level |
+The properties tab will vary based on whether [buildings](/guide/scenery-editor/buildings-and-facades/properties), [objects](/guide/scenery-editor/objects/properties) or [jetbridges](/guide/scenery-editor/objects/properties#jetbridges) are selected.
 
 +++
 
@@ -210,7 +163,11 @@ Once a building or object is selected, the properties can be edited using this t
 
 
 
-This shows a list of all buildings and objects that are currently loaded at the airport. You can scroll up/down using your finger. 
+This shows a list of all buildings and objects that are currently loaded at the airport. You can scroll up/down using your finger.
+
+
+
+> Tapping on an item within the list will select the object and show the ["changing orientation"](/guide/scenery-editor/objects/selection-and-placement#changing-orientation-of-an-object) movement symbols to make it easy to identify at your airport 
 
 +++
 
@@ -253,7 +210,7 @@ This contains a repository of all available facade styles and their respective f
 
 Tip
 
-: Currently it is recommended to use the "Airport/Scen Editor" camera
+: Currently it is recommended to use the "Airport/Scen Editor" camera when editing however the "Free" camera is particularly useful for positioning the ATC Tower (for more info, see the ATC Tower tab under [Objects](/guide/scenery-editor/objects/objects))
 
 
 

@@ -61,6 +61,12 @@ Tip
 
 
 
+Step 6
+
+: When editing is complete, tap "Edit Building" **(5)** to deselect it (you will be unable to edit other buildings without doing this) 
+
+
+
 ## Layering
 
 The below steps highlight a good method for adding detail to buildings (layering) however you may find different methods that you prefer:
