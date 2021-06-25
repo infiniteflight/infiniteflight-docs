@@ -12,9 +12,9 @@ Welcome to the Scenery Editor Guide, designed to help newly qualified and vetera
 
 
 
-## Version: 21.3.0
+## Version: 21.3.1
 
-## Last Updated: 2130Z - 22 JUN 21
+## Last Updated: 1530Z - 25 JUN 21
 
 
 
