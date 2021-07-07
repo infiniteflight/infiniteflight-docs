@@ -8,13 +8,17 @@ meta: Learn how to use the Infinite Flight Scenery Editor with our online docume
 
 
 
+## Guide Version: 21.3.0
+
+
+
 Welcome to the Scenery Editor Guide, designed to help newly qualified and veteran editors alike, bring 3D airports to Infinite Flight. Feedback is an essential part in the development & upkeep of the Scenery Editor Guide and can be raised via the IFC in the [Scenery Editing Category](https://community.infiniteflight.com/c/scenery-editing/47). 
 
 
 
-## Version: 21.3.1
+## Scenery Editor Guide Version (Internal): 21.3.0.1
 
-## Last Updated: 1530Z - 25 JUN 21
+## Last Updated: 1330Z - 07 JUL 21
 
 
 

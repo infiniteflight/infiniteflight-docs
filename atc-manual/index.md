@@ -8,6 +8,10 @@ meta: Introduction to the Infinite Flight Air Traffic Controller (IFATC) Manual.
 
 
 
+## Guide Version: 21.3.0
+
+
+
 Welcome to the Infinite Flight Air Traffic Controller (IFATC) Manual. It is designed to help new entrants and current Controllers with IFATC procedures, as well as cover the fundamental principles associated with all controlling facilities on Infinite Flight. **All Controllers are expected to familiarize themselves with this manual and continue to do so during their time with IFATC.**{.red}
 
 
@@ -22,13 +26,28 @@ Should
 
 
 
-## Version: 21.2.0
+## ATC Manual Version (Internal): 21.3.0.1
 
-## Last Updated: 1300Z - 17 JUN 21
+## Last Updated: 1330Z - 07 JUL 21
 
 
 
-+++ Summary of Changes - Version: 21.2.0 (CURRENT VERSION)
++++ Summary of Changes - Version: 21.3.0.1 (CURRENT VERSION)
+
+| Location                | Change                                                       |
+| ----------------------- | ------------------------------------------------------------ |
+| ALL                     | Some notes or pro tips have been reformatted                 |
+| 1A.5.2                  | Returning IFATC members can commence training for the rank of Officer provided they have successfully passed the "Check Ride" phase |
+| 1B.2.1                  | Added not following a published TFR/NOTAM as grounds for Controllers to issue a Violation |
+| 6.8.9                   | Flight plan approach prefix added for LDA Approach           |
+| 7.3.2 / 7C.2.1 / 7C.4.5 | Added new notes to highlight that returning IFATC members are not required to complete The Initial Theory Test during their application to rejoin (if it is within 1 year of leaving) |
+| 7B.3.3                  | The retest site is only to be used for demotion from Officer to Specialist, returning members can be tested at any of the pre-approved radar test sites |
+
++++
+
+
+
++++ Summary of Changes - Version: 21.2.0
 
 | Location | Change                                                       |
 | -------- | ------------------------------------------------------------ |
@@ -59,30 +78,4 @@ Should
 
 +++
 
-
-
-+++ Summary of Changes - Version: 21.1.0
-
-| Location                       | Change                                                       |
-| ------------------------------ | ------------------------------------------------------------ |
-| 1.1                            | Introduction page renamed                                    |
-| 1.1.4 / 6.8.6                  | Reference to ifatc.org removed (original 1.1.4 removed and 1.1.5 moved up to replace it) |
-| 1.2                            | Abbreviations moved to new page                              |
-| Section 1A                     | Complete rework                                              |
-| Section 1B                     | Complete rework                                              |
-| 3.2.10                         | Guidance for Tower Controllers on when to issue "Frequency Changed Approved" |
-| 3.4.1                          | Added image of the traffic pattern                           |
-| Section 4                      | Complete rework                                              |
-| 4.2.1                          | Use of "FPL required" in ATIS expanded to include when SID/STAR use is mandated |
-| 6.4.4 / 6.6.2 / 6.6.11 / 6.8.5 | Wording standardized for the use of "Altitude at your discretion" |
-| 6.6.10                         | Center Controllers can accept approach requests for an airport with an Approach Controller present, if the approach in use is known |
-| 6.10.5                         | Clarification on the use of "reasonable" when issuing an ILS clearance without vectors |
-| 6.10.7 / 6.10.8                | Guidance added to cover parallel operations                  |
-| 6.13.3 / 6.13.4 / 6.14.9       | Guidance added to cover the introduction of "maintain XXXkts until X mile final" |
-| 6.14.3                         | Minor formatting optimization                                |
-| 7.4.2 / 7.5.7                  | Removal of requirement to include an asterisk when in a Check Ride phase |
-| 7.5.1                          | Removal of ATC Schedule reference                            |
-| 7.5.8                          | Recruiters no longer required to poll at the end of an Officer Check Ride phase |
-
-+++
 

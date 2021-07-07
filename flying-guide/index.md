@@ -6,6 +6,12 @@ meta: Learn how to get the most out of Infinite Flight with our online documenta
 
 # Welcome to the Flying Guide!
 
+
+
+## Guide Version: 21.3.0
+
+
+
 Whether you're a novice with no aviation background, or a professional pilot with thousands of hours under your belt; our Flying Guide has been designed to help you with all aspects of flying in Infinite Flight.
 
 
