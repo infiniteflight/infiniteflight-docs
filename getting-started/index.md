@@ -6,6 +6,12 @@ meta: Learn how to get the most out of Infinite Flight with our online documenta
 
 # Welcome to the Getting Started Guide!
 
+
+
+## Guide Version: 21.3.0
+
+
+
 Welcome to the Getting Started Guide, our first guide in a series to help you learn everything there is to know in the world of Infinite Flight. 
 
 

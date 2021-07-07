@@ -9,15 +9,17 @@ order: 1
 
 # Editor Checklist
 
+Tip
+
+: Remember to regularly seek fellow editors for peer review to help get the best results at your airport!
+
 
 
 Below is a checklist that editors should ensure is completed before marking an airport as complete and [ready for review](/guide/scenery-editor/review-and-release/review-process#review):
 
 
 
-Tip
-
-: If you leave this page, items that you have "checked off" will not be remembered. Do not navigate away or refresh this page until you have completed the checklist 
+> If you leave this page, items that you have "checked off" will not be remembered. Do not navigate away or refresh this page until you have completed the checklist 
 
 
 
