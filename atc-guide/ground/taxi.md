@@ -33,13 +33,13 @@ Step 3
 
 Tip
 
-: Dependant on traffic, a taxi command may need to be immediately followed with progressive taxi or give way instructions
+: Dependent on traffic, a taxi command may need to be immediately followed with progressive taxi or give way instructions
 
 
 
 ## Progressive Taxi and Give Way
 
-As well as using the normal taxi commands, progressive taxi and give way instructions can be useful to help assist the Controller with ground management, particularly with one way systems, potential conflicts, and intersection departures.
+As well as using the normal taxi commands, progressive taxi and give way instructions can be useful to help assist the Controller with ground management, particularly with one way systems, potential conflicts, and intersection departures. 
 
 
 
@@ -70,6 +70,12 @@ Step 2
 Step 3
 
 : Once the conflict is clear, the aircraft giving way can continue as cleared
+
+
+
+Tip
+
+: Try to be proactive rather than reactive! Predict ground movement and potential conflicts and use the tools available to solve the problem early on, this will help you stay ahead and maintain a low workload!
 
 
 

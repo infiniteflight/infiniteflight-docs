@@ -160,7 +160,7 @@ Utilizing multiple entry points to the runway for departure will give you the fl
 
 | Considerations       | Why                                                          |
 | -------------------- | ------------------------------------------------------------ |
-| Aircraft Flight Plan | If multiple departures are about to be cleared with no arrivals in-between, choose aircraft that depart in alternate directions to help ease airspace congestion |
+| Aircraft Flight Plan | If multiple departures are about to be cleared with no arrivals in-between, choose aircraft that have flight plans that depart in different directions to help ease airspace congestion (e.g. one departure has a flight plan filed that departs to the north and the other to the south) |
 | Aircraft Size        | If the gap between two arrivals looks quite close, perhaps consider choosing an aircraft that you know will be able to depart quicker (e.g. a fighter jet instead of a large commercial aircraft) |
 | Aircraft position    | You may be able to depart aircraft quicker if you line up two aircraft at the same time |
 

@@ -139,7 +139,7 @@ Tip
 
 ## Runway Changes
 
-Once a runway assignment has been issued, it would be ideal if we did not need to change it. However by using all available runways, changing the assigned runway (if required) is a useful tool to help deal with a dynamic environment and promoting an efficient operation.
+Once a runway assignment has been issued, it would be ideal if we did not need to change it. However, by using all available runways, changing the assigned runway (if required) is a useful tool to help deal with a dynamic environment and promoting an efficient operation.
 
 
 
