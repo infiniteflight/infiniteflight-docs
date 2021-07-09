@@ -41,6 +41,12 @@ Step 3
 
 
 
+Tip
+
+: Set a reminder by tapping the aircraft on the map followed by "Set Reminder". The aircraft and their flight progress strip will flash green when the timer is up! 
+
+
+
 ## Flow Control
 
 Flow Control is a technique used by Controllers to limit the amount of aircraft inbound to a particular destination. This is usually done by holding aircraft at the gate to help stagger departures.

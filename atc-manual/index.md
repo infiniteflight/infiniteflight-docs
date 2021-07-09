@@ -28,7 +28,7 @@ Should
 
 ## ATC Manual Version (Internal): 21.3.0.1
 
-## Last Updated: 1330Z - 07 JUL 21
+## Last Updated: 1500Z - 08 JUL 21
 
 
 
@@ -39,6 +39,7 @@ Should
 | ALL                     | Some notes or pro tips have been reformatted                 |
 | 1A.5.2                  | Returning IFATC members can commence training for the rank of Officer provided they have successfully passed the "Check Ride" phase |
 | 1B.2.1                  | Added not following a published TFR/NOTAM as grounds for Controllers to issue a Violation |
+| 3.2.2                   | Departure sequencing adjusted to reflect that if an aircraft is lined up, the next aircraft ready for departure is considered number 2, not number 1 |
 | 6.8.9                   | Flight plan approach prefix added for LDA Approach           |
 | 7.3.2 / 7C.2.1 / 7C.4.5 | Added new notes to highlight that returning IFATC members are not required to complete The Initial Theory Test during their application to rejoin (if it is within 1 year of leaving) |
 | 7B.3.3                  | The retest site is only to be used for demotion from Officer to Specialist, returning members can be tested at any of the pre-approved radar test sites |
