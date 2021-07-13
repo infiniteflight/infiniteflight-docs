@@ -131,3 +131,9 @@ Tip
 
 : Don't forget that you can also make layers that are a tiny height, this will give you the option of changing the roof colour for example without the different facade being visible to keep the building look the same
 
+
+
+Step 7
+
+: With every new layer added, don't forget to [name it appropriately](/guide/scenery-editor/buildings-and-facades/properties) (tap on the building > select properties > tap name to edit)
+

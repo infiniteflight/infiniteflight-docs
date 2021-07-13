@@ -28,7 +28,7 @@ Should
 
 ## ATC Manual Version (Internal): 21.3.0.1
 
-## Last Updated: 1800Z - 12 JUL 21
+## Last Updated: 1000Z - 13 JUL 21
 
 
 
@@ -38,6 +38,8 @@ Should
 | ----------------------- | ------------------------------------------------------------ |
 | ALL                     | Some notes or pro tips have been reformatted                 |
 | 1.2.1                   | FF abbreviation for Flash Flight added                       |
+| 1A.1.2 / 1A.3.1         | Guidance added on using role assignments, and specifically only using the *@Tower Relief* and *@Radar Relief* reaction roles once (including the airport and closing time) |
+| 1A.1.8                  | VC channel limit changed from 8 to 10 people                 |
 | 1A.5.2                  | Returning IFATC members can commence training for the rank of Officer provided they have successfully passed the "Check Ride" phase |
 | 1B.2.1                  | Added not following a published TFR/NOTAM as grounds for Controllers to issue a Violation |
 | 1B.3.2                  | If during a violation appeal, the Controller and Appeals Team are added, the Controller is to observe only and allow the Appeals Team to deal with the appeal |
