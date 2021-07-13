@@ -22,6 +22,14 @@ The following rules must be observed at all times when editing airports:
 - Only edit the airports allocated to you
 - Adding customs towers should be avoided where possible however if you feel that it is required for the overall look of the airport, a request must be made beforehand for authorization
 - Only one airport can be edited at a time, and other airports cannot be reserved for future work (whilst another airport is being edited)
+- Do not create an IFC topic in the [Scenery Editor Category](https://community.infiniteflight.com/c/scenery-editing/47) for an airport that is being edited. If you are editing a new airport (or working on an existing one which does not have a thread on the IFC yet), a topic will automatically be created. Whenever new versions are uploaded, the changelogs will be added automatically to each thread so it's easy to keep track. All communication about a particular airport must remain [within it's specific thread](/guide/scenery-editor/review-and-release/review-and-release-process)
+- All buildings and their [different layers](/guide/scenery-editor/buildings-and-facades/editing-buildings#layering) must be named appropriately (i.e. "Lvl 1 Terminal 1")
+
+
+
+If you are editing a new airport (or working on an existing one which does not have a thread on the IFC yet), a topic will automatically be created in the [Scenery Editor Category](https://community.infiniteflight.com/c/scenery-editing/47). Whenever new versions are uploaded, the changelogs will be added automatically to each thread so it's easy to keep track. All communication about a particular airport must remain [within it's specific thread](/guide/scenery-editor/review-and-release/review-and-release-process)
+
+
 
 
 

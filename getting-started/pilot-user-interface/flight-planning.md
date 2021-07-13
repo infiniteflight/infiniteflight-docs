@@ -247,6 +247,7 @@ Step 6
 | D      | VOR/DME Approach                              |
 | H      | RNAV (RNP) Approach                           |
 | I      | ILS Approach                                  |
+| J      | GLS Approach                                  |
 | L      | LOC (Localizer) Only Approach                 |
 | N      | NDB Approach                                  |
 | Q      | Combination (two or more) of ILS/DME/VOR/NDB  |

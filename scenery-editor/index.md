@@ -18,7 +18,7 @@ Welcome to the Scenery Editor Guide, designed to help newly qualified and vetera
 
 ## Scenery Editor Guide Version (Internal): 21.3.0.1
 
-## Last Updated: 1330Z - 07 JUL 21
+## Last Updated: 1000Z - 13 JUL 21
 
 
 

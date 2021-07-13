@@ -17,7 +17,7 @@ Whether you're a novice with no aviation background, or a professional controlle
 
 
 
-It is important to note that the ATC Guide focuses on *controlling techniques* rather than the rules (see [The ATC Manual](/guide/atc-manual)) - therefore the "scenarios" are deliberately "grey" rather than "black & white" to help Controllers think outside the box!
+It is important to note that the ATC Guide focuses on *controlling techniques* rather than the rules (see [The ATC Manual](/guide/atc-manual)) - therefore the "scenarios" are deliberately "gray" rather than "black & white" to help Controllers think outside the box!
 
 
 
