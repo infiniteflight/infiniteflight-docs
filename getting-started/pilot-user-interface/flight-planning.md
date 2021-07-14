@@ -242,16 +242,18 @@ Step 6
 
 **The following prefixes are used to help differentiate between the different approaches available at an airport:**
 
-| Prefix | Meaning                                      |
-| ------ | -------------------------------------------- |
-| D      | VOR/DME Approach                             |
-| H      | RNAV (RNP) Approach                          |
-| I      | ILS Approach                                 |
-| L      | Localizer Only Approach                      |
-| N      | NDB Approach                                 |
-| Q      | Combination (two or more) of ILS/DME/VOR/NDB |
-| R      | RNAV (GPS) Approach                          |
-| S      | VOR Only Approach                            |
+| Prefix | Meaning                                       |
+| ------ | --------------------------------------------- |
+| D      | VOR/DME Approach                              |
+| H      | RNAV (RNP) Approach                           |
+| I      | ILS Approach                                  |
+| J      | GLS Approach                                  |
+| L      | LOC (Localizer) Only Approach                 |
+| N      | NDB Approach                                  |
+| Q      | Combination (two or more) of ILS/DME/VOR/NDB  |
+| R      | RNAV (GPS) Approach                           |
+| S      | VOR Only Approach                             |
+| X      | LDA (Localizer Type Directional Aid) Approach |
 
 
 

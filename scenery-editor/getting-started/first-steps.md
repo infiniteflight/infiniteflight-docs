@@ -58,3 +58,9 @@ Step 5
 Tip
 
 : Remember to regularly save and upload your work. You can do this by tapping "File" and then "Save", or "File", "File Manager" and then "Upload" respectively 
+
+
+
+Step 6
+
+: If you are editing a new airport (or working on an existing one which does not have a thread on the IFC yet), a topic will automatically be created in the [Scenery Editor Category](https://community.infiniteflight.com/c/scenery-editing/47). Whenever new versions are uploaded, the changelogs will be added automatically to each thread so it's easy to keep track. All communication about a particular airport must remain [within it's specific thread](/guide/scenery-editor/review-and-release/review-and-release-process)

@@ -59,7 +59,7 @@ Tip
 
 Step 3
 
-: If there is an aircraft that has been cleared for take-off and a collision risk exits, cancel their take-off clearance by tapping "Cancel Take-Off Clearance"
+: If there is an aircraft that has been cleared for take-off and a collision risk exists, cancel their take-off clearance by tapping "Cancel Take-Off Clearance"
 
 
 
