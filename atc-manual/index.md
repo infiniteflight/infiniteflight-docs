@@ -28,7 +28,7 @@ Should
 
 ## ATC Manual Version (Internal): 21.3.0.1
 
-## Last Updated: 1000Z - 13 JUL 21
+## Last Updated: 1730Z - 16 JUL 21
 
 
 
@@ -85,5 +85,4 @@ Should
 | 7D.4.2          | Guidance for Supervisors on issuing feedback                 |
 
 +++
-
 
