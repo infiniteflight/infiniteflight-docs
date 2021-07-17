@@ -57,7 +57,7 @@ When there are multiple aircraft queuing for departure, it can be useful to prov
 
 Manual
 
-: Any aircraft that is instructed to LUAW or cleared for take-off is no longer considered in the departure sequence - therefore the next aircraft at the hold short line is now considered number 1 for departure. [More info?](/guide/atc-manual/3.-tower/3.2-departures#3.2.2)
+: An aircraft that has been cleared for take-off is no longer considered in the departure sequence - therefore the next aircraft holding short is considered number 1 for departure. However, if an aircraft has been instructed to LUAW, the next aircraft holding short is considered number 2 for departure. [More info?](/guide/atc-manual/3.-tower/3.2-departures#3.2.2)
 
 
 
