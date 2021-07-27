@@ -12,7 +12,7 @@
 
 This is version 1.1
 
-Updated 27/07/2021
+Updated 07/27/2021
 
 - Minor changes to definition and policy principles sections
 
