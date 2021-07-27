@@ -10,12 +10,11 @@
 
 #### Version Number and Changes
 
-This is version 1.0
+This is version 1.1
 
-Updated 07/03/2020
+Updated 27/07/2021
 
-There are no changes to this document
-
+- Minor changes to definition and policy principles sections
 
 
 #### Policy Outline
@@ -116,7 +115,7 @@ Infinite Flight has a designated Safeguarding Team who oversee all safeguarding 
 
  
 
-1.5 - It is considered the responsibility of all parties involved in Infinite Flight to ensure the protection of children and vulnerable users and provide support where needed
+1.5 - It is considered the responsibility of all parties involved with Infinite Flight to ensure the protection of children and vulnerable users and provide support where needed
 
 
 
@@ -198,7 +197,7 @@ A vulnerable adult is a person over the age of 18 years old who may require serv
 
 **Infinite Flight**
 
-Infinite Flight is the company that this policy is put in place for and by. Infinite Flight runs and maintains the Infinite Flight App and Infinite Flight Forum alongside its partners.
+Infinite Flight is the company that this policy is put in place for and by. Infinite Flight runs and maintains the Infinite Flight App, Infinite Flight Forum, and Infinite Flight website alongside its partners.
 
 **Safeguarding Team**
 
@@ -230,7 +229,7 @@ Any form of physical or mental abuse that happens in a physical or online worksp
 
 **Discrimination**
 
-The negative judgement of someone, usually based on their race, gender, sex, ethnicity, religion, or class, that leads to harm of a denying of opportunity.
+The negative judgement of someone, usually based on their race, gender, sex, ethnicity, religion, or class, that leads to harm or a denying of opportunity.
 
 
 
