@@ -8,7 +8,7 @@ meta: Learn how to use the Infinite Flight Scenery Editor with our online docume
 
 
 
-## Guide Version: 21.3.0
+## Guide Version: 21.5.0
 
 
 
@@ -16,9 +16,9 @@ Welcome to the Scenery Editor Guide, designed to help newly qualified and vetera
 
 
 
-## Scenery Editor Guide Version (Internal): 21.3.0.1
+## Scenery Editor Guide Version (Internal): 21.5.0.1
 
-## Last Updated: 1000Z - 13 JUL 21
+## Last Updated: 0830Z - 23 AUG 21
 
 
 

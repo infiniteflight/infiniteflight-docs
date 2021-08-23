@@ -32,7 +32,7 @@ Step 2
 
 | Departure Type      | Check In [IFR] | Flight Following [VFR] |
 | ------------------- | -------------- | ---------------------- |
-| With Flight Plan    | Yes            | No                     |
+| With Flight Plan    | Yes            | Yes                    |
 | Without Flight Plan | No             | Yes                    |
 
 

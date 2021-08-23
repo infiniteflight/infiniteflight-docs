@@ -517,7 +517,7 @@ The Controller was unable to communicate with you and has subsequently removed y
 
 
 
-## Unresponsive while Climbing, Descending, or Manuevering
+## Unresponsive while Climbing, Descending, or Maneuvering
 
 *Issued by: Ground/Tower/Radar*
 
