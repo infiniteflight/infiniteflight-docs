@@ -15,8 +15,7 @@ These samples are all licensed differently, so check the terms of the license be
 - [Official v1 Demo](https://github.com/mlaban/IFCTest)\* - C#
 - [Official v2 Demo](https://github.com/carmichaelalonso/infiniteflightapi) - C#
 - [LiveFlight Connect](https://github.com/LiveFlightApp/Connect-Windows)\* - C#
-- [InfiniteFlight.js v1](https://github.com/Velocity23/InfiniteFlight.js/)\* - NodeJS
-- [InfiniteFlight.js v2](https://github.com/Velocity23/InfiniteFlight.js/tree/v2) - NodeJS
+- [ifc (v1)](https://github.com/nicolasbd/ifc)\* - NodeJS
 - [InfiniteFlightConnect](https://github.com/carmichaelalonso/InfiniteFlightConnect)\* - Swift
 - [SwiftFlight](https://github.com/tomthetank46/SwiftFlight) - Swift
 - [InfiniteFlightConnect-Python](https://github.com/flyme2bluemoon/InfiniteFlightConnect-Python) - Python
