@@ -8,7 +8,7 @@ meta: Introduction to the Infinite Flight Air Traffic Controller (IFATC) Manual.
 
 
 
-## Guide Version: 21.3.0
+## Guide Version: 21.4.0
 
 
 
@@ -26,13 +26,35 @@ Should
 
 
 
-## ATC Manual Version (Internal): 21.3.0.1
+## ATC Manual Version (Internal): 21.4.0.1
 
-## Last Updated: 1730Z - 16 JUL 21
+## Last Updated: 1445Z - 24 AUG 21
 
 
 
-+++ Summary of Changes - Version: 21.3.0.1 (CURRENT VERSION)
++++ Summary of Changes - Version: 21.4.0.1 (CURRENT VERSION)
+
+| Location        | Change                                                       |
+| --------------- | ------------------------------------------------------------ |
+| 1A.1.2          | Reference to 7.1.5 added for training-time sessions          |
+| 1A.3.1          | Guidance added on avoiding controlling or providing service to airports that do not have ramp spawn points for aircraft |
+| 1A.5.4          | Minimum rank to be a Recruiter changed to Officer            |
+| 1A.6.2          | Region assignments no longer apply during the Officer Check Ride phase |
+| 1A.6.2          | For official events (such as FF and Streams), Controllers can open event airports (outside of their assigned region) up to 1 hour before the event start time |
+| 1B.2.1          | Added crashing/taxiing into buildings/objects as a possible reason for issuing a violation |
+| 3.1.1           | Clarification added on intersecting runways                  |
+| 3.5.1           | Minor wording correction to pro tip                          |
+| 6.9.3           | Minor wording correction                                     |
+| 7.1.5           | Guidance added on flying for training-time sessions          |
+| 7.4.2           | Spelling mistake corrected                                   |
+| 7C.2.1 / 7C.2.9 | Canned replies added for Recruiters                          |
+| 7C.3.3          | Minor spelling mistake corrected                             |
+
++++
+
+
+
++++ Summary of Changes - Version: 21.3.0.1
 
 | Location                | Change                                                       |
 | ----------------------- | ------------------------------------------------------------ |
@@ -64,25 +86,6 @@ Should
 | 7.5.8    | Minor wording correction in Radar Training flowchart         |
 | 7D.2.4   | Reference to *#supervisors* Discord Channel removed          |
 | 7D.2.5   | Added reference to the Appeals Team when violations are issued for a final verdict |
-
-+++
-
-
-
-+++ Summary of Changes - Version: 21.1.1
-
-| Location        | Change                                                       |
-| --------------- | ------------------------------------------------------------ |
-| 1A.1.2 / 1A.2.2 | Removal of *#controlling[1-5]* Discord voice channels        |
-| 1A.1.4 - 1A.1.8 | Guidance on new temporary Voice Channels added               |
-| 1A.4.2          | Minimum controlling times have now been reduced to 30 minutes for all facilities |
-| 1A.5.3          | Added more detail on how Supervisors are selected            |
-| 1A.5.4          | 1A.5.3 moved to 1A.5.4                                       |
-| 4.2.1           | Removal of "Severe Weather" ATIS remark                      |
-| 6.6.12          | Minor spelling mistake corrected                             |
-| 6.10.3          | Minor wording correction with example now referencing a westerly runway, image 6.10.3.1 will be changed in due course to support this |
-| 7A.2.7          | "Must" changed to "should"                                   |
-| 7D.4.2          | Guidance for Supervisors on issuing feedback                 |
 
 +++
 
