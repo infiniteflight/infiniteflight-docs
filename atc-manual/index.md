@@ -8,7 +8,7 @@ meta: Introduction to the Infinite Flight Air Traffic Controller (IFATC) Manual.
 
 
 
-## Guide Version: 21.5.0
+## Guide Version: 21.4.0
 
 
 
@@ -26,16 +26,17 @@ Should
 
 
 
-## ATC Manual Version (Internal): 21.5.0.1
+## ATC Manual Version (Internal): 21.4.0.1
 
-## Last Updated: 1030Z - 23 AUG 21
+## Last Updated: 1445Z - 24 AUG 21
 
 
 
-+++ Summary of Changes - Version: 21.5.0.1 (CURRENT VERSION)
++++ Summary of Changes - Version: 21.4.0.1 (CURRENT VERSION)
 
 | Location        | Change                                                       |
 | --------------- | ------------------------------------------------------------ |
+| 1A.1.2          | Reference to 7.1.5 added for training-time sessions          |
 | 1A.3.1          | Guidance added on avoiding controlling or providing service to airports that do not have ramp spawn points for aircraft |
 | 1A.5.4          | Minimum rank to be a Recruiter changed to Officer            |
 | 1A.6.2          | Region assignments no longer apply during the Officer Check Ride phase |
@@ -44,6 +45,7 @@ Should
 | 3.1.1           | Clarification added on intersecting runways                  |
 | 3.5.1           | Minor wording correction to pro tip                          |
 | 6.9.3           | Minor wording correction                                     |
+| 7.1.5           | Guidance added on flying for training-time sessions          |
 | 7.4.2           | Spelling mistake corrected                                   |
 | 7C.2.1 / 7C.2.9 | Canned replies added for Recruiters                          |
 | 7C.3.3          | Minor spelling mistake corrected                             |
