@@ -246,7 +246,7 @@ Step 3
 ![iOS Popup](_images/manual/frames/connect-devices.png)
 
 
-## Google Play says my device isn't compatible anymore.
+## Google Play says my device is not compatible anymore
 
 This alert will show if your device does not support the latest update of Infinite Flight, or if your device is not Google Play Protect certified. The following steps will help you determine this:
 
