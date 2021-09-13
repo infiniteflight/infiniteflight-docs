@@ -245,3 +245,27 @@ Step 3
 
 ![iOS Popup](_images/manual/frames/connect-devices.png)
 
+
+## Google Play says my device is not compatible anymore
+
+This alert will show if your device does not support the latest update of Infinite Flight, or if your device is not Google Play Protect certified. The following steps will help you determine this:
+
+Step 1
+
+ : Ensure your device meets the [minimum device requirements](/guide/get-help/general#what-are-the-minimum-device-requirements-for-infinite-flight%3F). If it doesn't, then you will not be able to update Infinite Flight to the latest version.
+
+Step 2
+
+ : Check to see if your device is Google Play Protect certified. You can do this by opening the Google Play Store, tap on Main Menu -> Settings and check "Play Protect certification" under "About" (should say "Device is certified").
+
+If your device is not certified, this is because Google cannot validate the security or compatibility status of your device.
+
+Ensure the following:
+
+ - Your device's bootloader is *locked*.
+
+ - Your device has the latest official software update from your manufacturer.
+
+ - Your device is on the list of [Google Play's support devices](https://storage.googleapis.com/play_public/supported_devices.html)
+
+ You can read more on the [Google Support website](https://support.google.com/android/answer/10248227?hl=en-GB#zippy=%2Cdevice-isnt-certified).
