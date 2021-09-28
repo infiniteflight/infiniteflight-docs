@@ -20,7 +20,7 @@ Below are the minimum requirements for a successful install on your device. In a
 
 
 
-*Note: Due to the large variety of Android devices, there is not a full list of devices supported although the vast majority can be found [here](https://community.infiniteflight.com/t/device-compatibility-thread-20-3-built-by-us-for-you/323610). Customers with devices that are not supported at this time will receive a message on the Google Play Store when attempting to download the latest update for Infinite Flight to advise that the device in use is not supported.*
+> Due to the large variety of Android devices, there is not a full list of devices supported although the vast majority can be found [here](https://community.infiniteflight.com/t/device-compatibility-thread-20-3-built-by-us-for-you/323610). Customers with devices that are not supported at this time will receive a message on the Google Play Store when attempting to download the latest update for Infinite Flight to advise that the device in use is not supported
 
 
 
