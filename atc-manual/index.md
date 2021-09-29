@@ -28,7 +28,7 @@ Should
 
 ## ATC Manual Version (Internal): 21.6.0.1
 
-## Last Updated: 1445Z - 29 SEP 21
+## Last Updated: 1500Z - 29 SEP 21
 
 
 
@@ -41,6 +41,7 @@ Should
 | 1A.4     | New airport selection page added, previous sections 1A.4 and 1A.5 moved to 1A.5 and 1A.6 respectively |
 | 1A.6     | Region assignment section removed                            |
 | 7.4.2    | Updated the Specialist Check Ride phase list to include featured airports from the ATC Schedule |
+| 7.5.7    | Note added to the Officer Check Ride phase to include not controlling featured airports from the ATC Schedule |
 
 +++
 
