@@ -28,7 +28,7 @@ Should
 
 ## ATC Manual Version (Internal): 21.6.0.1
 
-## Last Updated: 1600Z - 28 SEP 21
+## Last Updated: 1445Z - 29 SEP 21
 
 
 
@@ -38,8 +38,8 @@ Should
 | -------- | ------------------------------------------------------------ |
 | 1A.1.2   | Added *#atc-schedule* and *#events* channel descriptions. Changed the *#[region-name]* briefing rooms to *#[continent-name]* |
 | 1A.3.1   | Removal of controlling within region assignment restriction  |
-| 1A.3.2   | New airport selection rules added. Previous 1A.3.2 changed to 1A.3.3 |
-| 1A.6     | Old section removed. Previous 1A.7 changed to 1A.6           |
+| 1A.4     | New airport selection page added, previous sections 1A.4 and 1A.5 moved to 1A.5 and 1A.6 respectively |
+| 1A.6     | Region assignment section removed                            |
 | 7.4.2    | Updated the Specialist Check Ride phase list to include featured airports from the ATC Schedule |
 
 +++
