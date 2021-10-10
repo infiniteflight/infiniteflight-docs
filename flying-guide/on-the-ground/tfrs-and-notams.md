@@ -64,13 +64,12 @@ The following list shows all permanent TFRs/NOTAMs in place within Infinite Flig
 
 Aircraft larger than Dash-8 Q400 not authorized. Jet traffic not authorized. Larger aircraft MUST divert.
 
-| Parameters | Restrictions         |
-| ---------- | -------------------- |
-| Type       | TFR                  |
-| From       | 01/01/2000 06:00Z    |
-| To         | Until Further Notice |
-| Floor      | SFC                  |
-| Ceiling    | 10,000ft             |
+| Parameters | Restrictions |
+| ---------- | ------------ |
+| Type       | TFR          |
+| Status     | ACTIVE       |
+| Floor      | SFC          |
+| Ceiling    | 10,000ft     |
 
 +++
 
@@ -80,13 +79,12 @@ Aircraft larger than Dash-8 Q400 not authorized. Jet traffic not authorized. Lar
 
 RWY 08L/26R CLOSED. RWY08L/26R to be used as taxiway ONLY.
 
-| Parameters | Restrictions         |
-| ---------- | -------------------- |
-| Type       | NOTAM                |
-| From       | 01/01/2000 06:00Z    |
-| To         | Until Further Notice |
-| Floor      | SFC                  |
-| Ceiling    | 10,000ft             |
+| Parameters | Restrictions |
+| ---------- | ------------ |
+| Type       | NOTAM        |
+| Status     | ACTIVE       |
+| Floor      | SFC          |
+| Ceiling    | 10,000ft     |
 
 +++
 
@@ -96,13 +94,12 @@ RWY 08L/26R CLOSED. RWY08L/26R to be used as taxiway ONLY.
 
 Aircraft larger than A318 not authorized (C130s are allowed). Larger aircraft MUST divert.
 
-| Parameters | Restrictions         |
-| ---------- | -------------------- |
-| Type       | TFR                  |
-| From       | 01/01/2000 06:00Z    |
-| To         | Until Further Notice |
-| Floor      | SFC                  |
-| Ceiling    | 10,000ft             |
+| Parameters | Restrictions |
+| ---------- | ------------ |
+| Type       | TFR          |
+| Status     | ACTIVE       |
+| Floor      | SFC          |
+| Ceiling    | 10,000ft     |
 
 +++
 
@@ -112,13 +109,12 @@ Aircraft larger than A318 not authorized (C130s are allowed). Larger aircraft MU
 
 Aircraft larger than CRJ-900 not authorized (including A320/B737 series). Larger aircraft MUST divert. Special Airport Procedures in Effect due terrain - RWY33 for departure ONLY, after departure, immediately turn right 10 degrees. RWY15 for arrivals ONLY.
 
-| Parameters | Restrictions         |
-| ---------- | -------------------- |
-| Type       | TFR                  |
-| From       | 01/01/2000 06:00Z    |
-| To         | Until Further Notice |
-| Floor      | SFC                  |
-| Ceiling    | 10,000ft             |
+| Parameters | Restrictions |
+| ---------- | ------------ |
+| Type       | TFR          |
+| Status     | ACTIVE       |
+| Floor      | SFC          |
+| Ceiling    | 10,000ft     |
 
 +++
 
@@ -128,13 +124,12 @@ Aircraft larger than CRJ-900 not authorized (including A320/B737 series). Larger
 
 Aircraft larger than A321/B757 not authorized. Larger aircraft MUST divert.
 
-| Parameters | Restrictions         |
-| ---------- | -------------------- |
-| Type       | TFR                  |
-| From       | 01/01/2000 06:00Z    |
-| To         | Until Further Notice |
-| Floor      | SFC                  |
-| Ceiling    | 10,000ft             |
+| Parameters | Restrictions |
+| ---------- | ------------ |
+| Type       | TFR          |
+| Status     | ACTIVE       |
+| Floor      | SFC          |
+| Ceiling    | 10,000ft     |
 
 +++
 
@@ -144,13 +139,12 @@ Aircraft larger than A321/B757 not authorized. Larger aircraft MUST divert.
 
 Aircraft larger than A321/B757 not authorized. Larger aircraft MUST divert.
 
-| Parameters | Restrictions         |
-| ---------- | -------------------- |
-| Type       | TFR                  |
-| From       | 01/01/2021 06:00Z    |
-| To         | Until Further Notice |
-| Floor      | SFC                  |
-| Ceiling    | 10,000ft             |
+| Parameters | Restrictions |
+| ---------- | ------------ |
+| Type       | TFR          |
+| Status     | ACTIVE       |
+| Floor      | SFC          |
+| Ceiling    | 10,000ft     |
 
 +++
 
@@ -160,13 +154,27 @@ Aircraft larger than A321/B757 not authorized. Larger aircraft MUST divert.
 
 RWY 16R/34L CLOSED. RWY16R/34L to be used as taxiway ONLY. 
 
-| Parameters | Restrictions         |
-| ---------- | -------------------- |
-| Type       | NOTAM                |
-| From       | 01/01/2021 06:00Z    |
-| To         | Until Further Notice |
-| Floor      | SFC                  |
-| Ceiling    | 10,000ft             |
+| Parameters | Restrictions |
+| ---------- | ------------ |
+| Type       | NOTAM        |
+| Status     | ACTIVE       |
+| Floor      | SFC          |
+| Ceiling    | 10,000ft     |
+
++++
+
+
+
++++ MHTG (Toncontin Intl)
+
+Aircraft larger than A321/B757 not authorized. Larger aircraft MUST divert.
+
+| Parameters | Restrictions |
+| ---------- | ------------ |
+| Type       | NOTAM        |
+| Status     | ACTIVE       |
+| Floor      | SFC          |
+| Ceiling    | 10,000ft     |
 
 +++
 
@@ -176,13 +184,12 @@ RWY 16R/34L CLOSED. RWY16R/34L to be used as taxiway ONLY.
 
 Aircraft larger than A321/B757 not authorized. Larger aircraft MUST divert.
 
-| Parameters | Restrictions         |
-| ---------- | -------------------- |
-| Type       | TFR                  |
-| From       | 05/03/2021 10:52Z    |
-| To         | Until Further Notice |
-| Floor      | SFC                  |
-| Ceiling    | 10,000ft             |
+| Parameters | Restrictions |
+| ---------- | ------------ |
+| Type       | TFR          |
+| Status     | ACTIVE       |
+| Floor      | SFC          |
+| Ceiling    | 10,000ft     |
 
 +++
 
@@ -192,13 +199,12 @@ Aircraft larger than A321/B757 not authorized. Larger aircraft MUST divert.
 
 RWY 12R/30L CLOSED. RWY 12R/30L to be used as taxiway ONLY.
 
-| Parameters | Restrictions         |
-| ---------- | -------------------- |
-| Type       | NOTAM                |
-| From       | 01/01/2000 06:00Z    |
-| To         | Until Further Notice |
-| Floor      | SFC                  |
-| Ceiling    | 10,000ft             |
+| Parameters | Restrictions |
+| ---------- | ------------ |
+| Type       | NOTAM        |
+| Status     | ACTIVE       |
+| Floor      | SFC          |
+| Ceiling    | 10,000ft     |
 
 +++
 
@@ -208,13 +214,12 @@ RWY 12R/30L CLOSED. RWY 12R/30L to be used as taxiway ONLY.
 
 RWY 08R/26L CLOSED. RWY08R/26L to be used as taxiway ONLY.
 
-| Parameters | Restrictions         |
-| ---------- | -------------------- |
-| Type       | NOTAM                |
-| From       | 05/01/2021 10:47Z    |
-| To         | Until Further Notice |
-| Floor      | SFC                  |
-| Ceiling    | 10,000ft             |
+| Parameters | Restrictions |
+| ---------- | ------------ |
+| Type       | NOTAM        |
+| Status     | ACTIVE       |
+| Floor      | SFC          |
+| Ceiling    | 10,000ft     |
 
 +++
 
@@ -224,13 +229,27 @@ RWY 08R/26L CLOSED. RWY08R/26L to be used as taxiway ONLY.
 
 RWY 10L/28R CLOSED. RWY 10L/28R to be used as taxiway ONLY.
 
-| Parameters | Restrictions         |
-| ---------- | -------------------- |
-| Type       | NOTAM                |
-| From       | 05/01/2021 23:09Z    |
-| To         | Until Further Notice |
-| Floor      | SFC                  |
-| Ceiling    | 10,000ft             |
+| Parameters | Restrictions |
+| ---------- | ------------ |
+| Type       | NOTAM        |
+| Status     | ACTIVE       |
+| Floor      | SFC          |
+| Ceiling    | 10,000ft     |
+
++++
+
+
+
++++ SBRJ (Santos Dumont)
+
+Aircraft larger than A321/B757 not authorized. Larger aircraft MUST divert.
+
+| Parameters | Restrictions |
+| ---------- | ------------ |
+| Type       | NOTAM        |
+| Status     | ACTIVE       |
+| Floor      | SFC          |
+| Ceiling    | 5,000ft      |
 
 +++
 
@@ -240,13 +259,12 @@ RWY 10L/28R CLOSED. RWY 10L/28R to be used as taxiway ONLY.
 
 General Aviation aircraft ONLY. All other aircraft MUST divert. No pattern work allowed. 
 
-| Parameters | Restrictions         |
-| ---------- | -------------------- |
-| Type       | TFR                  |
-| From       | 01/01/2000 06:00Z    |
-| To         | Until Further Notice |
-| Floor      | SFC                  |
-| Ceiling    | 10,000ft             |
+| Parameters | Restrictions |
+| ---------- | ------------ |
+| Type       | TFR          |
+| Status     | ACTIVE       |
+| Floor      | SFC          |
+| Ceiling    | 10,000ft     |
 
 +++
 

@@ -8,7 +8,7 @@ meta: Introduction to the Infinite Flight Air Traffic Controller (IFATC) Manual.
 
 
 
-## Guide Version: 21.4.0
+## Guide Version: 21.6.0
 
 
 
@@ -26,13 +26,29 @@ Should
 
 
 
-## ATC Manual Version (Internal): 21.4.0.1
+## ATC Manual Version (Internal): 21.6.0.1
 
-## Last Updated: 1445Z - 24 AUG 21
+## Last Updated: 1030Z - 30 SEP 21
 
 
 
-+++ Summary of Changes - Version: 21.4.0.1 (CURRENT VERSION)
++++ Summary of Changes - Version: 21.6.0.1 (CURRENT VERSION)
+
+| Location | Change                                                       |
+| -------- | ------------------------------------------------------------ |
+| 1A.1.2   | Added *#atc-schedule* and *#events* channel descriptions. Changed the *#[region-name]* briefing rooms to *#[continent-name]* |
+| 1A.3.1   | Removal of controlling within region assignment restriction  |
+| 1A.4     | New airport selection page added, previous sections 1A.4 and 1A.5 moved to 1A.5 and 1A.6 respectively |
+| 1A.5.2   | Minimum controlling times for class B and all radar facilities increased to 1 hour |
+| 1A.6     | Region assignment section removed                            |
+| 7.4.2    | Updated the Specialist Check Ride phase list to include featured airports from the ATC Schedule |
+| 7.5.7    | Note added to the Officer Check Ride phase to include not controlling featured airports from the ATC Schedule |
+
++++
+
+
+
++++ Summary of Changes - Version: 21.4.0.1
 
 | Location        | Change                                                       |
 | --------------- | ------------------------------------------------------------ |
@@ -75,17 +91,4 @@ Should
 
 +++
 
-
-
-+++ Summary of Changes - Version: 21.2.0
-
-| Location | Change                                                       |
-| -------- | ------------------------------------------------------------ |
-| 1A.5.2   | Removal of minimum activity percentage when applying for Radar Training |
-| 6.10.7   | Pro Tip added to clarify that reduced separation for parallel ops is only to be applied on ILS approaches |
-| 7.5.8    | Minor wording correction in Radar Training flowchart         |
-| 7D.2.4   | Reference to *#supervisors* Discord Channel removed          |
-| 7D.2.5   | Added reference to the Appeals Team when violations are issued for a final verdict |
-
-+++
 
