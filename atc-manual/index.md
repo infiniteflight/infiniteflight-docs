@@ -28,7 +28,7 @@ Should
 
 ## ATC Manual Version (Internal): 21.6.0.1
 
-## Last Updated: 1100Z - 11 OCT 21
+## Last Updated: 1230Z - 12 OCT 21
 
 
 
