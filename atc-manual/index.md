@@ -28,7 +28,7 @@ Should
 
 ## ATC Manual Version (Internal): 21.6.0.1
 
-## Last Updated: 1030Z - 30 SEP 21
+## Last Updated: 1100Z - 11 OCT 21
 
 
 
@@ -36,13 +36,18 @@ Should
 
 | Location | Change                                                       |
 | -------- | ------------------------------------------------------------ |
-| 1A.1.2   | Added *#atc-schedule* and *#events* channel descriptions. Changed the *#[region-name]* briefing rooms to *#[continent-name]* |
+| 1A.1.2   | Added *#atc-schedule* and *#events* channel descriptions     |
 | 1A.3.1   | Removal of controlling within region assignment restriction  |
+| 1A.3.1   | Added use of *@split* reaction role                          |
 | 1A.4     | New airport selection page added, previous sections 1A.4 and 1A.5 moved to 1A.5 and 1A.6 respectively |
 | 1A.5.2   | Minimum controlling times for class B and all radar facilities increased to 1 hour |
 | 1A.6     | Region assignment section removed                            |
-| 7.4.2    | Updated the Specialist Check Ride phase list to include featured airports from the ATC Schedule |
-| 7.5.7    | Note added to the Officer Check Ride phase to include not controlling featured airports from the ATC Schedule |
+| 1A.6     | Rank Structure section reworked                              |
+| 1A.7     | New Check Ride Process section                               |
+| 1A.8     | Disciplinary and Suspension Procedure section moved          |
+| 4.2.1    | Removal of restriction to not use LUAW when "Rolling Dept." ATIS remark is in use |
+| 7.1.4    | Note added about training session length to ensure all attendees allow sufficient time |
+| 7.4      | Promotion to Specialist (Check Ride) section moved to 1A.7, original section 7.5 moved up to become 7.4 |
 
 +++
 
@@ -90,5 +95,4 @@ Should
 | 7D.4.3                  | Added reference to the Appeals Team                          |
 
 +++
-
 
