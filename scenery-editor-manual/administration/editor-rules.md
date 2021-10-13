@@ -1,13 +1,13 @@
 ---
-id: general-rules
-title: General Rules
+id: editor-rules
+title: Editor Rules
 meta: Learn the rules that must be followed when using the Scenery Editor of Infinite Flight.
-order: 1
+order: 3
 ---
 
 
 
-# General Rules
+# Editor Rules
 
 
 

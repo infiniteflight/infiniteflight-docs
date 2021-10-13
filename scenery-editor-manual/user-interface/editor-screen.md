@@ -48,14 +48,14 @@ Welcome to the editor screen within the Infinite Flight app. Below you’ll find
 
 | Button                  | Function                                                     |
 | ----------------------- | ------------------------------------------------------------ |
-| File Manager            | This will show details of the latest changes to the airport as well as the option to "share", "upload", "download", and "close". *Note: Airports will only be uploaded to the server when "upload complete" is shown. Downloading a version from the server will override your local device version* |
-| Save                    | Saves the latest changes locally to your device. *Note: The autosave function will automatically save once every minute to ensure work is not lost* |
 | Save Selected as Bundle | Select a group of buildings and/or objects and then tap this button to save them as a bundle for future use to speed up editing times |
-| Share Selected Bundle   | By selecting the bundle you wish to share from the "Library", you can then tap this button to share it with other airport scenery editors |
 | Download OSM            | By tapping this button, the Open Street Map data will be downloaded which will usually provide most of the buildings within (and close to) the airport boundaries |
 | Download OSM at Cursor  | If buildings are missing or you accidentally delete some, you can download the OSM data at the cursor point with this button (it has an approximate range of 200 meters) |
-| Import GeoJson          | GeoJson files can be imported using this button              |
 | Scenery Stats           | This shows key stats about the objects currently placed including poly count |
+| Check Scenery           |                                                              |
+| Save                    | Saves the latest changes locally to your device. *Note: The autosave function will automatically save once every minute to ensure work is not lost* |
+| File Manager            | This will show details of the latest changes to the airport as well as the option to "share", "upload", "download", and "close". *Note: Airports will only be uploaded to the server when "upload complete" is shown. Downloading a version from the server will override your local device version* |
+| Airport Properties      |                                                              |
 
 +++
 
@@ -69,8 +69,6 @@ Welcome to the editor screen within the Infinite Flight app. Below you’ll find
 | Redo               | Redo your latest edit                                        |
 | Selection (Add)    | Create a selection of several objects to move or edit them as a group. While "Selection (Add)" is active, all objects you select [by tapping on them or using the "rectangular selection tool"](/guide/scenery-editor/objects/selection-and-placement#selecting-and-placing-an-object) will be added to the selection |
 | Selection (Remove) | Objects that are selected [by tapping on them or using the "rectangular selection tool"](/guide/scenery-editor/objects/selection-and-placement#selecting-and-placing-an-object) while the "Selection (Remove)" feature is active are removed from the existing selection |
-| Lock Selected      | Locks the selected building(s) and/or object(s) and prevents them from being moved or their properties adjusted. For more information check out the Frozen function within [Properties](/guide/scenery-editor/buildings-and-facades/properties) |
-| Unlock Selected    | Unlocks the selected building(s) and/or object(s) and allows them to be moved and their properties adjusted. For more information check out the Frozen function within [Properties](/guide/scenery-editor/buildings-and-facades/properties) |
 | Unlock All         | Unlocks all building(s) and/or object(s) and allows them to be moved and their properties adjusted |
 
 +++
@@ -79,11 +77,17 @@ Welcome to the editor screen within the Infinite Flight app. Below you’ll find
 
 +++ View
 
-| Button              | Function                                                   |
-| ------------------- | ---------------------------------------------------------- |
-| Hide Buildings      | Currently not in use                                       |
-| Show Start Location | Shows all locations that aircraft are able to spawn in-app |
-| Facade Editor       | Currently not in use                                       |
+| Button               | Function                                                   |
+| -------------------- | ---------------------------------------------------------- |
+| Buildings            |                                                            |
+| Models               |                                                            |
+| Taxiway Lines        |                                                            |
+| Pavements            |                                                            |
+| Runways              |                                                            |
+| Taxiway Network      |                                                            |
+| Start Location       | Shows all locations that aircraft are able to spawn in-app |
+| Satellite Background |                                                            |
+| Facade Editor        |                                                            |
 
 +++
 
@@ -91,10 +95,23 @@ Welcome to the editor screen within the Infinite Flight app. Below you’ll find
 
 +++ Object
 
-| Button                | Function                                                     |
-| --------------------- | ------------------------------------------------------------ |
-| Auto Roof Orientation | Automatically aligns the selected building's roof            |
-| Auto Altitude         | Automatically adjusts the altitude of the selected building(s) and/or object(s) so that they sit on top of the building(s) that they are currently place within |
+| Button        | Function                                                     |
+| ------------- | ------------------------------------------------------------ |
+| Auto Altitude | Automatically adjusts the altitude of the selected building(s) and/or object(s) so that they sit on top of the building(s) that they are currently place within |
+
++++
+
+
+
++++ Pavements
+
+| Button          | Function |
+| --------------- | -------- |
+| Create Pavement |          |
+| Move to Top     |          |
+| Move Up         |          |
+| Move Down       |          |
+| Move Bottom     |          |
 
 +++
 
@@ -102,10 +119,39 @@ Welcome to the editor screen within the Infinite Flight app. Below you’ll find
 
 +++ Building
 
-| Button                | Function                                                     |
-| --------------------- | ------------------------------------------------------------ |
-| Set Texture & Facades | Once a building is selected, facades can be selected and changed |
-| Edit Building         | Once a building is selected, this button allows you to edit  |
+| Button                   | Function                                                     |
+| ------------------------ | ------------------------------------------------------------ |
+| Create Building          |                                                              |
+| Set Texture & Facades    | Once a building is selected, facades can be selected and changed |
+| Auto Texture Orientation |                                                              |
+
++++
+
+
+
++++ Taxiways
+
+| Button                    | Function |
+| ------------------------- | -------- |
+| Create Taxiway Line       |          |
+| Create Roadway Line       |          |
+| Create Taxiway Connection |          |
+| Build Taxiway Layout      |          |
+| Check Taxiway Layout      |          |
+| Set as Apron              |          |
+| Select Lines Near Start   |          |
+
++++
+
+
+
++++ Satellite
+
+| Button           | Function |
+| ---------------- | -------- |
+| Import Imagery   |          |
+| Latitude Offset  |          |
+| Longitude Offset |          |
 
 +++
 
@@ -153,17 +199,17 @@ Step 4
 
 +++ Properties
 
-The properties tab will vary based on whether [buildings](/guide/scenery-editor/buildings-and-facades/properties), [objects](/guide/scenery-editor/objects/properties) or [jetbridges](/guide/scenery-editor/objects/properties#jetbridges) are selected.
+The properties tab will vary based on whether [buildings](/guide/scenery-editor/buildings-and-facades/properties), [objects](/guide/scenery-editor/objects/properties), start positions, lines, pavements or [jetbridges](/guide/scenery-editor/objects/properties#jetbridges) are selected.
 
 +++
 
 
 
-+++ Loaded Items
++++ Items
 
 
 
-This shows a list of all buildings and objects that are currently loaded at the airport. You can scroll up/down using your finger.
+This shows a list of all buildings, lines, pavements and objects that are currently loaded at the airport. You can scroll up/down using your finger.
 
 
 
@@ -173,34 +219,21 @@ This shows a list of all buildings and objects that are currently loaded at the 
 
 
 
-+++ Log
-
-
-
-This logs the activity of the app (not your editing).
-
-+++
-
-
-
-+++ Facades
-
-This contains a repository of all available facade styles and their respective faces.
-
-+++
-
-
-
 ## Edit Buttons
 
 
 
-| Button           | Function                                                     |
-| ---------------- | ------------------------------------------------------------ |
-| Select/Move      | Toggle between these two buttons to be able to select or move buildings and objects |
-| Copy/Paste       | These buttons can be used to copy and paste the selected buildings and objects |
-| Delete Selection | This button will delete the select buildings and objects     |
-| Insert Point     | When editing buildings, this button allows a node to be inserted which can be used to adjust the shape of the building. *Note: before inserting a node, you must select a node on the building - the new node will be inserted to the left of the selected one* |
+| Button                    | Function                                                 |
+| ------------------------- | -------------------------------------------------------- |
+| Create Hold               |                                                          |
+| Straighten Line Points    |                                                          |
+| Reserve Points            |                                                          |
+| Split Line                |                                                          |
+| Snap Points               |                                                          |
+| Insert Point              |                                                          |
+| Adding/Selecting Point(s) |                                                          |
+| Modify Shape              |                                                          |
+| Delete Selection          | This button will delete the select buildings and objects |
 
 
 
@@ -210,7 +243,7 @@ This contains a repository of all available facade styles and their respective f
 
 Tip
 
-: Currently it is recommended to use the "Airport/Scen Editor" camera when editing however the "Free" camera is particularly useful for positioning the ATC Tower (for more info, see the ATC Tower tab under [Objects](/guide/scenery-editor/objects/objects))
+: Currently it is recommended to use the "Airport/Scen Editor" camera when editing however the "Free" camera is particularly useful for positioning the ATC Tower (for more info, see the ATC Tower tab under [Library](/guide/scenery-editor/objects/library))
 
 
 
