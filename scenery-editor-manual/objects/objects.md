@@ -1,11 +1,11 @@
 ---
-id: objects
-title: Objects
+id: library
+title: Library
 meta: A list of all current objects within the Scenery Editor of Infinite Flight.
 order: 1
 ---
 
-# Objects
+# Library
 
 
 
@@ -61,16 +61,14 @@ order: 1
 
 +++ ATC Towers
 
-| Image                                               | Object Name  | Notes                     |
-| --------------------------------------------------- | ------------ | ------------------------- |
-| ![](_images/manual/tables/atc_tower_heathrow.png)   | EGLL         | Do not use unless at EGLL |
-| ![](_images/manual/tables/atc_tower_klax.png)       | KLAX         | Do not use unless at KLAX |
-| ![](_images/manual/tables/atc_tower_ksfo.png)       | KSFO         | Do not use unless at KSFO |
-| ![](_images/manual/tables/atc_tower_medium_cab.png) | Medium (Cab) |                           |
-| ![](_images/manual/tables/atc_tower_medium.png)     | Medium       |                           |
-| ![](_images/manual/tables/atc_tower_mobile.png)     | Mobile       |                           |
-| ![](_images/manual/tables/atc_tower_small_cab.png)  | Small (Cab)  |                           |
-| ![](_images/manual/tables/atc_tower_small.png)      | Small        |                           |
+| Image                                               | Object Name  | Notes                                   |
+| --------------------------------------------------- | ------------ | --------------------------------------- |
+| ![](_images/manual/tables/atc_tower_heathrow.png)   | Custom Tower | Only to be used at the intended airport |
+| ![](_images/manual/tables/atc_tower_medium_cab.png) | Medium (Cab) |                                         |
+| ![](_images/manual/tables/atc_tower_medium.png)     | Medium       |                                         |
+| ![](_images/manual/tables/atc_tower_mobile.png)     | Mobile       |                                         |
+| ![](_images/manual/tables/atc_tower_small_cab.png)  | Small (Cab)  |                                         |
+| ![](_images/manual/tables/atc_tower_small.png)      | Small        |                                         |
 
 
 
@@ -163,6 +161,10 @@ order: 1
 
 | Image                                                        | Object Name                      | Notes                                            |
 | ------------------------------------------------------------ | -------------------------------- | ------------------------------------------------ |
+| ![](_images/manual/tables/barrier_large_red.png)             | Barrier Large Red                |                                                  |
+| ![](_images/manual/tables/barrier_medium_red.png)            | Barrier Medium Red               |                                                  |
+| ![](_images/manual/tables/barrier_large_white.png)           | Barrier Large White              |                                                  |
+| ![](_images/manual/tables/barrier_medium_white.png)          | Barrier Medium White             |                                                  |
 | ![](_images/manual/tables/chainlink_fence_end.png)           | Chainlink Fence (End)            | Make sure barbed wire faces outward from airport |
 | ![](_images/manual/tables/chainlink_fence_middle.png)        | Chainlink Fence (Middle)         | Make sure barbed wire faces outward from airport |
 | ![](_images/manual/tables/chainlink_fence_no_barb_end.png)   | Chainlink Fence No Barb (End)    |                                                  |
@@ -201,10 +203,12 @@ order: 1
 
 +++ Fuel
 
-| Image                                      | Object Name | Notes |
-| ------------------------------------------ | ----------- | ----- |
-| ![](_images/manual/tables/fuel_tank_1.png) | Fuel Tank 1 |       |
-| ![](_images/manual/tables/fuel_tank_2.png) | Fuel Tank 2 |       |
+| Image                                              | Object Name          | Notes |
+| -------------------------------------------------- | -------------------- | ----- |
+| ![](_images/manual/tables/fuel_tank_1.png)         | Fuel Tank 1          |       |
+| ![](_images/manual/tables/fuel_tank_2.png)         | Fuel Tank 2          |       |
+| ![](_images/manual/tables/fuel_tank_500_gal.png)   | Fuel Tank 500 Gal    |       |
+| ![](_images/manual/tables/fuel_tank_12000_gal.png) | Fuel Tank 12,000 Gal |       |
 
 
 
