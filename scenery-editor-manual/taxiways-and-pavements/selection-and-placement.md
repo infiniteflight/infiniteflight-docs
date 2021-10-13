@@ -1,0 +1,133 @@
+---
+id: selection-and-placement
+title: Selection and Placement
+meta: Learn how to select and place taxiways/pavements within the Scenery Editor of Infinite Flight.
+order: 1
+---
+
+
+
+# Selection and Placement
+
+
+
+## Selecting and Placing a Building
+
+
+
+Step 1
+
+: Scroll up/down the list on the right of the screen to see the object repository (the "Library" tab must be selected)
+
+
+
+Step 2
+
+: Select the "Poly Building" **(1)** by tapping it
+
+
+
+Step 3
+
+: Tap in the area of the airport that you want to add the building to, this will place a white cursor **(2)**. Adjust this as required and then tap "Add Object" **(3)**
+
+
+
+![Building Placement](_images/manual/frames/placing-poly-building.png)
+
+
+
+## Changing Orientation of a Building
+
+
+
+Step 1
+
+: Select the building by tapping on or near the blue circle that is in the center of the object. You can also tap, hold and then drag your finger on the screen to select multiple buildings (a white box will appear to show the catchment area)
+
+
+
+Step 2
+
+: The circle will turn magenta to indicate it has been selected **(1)**
+
+
+
+Step 3
+
+: Tap the "Move" button on the right side of the screen **(2)**
+
+
+
+Step 4
+
+: Two circles will appear as well as a compass rose. Tap and hold on the circle **(3)** to move the object or to change orientation:
+
+
+
+| Circle | Function                                                     |
+| ------ | ------------------------------------------------------------ |
+| Center | Will move the building by dragging your finger to the desired location |
+| Outer  | Will change the orientation of the building by dragging your finger in the direction you want to orientate it to |
+
+
+
+![Changing Building Orientation](_images/manual/frames/moving-poly-building.png)
+
+
+
+## Copy & Pasting a Building
+
+
+
+Step 1
+
+: Select the building by tapping on or near the blue circle **(1)** that is in the center of the building. You can also tap, hold and then drag your finger on the screen to select multiple buildings (a white box will appear to show the catchment area)
+
+
+
+Step 2
+
+: The circle will turn magenta to indicate it has been selected
+
+
+
+Step 3
+
+: Tap the "Copy" button **(2)** on the right side of the screen 
+
+
+
+Step 4
+
+: Tap in the area of the airport that you want to add the copied building to, this will place a white cursor **(3)**. Adjust this as required and then tap "Paste" **(4)**
+
+
+
+![Copying & Pasting a Building](_images/manual/frames/copy-and-paste-poly-building.png)
+
+
+
+## Deleting a Building
+
+
+
+Step 1
+
+: Select the building by tapping on or near the blue circle that is in the center of the building. You can also tap, hold and then drag your finger on the screen to select multiple buildings (a white box will appear to show the catchment area)
+
+
+
+Step 2
+
+: The circle will turn magenta **(1)** to indicate it has been selected
+
+
+
+Step 3
+
+: Tap the "Delete Selection" button **(2)** on the right side of the screen
+
+
+
+![Deleting a Building](_images/manual/frames/deleting-poly-building.png)

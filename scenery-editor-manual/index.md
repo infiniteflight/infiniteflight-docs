@@ -4,7 +4,7 @@ title: Introduction
 meta: Learn how to use the Infinite Flight Scenery Editor with our online documentation.
 ---
 
-# Welcome to the Scenery Editor Guide!
+# Welcome to the Scenery Editor Manual!
 
 
 
@@ -16,9 +16,23 @@ Welcome to the Scenery Editor Guide, designed to help newly qualified and vetera
 
 
 
-## Scenery Editor Guide Version (Internal): 21.4.0.1
+## Scenery Editor Manual Version (Internal): 21.6.0.1
 
-## Last Updated: 1645Z - 23 AUG 21
+## Last Updated: 1130Z - 13 OCT 21
+
+
+
++++ Summary of Changes - Version: 21.6.0.1 (CURRENT VERSION)
+
+| Location | Change                               |
+| -------- | ------------------------------------ |
+| TBC      | New Section (Introduction)           |
+| TBC      | New Section (Administration)         |
+| TBC      | New Section (Satellite Imagery)      |
+| TBC      | New Section (Taxiways and Pavements) |
+| TBC      | Objects library updated              |
+
++++
 
 
 
