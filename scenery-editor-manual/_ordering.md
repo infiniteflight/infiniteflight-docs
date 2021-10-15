@@ -1,13 +1,13 @@
 ---
 ordering:
   - meta
-  - introduction
-  - administration
-  - user-interface
-  - getting-started
-  - satellite-imagery
-  - taxiways-and-pavements
-  - buildings-and-facades
-  - objects
-  - review-and-release
+  - 1.-introduction
+  - 1a.-administration
+  - 2.-user-interface
+  - 3.-getting-started
+  - 4.-satellite-imagery
+  - 5.-taxiways-and-pavements
+  - 6.-buildings-and-facades
+  - 7.-objects
+  - 8.-review-and-release
 ---
