@@ -18,37 +18,20 @@ Welcome to the Scenery Editor Guide, designed to help newly qualified and vetera
 
 ## Scenery Editor Manual Version (Internal): 21.6.0.1
 
-## Last Updated: 1130Z - 13 OCT 21
+## Last Updated: 0830Z - 15 OCT 21
 
 
 
 +++ Summary of Changes - Version: 21.6.0.1 (CURRENT VERSION)
 
-| Location | Change                               |
-| -------- | ------------------------------------ |
-| TBC      | New Section (Introduction)           |
-| TBC      | New Section (Administration)         |
-| TBC      | New Section (Satellite Imagery)      |
-| TBC      | New Section (Taxiways and Pavements) |
-| TBC      | Objects library updated              |
+| Location   | Change                               |
+| ---------- | ------------------------------------ |
+| Section 1  | New Section (Introduction)           |
+| Section 1A | New Section (Administration)         |
+| Section 4  | New Section (Satellite Imagery)      |
+| Section 5  | New Section (Taxiways and Pavements) |
+| Section 7  | Objects library updated              |
 
 +++
 
 
-
-**Important Getting Started Rules:**
-
-- Deliberate leaks will result in access to beta, editing and potentially IFC/VA accounts being removed
-- All communication must be via the IFC Forum in the correct category, any deviation from this is treated as a leak and may be subject to the same loss of access as a deliberate leak
-- Editors are permitted a choice of their first few airports (these must be approved by staff before work can commence). Following this, airport selection is strictly controlled and you must receive permission to deviate from the pre-approved list
-- On occasion, volunteers may be sought for specific airports to be completed, or if necessary, editors may be assigned a particular airport for completion
-- Activity is not expected to be continuous however all editors are asked to try to maintain a consistent level (please inform us if this is not possible)
-- Major hubs can take a month or more to complete if only a few hours are completed every week, or in a few days if worked on continuously
-- The editing process is complex and so questions are encouraged however this guide should be read through in it's entirety before any editing is attempted
-- Only work on airports that have been assigned, never work on an airport that has been edited unless you have permission to do so 
-
-
-
-Tip
-
-: For more information on Getting Started, make sure to check out the [First Steps](https://infiniteflight.com/guide/scenery-editor/getting-started/first-steps) and [General Rules](https://infiniteflight.com/guide/scenery-editor/getting-started/general-rules) pages

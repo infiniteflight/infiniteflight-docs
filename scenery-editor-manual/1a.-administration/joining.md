@@ -1,0 +1,16 @@
+---
+id: 1a.1-joining
+title: 1a.1 Joining
+meta: How to join the Scenery Editor Team of Infinite Flight.
+order: 1
+---
+
+
+
+# 1A.1 Joining
+
+
+
+### 1A.1.1
+
+Joining instructions will be coming soon.
