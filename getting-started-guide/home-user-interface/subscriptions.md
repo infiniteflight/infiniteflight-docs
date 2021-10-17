@@ -19,11 +19,9 @@ The Infinite Flight Pro Subscription* comes with all In-App Purchases unlocked, 
 
 
 
-| Duration  | Price (USD) |
-| --------- | ----------- |
-| 1 Month   | $9.99       |
-| 6 Months  | $49.99      |
-| 12 Months | $79.99      |
+| Duration | Price (USD) |
+| -------- | ----------- |
+| 1 Month  | $9.99       |
 
 
 
@@ -45,31 +43,21 @@ Step 2
 
 Step 3
 
-: The [Account Settings page](/guide/getting-started/home-user-interface/settings#account) will be displayed, from there, tap the "Get Pro" button next to "Your Infinite Flight Pro Subscription"
+: The subscription page will be displayed, from there, tap the blue button
 
 
 
-![Account Settings Page](_images/manual/frames/account.png)
+![Subscription Page](_images/manual/frames/get-pro.png)
 
 
 
 Step 4
 
-: The various "Get Pro" options will be displayed, select the one you wish to purchase
-
-
-
-![Get Pro](_images/manual/frames/get-pro.png)
+: If you already have an account, tap "I already have an account" in the bottom right hand corner of the screen
 
 
 
 Step 5
-
-: If you already have an account, tap "I already have an account" in the bottom left hand corner of the screen
-
-
-
-Step 6
 
 : You will then be able to login
 
@@ -97,23 +85,17 @@ If however, you are no longer using the same platform (i.e. iOS to Android or vi
 
 Step 1
 
-: If no active subscription is detected, the "Get Pro" button will be displayed in the top right hand corner of the [Home Screen](/guide/getting-started/home-user-interface/home-screen#home-screen), tap it
+: If no active subscription is detected, the "Get Pro" button will be displayed in the top right hand corner of the [Home Screen](/guide/getting-started-guide/home-user-interface/home-screen#home-screen), tap it
 
 
 
 Step 2
 
-: The [Account Settings page](/guide/getting-started/home-user-interface/settings#account) will be displayed, from there, tap the "Get Pro" button next to "Your Infinite Flight Pro Subscription"
+: The subscription page will be displayed, from there, tap "I already have an account" in the bottom right hand corner of the screen
 
 
 
 Step 3
-
-: Tap "I already have an account" in the bottom left hand corner of the screen
-
-
-
-Step 4
 
 : Tap "Sign In with Infinite Flight" and login to your existing Community Forum Account
 
@@ -121,7 +103,7 @@ Step 4
 
 ## How to Revert to Default Account 
 
-When Infinite Flight is launched on your device, it will search for an active subscription and automatically link to it if found. If however, you want to use your account on a different device, you can use the "Switch Account" button within the [Account Settings page](/guide/getting-started/home-user-interface/settings#account).
+When Infinite Flight is launched on your device, it will search for an active subscription and automatically link to it if found. If however, you want to use your account on a different device, you can use the "Switch Account" button within the [Account Settings page](/guide/getting-started-guide/home-user-interface/settings#account).
 
 
 
@@ -131,13 +113,13 @@ Once you have finished using the device, you can "revert to default account" by 
 
 Step 1
 
-: The User Profile will be displayed in the top right hand corner of the [Home Screen](/guide/getting-started/home-user-interface/home-screen#home-screen), tap it
+: The User Profile will be displayed in the top right hand corner of the [Home Screen](/guide/getting-started-guide/home-user-interface/home-screen#home-screen), tap it
 
 
 
 Step 2
 
-: The [Account Settings page](/guide/getting-started/home-user-interface/settings#account) will be displayed, from there, tap the "Switch Account" button
+: The [Account Settings page](/guide/getting-started-guide/home-user-interface/settings#account) will be displayed, from there, tap the "Switch Account" button
 
 
 

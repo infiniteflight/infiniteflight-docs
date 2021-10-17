@@ -45,7 +45,7 @@ order: 5
 
 Step 1
 
-: Select the airport you want using the technique shown in ["Getting more from your Map and Mini Map"](/guide/getting-started/pilot-user-interface/flight-planning#getting-more-from-your-map-and-mini-map)
+: Select the airport you want using the technique shown in ["Getting more from your Map and Mini Map"](/guide/getting-started-guide/pilot-user-interface/flight-planning#getting-more-from-your-map-and-mini-map)
 
  
 

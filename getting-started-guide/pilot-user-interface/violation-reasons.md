@@ -9,7 +9,7 @@ order: 14
 
 
 
-Below is a complete list of all the reasons that can be used by Controllers when issuing a Pilot with a [Violation](/guide/getting-started/pilot-user-interface/violations). Not sure what Violations are? A brief summary is below but more information can be found on our dedicated [Violation](/guide/getting-started/pilot-user-interface/violations) page:
+Below is a complete list of all the reasons that can be used by Controllers when issuing a Pilot with a [Violation](/guide/getting-started-guide/pilot-user-interface/violations). Not sure what Violations are? A brief summary is below but more information can be found on our dedicated [Violation](/guide/getting-started-guide/pilot-user-interface/violations) page:
 
 
 
@@ -33,7 +33,7 @@ Level 3 Violation (Red)
 
 Tip
 
-: This page should help you identify the reason why you received a violation, however they are sometimes generic and the specific circumstances to your situation may not be listed. Still not sure, why not try and [contact the controller directly](/guide/getting-started/pilot-user-interface/violations#appealing-a-level-2-or-3-violation) on our Community Forum?
+: This page should help you identify the reason why you received a violation, however they are sometimes generic and the specific circumstances to your situation may not be listed. Still not sure, why not try and [contact the controller directly](/guide/getting-started-guide/pilot-user-interface/violations#appealing-a-level-2-or-3-violation) on our Community Forum?
 
 
 

@@ -19,7 +19,7 @@ order: 3
 
    
 
-3. Ready to go flying? Tap on the [Fly button](/guide/getting-started/pilot-user-interface/fly#fly-screen) to begin
+3. Ready to go flying? Tap on the [Fly button](/guide/getting-started-guide/pilot-user-interface/fly#fly-screen) to begin
 
  
 
@@ -100,5 +100,4 @@ The entire globe is ready for you to explore, you can either use the features be
 7. Once you’ve decided on your spawn point, you’ll be able to see what airport and gate has been selected in the bottom right hand corner
 
  
-
 

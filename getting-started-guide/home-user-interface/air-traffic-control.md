@@ -13,15 +13,15 @@ order: 5
 
    
 
-2. There are various servers for different experiences, select the [Server button](/guide/getting-started/home-user-interface/air-traffic-control#server) to pick the best fit for you (note that the Expert Server has restricted access for controlling)
+2. There are various servers for different experiences, select the [Server button](/guide/getting-started-guide/home-user-interface/air-traffic-control#server) to pick the best fit for you (note that the Expert Server has restricted access for controlling)
 
    
 
-3. The [Airspace Status](/guide/getting-started/atc-user-interface/status#status) table helps show you how many aircraft are inbound to a particular airport and if it has active ATC. You can tap the refresh button to make sure it’s up to date before you decide where to control
+3. The [Airspace Status](/guide/getting-started-guide/atc-user-interface/status#status) table helps show you how many aircraft are inbound to a particular airport and if it has active ATC. You can tap the refresh button to make sure it’s up to date before you decide where to control
 
    
 
-4. Ready to go control? Tap on the [Control button](/guide/getting-started/atc-user-interface/ground-tower-radar#ground%2C-tower-%26-radar) to begin
+4. Ready to go control? Tap on the [Control button](/guide/getting-started-guide/atc-user-interface/ground-tower-radar#ground%2C-tower-%26-radar) to begin
 
  
 
@@ -87,11 +87,11 @@ The various live servers available to use are displayed here. Each server has it
 
  
 
-| Server   | Description                                                  | Minimum [Grade](/guide/getting-started/home-user-interface/user-profile#the-grade-table) |
+| Server   | Description                                                  | Minimum [Grade](/guide/getting-started-guide/home-user-interface/user-profile#the-grade-table) |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Casual   | This server may be accessed by all grades. ATC is not available and pilots may fly freely without affecting their stats or grade. All users should still be respectful and courteous to other pilots | N/A                                                          |
-| Training | This server is used to practice pilot and ATC skills. All ATC facilities (except ATIS) can be accessed and procedures are enforced by server issued [Violations](/guide/getting-started/pilot-user-interface/violations#violations) | 2                                                            |
-| Expert   | This is a server where published rules must be adhered to. All procedures are strictly enforced by ATC (infractions may result in ATC issued [Violations](/guide/getting-started/pilot-user-interface/violations#violations)) | 3*                                                           |
+| Training | This server is used to practice pilot and ATC skills. All ATC facilities (except ATIS) can be accessed and procedures are enforced by server issued [Violations](/guide/getting-started-guide/pilot-user-interface/violations#violations) | 2                                                            |
+| Expert   | This is a server where published rules must be adhered to. All procedures are strictly enforced by ATC (infractions may result in ATC issued [Violations](/guide/getting-started-guide/pilot-user-interface/violations#violations)) | 3*                                                           |
 
-**In addition to the minimum grade requirement, the number of total Level 1 Violations must be at least 50% less than the number of total landings. Pilots may not have [5 or more Level 2 or 3 Violations in the last 365 days](/guide/getting-started/pilot-user-interface/violations#what-happens-if-i-get-a-violation%3F)*
+**In addition to the minimum grade requirement, the number of total Level 1 Violations must be at least 50% less than the number of total landings. Pilots may not have [5 or more Level 2 or 3 Violations in the last 365 days](/guide/getting-started-guide/pilot-user-interface/violations#what-happens-if-i-get-a-violation%3F)*
 

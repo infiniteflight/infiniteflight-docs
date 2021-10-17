@@ -23,11 +23,11 @@ order: 3
 
    
 
-4. The Attitude Indicator displays the aircrafts attitude in relation to the horizon, and also provides a Flight Path Vector (a green circle enabled in the [Systems menu](/guide/getting-started/pilot-user-interface/systems#systems))
+4. The Attitude Indicator displays the aircrafts attitude in relation to the horizon, and also provides a Flight Path Vector (a green circle enabled in the [Systems menu](/guide/getting-started-guide/pilot-user-interface/systems#systems))
 
    
 
-5. The altitude tape shows the aircraft altitude, current vertical speed (which is displayed at the bottom of the tape) and a turquoise bug that represents the altitude selected in the [Autopilot's](/guide/getting-started/pilot-user-interface/autopilot#autopilot) Flight Control Unit (FCU)
+5. The altitude tape shows the aircraft altitude, current vertical speed (which is displayed at the bottom of the tape) and a turquoise bug that represents the altitude selected in the [Autopilot's](/guide/getting-started-guide/pilot-user-interface/autopilot#autopilot) Flight Control Unit (FCU)
 
    
 
@@ -35,4 +35,4 @@ order: 3
 
    
 
-7. The Horizontal Situation Indicator (HSI) is displayed here and is used for [Navigation](/guide/getting-started/pilot-user-interface/navigation#navigation). There is a turquoise bug just like the altitude tape, which displays the selected heading on the aircraft FCU
+7. The Horizontal Situation Indicator (HSI) is displayed here and is used for [Navigation](/guide/getting-started-guide/pilot-user-interface/navigation#navigation). There is a turquoise bug just like the altitude tape, which displays the selected heading on the aircraft FCU
