@@ -26,7 +26,7 @@ order: 6
    | Clear                                                        | Clear entire flight plan                                     |
    | Up/Down Arrow                                                | Move a waypoint or procedure up/down in your flight plan by selecting the waypoint/procedure, and then using the arrows to position it as desired |
    | Set Alt                                                      | Tap a waypoint and then this button to set an altitude target that can be used with VNAV |
-   | Open/[Share](/guide/getting-started/pilot-user-interface/flight-planning#share-flight-plan) | You can open a flight plan using this button, or if you already have a flight plan you can share it |
+   | Open/[Share](/guide/getting-started-guide/pilot-user-interface/flight-planning#share-flight-plan) | You can open a flight plan using this button, or if you already have a flight plan you can share it |
 
 
 
@@ -135,7 +135,7 @@ Step 4
 
  
 
-1. Airports are always represented by either blue or magenta dots, if you’re flying online they may also have a [colored dot in the middle](/guide/getting-started/home-user-interface/fly-online#airport-and-gate-selection) for reference to the weather
+1. Airports are always represented by either blue or magenta dots, if you’re flying online they may also have a [colored dot in the middle](/guide/getting-started-guide/home-user-interface/fly-online#airport-and-gate-selection) for reference to the weather
 
    
 
@@ -200,7 +200,7 @@ Step 3
 
 Step 1
 
-: Open the procedures tab by following the [step by step guide above](/guide/getting-started/pilot-user-interface/flight-planning#getting-more-from-your-map-and-mini-map)
+: Open the procedures tab by following the [step by step guide above](/guide/getting-started-guide/pilot-user-interface/flight-planning#getting-more-from-your-map-and-mini-map)
 
 
 

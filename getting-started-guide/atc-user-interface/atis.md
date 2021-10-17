@@ -56,7 +56,7 @@ The Digital ATIS (D-ATIS) will display the same information as the ATIS, but in 
 
 Step 1
 
-: [Tap close to an airport on the map](/guide/getting-started/pilot-user-interface/flight-planning#getting-more-from-your-map-and-mini-map), a drop down list will appear
+: [Tap close to an airport on the map](/guide/getting-started-guide/pilot-user-interface/flight-planning#getting-more-from-your-map-and-mini-map), a drop down list will appear
 
  
 

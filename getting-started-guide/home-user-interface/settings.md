@@ -14,7 +14,7 @@ The Settings menu allows you to customize your Infinite Flight experience before
 ![Settings Page](_images/manual/frames/settings-main1.png)
 
 
-1. On the left hand side of the screen are 5 categories that split the settings up, tap each one to find settings within
+1. On the left hand side of the screen are 6 categories that split the settings up, tap each one to find settings within
 
    
 
@@ -30,11 +30,11 @@ The Settings menu allows you to customize your Infinite Flight experience before
 
    
 
-5. The Back button will take you back to the [Home Screen](/guide/getting-started/home-user-interface/home-screen)
+5. The Back button will take you back to the [Home Screen](/guide/getting-started-guide/home-user-interface/home-screen)
 
    
 
-6. The About button allows you to access Infinite Flight Social Media, [Terms of Use](/legal/terms#terms-of-use-agreement-(tou)) and [Privacy Policy](/legal/privacy#privacy-policy---infinite-flight-app)
+6. The "About" button allows you to access Infinite Flight Social Media, [Terms of Use](/legal/terms#terms-of-use-agreement-(tou)) and [Privacy Policy](/legal/privacy#privacy-policy---infinite-flight-app)
 
    
 
@@ -44,6 +44,7 @@ The Settings menu allows you to customize your Infinite Flight experience before
 
 | Setting                                 | What it does                                                 |
 | --------------------------------------- | ------------------------------------------------------------ |
+| Language                                | Sets the language of the app's interface (only English, Español and Français currently available) |
 | Interface Timeout                       | Controls how long the User Interface controls stay on screen |
 | Hide Status Bar                         | Hides the status bar when the interface timeout occurs       |
 | Control Sensitivity                     | Sets the controls sensitivity                                |
@@ -53,7 +54,7 @@ The Settings menu allows you to customize your Infinite Flight experience before
 | Invert Internal Cameras Vertical Motion | Inverts the vertical motion of the internal cameras (tower and cockpit) |
 | Automatically Set Start Airport         | Automatically sets the start airport to where the last flight ended |
 | Auto-Coordination                       | Automatically couples the ailerons and the rudder (on the ground only) |
-| Enable ForeFlight Link                  | Sends Position/Altitude/Traffic data to local devices running ForeFlight (for more info click [here](/guide/getting-started/home-user-interface/settings#foreflight)) |
+| Enable ForeFlight Link                  | Sends Position/Altitude/Traffic data to local devices running ForeFlight (for more info click [here](/guide/getting-started-guide/home-user-interface/settings#foreflight)) |
 | Enable Infinite Flight Connect          | Enables Infinite Flight Connect API System (toggle this on to allow Infinite Flight and third party apps such as InFlight Assistant and Fly-By-Wire to bridge if they are on the same network) |
 | Show Touches                            | Useful when recording videos/tutorials                       |
 | Enable Automatic Low Power              | Enters low power mode during longer flights to save battery (this intentionally reduces frame rates to be more efficient with power consumption - it is normal to see lower quality frame rates with this setting) |
@@ -108,10 +109,10 @@ Tip
 
 | Setting                                                      | What it does                                                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Your Infinite Flight Pro Subscription](/guide/getting-started/home-user-interface/subscriptions) | This will either show the plans available to purchase if you do not have a current Infinite Flight Pro subscription; or if you do, the date it will automatically renew on |
-| [Callsign](/guide/getting-started/home-user-interface/user-profile#callsigns) | Used for communication with controllers and other pilots     |
-| [Community Forum Account](/guide/getting-started/home-user-interface/user-profile#linking-community-forum-account) | Connect an [Infinite Flight Community](https://community.infiniteflight.com) profile to show your username in-flight. This connection also allows you to sign in if you switch device platforms |
-| Account Statistics                                           | See your [grade level and violation history](/guide/getting-started/home-user-interface/user-profile#the-grade-table). These stats determine multiplayer server level eligibility |
+| [Your Infinite Flight Pro Subscription](/guide/getting-started-guide/home-user-interface/subscriptions) | This will either show the plans available to purchase if you do not have a current Infinite Flight Pro subscription; or if you do, the date it will automatically renew on |
+| [Callsign](/guide/getting-started-guide/home-user-interface/user-profile#callsigns) | Used for communication with controllers and other pilots     |
+| [Community Forum Account](/guide/getting-started-guide/home-user-interface/user-profile#linking-community-forum-account) | Connect an [Infinite Flight Community](https://community.infiniteflight.com) profile to show your username in-flight. This connection also allows you to sign in if you switch device platforms |
+| Account Statistics                                           | See your [grade level and violation history](/guide/getting-started-guide/home-user-interface/user-profile#the-grade-table). These stats determine multiplayer server level eligibility |
 | Switch Account                                               | Use a different Infinite Flight account to access a subscription bought on another device |
 
 

@@ -15,7 +15,7 @@ order: 1
 
 ## Linking Community Forum Account
 
-[Callsigns](/guide/getting-started/home-user-interface/user-profile#callsigns) are used whilst flying to identify you and for the Air Traffic Controllers to communicate with you. In addition to this, a unique user identifier is shown by default. If, however, you have an [Infinite Flight Community](https://community.infiniteflight.com) (IFC) account, you can choose to have your username displayed alongside your callsign. To link your account, follow the steps below:
+[Callsigns](/guide/getting-started-guide/home-user-interface/user-profile#callsigns) are used whilst flying to identify you and for the Air Traffic Controllers to communicate with you. In addition to this, a unique user identifier is shown by default. If, however, you have an [Infinite Flight Community](https://community.infiniteflight.com) (IFC) account, you can choose to have your username displayed alongside your callsign. To link your account, follow the steps below:
 
 
 
@@ -49,7 +49,7 @@ Step 4
 
 Tip
 
-: Don't want your IFC username to show in-flight? No problem! You can still link your account if you want to, then visit [Settings > Live](/guide/getting-started/home-user-interface/settings#live) where you can un-tick the "Show Username In-Flight" box!
+: Don't want your IFC username to show in-flight? No problem! You can still link your account if you want to, then visit [Settings > Live](/guide/getting-started-guide/home-user-interface/settings#live) where you can un-tick the "Show Username In-Flight" box!
 
 
 
@@ -65,7 +65,7 @@ To add your VO affiliation, follow the steps below:
 
 Tip
 
-: Your Community Forum account must be linked for the VO affiliation to show in app, follow the [steps above](/guide/getting-started/home-user-interface/user-profile#linking-community-forum-account) to do this!
+: Your Community Forum account must be linked for the VO affiliation to show in app, follow the [steps above](/guide/getting-started-guide/home-user-interface/user-profile#linking-community-forum-account) to do this!
 
 
 
@@ -131,7 +131,7 @@ The Grade Table is categorized into the following 4 sections:
 
    
 
-4. The "Show Violation History" tab will open a log that shows all violations, why they were received, and, if issued by a Controller, their username. This can then be used when [appealing a Level 2 or Level 3 Violation](/guide/getting-started/pilot-user-interface/violations#appealing-a-level-2-or-3-violation) if you believe it was issued in error
+4. The "Show Violation History" tab will open a log that shows all violations, why they were received, and, if issued by a Controller, their username. This can then be used when [appealing a Level 2 or Level 3 Violation](/guide/getting-started-guide/pilot-user-interface/violations#appealing-a-level-2-or-3-violation) if you believe it was issued in error
 
 
 
@@ -190,7 +190,7 @@ Callsigns are used while flying to identify you and for the Air Traffic Controll
 
 Step 1
 
-: From the [home screen](/guide/getting-started/home-user-interface/home-screen), tap your user profile in the top right hand corner of your device
+: From the [home screen](/guide/getting-started-guide/home-user-interface/home-screen), tap your user profile in the top right hand corner of your device
 
 
 

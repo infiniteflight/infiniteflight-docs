@@ -29,7 +29,7 @@ Step 3
 
 Step 4
 
-: The altitude and heading selections have turquoise bugs which appear on the [HUD](/guide/getting-started/pilot-user-interface/hud). These values can be pre-set before engagement of the Autopilot
+: The altitude and heading selections have turquoise bugs which appear on the [HUD](/guide/getting-started-guide/pilot-user-interface/hud). These values can be pre-set before engagement of the Autopilot
 
 
 
@@ -39,7 +39,7 @@ Step 4
 
 
 
-Aircraft may be fitted with the Approach (APPR) mode which allows the autopilot to intercept an ILS and perform an automatic landing if it is kept engaged until touchdown. Before engaging the APPR mode, make sure to check that the ILS has been [tuned](/guide/getting-started/pilot-user-interface/navigation#tuning-to-an-ils) and [displayed](/guide/getting-started/pilot-user-interface/navigation#displaying-an-ils-in-your-aircraft).
+Aircraft may be fitted with the Approach (APPR) mode which allows the autopilot to intercept an ILS and perform an automatic landing if it is kept engaged until touchdown. Before engaging the APPR mode, make sure to check that the ILS has been [tuned](/guide/getting-started-guide/pilot-user-interface/navigation#tuning-to-an-ils) and [displayed](/guide/getting-started-guide/pilot-user-interface/navigation#displaying-an-ils-in-your-aircraft).
 
 
 

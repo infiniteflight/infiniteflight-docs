@@ -11,7 +11,7 @@ All flights and controlling sessions are recorded automatically and you can revi
 
 
 
-- [Share (export)](/guide/getting-started/home-user-interface/replays#how-to-export-your-replay) and [import](/guide/getting-started/home-user-interface/replays#how-to-import-your-replay) replays
+- [Share (export)](/guide/getting-started-guide/home-user-interface/replays#how-to-export-your-replay) and [import](/guide/getting-started-guide/home-user-interface/replays#how-to-import-your-replay) replays
 
   
 
@@ -75,7 +75,7 @@ Step 2
 
    
 
-7.  Take screenshot (see screenshot setting in [settings menu](/guide/getting-started/home-user-interface/settings#settings))
+7.  Take screenshot (see screenshot setting in [settings menu](/guide/getting-started-guide/home-user-interface/settings#settings))
 
    
 
@@ -119,7 +119,7 @@ Step 2
 
    
 
-5. Take screenshot (see screenshot setting in [settings menu](/guide/getting-started/home-user-interface/settings#settings))
+5. Take screenshot (see screenshot setting in [settings menu](/guide/getting-started-guide/home-user-interface/settings#settings))
 
    
 
@@ -135,7 +135,7 @@ Step 2
 
    
 
-9. Timeline. Orange lines are warnings sent to pilots, red lines are [Violations](/guide/getting-started/pilot-user-interface/violations#violations) issued to pilots
+9. Timeline. Orange lines are warnings sent to pilots, red lines are [Violations](/guide/getting-started-guide/pilot-user-interface/violations#violations) issued to pilots
 
    
 
