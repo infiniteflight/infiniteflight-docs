@@ -23,13 +23,13 @@ Step 1
 
 Step 2
 
-: A magenta Course Select Pointer (this is the radial to your next waypoint) and Lateral Deviation Bar (indicates deviation from the required track) will appear on the [HSI](/guide/getting-started/pilot-user-interface/hud#head-up-display-(hud)). By keeping these in line, you will remain on track to your next waypoint. As you approach the waypoint on your map the flight plan will automatically cycle to the next waypoint and the Course Select Pointer will move so that you can follow the new course
+: A magenta Course Select Pointer (this is the radial to your next waypoint) and Lateral Deviation Bar (indicates deviation from the required track) will appear on the [HSI](/guide/getting-started-guide/pilot-user-interface/hud#head-up-display-(hud)). By keeping these in line, you will remain on track to your next waypoint. As you approach the waypoint on your map the flight plan will automatically cycle to the next waypoint and the Course Select Pointer will move so that you can follow the new course
 
 
 
 Step 3
 
-: If you engage the [Autopilot](/guide/getting-started/pilot-user-interface/autopilot#autopilot) and LNAV, the aircraft will continue to follow your flight plan
+: If you engage the [Autopilot](/guide/getting-started-guide/pilot-user-interface/autopilot#autopilot) and LNAV, the aircraft will continue to follow your flight plan
 
 
 
@@ -39,7 +39,7 @@ Step 3
 
 Step 1
 
-: Select the airport you want using the technique shown in ["Getting more from your Map and Mini Map"](/guide/getting-started/pilot-user-interface/flight-planning#getting-more-from-your-map-and-mini-map)
+: Select the airport you want using the technique shown in ["Getting more from your Map and Mini Map"](/guide/getting-started-guide/pilot-user-interface/flight-planning#getting-more-from-your-map-and-mini-map)
 
  
 
@@ -86,7 +86,7 @@ Step 3
 
 Step 4
 
-: The Horizontal Situation Indicator ([HSI](/guide/getting-started/pilot-user-interface/hud#head-up-display-(hud))) will display the Localizer (lateral) deviation scale and the Altitude tape will display the Glideslope (vertical) deviation scale
+: The Horizontal Situation Indicator ([HSI](/guide/getting-started-guide/pilot-user-interface/hud#head-up-display-(hud))) will display the Localizer (lateral) deviation scale and the Altitude tape will display the Glideslope (vertical) deviation scale
 
  
 
@@ -103,7 +103,7 @@ Step 4
 
 Step 1
 
-: Select the VOR or NDB you want using the technique shown in ["Getting more from your Map and Mini Map"](/guide/getting-started/pilot-user-interface/flight-planning#getting-more-from-your-map-and-mini-map)
+: Select the VOR or NDB you want using the technique shown in ["Getting more from your Map and Mini Map"](/guide/getting-started-guide/pilot-user-interface/flight-planning#getting-more-from-your-map-and-mini-map)
 
  
 
@@ -132,7 +132,7 @@ Step 2
 
 Step 3
 
-: CRS (course) 1 or 2 will have 360 set by default but any radial can be selected. Provided "SOURCE" is set to "NAV 1 (or 2)", the [HSI](/guide/getting-started/pilot-user-interface/hud#head-up-display-(hud)) will display the lateral deviation scale, and the course can be adjusted to intercept and fly different radials to/from the VOR beacon
+: CRS (course) 1 or 2 will have 360 set by default but any radial can be selected. Provided "SOURCE" is set to "NAV 1 (or 2)", the [HSI](/guide/getting-started-guide/pilot-user-interface/hud#head-up-display-(hud)) will display the lateral deviation scale, and the course can be adjusted to intercept and fly different radials to/from the VOR beacon
 
  
 

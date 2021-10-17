@@ -12,7 +12,7 @@ order: 13
 ## What are Violations?
 
 
-Violations can either be automatically generated (Level 1) or issued by ATC (Level 2 or 3) and are a way to moderate pilot behavior on the [Training and Expert Servers](/guide/getting-started/home-user-interface/fly-online#server). **Level 1** Violations can be received on both servers, however **Level 2** and **Level 3** Violations can only be issued on the Expert Server. Each server has its own set of rules and minimum [grade](/guide/getting-started/home-user-interface/user-profile#the-grade-table) requirements, but the Expert Server is for serious users only. If the server rules and procedures are not followed, ATC will strictly enforce this and pilots could be issued a Violation. 
+Violations can either be automatically generated (Level 1) or issued by ATC (Level 2 or 3) and are a way to moderate pilot behavior on the [Training and Expert Servers](/guide/getting-started-guide/home-user-interface/fly-online#server). **Level 1** Violations can be received on both servers, however **Level 2** and **Level 3** Violations can only be issued on the Expert Server. Each server has its own set of rules and minimum [grade](/guide/getting-started-guide/home-user-interface/user-profile#the-grade-table) requirements, but the Expert Server is for serious users only. If the server rules and procedures are not followed, ATC will strictly enforce this and pilots could be issued a Violation. 
 
  
 
@@ -58,7 +58,7 @@ Level 2 Violation (Amber)
 ![Level 2 Violation](_images/manual/frames/violation-level2.png) 
 
 
-1. A brief summary is usually provided when you receive a Violation, however you can see a more detailed reason [here](/guide/getting-started/pilot-user-interface/violation-reasons#violation-reasons). If you are still unsure, you can contact the controller on the forum at [community.infiniteflight.com](https://community.infiniteflight.com/) or follow the steps [below](/guide/getting-started/pilot-user-interface/violations#appealing-a-level-2-or-3-violation) to appeal
+1. A brief summary is usually provided when you receive a Violation, however you can see a more detailed reason [here](/guide/getting-started-guide/pilot-user-interface/violation-reasons#violation-reasons). If you are still unsure, you can contact the controller on the forum at [community.infiniteflight.com](https://community.infiniteflight.com/) or follow the steps [below](/guide/getting-started-guide/pilot-user-interface/violations#appealing-a-level-2-or-3-violation) to appeal
 
  
 
@@ -122,7 +122,7 @@ We recommend that you only appeal **Level 3** Violations as these prevent access
 
 Step 1
 
-: Access your [logbook](/guide/getting-started/home-user-interface/logbook#logbook) from the [home screen](/guide/getting-started/home-user-interface/home-screen#home-screen)
+: Access your [logbook](/guide/getting-started-guide/home-user-interface/logbook#logbook) from the [home screen](/guide/getting-started-guide/home-user-interface/home-screen#home-screen)
 
  
 
@@ -140,7 +140,7 @@ Step 3
 
 Step 4
 
-: It is highly likely that you will be asked to [provide your pilot replay](/guide/getting-started/home-user-interface/replays#replays) to assist the team in handling your appeal
+: It is highly likely that you will be asked to [provide your pilot replay](/guide/getting-started-guide/home-user-interface/replays#replays) to assist the team in handling your appeal
 
 
 
