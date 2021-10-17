@@ -8,7 +8,7 @@ meta: Introduction to the Infinite Flight Air Traffic Controller (IFATC) Manual.
 
 
 
-## Guide Version: 21.4.0
+## Guide Version: 21.6.0
 
 
 
@@ -26,13 +26,34 @@ Should
 
 
 
-## ATC Manual Version (Internal): 21.4.0.1
+## ATC Manual Version (Internal): 21.6.0.1
 
-## Last Updated: 1445Z - 24 AUG 21
+## Last Updated: 1100Z - 17 OCT 21
 
 
 
-+++ Summary of Changes - Version: 21.4.0.1 (CURRENT VERSION)
++++ Summary of Changes - Version: 21.6.0.1 (CURRENT VERSION)
+
+| Location | Change                                                       |
+| -------- | ------------------------------------------------------------ |
+| 1A.1.2   | Added *#atc-schedule* and *#events* channel descriptions     |
+| 1A.3.1   | Removal of controlling within region assignment restriction  |
+| 1A.3.1   | Added use of *@split* reaction role                          |
+| 1A.4     | New airport selection page added, previous sections 1A.4 and 1A.5 moved to 1A.5 and 1A.6 respectively |
+| 1A.5.2   | Minimum controlling times for class B and all radar facilities increased to 1 hour |
+| 1A.6     | Region assignment section removed                            |
+| 1A.6     | Rank Structure section reworked                              |
+| 1A.7     | New Check Ride Process section                               |
+| 1A.8     | Disciplinary and Suspension Procedure section moved          |
+| 4.2.1    | Removal of restriction to not use LUAW when "Rolling Dept." ATIS remark is in use |
+| 7.1.4    | Note added about training session length to ensure all attendees allow sufficient time |
+| 7.4      | Promotion to Specialist (Check Ride) section moved to 1A.7, original section 7.5 moved up to become 7.4 |
+
++++
+
+
+
++++ Summary of Changes - Version: 21.4.0.1
 
 | Location        | Change                                                       |
 | --------------- | ------------------------------------------------------------ |
@@ -72,20 +93,6 @@ Should
 | 7B.3.3                  | The retest site is only to be used for demotion from Officer to Specialist, returning members can be tested at any of the pre-approved radar test sites |
 | 7D.2.1                  | Removal of old reference                                     |
 | 7D.4.3                  | Added reference to the Appeals Team                          |
-
-+++
-
-
-
-+++ Summary of Changes - Version: 21.2.0
-
-| Location | Change                                                       |
-| -------- | ------------------------------------------------------------ |
-| 1A.5.2   | Removal of minimum activity percentage when applying for Radar Training |
-| 6.10.7   | Pro Tip added to clarify that reduced separation for parallel ops is only to be applied on ILS approaches |
-| 7.5.8    | Minor wording correction in Radar Training flowchart         |
-| 7D.2.4   | Reference to *#supervisors* Discord Channel removed          |
-| 7D.2.5   | Added reference to the Appeals Team when violations are issued for a final verdict |
 
 +++
 

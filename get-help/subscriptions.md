@@ -23,11 +23,9 @@ The Infinite Flight Pro Subscription* comes with all In-App Purchases unlocked, 
 
 
 
-| Duration  | Price (USD) |
-| --------- | ----------- |
-| 1 Month   | $9.99       |
-| 6 Months  | $49.99      |
-| 12 Months | $79.99      |
+| Duration | Price (USD) |
+| -------- | ----------- |
+| 1 Month  | $9.99       |
 
 
 
@@ -49,33 +47,23 @@ Step 2
 
 Step 3
 
-: The [account page](/guide/getting-started/home-user-interface/settings#account) will be displayed, from there, tap the "Get Pro" button next to "Your Infinite Flight Pro Subscription"
+: The subscription page will be displayed, from there, tap the blue button
 
 
 
-![Account Settings Page](_images/manual/frames/account.png)
+![Subscription Page](_images/manual/frames/get-pro.png)
 
 
 
 Step 4
 
-: The various "Get Pro" options will be displayed, select the one you wish to purchase
-
-
-
-![Get Pro](_images/manual/frames/get-pro.png)
+: If you already have an account, tap "I already have an account" in the bottom right hand corner of the screen
 
 
 
 Step 5
 
-: If you already have an account, tap "I already have an account" in the bottom left hand corner of the screen
-
-
-
-Step 6
-
-: You will then be able to login in 
+: You will then be able to login
 
 
 
@@ -123,17 +111,11 @@ Step 1
 
 Step 2
 
-: The [account page](/guide/getting-started/home-user-interface/settings#account) will be displayed, from there, tap the "Get Pro" button next to "Your Infinite Flight Pro Subscription"
+: The subscription page will be displayed, from there, tap "I already have an account" in the bottom right hand corner of the screen
 
 
 
 Step 3
-
-: Tap "I already have an account" in the bottom left hand corner of the screen
-
-
-
-Step 4
 
 : Tap "Sign In with Infinite Flight" and login to your existing Community Forum Account
 
@@ -169,7 +151,7 @@ Auto-Renew can be cancelled directly from the Google Play or App Store. Please f
 
 Step 1
 
-: Tap "Your Account" in the top right hand corner of the screen to access the Account Settings page. Next to Community Forum Account, tap your current IFC username
+: Tap the profile icon in the top right hand corner of the screen to access the Account Settings page. Next to "Community Forum Account", tap your current IFC username
 
 
 
@@ -187,7 +169,7 @@ Step 3
 
 Step 4
 
-: You can now tap "Connect" to [link a different Community Forum Account](/guide/getting-started/home-user-interface/user-profile#linking-community-forum-account)
+: You can now tap "Connect" to [link a different Community Forum Account](/guide/getting-started-guide/home-user-interface/user-profile#linking-community-forum-account)
 
 
 

@@ -33,7 +33,7 @@ Our minimum device requirements for the Global versions of Infinite Flight is as
 
 
 
- -    iOS 10 operating system or later with a 64-bit processor 
+ -    iOS 13 operating system or later with a 64-bit processor 
  -    [Click here to see full list of devices supported](https://community.infiniteflight.com/t/device-compatibility-thread-19-4-built-by-us-for-you/323610)
 
 
@@ -42,7 +42,13 @@ Additionally, we strongly recommend that your device has **at least** 2GB+ of in
 
 
 
-*Note: To access the list of iOS devices supported, use the link above. You will need to scroll to the bottom of the initial post and locate the first response to find the list.*
+> To access the list of iOS devices supported, use the link above. You will need to scroll to the bottom of the initial post and locate the first response to find the list
+
+
+
+Tip
+
+: If your device doesn’t have iOS 13 operating system or later, you will still be able to enjoy Infinite Flight on versions prior to 21.6. To find out if your device meets these requirements, check [here](https://infiniteflight.com/timeline/21-6-ios-support)
 
 
 
@@ -60,7 +66,7 @@ Additionally, we strongly recommend that your device has **at least** 2GB+ of in
 
 
 
-*Note: Due to the large variety of Android devices, there is not a full list of devices supported although the vast majority can be found [here](https://community.infiniteflight.com/t/device-compatibility-thread-19-4-built-by-us-for-you/323610). Customers with devices that are not supported at this time will receive a message on the Google Play Store when attempting to download the latest update for Infinite Flight to advise that the device in use is not supported.*
+> Due to the large variety of Android devices, there is not a full list of devices supported although the vast majority can be found [here](https://community.infiniteflight.com/t/device-compatibility-thread-19-4-built-by-us-for-you/323610). Customers with devices that are not supported at this time will receive a message on the Google Play Store when attempting to download the latest update for Infinite Flight to advise that the device in use is not supported
 
 
 
