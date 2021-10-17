@@ -11,11 +11,11 @@ order: 4
 
  
 
-1. Pick your aircraft using the [Aircraft Selection button](/guide/getting-started/home-user-interface/fly-online#aircraft-selection)
+1. Pick your aircraft using the [Aircraft Selection button](/guide/getting-started-guide/home-user-interface/fly-online#aircraft-selection)
 
    
 
-2. Pick your starting point using the [Airport and Gate Selection button](/guide/getting-started/home-user-interface/fly-online#airport-and-gate-selection)
+2. Pick your starting point using the [Airport and Gate Selection button](/guide/getting-started-guide/home-user-interface/fly-online#airport-and-gate-selection)
 
    
 
@@ -27,7 +27,7 @@ order: 4
 
    
 
-5. Ready to go flying? Tap on the [Fly button](/guide/getting-started/pilot-user-interface/fly#fly-screen) to begin
+5. Ready to go flying? Tap on the [Fly button](/guide/getting-started-guide/pilot-user-interface/fly#fly-screen) to begin
 
  
 
@@ -128,11 +128,11 @@ The various live servers available to use are displayed here. Each server has it
 
  
 
-| Server   | Description                                                  | Minimum [Grade](/guide/getting-started/home-user-interface/user-profile#the-grade-table) |
+| Server   | Description                                                  | Minimum [Grade](/guide/getting-started-guide/home-user-interface/user-profile#the-grade-table) |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Casual   | This server may be accessed by all grades. ATC is not available and pilots may fly freely without affecting their stats or grade. All users should still be respectful and courteous to other pilots | N/A                                                          |
-| Training | This server is used to practice pilot and ATC skills. All ATC facilities (except ATIS) can be accessed and procedures are enforced by server issued [Violations](/guide/getting-started/pilot-user-interface/violations#violations) | 2                                                            |
-| Expert   | This is a server where published rules must be adhered to. All procedures are strictly enforced by ATC (infractions may result in ATC issued [Violations](/guide/getting-started/pilot-user-interface/violations#violations)) | 3*                                                           |
+| Training | This server is used to practice pilot and ATC skills. All ATC facilities (except ATIS) can be accessed and procedures are enforced by server issued [Violations](/guide/getting-started-guide/pilot-user-interface/violations#violations) | 2                                                            |
+| Expert   | This is a server where published rules must be adhered to. All procedures are strictly enforced by ATC (infractions may result in ATC issued [Violations](/guide/getting-started-guide/pilot-user-interface/violations#violations)) | 3*                                                           |
 
-**In addition to the minimum grade requirement, the number of total Level 1 Violations must be at least 50% less than the number of total landings. Pilots may not have [5 or more Level 2 or 3 Violations in the last 365 days](/guide/getting-started/pilot-user-interface/violations#what-happens-if-i-get-a-violation%3F)*
+**In addition to the minimum grade requirement, the number of total Level 1 Violations must be at least 50% less than the number of total landings. Pilots may not have [5 or more Level 2 or 3 Violations in the last 365 days](/guide/getting-started-guide/pilot-user-interface/violations#what-happens-if-i-get-a-violation%3F)*
 
