@@ -18,7 +18,7 @@ Welcome to the Scenery Editor Guide, designed to help newly qualified and vetera
 
 ## Scenery Editor Manual Version (Internal): 21.6.0.1
 
-## Last Updated: 0830Z - 15 OCT 21
+## Last Updated: 0830Z - 21 OCT 21
 
 
 
@@ -33,5 +33,4 @@ Welcome to the Scenery Editor Guide, designed to help newly qualified and vetera
 | Section 7  | Objects library updated              |
 
 +++
-
 
