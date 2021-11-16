@@ -37,7 +37,7 @@ Step 1
 
 Step 2
 
-: If no active subscription is detected, the "Get Pro" button will be displayed in the top right hand corner of the [Home Screen](/guide/getting-started/home-user-interface/home-screen#home-screen), tap it
+: If no active subscription is detected, the "Get Pro" button will be displayed in the top right hand corner of the [Home Screen](/guide/getting-started-guide/home-user-interface/home-screen), tap it
 
 
 
