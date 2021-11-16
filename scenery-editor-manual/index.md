@@ -16,9 +16,21 @@ Welcome to the Scenery Editor Guide, designed to help newly qualified and vetera
 
 
 
+There are currently three types of editing, Editors **must**{.red} ensure they fall within one of these categories when editing *(see [1A.3.2](/guide/scenery-editor-manual/1a.-administration/1a.3-editor-rules#1a.3.2) below)*:
+
+- A 2D* only edit of a non-3D airport
+- A 2D edit of a current 3D airport (with the requirement to change the 3D elements if affected by the 2D changes)
+- A 2D and 3D edit of a non-3D Airport
+
+
+
+**2D editing is defined as: visual fixes to lines, aprons, runways and taxiways. The creation of a taxi network or the naming and connecting of taxiways. Updating and checking airport date including, but not limited to, names, ICAO codes and frequencies*
+
+
+
 ## Scenery Editor Manual Version (Internal): 21.7.0.1
 
-## Last Updated: 1130Z - 03 NOV 21
+## Last Updated: 1730Z - 16 NOV 21
 
 
 

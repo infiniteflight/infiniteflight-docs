@@ -8,7 +8,7 @@ meta: Introduction to the Infinite Flight Air Traffic Controller (IFATC) Manual.
 
 
 
-## Guide Version: 21.6.0
+## Guide Version: 21.7.0
 
 
 
@@ -26,13 +26,27 @@ Should
 
 
 
-## ATC Manual Version (Internal): 21.6.0.1
+## ATC Manual Version (Internal): 21.7.0.1
 
-## Last Updated: 1100Z - 17 OCT 21
+## Last Updated: 1730Z - 16 NOV 21
 
 
 
-+++ Summary of Changes - Version: 21.6.0.1 (CURRENT VERSION)
++++ Summary of Changes - Version: 21.7.0.1 (CURRENT VERSION)
+
+| Location | Change                                                       |
+| -------- | ------------------------------------------------------------ |
+| 1A.1.2   | Added *#social-media* channel                                |
+| 1A.4.1   | Minor wording correction                                     |
+| 3.6.2    | Clarification added on how to handle radar pattern work when pattern work is denied in the ATIS |
+| 6.12.1   | Visual approaches aligned with pattern work, a minimum of 3 statute miles (5000 meters) visibility is required |
+| 7B.2.1   | Re-worded to align with 7B.3.2                               |
+
++++
+
+
+
++++ Summary of Changes - Version: 21.6.0.1
 
 | Location | Change                                                       |
 | -------- | ------------------------------------------------------------ |
@@ -73,26 +87,4 @@ Should
 
 +++
 
-
-
-+++ Summary of Changes - Version: 21.3.0.1
-
-| Location                | Change                                                       |
-| ----------------------- | ------------------------------------------------------------ |
-| ALL                     | Some notes or pro tips have been reformatted                 |
-| 1.2.1                   | FF abbreviation for Flash Flight added                       |
-| 1A.1.2 / 1A.3.1         | Guidance added on using role assignments, and specifically only using the *@Tower Relief* and *@Radar Relief* reaction roles once (including the airport and closing time) |
-| 1A.1.8                  | VC channel limit changed from 8 to 10 people                 |
-| 1A.5.2                  | Returning IFATC members can commence training for the rank of Officer provided they have successfully passed the "Check Ride" phase |
-| 1B.2.1                  | Added not following a published TFR/NOTAM as grounds for Controllers to issue a Violation |
-| 1B.3.2                  | If during a violation appeal, the Controller and Appeals Team are added, the Controller is to observe only and allow the Appeals Team to deal with the appeal |
-| 3.2.2                   | Departure sequencing adjusted to reflect that if an aircraft is lined up, the next aircraft ready for departure is considered number 2, not number 1 |
-| 6.8.9                   | Flight plan approach prefix added for LDA and GLS approaches |
-| 7.3.2 / 7C.2.1 / 7C.4.5 | Added new notes to highlight that returning IFATC members are not required to complete The Initial Theory Test during their application to rejoin (if it is within 1 year of leaving) |
-| 7.4.2                   | Expanded rules to be followed when in the Specialist Check Ride phase |
-| 7B.3.3                  | The retest site is only to be used for demotion from Officer to Specialist, returning members can be tested at any of the pre-approved radar test sites |
-| 7D.2.1                  | Removal of old reference                                     |
-| 7D.4.3                  | Added reference to the Appeals Team                          |
-
-+++
 
