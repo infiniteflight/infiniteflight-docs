@@ -41,7 +41,7 @@ Welcome to the home screen of your newly downloaded Infinite Flight app. Below y
 
    
 
-8. As well as replays, all information is automatically logged when you fly or control so that you can keep track [in the Logbook](/guide-guide/getting-started/home-user-interface/logbook#logbook)
+8. As well as replays, all information is automatically logged when you fly or control so that you can keep track [in the Logbook](/guide/getting-started-guide/home-user-interface/logbook)
 
    
 
