@@ -1,7 +1,7 @@
 ---
 id: atc-guide
 title: ATC Guide
-description: Once you're familiar with the rules of controlling from our ATC Manual, move onto the ATC Guide to enhance your controlling technique!
+description: Want to control the aircraft of Infinite Flight? Learn about the user interface with our ATC Guide before moving onto our ATC Manual to learn the rules of controlling!
 order: 3
 ---
 
