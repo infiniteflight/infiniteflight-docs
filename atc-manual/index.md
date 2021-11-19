@@ -28,7 +28,7 @@ Should
 
 ## ATC Manual Version (Internal): 21.7.0.1
 
-## Last Updated: 1730Z - 16 NOV 21
+## Last Updated: 1830Z - 18 NOV 21
 
 
 
@@ -37,6 +37,8 @@ Should
 | Location | Change                                                       |
 | -------- | ------------------------------------------------------------ |
 | 1A.1.2   | Added *#social-media* channel                                |
+| 1A.1.2   | Note added below table that lists common abbreviations used for opening/closing messages |
+| 1A.3.1   | Clarity added on use of abbreviations such as GTS for opening/closing messages |
 | 1A.4.1   | Minor wording correction                                     |
 | 3.6.2    | Clarification added on how to handle radar pattern work when pattern work is denied in the ATIS |
 | 6.12.1   | Visual approaches aligned with pattern work, a minimum of 3 statute miles (5000 meters) visibility is required |
@@ -86,5 +88,4 @@ Should
 | 7C.3.3          | Minor spelling mistake corrected                             |
 
 +++
-
 

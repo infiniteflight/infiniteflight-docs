@@ -28,24 +28,17 @@ There are currently three types of editing, Editors **must**{.red} ensure they f
 
 
 
-## Scenery Editor Manual Version (Internal): 21.7.0.2
+## Scenery Editor Manual Version (Internal): 21.7.0.3
 
-## Last Updated: 1515Z - 18 NOV 21
+## Last Updated: 1800Z - 18 NOV 21
 
 
 
-+++ Summary of Changes - Version: 21.7.0.1 (CURRENT VERSION)
++++ Summary of Changes - Version: 21.7.0.3 (CURRENT VERSION)
 
-| Location   | Change                               |
-| ---------- | ------------------------------------ |
-| Section 1  | New Section (Introduction)           |
-| Section 1A | New Section (Administration)         |
-| 3.1        | Updated                              |
-| 3.3        | New Page (Airport Properties)        |
-| 3.4        | New Page (Airport Boundary)          |
-| Section 4  | New Section (Satellite Imagery)      |
-| Section 5  | New Section (Taxiways and Pavements) |
-| Section 7  | Objects library updated              |
+| Location | Change                                |
+| -------- | ------------------------------------- |
+| All      | No Changes - Release of Initial Issue |
 
 +++
 
