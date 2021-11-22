@@ -28,13 +28,23 @@ There are currently three types of editing, Editors **must**{.red} ensure they f
 
 
 
-## Scenery Editor Manual Version (Internal): 21.7.0.3
+## Scenery Editor Manual Version (Internal): 21.7.0.4
 
-## Last Updated: 1800Z - 18 NOV 21
+## Last Updated: 1900Z - 22 NOV 21
 
 
 
-+++ Summary of Changes - Version: 21.7.0.3 (CURRENT VERSION)
++++ Summary of Changes - Version: 21.7.0.4 (CURRENT VERSION)
+
+| Location | Change                |
+| -------- | --------------------- |
+| 5.2.2    | Images added to table |
+
++++
+
+
+
++++ Summary of Changes - Version: 21.7.0.3
 
 | Location | Change                                |
 | -------- | ------------------------------------- |
