@@ -44,7 +44,7 @@ The Settings menu allows you to customize your Infinite Flight experience before
 
 | Setting                                 | What it does                                                 |
 | --------------------------------------- | ------------------------------------------------------------ |
-| Language                                | Sets the language of the app's interface (only English, Español and Français currently available) |
+| Language                                | Sets the language of the app's interface                     |
 | Interface Timeout                       | Controls how long the User Interface controls stay on screen |
 | Hide Status Bar                         | Hides the status bar when the interface timeout occurs       |
 | Control Sensitivity                     | Sets the controls sensitivity                                |
@@ -179,7 +179,7 @@ In the control settings you can further adjust your control sensitivity for each
 
 
 
-**Yaw is the third axis; however, it is not controlled via an accelerometer. You control Yaw through the use of the [Rud Brakes](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) slider as found on the bottom right corner when you spawn*
+**Yaw is the third axis; however, it is not controlled via an accelerometer. You control Yaw through the use of the [Rud Brakes](/guide/getting-started-guide/pilot-user-interface/flight-controls) slider as found on the bottom right corner when you spawn*
 
 
 
