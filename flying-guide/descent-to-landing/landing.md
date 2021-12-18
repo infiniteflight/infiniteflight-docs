@@ -90,31 +90,37 @@ Step 4
 
 Step 1
 
-: On touchdown, select reverse (if fitted), ensure that the [spoilers](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) have deployed (if fitted) and monitor the deceleration of the aircraft
+: On touchdown, select reverse (if fitted), ensure that the [spoilers](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls) have deployed (if fitted) and monitor the deceleration of the aircraft
 
 
 
 Step 2
 
-: Use the [rudder](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) to maintain the runway centerline. As speed decreases, so does the aerodynamic affect of the rudder, more input will be required at slower speeds
+: Use the [rudder](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls) to maintain the runway centerline. As speed decreases, so does the aerodynamic affect of the rudder, more input will be required at slower speeds
 
 
 
 Step 3
 
-: Modulate your [braking](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) and use of reverse (if fitted) to exit the runway expeditiously, but in a controlled manner. You should always plan in advance your exit strategy, but be flexible; the aircraft may decelerate faster or slower than you were expecting
+: Modulate your [braking](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls) and use of reverse (if fitted) to exit the runway expeditiously, but in a controlled manner. You should always plan in advance your exit strategy, but be flexible; the aircraft may decelerate faster or slower than you were expecting
 
 
 
 Tip
 
-: Rapid Exit Taxiways (RETs) have design exit speeds which can be very high - however due to the [Ground Overspeed Level 1 Violation](/guide/getting-started/pilot-user-interface/violations#what-are-violations%3F), we recommend you do not exceed 35kts whilst exiting the runway. For exits that are 90 degree turns, your groundspeed should be under 10kts
+: Rapid Exit Taxiways (RETs) have design exit speeds which can be very high - however due to the [Ground Overspeed Level 1 Violation](/guide/getting-started-guide/pilot-user-interface/violations#what-are-violations%3F), we recommend you do not exceed 35kts whilst exiting the runway. For exits that are 90 degree turns, your groundspeed should be under 10kts
 
 
 
 Step 4
 
 : There are some airports which may require a back-taxi to exit the runway. Check out our [Back-Taxi](/guide/flying-guide/take-off-to-cruise/back-taxi#back-taxi) page for a step by step guide
+
+
+
+Step 5
+
+: When exiting the runway, keep moving until the aircraft is completely past the hold short line to ensure that the runway is clear for the next departure/arrival. You should always avoid coming to a complete stop and [try communicate with ATC](/guide/flying-guide/atc-communication/landing-and-taxi-to-parking#taxi-to-parking-communication-summary) (if present) whilst on the move to avoid a traffic jam behind you!
 
 
 
@@ -126,19 +132,19 @@ Once you have clearance (if applicable) and the runway is completely clear, you 
 
 Step 1
 
-: On touchdown, ensure that the [spoilers](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) have deployed (if fitted) and monitor the deceleration of the aircraft - do not select reverse (if fitted)
+: On touchdown, ensure that the [spoilers](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls) have deployed (if fitted) and monitor the deceleration of the aircraft - do not select reverse (if fitted)
 
 
 
 Step 2
 
-: Use the [rudder](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) to maintain the runway centerline. As speed decreases, so does the aerodynamic affect of the rudder, more input will be required at slower speeds
+: Use the [rudder](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls) to maintain the runway centerline. As speed decreases, so does the aerodynamic affect of the rudder, more input will be required at slower speeds
 
 
 
 Step 3
 
-: Retract [flaps](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) to a take-off setting and select [spoilers](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) to **OFF**
+: Retract [flaps](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls) to a take-off setting and select [spoilers](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls) to **OFF**
 
 
 

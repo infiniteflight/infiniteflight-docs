@@ -16,7 +16,7 @@ order: 2
 
  
 
-Once you have spawned at the gate, tap on the [Pause Screen](/guide/getting-started/pilot-user-interface/fly-screen) button to access the [Weight & Balance](/guide/getting-started/pilot-user-interface/pause-menu#weight-%26-balance) page where you can adjust your fuel, passenger load, and cargo load.
+Once you have spawned at the gate, tap on the [Pause Screen](/guide/getting-started-guide/pilot-user-interface/fly-screen) button to access the [Weight & Balance](/guide/getting-started-guide/pilot-user-interface/pause-menu#weight-%26-balance) page where you can adjust your fuel, passenger load, and cargo load.
 
 
 
@@ -51,7 +51,7 @@ The Digital ATIS (D-ATIS) will display the same information as the ATIS, but in 
 
 Step 1
 
-: By [tapping close to your chosen airport](/guide/getting-started/pilot-user-interface/flight-planning#getting-more-from-your-map-and-mini-map) on the map, a drop down list will appear where you can select the airport
+: By [tapping close to your chosen airport](/guide/getting-started-guide/pilot-user-interface/flight-planning#getting-more-from-your-map-and-mini-map) on the map, a drop down list will appear where you can select the airport
 
  
 
@@ -80,7 +80,7 @@ Want to know what everything in the ATIS means? Visit our [ATC Manual](/guide/at
 ## Flight Plan
 
 ![Map Screen](_images/manual/frames/flight-planning-map.png)
-Once you have spawned at the gate, you can access the [Flight Planning](/guide/getting-started/pilot-user-interface/flight-planning#flight-planning) page by tapping on the [Globe](/guide/getting-started/pilot-user-interface/fly-screen) button. This will allow you to build your flight plan (you can also use the [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) to make adjustments).
+Once you have spawned at the gate, you can access the [Flight Planning](/guide/getting-started-guide/pilot-user-interface/flight-planning#flight-planning) page by tapping on the [Globe](/guide/getting-started-guide/pilot-user-interface/fly-screen) button. This will allow you to build your flight plan (you can also use the [Mini Map](/guide/getting-started-guide/pilot-user-interface/flight-planning#mini-map) to make adjustments).
 
 
 
