@@ -74,7 +74,7 @@ Step 1
 
 Step 2
 
-: [Load your departure](/guide/getting-started/pilot-user-interface/flight-planning#selecting-departure%2C-arrival-and-approach-procedures) and then [add a series of waypoints](/guide/getting-started/pilot-user-interface/flight-planning#flight-planning) that will take you close to the start of the track you wish to use
+: [Load your departure](/guide/getting-started-guide/pilot-user-interface/flight-planning#selecting-departure%2C-arrival-and-approach-procedures) and then [add a series of waypoints](/guide/getting-started-guide/pilot-user-interface/flight-planning#flight-planning) that will take you close to the start of the track you wish to use
 
 
 

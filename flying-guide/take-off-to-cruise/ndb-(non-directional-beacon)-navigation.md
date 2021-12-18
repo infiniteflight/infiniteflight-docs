@@ -18,7 +18,7 @@ Tip
 
 ## What is an NDB?
 
-The Non-Directional Beacon, otherwise known as NDB; is a ground-based transmitter that emits radio signals and is identified with it's own frequency and a code (normally two or three letters). Aircraft equipped with an Automatic Direction Finder (ADF) can then interpret these signals and use them for navigation purposes. To use NDBs for navigation, you will need to [tune to the correct frequency](/guide/getting-started/pilot-user-interface/navigation#tuning-to-a-vor-or-adf), and then [display this in the cockpit](/guide/getting-started/pilot-user-interface/navigation#displaying-an-adf-in-your-aircraft).
+The Non-Directional Beacon, otherwise known as NDB; is a ground-based transmitter that emits radio signals and is identified with it's own frequency and a code (normally two or three letters). Aircraft equipped with an Automatic Direction Finder (ADF) can then interpret these signals and use them for navigation purposes. To use NDBs for navigation, you will need to [tune to the correct frequency](/guide/getting-started-guide/pilot-user-interface/navigation#tuning-to-a-vor-or-adf), and then [display this in the cockpit](/guide/getting-started-guide/pilot-user-interface/navigation#displaying-an-adf-in-your-aircraft).
 
 
 
@@ -29,7 +29,7 @@ The Horizontal Situation Indicator or HSI, is the primary instrument used for na
 
 
 - Compass rose orientated with the current aircraft heading
-- Blue heading bug displaying the [Autopilot FCU](/guide/getting-started/pilot-user-interface/autopilot#autopilot) bugged heading
+- Blue heading bug displaying the [Autopilot FCU](/guide/getting-started-guide/pilot-user-interface/autopilot#autopilot) bugged heading
 - Single blue pointer to represent BRG (bearing) 1 - when tuned to a navigation source (ILS, VOR or NDB) it will point to the navigation aid
 - Double blue pointer to represent BRG (bearing) 2 - when tuned to a navigation source (ILS, VOR or NDB) it will point to the navigation aid
 - Course Deviation Indicator (CDI) made up of the Course Pointer and Lateral Deviation Bar - displayed in magenta for GPS, and light green for NAV 1 and NAV 2
@@ -42,13 +42,13 @@ The Horizontal Situation Indicator or HSI, is the primary instrument used for na
 
 Step 1
 
-: [Tune the NDB](/guide/getting-started/pilot-user-interface/navigation#tuning-to-a-vor-or-adf) by tapping the NDB from your [Map](/guide/getting-started/pilot-user-interface/flight-planning#map) or [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map), selecting the NDB from the list displayed, and then tap "Set ADF 1"
+: [Tune the NDB](/guide/getting-started-guide/pilot-user-interface/navigation#tuning-to-a-vor-or-adf) by tapping the NDB from your [Map](/guide/getting-started-guide/pilot-user-interface/flight-planning#map) or [Mini Map](/guide/getting-started-guide/pilot-user-interface/flight-planning#mini-map), selecting the NDB from the list displayed, and then tap "Set ADF 1"
 
 
 
 Step 2
 
-: [Display the NDB](/guide/getting-started/pilot-user-interface/navigation#displaying-an-adf-in-your-aircraft) by tapping "NAV" on the Fly Screen to show the Avionics tab, and ensure that either BRG 1 (or 2) have ADF displayed
+: [Display the NDB](/guide/getting-started-guide/pilot-user-interface/navigation#displaying-an-adf-in-your-aircraft) by tapping "NAV" on the Fly Screen to show the Avionics tab, and ensure that either BRG 1 (or 2) have ADF displayed
 
 
 
@@ -64,7 +64,7 @@ Step 1
 
 Step 2
 
-: Ensure that you have planned ahead by using our step by step guides to help you - [tune](/guide/getting-started/pilot-user-interface/navigation#tuning-to-a-vor-or-adf) and [display](/guide/getting-started/pilot-user-interface/navigation#displaying-an-adf-in-your-aircraft) the required NDB
+: Ensure that you have planned ahead by using our step by step guides to help you - [tune](/guide/getting-started-guide/pilot-user-interface/navigation#tuning-to-a-vor-or-adf) and [display](/guide/getting-started-guide/pilot-user-interface/navigation#displaying-an-adf-in-your-aircraft) the required NDB
 
 
 
@@ -76,7 +76,7 @@ Tip
 
 Step 3
 
-: Next, look at where you are in relation to the NDB, use the bearing pointer on your HSI (blue) to help you. You can also use your [Map](/guide/getting-started/pilot-user-interface/flight-planning#map) and [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map)
+: Next, look at where you are in relation to the NDB, use the bearing pointer on your HSI (blue) to help you. You can also use your [Map](/guide/getting-started-guide/pilot-user-interface/flight-planning#map) and [Mini Map](/guide/getting-started-guide/pilot-user-interface/flight-planning#mini-map)
 
 
 

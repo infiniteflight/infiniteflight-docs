@@ -38,13 +38,13 @@ Step 1
 
 Step 2
 
-: Ensure that you have [tuned](/guide/getting-started/pilot-user-interface/navigation#tuning-to-a-vor-or-adf) the required VOR(s) for the approach and changed the CRS(s) to the desired magnetic bearings(s) that you need to intercept
+: Ensure that you have [tuned](/guide/getting-started-guide/pilot-user-interface/navigation#tuning-to-a-vor-or-adf) the required VOR(s) for the approach and changed the CRS(s) to the desired magnetic bearings(s) that you need to intercept
 
 
 
 Step 3
 
-: If you are no longer following your flight plan or [GPS Navigation](/guide/getting-started/pilot-user-interface/navigation#gps-navigation) is no longer required, you can [display](/guide/getting-started/pilot-user-interface/navigation#displaying-a-vor-in-your-aircraft) the required VOR(s) by setting "SOURCE" to either NAV 1 (or 2 as required)
+: If you are no longer following your flight plan or [GPS Navigation](/guide/getting-started-guide/pilot-user-interface/navigation#gps-navigation) is no longer required, you can [display](/guide/getting-started-guide/pilot-user-interface/navigation#displaying-a-vor-in-your-aircraft) the required VOR(s) by setting "SOURCE" to either NAV 1 (or 2 as required)
 
 
 
@@ -56,7 +56,7 @@ Step 4
 
 Tip
 
-: Feel overloaded? Reduce your workload by engaging the [Autopilot](/guide/getting-started/pilot-user-interface/autopilot#autopilot) and using Heading (or LNAV) and V/S to follow the profile instead of manual flying
+: Feel overloaded? Reduce your workload by engaging the [Autopilot](/guide/getting-started-guide/pilot-user-interface/autopilot#autopilot) and using Heading (or LNAV) and V/S to follow the profile instead of manual flying
 
 
 

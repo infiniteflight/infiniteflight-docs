@@ -8,11 +8,11 @@ meta: Learn how to use the Infinite Flight Scenery Editor with our online docume
 
 
 
-## Guide Version: 21.7.0
+## Guide Version: 21.8.0
 
 
 
-Welcome to the Scenery Editor Guide, designed to help newly qualified and veteran editors alike, bring 3D airports to Infinite Flight. Feedback is an essential part in the development & upkeep of the Scenery Editor Guide and can be raised via the IFC in the [Scenery Editing Category](https://community.infiniteflight.com/c/scenery-editing/47). 
+Welcome to the Scenery Editor Manual, designed to help newly qualified and veteran editors alike, bring 2D and 3D airport updates to Infinite Flight. 
 
 
 
@@ -28,13 +28,38 @@ There are currently three types of editing, Editors **must**{.red} ensure they f
 
 
 
-## Scenery Editor Manual Version (Internal): 21.7.0.4
+## Scenery Editor Manual Version (Internal): 21.8.0.1
 
-## Last Updated: 1900Z - 22 NOV 21
+## Last Updated: 1215Z - 18 DEC 21
 
 
 
-+++ Summary of Changes - Version: 21.7.0.4 (CURRENT VERSION)
++++ Summary of Changes - Version: 21.8.0.1 (CURRENT VERSION)
+
+| Location | Change                                                       |
+| -------- | ------------------------------------------------------------ |
+| 1.2      | AIP and CLA abbreviations added                              |
+| 1A.1     | Joining page added with some FAQs                            |
+| 1A.3.4   | Custom roof rules added                                      |
+| 1A.3.5   | Fencing rules added                                          |
+| 1A.4.2   | New IFC tags added                                           |
+| 2.1.7    | Pro Tip added                                                |
+| 3.1.1    | More external resources added                                |
+| 3.1.3    | Page links updated                                           |
+| 3.4.2    | Note about airport boundary updates added                    |
+| 4.1      | More detail added                                            |
+| 4.2      | Exporting imagery added                                      |
+| 4.3      | Importing imagery added                                      |
+| 5.1.6    | How to create a hole in pavement added                       |
+| 5.2.2    | Missing image added                                          |
+| 6.3.2    | Pro Tip adjusted, layers must be a minimum of 1 meter        |
+| 7.4.1    | Added reference to using chart coordinates as the primary source for placement of critical items such as runways, localizers and glideslopes |
+
++++
+
+
+
++++ Summary of Changes - Version: 21.7.0.4
 
 | Location | Change                |
 | -------- | --------------------- |

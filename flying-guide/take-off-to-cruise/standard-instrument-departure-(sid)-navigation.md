@@ -40,7 +40,7 @@ Tip
 
 Step 2
 
-: Load the SID into your flight plan by following our step by step guide [here](/guide/getting-started/pilot-user-interface/navigation#selecting-departure%2C-arrival-and-approach-procedures)
+: Load the SID into your flight plan by following our step by step guide [here](/guide/getting-started-guide/pilot-user-interface/navigation#selecting-departure%2C-arrival-and-approach-procedures)
 
 
 
@@ -54,13 +54,13 @@ Step 3
 
 Step 1
 
-: Now that your flight plan is loaded, we can utilize the [GPS Navigation](/guide/getting-started/pilot-user-interface/navigation#gps-navigation) to navigate the SID
+: Now that your flight plan is loaded, we can utilize the [GPS Navigation](/guide/getting-started-guide/pilot-user-interface/navigation#gps-navigation) to navigate the SID
 
 
 
 Step 2
 
-: Study your flight plan and/or charts, and if you wish, you can also tune any [navigation aids](/guide/getting-started/pilot-user-interface/navigation#navigation) used on the SID for extra guidance. Make sure to follow all altitude/speed restrictions, this is crucial to observe airspace restrictions, ensure terrain clearance and to maintain separation with other traffic
+: Study your flight plan and/or charts, and if you wish, you can also tune any [navigation aids](/guide/getting-started-guide/pilot-user-interface/navigation#navigation) used on the SID for extra guidance. Make sure to follow all altitude/speed restrictions, this is crucial to observe airspace restrictions, ensure terrain clearance and to maintain separation with other traffic
 
 
 
@@ -78,7 +78,7 @@ Step 3
 
 Tip
 
-: Before making any turns, check surroundings to make sure it is clear, use the [Cameras](/guide/getting-started/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) to help you
+: Before making any turns, check surroundings to make sure it is clear, use the [Cameras](/guide/getting-started-guide/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started-guide/pilot-user-interface/flight-planning#mini-map) to help you
 
 
 
@@ -90,7 +90,7 @@ Step 4
 
 Step 5
 
-: Feel overloaded? Reduce your workload by engaging the [Autopilot](/guide/getting-started/pilot-user-interface/autopilot#autopilot) and LNAV mode to get your aircraft to follow the flight plan for you
+: Feel overloaded? Reduce your workload by engaging the [Autopilot](/guide/getting-started-guide/pilot-user-interface/autopilot#autopilot) and LNAV mode to get your aircraft to follow the flight plan for you
 
 
 

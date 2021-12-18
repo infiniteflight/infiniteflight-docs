@@ -278,7 +278,7 @@ To avoid violations being issued due to not complying with active TFRs/NOTAMs, t
 
 Step 1
 
-: Once you have filed your [flight plan](/guide/getting-started/pilot-user-interface/flight-planning#flight-planning) (if applicable), check the route on your [map](/guide/getting-started/pilot-user-interface/flight-planning#map) or [mini map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) for any red/orange circles
+: Once you have filed your [flight plan](/guide/getting-started-guide/pilot-user-interface/flight-planning#flight-planning) (if applicable), check the route on your [map](/guide/getting-started-guide/pilot-user-interface/flight-planning#map) or [mini map](/guide/getting-started-guide/pilot-user-interface/flight-planning#mini-map) for any red/orange circles
 
 
 
@@ -320,11 +320,11 @@ Tip
 
 Step 6
 
-: If you are unable to comply with the TFR/NOTAM, then change your routing, altitude and/or destination as appropriate to avoid being [issued with a violation](/guide/getting-started/pilot-user-interface/violation-reasons#failure-to-follow-tfr)
+: If you are unable to comply with the TFR/NOTAM, then change your routing, altitude and/or destination as appropriate to avoid being [issued with a violation](/guide/getting-started-guide/pilot-user-interface/violation-reasons#failure-to-follow-tfr)
 
 
 
 Step 7
 
-: We also recommend checking the [IFC](https://community.infiniteflight.com) for upcoming events that may have temporary TFRs/NOTAMs added, as these may not be displayed on your [map](/guide/getting-started/pilot-user-interface/flight-planning#map) or [mini map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) yet
+: We also recommend checking the [IFC](https://community.infiniteflight.com) for upcoming events that may have temporary TFRs/NOTAMs added, as these may not be displayed on your [map](/guide/getting-started-guide/pilot-user-interface/flight-planning#map) or [mini map](/guide/getting-started-guide/pilot-user-interface/flight-planning#mini-map) yet
 

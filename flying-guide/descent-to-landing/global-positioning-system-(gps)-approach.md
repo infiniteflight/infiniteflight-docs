@@ -11,7 +11,7 @@ order: 8
 
 ## What is a GPS Approach?
 
-The Global Positioning System (GPS) Approach is defined by a series of waypoints and altitude restrictions that the pilot will follow to the runway threshold, free of conventional guidance such as a localizer/glideslope etc. The GPS Approach is a non-precision approach within Infinite Flight but is not commonly used as functionality is currently limited. The different types of GPS Approaches that you can select can be found [here](/guide/getting-started/pilot-user-interface/flight-planning#selecting-departure%2C-arrival-and-approach-procedures).
+The Global Positioning System (GPS) Approach is defined by a series of waypoints and altitude restrictions that the pilot will follow to the runway threshold, free of conventional guidance such as a localizer/glideslope etc. The GPS Approach is a non-precision approach within Infinite Flight but is not commonly used as functionality is currently limited. The different types of GPS Approaches that you can select can be found [here](/guide/getting-started-guide/pilot-user-interface/flight-planning#selecting-departure%2C-arrival-and-approach-procedures).
 
 
 
@@ -35,19 +35,19 @@ Tip
 
 Step 2
 
-: Make sure that a GPS approach has been selected by following our step by step guide [here](/guide/getting-started/pilot-user-interface/flight-planning#selecting-departure%2C-arrival-and-approach-procedures)
+: Make sure that a GPS approach has been selected by following our step by step guide [here](/guide/getting-started-guide/pilot-user-interface/flight-planning#selecting-departure%2C-arrival-and-approach-procedures)
 
 
 
 Step 3
 
-: If you have been vectored off of your flight plan, Radar Controllers will ensure that you are instructed to "Continue as Filed" before issuing a clearance for the approach. Utilize your [GPS Navigation](/guide/getting-started/pilot-user-interface/navigation#gps-navigation) to follow your flight plan and approach
+: If you have been vectored off of your flight plan, Radar Controllers will ensure that you are instructed to "Continue as Filed" before issuing a clearance for the approach. Utilize your [GPS Navigation](/guide/getting-started-guide/pilot-user-interface/navigation#gps-navigation) to follow your flight plan and approach
 
 
 
 Tip
 
-: Feel overloaded? Reduce your workload by engaging the [Autopilot](/guide/getting-started/pilot-user-interface/autopilot#autopilot) and using both [LNAV](/guide/getting-started/pilot-user-interface/navigation#gps-navigation) and [VNAV](/guide/flying-guide/descent-to-landing/vertical-navigation-(vnav)#vertical-navigation-(vnav)) for navigation, the aircraft will automatically follow the approach
+: Feel overloaded? Reduce your workload by engaging the [Autopilot](/guide/getting-started-guide/pilot-user-interface/autopilot#autopilot) and using both [LNAV](/guide/getting-started-guide/pilot-user-interface/navigation#gps-navigation) and [VNAV](/guide/flying-guide/descent-to-landing/vertical-navigation-(vnav)#vertical-navigation-(vnav)) for navigation, the aircraft will automatically follow the approach
 
 
 

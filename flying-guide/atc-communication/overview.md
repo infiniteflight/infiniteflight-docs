@@ -22,7 +22,7 @@ On this page, you can find the following miscellaneous items covered:
 
 Tip
 
-: Need help using the Communication User Interface? Make sure to check out our [Getting Started Guide](/guide/getting-started/pilot-user-interface/communication#communication)!
+: Need help using the Communication User Interface? Make sure to check out our [Getting Started Guide](/guide/getting-started-guide/pilot-user-interface/communication#communication)!
 
 
 

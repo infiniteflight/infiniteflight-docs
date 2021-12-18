@@ -27,7 +27,7 @@ Sometimes holding points are not positioned at the runway ends which prevents yo
 
 Step 1
 
-: Check surroundings to make sure it is clear, use the [Cameras](/guide/getting-started/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) to help you
+: Check surroundings to make sure it is clear, use the [Cameras](/guide/getting-started-guide/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started-guide/pilot-user-interface/flight-planning#mini-map) to help you
 
 
 
@@ -39,7 +39,7 @@ Step 2
 
 Step 3
 
-: Once you have clearance (if applicable) and it is clear on the approach; access the [Systems](/guide/getting-started/pilot-user-interface/systems#systems) menu and select the following:
+: Once you have clearance (if applicable) and it is clear on the approach; access the [Systems](/guide/getting-started-guide/pilot-user-interface/systems#systems) menu and select the following:
 
  
 
