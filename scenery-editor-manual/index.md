@@ -30,7 +30,7 @@ There are currently three types of editing, Editors **must**{.red} ensure they f
 
 ## Scenery Editor Manual Version (Internal): 21.8.0.1
 
-## Last Updated: 1500Z - 19 DEC 21
+## Last Updated: 1215Z - 20 DEC 21
 
 
 
