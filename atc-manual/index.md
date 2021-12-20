@@ -28,7 +28,7 @@ Should
 
 ## ATC Manual Version (Internal): 21.8.0.1
 
-## Last Updated: 1400Z - 18 DEC 21
+## Last Updated: 1500Z - 19 DEC 21
 
 +++ Summary of Changes - Version: 21.8.0.1 (CURRENT VERSION)
 
@@ -40,6 +40,7 @@ Should
 | 1A.1.8          | Descriptions of the "Mute" and "Deafen" symbols added        |
 | 1A.7.9 / 7.4.8  | Flowchart references updated                                 |
 | 1B.3.1          | Minor grammatical error corrected                            |
+| 2.1.3           | Minor formatting change                                      |
 | 5.2.2           | Minor grammatical error corrected                            |
 | 7C.1.6 / 7D.3.4 | Botcommands for use by Moderators and Supervisors moved to their applicable sections |
 
@@ -81,5 +82,4 @@ Should
 | 7.4      | Promotion to Specialist (Check Ride) section moved to 1A.7, original section 7.5 moved up to become 7.4 |
 
 +++
-
 
