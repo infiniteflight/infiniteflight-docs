@@ -224,22 +224,14 @@ How this is done will differ based on the specific language and platform being u
 
 As discussed previously, states in the manifest each have an associated data type indicated by a 32-bit integer value. There are six such data types:
 
-<table>
-<thead>
-<tr>
-<th>Integer</th><th>Type</th><th>Description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td data-label="Integer">0</td><td data-label="Type">Boolean</td><td>Single byte representing <code>true</code> with <code>01</code> and <code>false</code> with <code>00</code>.</td></tr>
-<tr><td data-label="Integer">1</td><td data-label="Type">Integer (32-bit)</td><td>32-bit Integer represented as four bytes in little-endian format (see "<a href="#little-endian">Little-Endian</a>" below). Can store numbers in the range -2,147,483,648 to 2,147,483,647.</td></tr>
-<tr><td data-label="Integer">2</td><td data-label="Type">Float</td><td>Floating point number represented as four bytes in <a href="#little-endian">little-endian</a> format. Can represent 6 to 7 decimal digits.</td></tr>
-<tr><td data-label="Integer">3</td><td data-label="Type">Double</td><td>Floating point number represented as eight bytes in <a href="#little-endian">little-endian</a> format. Can represent 15 decimal digits.</td></tr>
-<tr><td data-label="Integer">4</td><td data-label="Type">String</td><td>String represented as a 32-bit integer (four bytes) indicating the length of the string in bytes followed by the string itself as a series of bytes.</td></tr>
-<tr><td data-label="Integer">5</td><td data-label="Type">Long</td><td>64-bit integer represented as eight bytes in <a href="#little-endian">little-endian</a> format (see "<a href="#little-endian">Little-Endian</a>" below). Can store numbers in the range -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807.</tr>
-</tbody>
-</table>
+| Integer | Type | Description |
+|---------|------|-------------|
+| 0 | Boolean | Single byte representing `true` with `01` and `false` with `00`. |
+| 1 | Integer (32-bit) | 32-bit Integer represented as four bytes in little-endian format (see [Little-Endian](#little-endian) below). Can store numbers in the range -2,147,483,648 to 2,147,483,647. |
+| 2 | Float | Floating point number represented as four bytes in [Little-Endian](#little-endian) format. Can represent 6 to 7 decimal digits. | 
+| 3 | Double | Floating point number represented as eight bytes in [Little-Endian](#little-endian) format. Can represent 15 decimal digits. |
+| 4 | String | String represented as a 32-bit integer (four bytes) indicating the length of the string in bytes followed by the string itself as a series of bytes. |
+| 5 | Long | 64-bit integer represented as eight bytes in [Little-Endian](#little-endian) format (see "[Little-Endian](#little-endian)" below). Can store numbers in the range -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807.|
 
 ##### Little-Endian
 
