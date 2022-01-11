@@ -166,7 +166,7 @@ The Safeguarding Team aims to respond within 48 hours of the safeguarding concer
 
 **Allegations Against Staff**
 
-1)  Allegations against staff and moderators will be dealt with the utmost importance by the Infinite Flight Team. You can repost a safeguarding issue about a staff member or moderator to [misha@infiniteflight.com](mailto:misha@infiniteflight.com). If you need a second alternative, please email [hello@infiniteflight.com](mailto:hello@infiniteflight.com)
+1)  Allegations against staff and moderators will be dealt with the utmost importance by the Infinite Flight Team. You can report a safeguarding issue about a staff member or moderator to [hello@infiniteflight.com](mailto:hello@infiniteflight.com)
 
 2)  If the allegation concerns a member of the Safeguarding Team, appropriate measures will be taken to ensure that the staff member is not involved in the process of dealing with the complaint
 
