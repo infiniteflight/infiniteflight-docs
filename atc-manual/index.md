@@ -28,16 +28,18 @@ Should
 
 ## ATC Manual Version (Internal): 22.1.0.1
 
-## Last Updated: 1300Z - 11 JAN 22
+## Last Updated: 1930Z - 11 JAN 22
 
 +++ Summary of Changes - Version: 22.1.0.1 (CURRENT VERSION)
 
 | Location        | Change                                                       |
 | --------------- | ------------------------------------------------------------ |
 | 1.2.1           | Added IMC and SFC abbreviations                              |
+| 1A.1.2          | Briefing rooms removed                                       |
 | 1A.1.3          | Botcommands list updated                                     |
 | 1A.2.1          | Minor grammatical error corrected                            |
 | 1A.1.8          | Descriptions of the "Mute" and "Deafen" symbols added        |
+| 1A.4.1          | Note removed that is no longer applicable                    |
 | 1A.5.2          | Controllers are not permitted to rejoin IFATC if removed more than twice due to inactivity |
 | 1A.5.3 / 1A.5.4 | 1A.5.2 and 1A.5.3 moved down one to accommodate new rule     |
 | 1A.6.6          | New rank of Admin added to IFATC                             |
@@ -47,6 +49,7 @@ Should
 | 1A.7.9 / 7.4.8  | Flowchart references updated                                 |
 | 1B.3.1          | Minor grammatical error corrected                            |
 | 2.1.3           | Minor formatting change                                      |
+| 3.3 / 6.8       | Top tips added on handling local traffic                     |
 | 5.2.2           | Minor grammatical error corrected                            |
 | 6.9.4           | Wording adjusted to clarify when to clear aircraft for the GPS Approach |
 | 7C.1.6 / 7D.3.4 | Botcommands for use by Moderators and Supervisors moved to their applicable sections |
