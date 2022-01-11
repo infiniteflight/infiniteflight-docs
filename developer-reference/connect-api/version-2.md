@@ -17,16 +17,16 @@ This version of the API was first included in Infinite Flight 19.4.
   - [About the API](#about-the-api)
   - [Enabling the API](#enabling-the-api)
   - [Connecting to the API](#connecting-to-the-api)
-    - [Finding an Infinite Flight Device](#finding-an-infinite-flight-device)
+      - [Finding an Infinite Flight Device](#finding-an-infinite-flight-device)
   - [Using the API](#using-the-api)
-    - [The API Manifest](#the-api-manifest)
-    - [The Structure of API Requests](#the-structure-of-api-requests)
-    - [Obtaining the Manifest](#obtaining-the-manifest)
-    - [Data Types](#data-types)
-      - [Little-Endian](#little-endian)
-    - [Retrieving States from the API](#retrieving-states-from-the-api)
-    - [Setting States with the API](#setting-states-with-the-api)
-    - [Running Commands through the API](#running-commands-through-the-api)
+      - [The API Manifest](#the-api-manifest)
+      - [The Structure of API Requests](#the-structure-of-api-requests)
+      - [Obtaining the Manifest](#obtaining-the-manifest)
+      - [Data Types](#data-types)
+        - [Little-Endian](#little-endian)
+      - [Retrieving States from the API](#retrieving-states-from-the-api)
+      - [Setting States with the API](#setting-states-with-the-api)
+      - [Running Commands through the API](#running-commands-through-the-api)
 
 ## About the API
 
@@ -58,7 +58,7 @@ Common examples of modules/packages which can be used to establish TCP socket co
 * Swift: [SwiftSocket](https://github.com/swiftsocket/SwiftSocket)
 * Kotlin: [`java.net.socket`](https://sylhare.github.io/2020/04/07/Kotlin-tcp-socket-example.html)
 
-### Finding an Infinite Flight Device
+#### Finding an Infinite Flight Device
 
 If the IP address of the device to connect to is unknown, it is possible to discover existing Infinite Flight devices on the same local network using UDP. Infinite Flight broadcasts [UDP](https://www.cloudflare.com/en-gb/learning/ddos/glossary/user-datagram-protocol-udp/) packets on port `15000` which provide the IP address of the device among other details. An example UDP broadcast from Infinite Flight looks like this:
 
@@ -90,7 +90,7 @@ The Connect API v2 offers two mechanisms to interact with Infinite Flight:
     * Miscellaneous: Miscellaneous other states related to the environment (such as wind speed), the simulator itself (such as current length of flight) and other one-off states.
 * **Commands**: Commands are used to replicate actions typically taken in the Infinite Flight user interface such as toggling the parking brakes, moving the camera, starting and stopping engines, moving flaps, raising landing gear and more.
 
-### The API Manifest
+#### The API Manifest
 
 Each aircraft offers a different set of states and commands. Before using the states or commands it is important to first obtain the manifest from the API after connecting as this will be needed to successfully make requests to the API.
 
@@ -141,7 +141,7 @@ What's notable is that there are some key factors which distinguish commands fro
 
 > It is important to note that currently there are commands which cannot be used -- specifically commands which require data to be passed to them. To illustrate, the command `commands/ParkingBrakes` is a simple toggle: issue the command and the parking brakes switch between off and on. But, other commands clearly don't work that way. For instance, the command `commands/FlightPlan.AddWaypoints` requires a series of waypoints to be provided -- but there is no mechanism in the API to do that currently which renders the commands effectively non-functional at this time. it is expected that in the future Infinite Flight will enable these commands.
 
-### The Structure of API Requests
+#### The Structure of API Requests
 
 All requests to the API take a common form -- a series of bytes broken down as follows:
 
@@ -178,7 +178,7 @@ But with a TCP socket, the request is disconnected from the response. It is enti
 
 More specific examples are provided below in the discussion of how to [get](#retrieving-states-from-the-api) and [set](#setting-states-with-the-api) states and [run](#running-commands-through-the-api) commands.
 
-### Obtaining the Manifest
+#### Obtaining the Manifest
 
 Typically, the first thing to do after successfully connecting to the TCP socket is obtain the manifest.
 
@@ -220,7 +220,7 @@ An important point is that the entire manifest will not be returned in one large
 
 How this is done will differ based on the specific language and platform being used but the basic logic holds: continue to append messages to the end of the manifest until receiving the entire indicated length.
 
-### Data Types
+#### Data Types
 
 As discussed previously, states in the manifest each have an associated data type indicated by a 32-bit integer value. There are six such data types:
 
@@ -241,7 +241,7 @@ As discussed previously, states in the manifest each have an associated data typ
 </tbody>
 </table>
 
-#### Little-Endian
+##### Little-Endian
 
 *[Endianness](https://en.wikipedia.org/wiki/Endianness)* refers to the way in which data is ordered when represented digitally. Taken in the context of hexadecimal representation of numbers, numbers can be *big-endian* (or BE) or *little-endian* (or LE).
 
@@ -267,7 +267,7 @@ Similarly, if the command being requested has the numeric ID `1048616`, then its
 
 All numbers use little-endian including *Float,* *Double,* and *Long* data types.
 
-### Retrieving States from the API
+#### Retrieving States from the API
 
 To fetch a state from the API, send a `GetState` request as follows:
 
@@ -326,7 +326,7 @@ This breaks down as:
 * `04 00 00 00`: The length of the data being returned as a 32-bit [little-endian](#little-endian) integer -- in this case the hexadecimal value `00000004` is `4` indicating the data is 4-bytes long since 32-bit integers are represented as four bytes.
 * `00 00 00 00`: The actual data returned for the state. Since this state is a 32-bit [little-endian](#little-endian) integer, the value being returned is `0`.
 
-### Setting States with the API
+#### Setting States with the API
 
 It is possible to set states -- assigning new values to them -- through the API by sending a `SetState` request as outlined below.
 
@@ -372,7 +372,7 @@ This breaks down as:
 
 After sending a request to set a state, the API will not provide any response to indicate the state was set successfully. The only way to be sure if the request succeeded is to subsequently [retrieve the state from the API](#retrieving-states-from-the-api).
 
-### Running Commands through the API
+#### Running Commands through the API
 
 To execute a command through the API, send a `RucCommand` request as follows:
 
