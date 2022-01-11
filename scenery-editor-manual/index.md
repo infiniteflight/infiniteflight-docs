@@ -8,7 +8,7 @@ meta: Learn how to use the Infinite Flight Scenery Editor with our online docume
 
 
 
-## Guide Version: 21.8.0
+## Guide Version: 22.1.0
 
 
 
@@ -28,13 +28,24 @@ There are currently three types of editing, Editors **must**{.red} ensure they f
 
 
 
-## Scenery Editor Manual Version (Internal): 21.8.0.1
+## Scenery Editor Manual Version (Internal): 22.1.0.1
 
-## Last Updated: 1230Z - 20 DEC 21
+## Last Updated: 0930Z - 11 JAN 22
 
 
 
-+++ Summary of Changes - Version: 21.8.0.1 (CURRENT VERSION)
++++ Summary of Changes - Version: 22.1.0.1 (CURRENT VERSION)
+
+| Location      | Change                                      |
+| ------------- | ------------------------------------------- |
+| 7.4.6 - 7.4.8 | Added how to add tower viewpoints           |
+| 7.4.9         | Reference changed to accommodate viewpoints |
+
++++
+
+
+
++++ Summary of Changes - Version: 21.8.0.1
 
 | Location | Change                                                       |
 | -------- | ------------------------------------------------------------ |
@@ -67,13 +78,4 @@ There are currently three types of editing, Editors **must**{.red} ensure they f
 
 +++
 
-
-
-+++ Summary of Changes - Version: 21.7.0.3
-
-| Location | Change                                |
-| -------- | ------------------------------------- |
-| All      | No Changes - Release of Initial Issue |
-
-+++
 
