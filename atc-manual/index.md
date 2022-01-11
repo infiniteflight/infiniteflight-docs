@@ -8,7 +8,7 @@ meta: Introduction to the Infinite Flight Air Traffic Controller (IFATC) Manual.
 
 
 
-## Guide Version: 21.8.0
+## Guide Version: 22.1.0
 
 
 
@@ -26,11 +26,11 @@ Should
 
 
 
-## ATC Manual Version (Internal): 21.8.0.1
+## ATC Manual Version (Internal): 22.1.0.1
 
-## Last Updated: 1500Z - 19 DEC 21
+## Last Updated: 1300Z - 11 JAN 22
 
-+++ Summary of Changes - Version: 21.8.0.1 (CURRENT VERSION)
++++ Summary of Changes - Version: 22.1.0.1 (CURRENT VERSION)
 
 | Location        | Change                                                       |
 | --------------- | ------------------------------------------------------------ |
@@ -38,10 +38,17 @@ Should
 | 1A.1.3          | Botcommands list updated                                     |
 | 1A.2.1          | Minor grammatical error corrected                            |
 | 1A.1.8          | Descriptions of the "Mute" and "Deafen" symbols added        |
+| 1A.5.2          | Controllers are not permitted to rejoin IFATC if removed more than twice due to inactivity |
+| 1A.5.3 / 1A.5.4 | 1A.5.2 and 1A.5.3 moved down one to accommodate new rule     |
+| 1A.6.6          | New rank of Admin added to IFATC                             |
+| 1A.7.1          | Note added on selecting sensible airports during the CR Phase |
+| 1A.7.3 / 1A.7.8 | Controllers in their CR phase can control FNF and ATC Schedule featured airports |
+| 1A.7.3          | Top tip added on splitting frequencies                       |
 | 1A.7.9 / 7.4.8  | Flowchart references updated                                 |
 | 1B.3.1          | Minor grammatical error corrected                            |
 | 2.1.3           | Minor formatting change                                      |
 | 5.2.2           | Minor grammatical error corrected                            |
+| 6.9.4           | Wording adjusted to clarify when to clear aircraft for the GPS Approach |
 | 7C.1.6 / 7D.3.4 | Botcommands for use by Moderators and Supervisors moved to their applicable sections |
 
 +++
