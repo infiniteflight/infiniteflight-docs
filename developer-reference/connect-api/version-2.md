@@ -62,10 +62,12 @@ Common examples of modules/packages which can be used to establish TCP socket co
 
 If the IP address of the device to connect to is unknown, it is possible to discover existing Infinite Flight devices on the same local network using UDP. Infinite Flight broadcasts [UDP](https://www.cloudflare.com/en-gb/learning/ddos/glossary/user-datagram-protocol-udp/) packets on port `15000` which provide the IP address of the device among other details. An example UDP broadcast from Infinite Flight looks like this:
 
+```json
     ["State": Playing, "Port": 10111, "DeviceID": iPad7, "Aircraft": Cessna 172,
     "Version": 19.4.7354.25209, "DeviceName": Thomas’s iPad,
     "Addresses":("fe80::1c79:baf4:f9f1:dd59%3", "192.168.1.26"),
     "Livery": Civil Air Patrol]
+```
 
 From this information IPv4 or IPv6 addresses for the device can be extracted as well as information about the version of Infinite Flight in use, the current aircraft and livery, and the type of device. The port indicated will be `10111` which is the port for the [Connect API v1](https://infiniteflight.com/guide/developer-reference/connect-api/version-1). **To connect to the v2 API, connect to port `10112` as mentioned above in "[Connecting to the API](#connecting-to-the-api)".**
 
@@ -104,13 +106,14 @@ Each entry contains three fields separated by a comma:
 
 The following is an extract from a typical manifest illustrating this format for several states:
 
+```markup
     632,4,aircraft/0/flightplan/route\n
     539,2,aircraft/0/groundspeed\n
     548,2,aircraft/0/heading_magnetic\n
     556,0,aircraft/0/is_on_ground\n
     554,3,aircraft/0/latitude\n
     555,3,aircraft/0/longitude\n
-    ...
+```
 
 > *In this example, the text is split after each newline (`\n`) for readability -- the actual text won't have have an additional line break after the newline character.*
 
@@ -128,10 +131,11 @@ What's notable is that all state names take a format of a series of terms separa
 
 The following sample illustrates the way commands will appear in the manifest:
 
+```markup
     1048649,-1,commands/AutoStart\n
     1048628,-1,commands/BeaconLights\n
     1048613,-1,commands/Brakes\n
-    ...
+```
 
 What's notable is that there are some key factors which distinguish commands from states in the manifest:
 
@@ -155,7 +159,9 @@ For example, referring to the sample manifest examples above, to get the current
 
 This means sending the following five bytes:
 
+```markup
     2A 02 00 00 00
+```
 
 > This series of bytes is represented in hexadecimal notation each from `00` to `FF`.
 
@@ -186,7 +192,9 @@ This is done by sending the special command `-1` followed by `false` (or `0`) to
 
 In practice this means sending this series of bytes:
 
+```markup
     ff ff ff ff 00
+```
 
 Here, `ff ff ff ff` is the 32-bit little endian hexadecimal representation of `-1` and the fifth byte is the `0` marker.
 
@@ -200,13 +208,14 @@ The API will return the manifest in this way:
 
 As an example, the following is the first 50 bytes of a manifest returned by the API:
 
+```markup
     ff ff ff ff 13 b7 00 00 0f b7
     00 00 35 31 35 2c 32 2c 61 69
     72 63 72 61 66 74 2f 30 2f 73
     79 73 74 65 6d 73 2f 6e 61 76
     5f 73 6f 75 72 63 65 73 2f 61
     64 66 2f 32 2f 64 69 73 74 61
-    ...
+```
 
 Breaking this down, the data is structured like this:
 
@@ -239,23 +248,33 @@ As discussed previously, states in the manifest each have an associated data typ
 
 Consider this hexadecimal number representing the 32-bit integer 1,210,590:
 
+```markup
     001278DE
+```
 
 *Big-endian* means the bytes are represented left-to-right from the most significant byte to least significant as in:
 
+```markup
     00 12 78 DE
+```
 
 By comparison, *little-endian* reverses this order to:
 
+```markup
     DE 78 12 00
+```
 
 The Connect v2 API represents numbers in little-endian format so it is important when sending requests to represent states or commands as 32-bit little-endian integers. For instance, if the state being requested has the numeric ID `535`, then its hexadecimal value is `217` which as a 32-bit little-endian integer is represented by:
 
+```markup
     17 02 00 00
+```
 
 Similarly, if the command being requested has the numeric ID `1048616`, then its hecadecimal value is `100028` which as a 32-bit *little-endian* integer is represented by:
 
+```markup
     28 00 10 00
+```
 
 All numbers use little-endian including *Float,* *Double,* and *Long* data types.
 
@@ -268,13 +287,17 @@ To fetch a state from the API, send a `GetState` request as follows:
 
 For instance, asssume the manifest contains the following state:
 
+```markup
     522,4,aircraft/0/livery
+```
 
 This indicates the `aircraft/0/livery` state has a numeric ID of `522` and returns a `String` data type.
 
 To retrieve this state, would send the following:
 
+```markup
     0a 02 00 00 00
+```
 
 This breaks down as:
 
@@ -283,7 +306,9 @@ This breaks down as:
 
 When the API responds it will return a response which looks like this:
 
+```markup
     0a 02 00 00 0e 00 00 00 0a 00 00 00 41 65 72 20 4c 69 6e 67 75 73
+```
 
 This breaks down as:
 
@@ -297,11 +322,15 @@ This structure of request and response works regardless of the data type in ques
 
 Let's look at an example with a 32-bit integer data type:
 
+```markup
     622,1,aircraft/0/systems/flaps/state
+```
 
 To retrieve this state, send the following:
 
+```markup
     6e 02 00 00 00
+```
 
 This breaks down as:
 
@@ -310,7 +339,9 @@ This breaks down as:
 
 When the API responds it will return a response which looks like this:
 
+```markup
     02 00 00 04 00 00 00 00 00 00 00>
+```
 
 This breaks down as:
 
@@ -336,7 +367,9 @@ To illustrate this, let's set the flap state to `1` using the API. To do this, g
 
 As with the previous example retrieving the same state, if the numeric ID of the state is `622` then send following to set the state to `1`:
 
+```markup
     6e 02 00 00 01 01 00 00 00
+```
 
 This breaks down as:
 
@@ -348,11 +381,15 @@ As with retrieving states, the way to represent the value being set will follow 
 
 For instance, the following state has a `String` data type:
 
+```markup
     605,4,aircraft/0/systems/comm_radios/com_1/atc_name
+```
 
 To set this value to `Bob the Pilot`, send the following request to the API:
 
+```markup
     5d 02 00 00 01 0d 00 00 00 42 6f 62 20 74 68 65 20 50 69 6c 6f 74
+```
 
 This breaks down as:
 
@@ -366,20 +403,24 @@ After sending a request to set a state, the API will not provide any response to
 
 #### Running Commands through the API
 
-To execute a command through the API, send a `RucCommand` request as follows:
+To execute a command through the API, send a `RunCommand` request as follows:
 
 * A 32-bit [little-endian](#little-endian) integer indicating the numeric ID of the command being executed.
 * The one-byte boolean `false` (represented as `0`).
 
 For instance, assume the manifest contains the following command:
 
+```markup
     1048614,-1,commands/ParkingBrakes
+```
 
 This indicates the `commands/ParkingBrakes` state has a numeric ID of `1048614`.
 
 To execute this command, send the following:
 
+```markup
     26 00 10 00 00
+```
 
 This breaks down as:
 
