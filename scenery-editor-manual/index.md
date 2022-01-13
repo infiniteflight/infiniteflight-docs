@@ -18,7 +18,7 @@ Welcome to the Scenery Editor Manual, designed to help newly qualified and veter
 
 ## Scenery Editor Manual Version (Internal): 22.1.0.3
 
-## Last Updated: 1200Z - 13 JAN 22
+## Last Updated: 1900Z - 13 JAN 22
 
 
 
