@@ -16,13 +16,26 @@ Welcome to the Scenery Editor Manual, designed to help newly qualified and veter
 
 
 
-## Scenery Editor Manual Version (Internal): 22.1.0.5
+## Scenery Editor Manual Version (Internal): 22.1.0.6
 
-## Last Updated: 1330Z - 14 JAN 22
+## Last Updated: 1515Z - 15 JAN 22
 
 
 
-+++ Summary of Changes - Version: 22.1.0.5 (CURRENT VERSION)
++++ Summary of Changes - Version: 22.1.0.6 (CURRENT VERSION)
+
+| Location | Change                                                       |
+| -------- | ------------------------------------------------------------ |
+| All      | Images updated                                               |
+| 2.1.2    | Updated tables for Taxiways and Jet Bridges                  |
+| 7.1.1    | Under stand guidance, added range of safedock system to pair with start location (within 150m and +/- 5 degrees in-line) |
+| 7.5.2    | Added guidance on ensuring that the green curved cylinder shape covers most of the start location to prevent limited range of the jet bridge |
+
++++
+
+
+
++++ Summary of Changes - Version: 22.1.0.5
 
 | Location      | Change                                                       |
 | ------------- | ------------------------------------------------------------ |
