@@ -16,13 +16,26 @@ Welcome to the Scenery Editor Manual, designed to help newly qualified and veter
 
 
 
-## Scenery Editor Manual Version (Internal): 22.1.0.6
+## Scenery Editor Manual Version (Internal): 22.1.0.7
 
-## Last Updated: 1515Z - 15 JAN 22
+## Last Updated: 1730Z - 17 JAN 22
 
 
 
-+++ Summary of Changes - Version: 22.1.0.6 (CURRENT VERSION)
++++ Summary of Changes - Version: 22.1.0.7 (CURRENT VERSION)
+
+| Location      | Change                                                       |
+| ------------- | ------------------------------------------------------------ |
+| 2.1.2         | Description of new "Adjust Jet Bridge Alt" button added      |
+| 7.5.6 / 7.5.8 | Images added                                                 |
+| 7.5.7         | New step by step guide for using the "Adjust Jet Bridge Alt" button added |
+| 7.5.8 / 7.5.9 | Added information on adjusting jet bridge height to accommodate both narrow-body and wide-body aircraft |
+
++++
+
+
+
++++ Summary of Changes - Version: 22.1.0.6
 
 | Location | Change                                                       |
 | -------- | ------------------------------------------------------------ |
@@ -48,13 +61,4 @@ Welcome to the Scenery Editor Manual, designed to help newly qualified and veter
 
 +++
 
-
-
-+++ Summary of Changes - Version: 22.1.0.4
-
-| Location | Change        |
-| -------- | ------------- |
-| All      | Initial Issue |
-
-+++
 
