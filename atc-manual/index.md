@@ -28,7 +28,7 @@ Should
 
 ## ATC Manual Version (Internal): 22.1.0.1
 
-## Last Updated: 1230Z - 13 JAN 22
+## Last Updated: 1230Z - 17 JAN 22
 
 +++ Summary of Changes - Version: 22.1.0.1 (CURRENT VERSION)
 
@@ -54,6 +54,7 @@ Should
 | 6.9.4           | Wording adjusted to clarify when to clear aircraft for the GPS Approach |
 | 7C.1.6 / 7D.3.4 | Botcommands for use by Moderators and Supervisors moved to their applicable sections |
 | 7E.1.2          | Note added for replay files that exceed 50 hours or more in duration |
+| 7E.2.3          | Note added for dealing with specific Violations              |
 
 +++
 
