@@ -103,7 +103,11 @@ Once you’re clear of the runway, you can turn these lights back to **OFF**.
 
 Step 1
 
-: Make sure that the stand or parking spot that you intend on parking in is big enough for your aircraft type, you can use online tools in advance to help you
+: Make sure that the stand or parking spot that you intend on parking at is big enough for your aircraft type, you can use online tools in advance to help you
+
+
+
+> If the stand has Safedock, it will tell you if the aircraft is too small/large for that stand
 
 
 
@@ -116,6 +120,10 @@ Step 2
 Step 3
 
 : Reduce groundspeed to under 10kts and use the oversteer technique if you are a large aircraft to align your aircraft with the centerline as you turn onto the stand or parking spot
+
+
+
+> If the stand has Safedock, follow the on screen instructions
 
 
 
@@ -145,5 +153,14 @@ Step 4
 | Passengers | Action  |
 | ---------- | ------- |
 | Seat Belts | **OFF** |
+
+{.checklist}
+
+
+
+
+| Ground Services | Action  |
+| --------------- | ------- |
+| Connect Bridges | **TAP** |
 
 {.checklist}
