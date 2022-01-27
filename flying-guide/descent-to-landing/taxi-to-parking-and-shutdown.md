@@ -107,7 +107,7 @@ Step 1
 
 
 
-> If the stand has Safedock, it will tell you if the aircraft is too small/large for that stand
+> If the stand has [Safedock](/guide/flying-guide/on-the-ground/safedock), it will tell you if the aircraft is too small/large for that stand
 
 
 
@@ -123,7 +123,7 @@ Step 3
 
 
 
-> If the stand has Safedock, follow the on screen instructions
+> If the stand has [Safedock](/guide/flying-guide/on-the-ground/safedock), follow the on screen instructions
 
 
 
@@ -164,3 +164,7 @@ Step 4
 | Connect Bridges | **TAP** |
 
 {.checklist}
+
+
+
+> The parking brake must be set and the engines switched off before you can connect the jet bridges
