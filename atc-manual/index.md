@@ -44,13 +44,20 @@ Should
 | 1A.5.3 / 1A.5.4 | 1A.5.2 and 1A.5.3 moved down one to accommodate new rule     |
 | 1A.6.6          | New rank of Admin added to IFATC                             |
 | 1A.7.1          | Note added on selecting sensible airports during the CR Phase |
-| 1A.7.3 / 1A.7.8 | Controllers in their CR phase can control FNF and ATC Schedule featured airports |
+| 1A.7.3 / 1A.7.8 | Controllers in their CR phase can control FNF and ATC Schedule featured airports. Center frequencies are also okay provided they are not for streams of FF |
 | 1A.7.3          | Top tip added on splitting frequencies                       |
 | 1A.7.9 / 7.4.8  | Flowchart references updated                                 |
+| 1A.8.1          | Clarification on when ranks are reinstated for Controllers that have been suspended previously |
+| 1B.1.8          | Do not ask other Controllers to issue Violations on your behalf |
+| 1B.2.1          | Note added for excessive speed in the airport environment    |
 | 1B.3.1          | Minor grammatical error corrected                            |
 | 2.1.3           | Minor formatting change                                      |
+| 2.3.2           | Clarification added on runway crossings                      |
+| 3.1.1           | Added "Arrival / Departure" separation guidance              |
 | 3.3 / 6.8       | Top tips added on handling local traffic                     |
 | 5.2.2           | Minor grammatical error corrected                            |
+| 6.6.1           | Note added clarifying Center frequency range                 |
+| 6.9.2           | Controllers no longer required to check if a pilot has the correct approach set up, this is the pilots responsibility |
 | 6.9.4           | Wording adjusted to clarify when to clear aircraft for the GPS Approach |
 | 7C.1.6 / 7D.3.4 | Botcommands for use by Moderators and Supervisors moved to their applicable sections |
 | 7E.1.2          | Note added for replay files that exceed 50 hours or more in duration |
