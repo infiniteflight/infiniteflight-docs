@@ -2,7 +2,7 @@
 id: taxi
 title: Taxi
 meta: Learn how to taxi in Infinite Flight.
-order: 5
+order: 6
 ---
 
 # Taxi
