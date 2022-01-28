@@ -9,5 +9,6 @@ ordering:
   - 5.-taxiways-and-pavements
   - 6.-buildings-and-facades
   - 7.-objects
-  - 8.-review-and-release
+  - 8.-airport-gate
+  - 9.-review-and-release
 ---
