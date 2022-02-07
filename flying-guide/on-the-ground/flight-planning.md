@@ -73,7 +73,7 @@ Tip
 
 
 
-Want to know what everything in the ATIS means? Visit our [ATC Manual](/guide/atc-manual/4.-atis/4.1-atis#4.1-atis) to find out!
+Want to know what everything in the ATIS means? Visit our [ATC Manual](/guide/atc-manual/4.-atis/4.1-overview) to find out!
 
 
 

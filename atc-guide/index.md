@@ -23,4 +23,4 @@ It is important to note that the ATC Guide focuses on *controlling techniques* r
 
 Tip
 
-: New to Infinite Flight? Make sure to check out our [Getting Started Guide](/guide/getting-started#welcome-to-the-infinite-flight-user-guide!) that will help you become familiar with using the app!
+: New to Infinite Flight? Make sure to check out our [Getting Started Guide](/guide/getting-started-guide#welcome-to-the-getting-started-guide!) that will help you become familiar with using the app!
