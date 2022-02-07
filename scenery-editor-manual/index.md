@@ -22,15 +22,17 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 
 ## Scenery Editor Manual Version (Internal): 22.1.0.9
 
-## Last Updated: 0900Z - 07 FEB 22
+## Last Updated: 1300Z - 07 FEB 22
 
 
 
 +++ Summary of Changes - Version: 22.1.0.9 (CURRENT VERSION)
 
-| Location | Change                    |
-| -------- | ------------------------- |
-| All      | Numerous hyperlinks fixed |
+| Location | Change                                                       |
+| -------- | ------------------------------------------------------------ |
+| All      | Numerous hyperlinks fixed                                    |
+| 1.2.1    | Abbreviations updated                                        |
+| 9.1.1    | Editor checklist updated (now in alphabetical order and gates/jet bridges added) |
 
 +++
 
