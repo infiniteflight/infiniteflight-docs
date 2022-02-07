@@ -20,13 +20,23 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 
 
 
-## Scenery Editor Manual Version (Internal): 22.1.0.8
+## Scenery Editor Manual Version (Internal): 22.1.0.9
 
-## Last Updated: 0530Z - 28 JAN 22
+## Last Updated: 0900Z - 07 FEB 22
 
 
 
-+++ Summary of Changes - Version: 22.1.0.8 (CURRENT VERSION)
++++ Summary of Changes - Version: 22.1.0.9 (CURRENT VERSION)
+
+| Location | Change                    |
+| -------- | ------------------------- |
+| All      | Numerous hyperlinks fixed |
+
++++
+
+
+
++++ Summary of Changes - Version: 22.1.0.8
 
 | Location   | Change                                                       |
 | ---------- | ------------------------------------------------------------ |
@@ -50,19 +60,6 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 | 7.5.6 / 7.5.8 | Images added                                                 |
 | 7.5.7         | New step by step guide for using the "Adjust Jet Bridge Alt" button added |
 | 7.5.8 / 7.5.9 | Added information on adjusting jet bridge height to accommodate both narrow-body and wide-body aircraft |
-
-+++
-
-
-
-+++ Summary of Changes - Version: 22.1.0.6
-
-| Location | Change                                                       |
-| -------- | ------------------------------------------------------------ |
-| All      | Images updated                                               |
-| 2.1.2    | Updated tables for Taxiways and Jet Bridges                  |
-| 7.1.1    | Under stand guidance, added range of safedock system to pair with start location (within 150m and +/- 5 degrees in-line) |
-| 7.5.2    | Added guidance on ensuring that the green curved cylinder shape covers most of the start location to prevent limited range of the jet bridge |
 
 +++
 

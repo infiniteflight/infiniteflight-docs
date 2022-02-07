@@ -27,7 +27,7 @@ Step 2
 
 Step 3
 
-: Once you have clearance (if applicable) and it is clear on the approach; access the [Systems](/guide/getting-started/pilot-user-interface/systems#systems) menu and select the following:
+: Once you have clearance (if applicable) and it is clear on the approach; access the [Systems](/guide/getting-started-guide/pilot-user-interface/systems) menu and select the following:
 
  
 

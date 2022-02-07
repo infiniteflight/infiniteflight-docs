@@ -43,7 +43,7 @@ Step 2
 
 Tip
 
-: Make sure to only make ONE request, multiple transmissions increase Controller workload and could result in a [Violation](/guide/getting-started/pilot-user-interface/violation-reasons#spamming-frequency---unecessary-duplicate-requests)!
+: Make sure to only make ONE request, multiple transmissions increase Controller workload and could result in a [Violation](/guide/getting-started-guide/pilot-user-interface/violation-reasons#spamming-frequency---unnecessary-duplicate-requests)!
 
 
 

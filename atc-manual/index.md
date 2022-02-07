@@ -28,12 +28,13 @@ Should
 
 ## ATC Manual Version (Internal): 22.1.0.1
 
-## Last Updated: 1230Z - 17 JAN 22
+## Last Updated: 0900Z - 07 FEB 22
 
 +++ Summary of Changes - Version: 22.1.0.1 (CURRENT VERSION)
 
 | Location        | Change                                                       |
 | --------------- | ------------------------------------------------------------ |
+| All             | Numerous hyperlinks fixed                                    |
 | 1.2.1           | Added IMC and SFC abbreviations                              |
 | 1A.1.2          | Briefing rooms removed                                       |
 | 1A.1.3          | Botcommands list updated                                     |

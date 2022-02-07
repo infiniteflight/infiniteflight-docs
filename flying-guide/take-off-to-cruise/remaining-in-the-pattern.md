@@ -17,7 +17,7 @@ order: 8
 
 
 
-The traffic pattern is a standard flight path followed by aircraft when taking-off and landing while maintaining visual contact with the airport. It is a great way to practice and improve your flying, and to increase the amount of landings in your [logbook](/guide/getting-started-guide/home-screen/logbook#logbook)!
+The traffic pattern is a standard flight path followed by aircraft when taking-off and landing while maintaining visual contact with the airport. It is a great way to practice and improve your flying, and to increase the amount of landings in your [logbook](/guide/getting-started-guide/home-user-interface/logbook)!
 
 
 

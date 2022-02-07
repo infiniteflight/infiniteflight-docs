@@ -161,7 +161,7 @@ Step 4
 
 Tip
 
-: Make sure to only make ONE request, multiple transmissions increase Controller workload and could result in a [Violation](/guide/getting-started/pilot-user-interface/violation-reasons#spamming-frequency---unecessary-duplicate-requests)!
+: Make sure to only make ONE request, multiple transmissions increase Controller workload and could result in a [Violation](/guide/getting-started-guide/pilot-user-interface/violation-reasons#spamming-frequency---unnecessary-duplicate-requests)!
 
 
 
@@ -194,5 +194,4 @@ Tip
 | Adjust Speed to Follow Aircraft ahead.           | ATC wants the pilot to slow down to maintain separation with the aircraft ahead. | The pilot should adjust their speed so that they are flying at or less than the speed of the aircraft ahead. |
 | Please Expedite Altitude Change                  | ATC wants the pilot to expedite their altitude change.       | The pilot should increase their vertical speed to descend or ascend expeditiously. |
 | Amend Flight Plan to Include ATC Preferred STAR. | ATC needs to regulate traffic flow.                          | The pilot should add an ATC preferred STAR to their flight plan. |
-
 
