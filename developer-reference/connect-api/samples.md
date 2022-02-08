@@ -3,7 +3,7 @@ id: samples
 title: Samples
 meta: Samples for the Infinite Flight Connect APIs
 order: 4
-contributor: KaiM,tomthetank
+contributor: KaiM,tomthetank,likeablegeek
 ---
 
 # Connect API Samples
@@ -12,13 +12,16 @@ Below you can find a range of samples in a variety of languages to help you get 
 
 These samples are all licensed differently, so check the terms of the license before using them in your own projects.
 
-- [Official v1 Demo](https://github.com/mlaban/IFCTest)\* - C#
-- [Official v2 Demo](https://github.com/carmichaelalonso/infiniteflightapi) - C#
-- [LiveFlight Connect](https://github.com/LiveFlightApp/Connect-Windows)\* - C#
-- [ifc (v1)](https://github.com/nicolasbd/ifc)\* - NodeJS
-- [InfiniteFlightConnect](https://github.com/carmichaelalonso/InfiniteFlightConnect)\* - Swift
-- [SwiftFlight](https://github.com/tomthetank46/SwiftFlight) - Swift
-- [InfiniteFlightConnect-Python](https://github.com/flyme2bluemoon/InfiniteFlightConnect-Python) - Python
+## Connect v1
 
-*\* Uses the Connect API v1*
+- [Official v1 Demo](https://github.com/mlaban/IFCTest) - C#
+- [LiveFlight Connect](https://github.com/LiveFlightApp/Connect-Windows) - C#
+- [ifc (v1)](https://github.com/nicolasbd/ifc) - NodeJS
+- [InfiniteFlightConnect](https://github.com/carmichaelalonso/InfiniteFlightConnect) - Swift
 
+## Connect v2
+
+ - [Official v2 Demo](https://github.com/carmichaelalonso/infiniteflightapi) - C#
+ - [ifc2](https://community.infiniteflight.com/t/ifc2-new-javascript-client-for-the-connect-v2-api/637176) - JavaScript
+ - [SwiftFlight](https://github.com/tomthetank46/SwiftFlight) - Swift
+ - [InfiniteFlightConnect-Python](https://github.com/flyme2bluemoon/InfiniteFlightConnect-Python) - Python
