@@ -66,7 +66,7 @@ The Horizontal Situation Indicator or HSI, is the primary instrument used for na
 
 
 - Compass rose orientated with the current aircraft heading
-- Blue heading bug displaying the [Autopilot FCU](/guide/getting-started/pilot-user-interface/autopilot#autopilot) bugged heading
+- Blue heading bug displaying the [Autopilot FCU](/guide/getting-started-guide/pilot-user-interface/autopilot#autopilot) bugged heading
 - Single blue pointer to represent BRG (bearing) 1 - when tuned to a navigation source (ILS, VOR or NDB) it will point to the navigation aid
 - Double blue pointer to represent BRG (bearing) 2 - when tuned to a navigation source (ILS, VOR or NDB) it will point to the navigation aid
 - Course Deviation Indicator (CDI) made up of the Course Pointer and Lateral Deviation Bar - displayed in magenta for GPS, and light green for NAV 1 and NAV 2
@@ -79,13 +79,13 @@ The Horizontal Situation Indicator or HSI, is the primary instrument used for na
 
 Step 1
 
-: [Tune the NAVAID](/guide/getting-started/pilot-user-interface/navigation#tuning-to-a-vor-or-adf) by tapping the NAVAID from your [Map](/guide/getting-started/pilot-user-interface/flight-planning#map) or [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map), selecting the VOR/NDB from the list displayed, and then tap "Set NAV 1 (or 2)"
+: [Tune the NAVAID](/guide/getting-started-guide/pilot-user-interface/navigation#tuning-to-a-vor-or-adf) by tapping the NAVAID from your [Map](/guide/getting-started-guide/pilot-user-interface/flight-planning#map) or [Mini Map](/guide/getting-started-guide/pilot-user-interface/flight-planning#mini-map), selecting the VOR/NDB from the list displayed, and then tap "Set NAV 1 (or 2)"
 
 
 
 Step 2
 
-: [Display the VOR](/guide/getting-started/pilot-user-interface/navigation#displaying-a-vor-in-your-aircraft) or [NDB](/guide/getting-started/pilot-user-interface/navigation#displaying-an-adf-in-your-aircraft) by tapping "NAV" on the Fly Screen to show the Avionics tab, and ensure that either BRG 1 (or 2) have NAV 1 (or 2) or ADF displayed (dependent on which NAVAID you tuned)
+: [Display the VOR](/guide/getting-started-guide/pilot-user-interface/navigation#displaying-a-vor-in-your-aircraft) or [NDB](/guide/getting-started-guide/pilot-user-interface/navigation#displaying-an-adf-in-your-aircraft) by tapping "NAV" on the Fly Screen to show the Avionics tab, and ensure that either BRG 1 (or 2) have NAV 1 (or 2) or ADF displayed (dependent on which NAVAID you tuned)
 
 
 

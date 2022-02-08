@@ -8,47 +8,61 @@ meta: Learn how to use the Infinite Flight Scenery Editor with our online docume
 
 
 
-## Guide Version: 21.7.0
+## Guide Version: 22.1.0
 
 
 
-Welcome to the Scenery Editor Guide, designed to help newly qualified and veteran editors alike, bring 3D airports to Infinite Flight. Feedback is an essential part in the development & upkeep of the Scenery Editor Guide and can be raised via the IFC in the [Scenery Editing Category](https://community.infiniteflight.com/c/scenery-editing/47). 
+Welcome to the Scenery Editor Manual, designed to help newly qualified and veteran editors alike, bring 2D and 3D airport updates to Infinite Flight. 
 
 
 
-There are currently three types of editing, Editors **must**{.red} ensure they fall within one of these categories when editing *(see [1A.3.2](/guide/scenery-editor-manual/1a.-administration/1a.3-editor-rules#1a.3.2) below)*:
-
-- A 2D* only edit of a non-3D airport
-- A 2D edit of a current 3D airport (with the requirement to change the 3D elements if affected by the 2D changes)
-- A 2D and 3D edit of a non-3D Airport
+On joining the Scenery Editor Team and uploading airports using the Scenery Editor, all Editors agree to the [Contributor License Agreement (CLA)](https://github.com/flyingdevelopmentstudio/infiniteflight-localization/blob/main/CONTRIBUTING.md).
 
 
 
-**2D editing is defined as: visual fixes to lines, aprons, runways and taxiways. The creation of a taxi network or the naming and connecting of taxiways. Updating and checking airport date including, but not limited to, names, ICAO codes and frequencies*
+## Scenery Editor Manual Version (Internal): 22.1.0.9
+
+## Last Updated: 1400Z - 08 FEB 22
 
 
 
-## Scenery Editor Manual Version (Internal): 21.7.0.4
++++ Summary of Changes - Version: 22.1.0.9 (CURRENT VERSION)
 
-## Last Updated: 1900Z - 22 NOV 21
-
-
-
-+++ Summary of Changes - Version: 21.7.0.4 (CURRENT VERSION)
-
-| Location | Change                |
-| -------- | --------------------- |
-| 5.2.2    | Images added to table |
+| Location | Change                                                       |
+| -------- | ------------------------------------------------------------ |
+| All      | Numerous hyperlinks fixed                                    |
+| 1.2.1    | Abbreviations updated                                        |
+| 9.1.1    | Editor checklist updated (now in alphabetical order and gates/jet bridges added) |
 
 +++
 
 
 
-+++ Summary of Changes - Version: 21.7.0.3
++++ Summary of Changes - Version: 22.1.0.8
 
-| Location | Change                                |
-| -------- | ------------------------------------- |
-| All      | No Changes - Release of Initial Issue |
+| Location   | Change                                                       |
+| ---------- | ------------------------------------------------------------ |
+| 1.2.1      | Abbreviations updated                                        |
+| Section 1A | Removed, all in-house rules will be located in Discord       |
+| 2.1.2      | References changed for jet bridges (contained within the new Section 8) |
+| 3.1.3      | References changed for start locations, stand guidance and jet bridges (contained within the new Section 8) |
+| 7.1.1      | References changed for start locations, stand guidance and jet bridges (contained within the new Section 8) |
+| Section 8  | New section for airport gates added (includes start locations, stand guidance and jet bridges) |
+| Section 9  | New section for review and release to make space for Section 8 |
 
 +++
+
+
+
++++ Summary of Changes - Version: 22.1.0.7
+
+| Location      | Change                                                       |
+| ------------- | ------------------------------------------------------------ |
+| 2.1.2         | Description of new "Adjust Jet Bridge Alt" button added      |
+| 7.5.6 / 7.5.8 | Images added                                                 |
+| 7.5.7         | New step by step guide for using the "Adjust Jet Bridge Alt" button added |
+| 7.5.8 / 7.5.9 | Added information on adjusting jet bridge height to accommodate both narrow-body and wide-body aircraft |
+
++++
+
 

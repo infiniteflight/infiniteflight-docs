@@ -34,8 +34,8 @@ Top of Descent, also known as TOD; is the point at which you initiate a descent 
 
 
 
-- Within the VNAV button on the [Autopilot](/guide/getting-started/pilot-user-interface/autopilot#autopilot) Flight Control Unit (FCU)
-- And also on the [Status Bar](/guide/getting-started/pilot-user-interface/status-bar#status-bar) if this option has been selected
+- Within the VNAV button on the [Autopilot](/guide/getting-started-guide/pilot-user-interface/autopilot#autopilot) Flight Control Unit (FCU)
+- And also on the [Status Bar](/guide/getting-started-guide/pilot-user-interface/status-bar#status-bar) if this option has been selected
 
 
 
@@ -61,13 +61,13 @@ Step 2
 
 Step 3
 
-: Once you have clearance and it is clear, access the [Autopilot](/guide/getting-started/pilot-user-interface/autopilot#autopilot) FCU and tap VNAV to arm this function. Your altitude and VS will change color to magenta to indicate that VNAV is armed
+: Once you have clearance and it is clear, access the [Autopilot](/guide/getting-started-guide/pilot-user-interface/autopilot#autopilot) FCU and tap VNAV to arm this function. Your altitude and VS will change color to magenta to indicate that VNAV is armed
 
 
 
 Tip
 
-: Before making any altitude changes, check surroundings to make sure it is clear, use the [Cameras](/guide/getting-started/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) to help you
+: Before making any altitude changes, check surroundings to make sure it is clear, use the [Cameras](/guide/getting-started-guide/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started-guide/pilot-user-interface/flight-planning#mini-map) to help you
 
 
 
@@ -116,7 +116,7 @@ Step 1
 
 Step 2
 
-: Access the [Autopilot](/guide/getting-started/pilot-user-interface/autopilot#autopilot) FCU and tap VNAV to disarm this function
+: Access the [Autopilot](/guide/getting-started-guide/pilot-user-interface/autopilot#autopilot) FCU and tap VNAV to disarm this function
 
 
 
@@ -134,4 +134,4 @@ Step 4
 
 Tip
 
-: Continuously check surroundings to make sure it is clear and for planning (particularly in the descent), use the [Cameras](/guide/getting-started/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) to help you
+: Continuously check surroundings to make sure it is clear and for planning (particularly in the descent), use the [Cameras](/guide/getting-started-guide/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started-guide/pilot-user-interface/flight-planning#mini-map) to help you

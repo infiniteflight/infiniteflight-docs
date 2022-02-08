@@ -38,7 +38,7 @@ Step 1
 
 Step 2
 
-: Ensure that you have [tuned](/guide/getting-started/pilot-user-interface/navigation#tuning-to-a-vor-or-adf) the required NDB for the approach and display it by setting "BRG 1 (or 2)" to ADF
+: Ensure that you have [tuned](/guide/getting-started-guide/pilot-user-interface/navigation#tuning-to-a-vor-or-adf) the required NDB for the approach and display it by setting "BRG 1 (or 2)" to ADF
 
 
 
@@ -50,7 +50,7 @@ Step 3
 
 Tip
 
-: Feel overloaded? Reduce your workload by engaging the [Autopilot](/guide/getting-started/pilot-user-interface/autopilot#autopilot) and using Heading and V/S to follow the profile instead of manual flying
+: Feel overloaded? Reduce your workload by engaging the [Autopilot](/guide/getting-started-guide/pilot-user-interface/autopilot#autopilot) and using Heading and V/S to follow the profile instead of manual flying
 
 
 

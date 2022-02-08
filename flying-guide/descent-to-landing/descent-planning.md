@@ -69,7 +69,7 @@ Tip
 
 
 
-The Altitude Arc, commonly referred to as the "banana"; is a blue, curved line that depicts on the map/mini map where you will reach the bugged altitude that is currently selected on your [Autopilot FCU](/guide/getting-started/pilot-user-interface/autopilot#autopilot).
+The Altitude Arc, commonly referred to as the "banana"; is a blue, curved line that depicts on the map/mini map where you will reach the bugged altitude that is currently selected on your [Autopilot FCU](/guide/getting-started-guide/pilot-user-interface/autopilot#autopilot).
 
 
 

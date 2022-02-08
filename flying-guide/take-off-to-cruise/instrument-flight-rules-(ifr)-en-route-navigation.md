@@ -45,7 +45,7 @@ Note: Airspace parameters and ATC jurisdictions may be altered with the use of N
 
 
 
-The different types of airspace displayed on your [map and mini map](/guide/getting-started/pilot-user-interface/flight-planning#map) are defined using a color code, and these are shown in the following table **for information only**{.red}:
+The different types of airspace displayed on your [map and mini map](/guide/getting-started-guide/pilot-user-interface/flight-planning#map) are defined using a color code, and these are shown in the following table **for information only**{.red}:
 
  
 
@@ -71,7 +71,7 @@ Step 1
 
 Tip
 
-: [ForeFlight](/guide/getting-started/home-user-interface/settings#foreflight) is a great tool for flight planning, make sure to give it a go!
+: [ForeFlight](/guide/getting-started-guide/home-user-interface/settings#foreflight) is a great tool for flight planning, make sure to give it a go!
 
 
 

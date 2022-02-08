@@ -56,7 +56,7 @@ Tip
 
 
 
-The following list shows all permanent TFRs/NOTAMs in place within Infinite Flight:
+The following list shows all permanent NOTAMs in place within Infinite Flight:
 
 
 
@@ -66,7 +66,7 @@ Aircraft larger than Dash-8 Q400 not authorized. Jet traffic not authorized. Lar
 
 | Parameters | Restrictions |
 | ---------- | ------------ |
-| Type       | TFR          |
+| Type       | NOTAM        |
 | Status     | ACTIVE       |
 | Floor      | SFC          |
 | Ceiling    | 10,000ft     |
@@ -92,11 +92,11 @@ RWY 08L/26R CLOSED. RWY08L/26R to be used as taxiway ONLY.
 
 +++ EGLC (London City)
 
-Aircraft larger than A318 not authorized (C130s are allowed). Larger aircraft MUST divert.
+Aircraft larger than A318 not authorized (A223, E-Jets and C130s are allowed). Larger aircraft MUST divert.
 
 | Parameters | Restrictions |
 | ---------- | ------------ |
-| Type       | TFR          |
+| Type       | NOTAM        |
 | Status     | ACTIVE       |
 | Floor      | SFC          |
 | Ceiling    | 10,000ft     |
@@ -111,7 +111,7 @@ Aircraft larger than CRJ-900 not authorized (including A320/B737 series). Larger
 
 | Parameters | Restrictions |
 | ---------- | ------------ |
-| Type       | TFR          |
+| Type       | NOTAM        |
 | Status     | ACTIVE       |
 | Floor      | SFC          |
 | Ceiling    | 10,000ft     |
@@ -126,7 +126,7 @@ Aircraft larger than A321/B757 not authorized. Larger aircraft MUST divert.
 
 | Parameters | Restrictions |
 | ---------- | ------------ |
-| Type       | TFR          |
+| Type       | NOTAM        |
 | Status     | ACTIVE       |
 | Floor      | SFC          |
 | Ceiling    | 10,000ft     |
@@ -141,7 +141,7 @@ Aircraft larger than A321/B757 not authorized. Larger aircraft MUST divert.
 
 | Parameters | Restrictions |
 | ---------- | ------------ |
-| Type       | TFR          |
+| Type       | NOTAM        |
 | Status     | ACTIVE       |
 | Floor      | SFC          |
 | Ceiling    | 10,000ft     |
@@ -186,7 +186,7 @@ Aircraft larger than A321/B757 not authorized. Larger aircraft MUST divert.
 
 | Parameters | Restrictions |
 | ---------- | ------------ |
-| Type       | TFR          |
+| Type       | NOTAM        |
 | Status     | ACTIVE       |
 | Floor      | SFC          |
 | Ceiling    | 10,000ft     |
@@ -249,7 +249,37 @@ Aircraft larger than A321/B757 not authorized. Larger aircraft MUST divert.
 | Type       | NOTAM        |
 | Status     | ACTIVE       |
 | Floor      | SFC          |
-| Ceiling    | 5,000ft      |
+| Ceiling    | 10,000ft     |
+
++++
+
+
+
++++ SBRJ (Santos Dumont)
+
+RWY 02L/20R CLOSED. RWY 02L/20R to be used as taxiway ONLY.
+
+| Parameters | Restrictions |
+| ---------- | ------------ |
+| Type       | NOTAM        |
+| Status     | ACTIVE       |
+| Floor      | SFC          |
+| Ceiling    | 10,000ft     |
+
++++
+
+
+
++++ UAAA (Almaty Intl)
+
+RWY 05L/23R CLOSED. RWY 05L/23R to be used as taxiway ONLY. 
+
+| Parameters | Restrictions |
+| ---------- | ------------ |
+| Type       | NOTAM        |
+| Status     | ACTIVE       |
+| Floor      | SFC          |
+| Ceiling    | 10,000ft     |
 
 +++
 
@@ -261,7 +291,22 @@ General Aviation aircraft ONLY. All other aircraft MUST divert. No pattern work 
 
 | Parameters | Restrictions |
 | ---------- | ------------ |
-| Type       | TFR          |
+| Type       | NOTAM        |
+| Status     | ACTIVE       |
+| Floor      | SFC          |
+| Ceiling    | 10,000ft     |
+
++++
+
+
+
++++ VOHS (Rajiv Gandhi Intl)
+
+RWY 09L/27R CLOSED. RWY 09L/27R to be used as taxiway ONLY.
+
+| Parameters | Restrictions |
+| ---------- | ------------ |
+| Type       | NOTAM        |
 | Status     | ACTIVE       |
 | Floor      | SFC          |
 | Ceiling    | 10,000ft     |
@@ -278,7 +323,7 @@ To avoid violations being issued due to not complying with active TFRs/NOTAMs, t
 
 Step 1
 
-: Once you have filed your [flight plan](/guide/getting-started/pilot-user-interface/flight-planning#flight-planning) (if applicable), check the route on your [map](/guide/getting-started/pilot-user-interface/flight-planning#map) or [mini map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) for any red/orange circles
+: Once you have filed your [flight plan](/guide/getting-started-guide/pilot-user-interface/flight-planning#flight-planning) (if applicable), check the route on your [map](/guide/getting-started-guide/pilot-user-interface/flight-planning#map) or [mini map](/guide/getting-started-guide/pilot-user-interface/flight-planning#mini-map) for any red/orange circles
 
 
 
@@ -320,11 +365,11 @@ Tip
 
 Step 6
 
-: If you are unable to comply with the TFR/NOTAM, then change your routing, altitude and/or destination as appropriate to avoid being [issued with a violation](/guide/getting-started/pilot-user-interface/violation-reasons#failure-to-follow-tfr)
+: If you are unable to comply with the TFR/NOTAM, then change your routing, altitude and/or destination as appropriate to avoid being [issued with a violation](/guide/getting-started-guide/pilot-user-interface/violation-reasons#failure-to-follow-tfr)
 
 
 
 Step 7
 
-: We also recommend checking the [IFC](https://community.infiniteflight.com) for upcoming events that may have temporary TFRs/NOTAMs added, as these may not be displayed on your [map](/guide/getting-started/pilot-user-interface/flight-planning#map) or [mini map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) yet
+: We also recommend checking the [IFC](https://community.infiniteflight.com) for upcoming events that may have temporary TFRs/NOTAMs added, as these may not be displayed on your [map](/guide/getting-started-guide/pilot-user-interface/flight-planning#map) or [mini map](/guide/getting-started-guide/pilot-user-interface/flight-planning#mini-map) yet
 

@@ -15,7 +15,7 @@ order: 4
 
  
 
-Before commencing a pushback, make sure to access the [Systems](/guide/getting-started/pilot-user-interface/systems#systems) menu and select the following:
+Before commencing a pushback, make sure to access the [Systems](/guide/getting-started-guide/pilot-user-interface/systems#systems) menu and select the following:
 
 
 
@@ -54,19 +54,33 @@ Before commencing a pushback, make sure to access the [Systems](/guide/getting-s
 
 Step 1
 
-: Check surroundings to make sure it is clear, use the [Cameras](/guide/getting-started/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) to help you
+: Check surroundings to make sure it is clear, use the [Cameras](/guide/getting-started-guide/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started-guide/pilot-user-interface/flight-planning#mini-map) to help you. If jet bridges have been connected, these must be stowed before pushback
+
+
+
+Step 2
+
+: Access the [Ground Services](/guide/getting-started-guide/pilot-user-interface/ground-services) menu and select the following:
 
  
 
-Step 2
+| Ground       | Action  |
+| ------------ | ------- |
+| Stow Bridges | **TAP** |
+
+{.checklist}
+
+
+
+Step 3
 
 : Tune to the active frequency and [request pushback](/guide/flying-guide/atc-communication/atis-pushback-and-taxi#pushback-communication-summary), or if there is no active ATC, tune to the Unicom frequency – listen for traffic before starting your pushback
 
  
 
-Step 3
+Step 4
 
-: Access the [Systems](/guide/getting-started/pilot-user-interface/systems#systems) menu and select the following:
+: Access the [Systems](/guide/getting-started-guide/pilot-user-interface/systems#systems) menu and select the following:
 
  
 
@@ -78,7 +92,11 @@ Step 3
 
 
 
-| Misc      | Action  |
+Step 5
+
+: Access the [Ground Services](/guide/getting-started-guide/pilot-user-interface/ground-services) menu and select the following:
+
+| Ground    | Action  |
 | --------- | ------- |
 | Push Back | **TAP** |
 
@@ -86,19 +104,19 @@ Step 3
 
 
 
-Step 4
+Step 6
 
-: Make sure to have a plan on where to push. ATC may tell you what runway to expect for departure too. Use the [Cameras](/guide/getting-started/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) throughout the pushback and the [Rudder](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) to move the aircraft
-
- 
-
-Step 5
-
-: When you’re ready to stop the pushback, access the [Systems](/guide/getting-started/pilot-user-interface/systems#systems) menu and select the following:
+: Make sure to have a plan on where to push. ATC may tell you what runway to expect for departure too. Use the [Cameras](/guide/getting-started-guide/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started-guide/pilot-user-interface/flight-planning#mini-map) throughout the pushback and the [Rudder](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls) to move the aircraft
 
  
 
-| Misc          | Action  |
+Step 7
+
+: When you’re ready to stop the pushback, access the [Ground Services](/guide/getting-started-guide/pilot-user-interface/ground-services) menu and select the following:
+
+ 
+
+| Ground        | Action  |
 | ------------- | ------- |
 | Stop Pushback | **TAP** |
 
@@ -106,7 +124,7 @@ Step 5
 
 
 
-Alternatively you can just **TAP** the [Park Brake](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls). 
+Alternatively you can just **TAP** the [Park Brake](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls). 
 
 
 
@@ -124,13 +142,13 @@ Engine start can commence during or after the push back.
 
 Step 1
 
-: Check surroundings to make sure it is clear, use the [Cameras](/guide/getting-started/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) to help you
+: Check surroundings to make sure it is clear, use the [Cameras](/guide/getting-started-guide/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started-guide/pilot-user-interface/flight-planning#mini-map) to help you
 
  
 
 Step 2
 
-: Access the [Systems](/guide/getting-started/pilot-user-interface/systems#systems) menu and select the following:
+: Access the [Systems](/guide/getting-started-guide/pilot-user-interface/systems#systems) menu and select the following:
 
  
 
@@ -166,7 +184,7 @@ Alternatively you can use the **Auto Start** function for a more easy experience
 
 Step 3
 
-: Once at least one engine is running, access the [Systems](/guide/getting-started/pilot-user-interface/systems#systems) menu and select the following:
+: Once at least one engine is running, access the [Systems](/guide/getting-started-guide/pilot-user-interface/systems#systems) menu and select the following:
 
  
 

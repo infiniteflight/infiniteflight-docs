@@ -17,7 +17,7 @@ order: 8
 
 
 
-The traffic pattern is a standard flight path followed by aircraft when taking-off and landing while maintaining visual contact with the airport. It is a great way to practice and improve your flying, and to increase the amount of landings in your [logbook](/guide/getting-started/home-screen/logbook#logbook)!
+The traffic pattern is a standard flight path followed by aircraft when taking-off and landing while maintaining visual contact with the airport. It is a great way to practice and improve your flying, and to increase the amount of landings in your [logbook](/guide/getting-started-guide/home-user-interface/logbook)!
 
 
 
@@ -45,7 +45,7 @@ Step 1
 
 Tip
 
-: Before setting off, align your [heading bug](/guide/getting-started/pilot-user-interface/hud#head-up-display-(hud)) with the runway heading. You can then use this as a helpful reminder of what heading to turn to when making those 90 degrees turns between legs. It's also useful to [bug your altitude](/guide/getting-started/pilot-user-interface/hud#head-up-display-(hud)) so you don't bust it!
+: Before setting off, align your [heading bug](/guide/getting-started-guide/pilot-user-interface/hud#head-up-display-(hud)) with the runway heading. You can then use this as a helpful reminder of what heading to turn to when making those 90 degrees turns between legs. It's also useful to [bug your altitude](/guide/getting-started-guide/pilot-user-interface/hud#head-up-display-(hud)) so you don't bust it!
 
 
 
@@ -75,7 +75,7 @@ Step 4
 
 Tip
 
-: Make sure to listen out, if there is ATC you may be given instructions that maintain separation with other aircraft. Don't forget to also keep an eye on your surroundings, you are just as responsible for making sure there are no conflicts - use the [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) to help you
+: Make sure to listen out, if there is ATC you may be given instructions that maintain separation with other aircraft. Don't forget to also keep an eye on your surroundings, you are just as responsible for making sure there are no conflicts - use the [Mini Map](/guide/getting-started-guide/pilot-user-interface/flight-planning#mini-map) to help you
 
 
 
