@@ -60,13 +60,13 @@ Step 1
 
 Step 2
 
-: Access the [Systems](/guide/getting-started-guide/pilot-user-interface/systems#systems) menu and select the following:
+: Access the [Ground Services](/guide/getting-started-guide/pilot-user-interface/ground-services) menu and select the following:
 
  
 
-| Ground Services | Action  |
-| --------------- | ------- |
-| Stow Bridges    | **TAP** |
+| Ground       | Action  |
+| ------------ | ------- |
+| Stow Bridges | **TAP** |
 
 {.checklist}
 
@@ -92,7 +92,11 @@ Step 4
 
 
 
-| Misc      | Action  |
+Step 5
+
+: Access the [Ground Services](/guide/getting-started-guide/pilot-user-interface/ground-services) menu and select the following:
+
+| Ground    | Action  |
 | --------- | ------- |
 | Push Back | **TAP** |
 
@@ -100,19 +104,19 @@ Step 4
 
 
 
-Step 5
+Step 6
 
 : Make sure to have a plan on where to push. ATC may tell you what runway to expect for departure too. Use the [Cameras](/guide/getting-started-guide/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started-guide/pilot-user-interface/flight-planning#mini-map) throughout the pushback and the [Rudder](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls) to move the aircraft
 
  
 
-Step 6
+Step 7
 
-: When you’re ready to stop the pushback, access the [Systems](/guide/getting-started-guide/pilot-user-interface/systems#systems) menu and select the following:
+: When you’re ready to stop the pushback, access the [Ground Services](/guide/getting-started-guide/pilot-user-interface/ground-services) menu and select the following:
 
  
 
-| Misc          | Action  |
+| Ground        | Action  |
 | ------------- | ------- |
 | Stop Pushback | **TAP** |
 

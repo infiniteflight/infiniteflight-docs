@@ -158,8 +158,14 @@ Step 4
 
 
 
+Step 5
 
-| Ground Services | Action  |
+: Access the [Ground Services](/guide/getting-started-guide/pilot-user-interface/ground-services) menu and select the following:
+
+
+
+
+| Ground          | Action  |
 | --------------- | ------- |
 | Connect Bridges | **TAP** |
 
