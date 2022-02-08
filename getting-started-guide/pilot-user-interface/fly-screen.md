@@ -7,7 +7,7 @@ order: 1
 
 # Fly Screen
 
-![Fly Screen](_images/manual/frames/hud-screen.png)
+![Fly Screen](_images/manual/frames/hud-screen-1.png)
 
 
 
@@ -49,7 +49,11 @@ Let&#39;s get you ready to fly! Welcome to the screen you'll see once you've [ca
 
    
 
-8. The [Systems](/guide/getting-started-guide/pilot-user-interface/systems#systems) button contains miscellaneous actions such as opening doors or push back, electrics, lights, signs and engine start
+8. The [Ground Services](/guide/getting-started-guide/pilot-user-interface/ground-services) button contains any applicable services that can be provided to the aircraft such as pushback and connecting jet bridges
+
+  
+
+8. The [Systems](/guide/getting-started-guide/pilot-user-interface/systems#systems) button contains miscellaneous actions such as opening doors, electrics, lights, signs and engine start
 
    
 
