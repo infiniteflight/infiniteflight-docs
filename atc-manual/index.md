@@ -28,7 +28,7 @@ Should
 
 ## ATC Manual Version (Internal): 22.1.0.1
 
-## Last Updated: 0900Z - 07 FEB 22
+## Last Updated: 1045Z - 10 FEB 22
 
 +++ Summary of Changes - Version: 22.1.0.1 (CURRENT VERSION)
 
@@ -43,7 +43,7 @@ Should
 | 1A.4.1          | Note removed that is no longer applicable                    |
 | 1A.5.2          | Controllers are not permitted to rejoin IFATC if removed more than twice due to inactivity |
 | 1A.5.3 / 1A.5.4 | 1A.5.2 and 1A.5.3 moved down one to accommodate new rule     |
-| 1A.6.6          | New rank of Admin added to IFATC                             |
+| 1A.6.6          | New rank of IFATC Moderator and Manager added, as well as note to differentiate between these roles and the IFC Moderator role |
 | 1A.7.1          | Note added on selecting sensible airports during the CR Phase |
 | 1A.7.3 / 1A.7.8 | Controllers in their CR phase can control FNF and ATC Schedule featured airports. Center frequencies are also okay provided they are not for streams of FF |
 | 1A.7.3          | Top tip added on splitting frequencies                       |
