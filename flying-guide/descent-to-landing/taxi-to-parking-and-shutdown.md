@@ -107,7 +107,7 @@ Step 1
 
 
 
-> If the stand has [Safedock](/guide/flying-guide/on-the-ground/safedock), it will tell you if the aircraft is too small/large for that stand
+> If the gate has [stand guidance](/guide/flying-guide/on-the-ground/stand-guidance), it will tell you if the aircraft is too small/large for that stand
 
 
 
@@ -123,7 +123,7 @@ Step 3
 
 
 
-> If the stand has [Safedock](/guide/flying-guide/on-the-ground/safedock), follow the on screen instructions
+> If the gate has [stand-guidance](/guide/flying-guide/on-the-ground/stand-guidance), follow the on screen instructions
 
 
 

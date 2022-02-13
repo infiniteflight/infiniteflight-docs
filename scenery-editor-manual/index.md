@@ -22,7 +22,7 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 
 ## Scenery Editor Manual Version (Internal): 22.1.0.9
 
-## Last Updated: 1400Z - 08 FEB 22
+## Last Updated: 1430Z - 13 FEB 22
 
 
 
@@ -32,6 +32,7 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 | -------- | ------------------------------------------------------------ |
 | All      | Numerous hyperlinks fixed                                    |
 | 1.2.1    | Abbreviations updated                                        |
+| 8.3      | Safedock references changes to Stand Guidance                |
 | 9.1.1    | Editor checklist updated (now in alphabetical order and gates/jet bridges added) |
 
 +++
@@ -64,5 +65,4 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 | 7.5.8 / 7.5.9 | Added information on adjusting jet bridge height to accommodate both narrow-body and wide-body aircraft |
 
 +++
-
 
