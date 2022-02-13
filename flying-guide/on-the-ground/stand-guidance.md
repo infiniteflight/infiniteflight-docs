@@ -14,7 +14,7 @@ Not all stands have stand guidance, however those that do will provide guidance 
 
 
 
-@[vimeo](670905489)
+@[vimeo](676886445)
 
 
 
