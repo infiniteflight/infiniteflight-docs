@@ -22,7 +22,7 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 
 ## Scenery Editor Manual Version (Internal): 22.1.0.9
 
-## Last Updated: 1430Z - 13 FEB 22
+## Last Updated: 1630Z - 13 FEB 22
 
 
 
