@@ -8,7 +8,7 @@ meta: Learn how to get the most out of Infinite Flight with our online documenta
 
 
 
-## Guide Version: 21.7.0
+## Guide Version: 22.1.0
 
 
 
@@ -22,4 +22,4 @@ Want to improve your piloting skills? Let's get started and ready for departure.
 
 Tip
 
-: New to Infinite Flight? Make sure to check out our [Getting Started Guide](/guide/getting-started#welcome-to-the-infinite-flight-user-guide!) that will help you become familiar with using the app!
+: New to Infinite Flight? Make sure to check out our [Getting Started Guide](/guide/getting-started-guide#welcome-to-the-infinite-flight-user-guide!) that will help you become familiar with using the app!

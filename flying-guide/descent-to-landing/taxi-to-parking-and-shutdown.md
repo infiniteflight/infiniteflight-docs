@@ -13,7 +13,7 @@ order: 16
 
 Step 1
 
-: Once you have exited the runway, access the [Systems](https://infiniteflight.com/guide/getting-started/pilot-user-interface/systems#systems) menu and select the following:
+: Once you have exited the runway, access the [Systems](/guide/getting-started-guide/pilot-user-interface/systems#systems) menu and select the following:
 
 
 
@@ -40,7 +40,7 @@ Tip
 
 Step 3
 
-: Retract [flaps](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) and select [spoilers](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) to **OFF**. Access the [Systems](/guide/getting-started/pilot-user-interface/systems#systems) menu and select the following:
+: Retract [flaps](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls) and select [spoilers](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls) to **OFF**. Access the [Systems](/guide/getting-started-guide/pilot-user-interface/systems#systems) menu and select the following:
 
 
 
@@ -58,7 +58,7 @@ Step 3
 
 Step 4
 
-: Continue to check surroundings to make sure it is clear, use the [Cameras](/guide/getting-started/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) to help you
+: Continue to check surroundings to make sure it is clear, use the [Cameras](/guide/getting-started-guide/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started-guide/pilot-user-interface/flight-planning#mini-map) to help you
 
  
 
@@ -70,7 +70,7 @@ Tip
 
 Step 5
 
-: Use the [Rudder](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) to maintain the taxiway centerline and either the [Rud Brakes or Park Brake](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) to keep your speed under control
+: Use the [Rudder](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls) to maintain the taxiway centerline and either the [Rud Brakes or Park Brake](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls) to keep your speed under control
 
  
 
@@ -82,7 +82,7 @@ Tip
 
 Step 6
 
-: If you need to cross a runway whilst taxiing, make sure to [request runway crossing](/guide/flying-guide/atc-communication/atis-pushback-and-taxi#pilot-to-ground-controller-communication-table) with the active ATC, or if there is no active ATC, announce crossing on the Unicom frequency – always check it’s clear before you enter the runway! Don’t forget to access the [Systems](/guide/getting-started/pilot-user-interface/systems#systems) menu and select the following:
+: If you need to cross a runway whilst taxiing, make sure to [request runway crossing](/guide/flying-guide/atc-communication/atis-pushback-and-taxi#pilot-to-ground-controller-communication-table) with the active ATC, or if there is no active ATC, announce crossing on the Unicom frequency – always check it’s clear before you enter the runway! Don’t forget to access the [Systems](/guide/getting-started-guide/pilot-user-interface/systems#systems) menu and select the following:
 
  
 
@@ -103,13 +103,17 @@ Once you’re clear of the runway, you can turn these lights back to **OFF**.
 
 Step 1
 
-: Make sure that the stand or parking spot that you intend on parking in is big enough for your aircraft type, you can use online tools in advance to help you
+: Make sure that the stand or parking spot that you intend on parking at is big enough for your aircraft type, you can use online tools in advance to help you
+
+
+
+> If the gate has [stand guidance](/guide/flying-guide/on-the-ground/stand-guidance), it will tell you if the aircraft is too small/large for that stand
 
 
 
 Step 2
 
-: Use the [Rudder](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) to maintain the taxiway centerline and either the [Rud Brakes or Park Brake](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) to keep your speed under control
+: Use the [Rudder](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls) to maintain the taxiway centerline and either the [Rud Brakes or Park Brake](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls) to keep your speed under control
 
 
 
@@ -119,9 +123,13 @@ Step 3
 
 
 
+> If the gate has [stand-guidance](/guide/flying-guide/on-the-ground/stand-guidance), follow the on screen instructions
+
+
+
 Step 4
 
-: Once you have reached the parking position, set the [Park Brake](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls). Access the [Systems](/guide/getting-started/pilot-user-interface/systems#systems) menu and select the following:
+: Once you have reached the parking position, set the [Park Brake](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls). Access the [Systems](/guide/getting-started-guide/pilot-user-interface/systems#systems) menu and select the following:
 
  
 
@@ -147,3 +155,22 @@ Step 4
 | Seat Belts | **OFF** |
 
 {.checklist}
+
+
+
+Step 5
+
+: Access the [Ground Services](/guide/getting-started-guide/pilot-user-interface/ground-services) menu and select the following:
+
+
+
+
+| Ground          | Action  |
+| --------------- | ------- |
+| Connect Bridges | **TAP** |
+
+{.checklist}
+
+
+
+> The parking brake must be set and the engines switched off before you can connect the jet bridges

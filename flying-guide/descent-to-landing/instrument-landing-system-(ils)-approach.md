@@ -47,13 +47,13 @@ Tip
 
 Step 2
 
-: Tune to the ILS by following our step by step guide [here](/guide/getting-started/pilot-user-interface/navigation#tuning-to-an-ils)
+: Tune to the ILS by following our step by step guide [here](/guide/getting-started-guide/pilot-user-interface/navigation#tuning-to-an-ils)
 
 
 
 Step 3
 
-: If you are no longer following your flight plan or [GPS Navigation](/guide/getting-started/pilot-user-interface/navigation#gps-navigation) is no longer required, you can display the ILS by following our step by step guide [here](/guide/getting-started/pilot-user-interface/navigation#displaying-an-ils-in-your-aircraft)
+: If you are no longer following your flight plan or [GPS Navigation](/guide/getting-started-guide/pilot-user-interface/navigation#gps-navigation) is no longer required, you can display the ILS by following our step by step guide [here](/guide/getting-started-guide/pilot-user-interface/navigation#displaying-an-ils-in-your-aircraft)
 
 
 
@@ -65,7 +65,7 @@ Step 4
 
 Tip
 
-: Feel overloaded? Reduce your workload by engaging the [Autopilot](/guide/getting-started/pilot-user-interface/autopilot#autopilot) and APPR mode, the aircraft will maintain the assigned heading and then automatically intercept the LOC and G/S. Make sure to only arm APPR mode once you have been cleared for the approach!
+: Feel overloaded? Reduce your workload by engaging the [Autopilot](/guide/getting-started-guide/pilot-user-interface/autopilot#autopilot) and APPR mode, the aircraft will maintain the assigned heading and then automatically intercept the LOC and G/S. Make sure to only arm APPR mode once you have been cleared for the approach!
 
 
 

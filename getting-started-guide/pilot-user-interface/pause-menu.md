@@ -2,7 +2,7 @@
 id: pause-menu
 title: Pause Menu
 meta: Learn how to customize your flight in the Pause Menu in Infinite Flight.
-order: 12
+order: 13
 ---
 
 

@@ -340,7 +340,7 @@ This breaks down as:
 When the API responds it will return a response which looks like this:
 
 ```markup
-    02 00 00 04 00 00 00 00 00 00 00>
+6e 02 00 00 04 00 00 00 00 00 00 00
 ```
 
 This breaks down as:

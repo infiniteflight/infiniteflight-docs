@@ -8,7 +8,7 @@ meta: Introduction to the Infinite Flight Air Traffic Controller (IFATC) Manual.
 
 
 
-## Guide Version: 21.7.0
+## Guide Version: 22.1.0
 
 
 
@@ -26,13 +26,49 @@ Should
 
 
 
-## ATC Manual Version (Internal): 21.7.0.1
+## ATC Manual Version (Internal): 22.1.0.1
 
-## Last Updated: 1830Z - 18 NOV 21
+## Last Updated: 1430Z - 13 FEB 22
+
++++ Summary of Changes - Version: 22.1.0.1 (CURRENT VERSION)
+
+| Location        | Change                                                       |
+| --------------- | ------------------------------------------------------------ |
+| All             | Numerous hyperlinks fixed                                    |
+| 1.2.1           | Added IMC and SFC abbreviations                              |
+| 1A.1.2          | Briefing rooms removed                                       |
+| 1A.1.3          | Botcommands list updated                                     |
+| 1A.2.1          | Minor grammatical error corrected                            |
+| 1A.1.8          | Descriptions of the "Mute" and "Deafen" symbols added        |
+| 1A.4.1          | Note removed that is no longer applicable                    |
+| 1A.5.2          | Controllers are not permitted to rejoin IFATC if removed twice due to inactivity |
+| 1A.5.3 / 1A.5.4 | 1A.5.2 and 1A.5.3 moved down one to accommodate new rule     |
+| 1A.6.6          | New rank of IFATC Moderator and Manager added, as well as note to differentiate between these roles and the IFC Moderator role |
+| 1A.7.1          | Note added on selecting sensible airports during the CR Phase |
+| 1A.7.3 / 1A.7.8 | Controllers in their CR phase can control FNF and ATC Schedule featured airports. Center frequencies are also okay provided they are not for streams or FF |
+| 1A.7.3          | Top tip added on splitting frequencies                       |
+| 1A.7.9 / 7.4.8  | Flowchart references updated                                 |
+| 1A.8.1          | Clarification on when ranks are reinstated for Controllers that have been suspended previously |
+| 1B.1.8          | Do not ask other Controllers to issue Violations on your behalf |
+| 1B.2.1          | Note added for excessive speed in the airport environment    |
+| 1B.3.1          | Minor grammatical error corrected                            |
+| 2.1.3           | Minor formatting change                                      |
+| 2.3.2           | Clarification added on runway crossings                      |
+| 3.1.1           | Added "Arrival / Departure" separation guidance              |
+| 3.3 / 6.8       | Top tips added on handling local traffic                     |
+| 5.2.2           | Minor grammatical error corrected                            |
+| 6.6.1           | Note added clarifying Center frequency range                 |
+| 6.9.2           | Controllers no longer required to check if a pilot has the correct approach set up, this is the pilots responsibility |
+| 6.9.4           | Wording adjusted to clarify when to clear aircraft for the GPS Approach |
+| 7C.1.6 / 7D.3.4 | Botcommands for use by Moderators and Supervisors moved to their applicable sections |
+| 7E.1.2          | Note added for replay files that exceed 50 hours or more in duration |
+| 7E.2.3          | Note added for dealing with specific Violations              |
+
++++
 
 
 
-+++ Summary of Changes - Version: 21.7.0.1 (CURRENT VERSION)
++++ Summary of Changes - Version: 21.7.0.1
 
 | Location | Change                                                       |
 | -------- | ------------------------------------------------------------ |
@@ -64,28 +100,6 @@ Should
 | 4.2.1    | Removal of restriction to not use LUAW when "Rolling Dept." ATIS remark is in use |
 | 7.1.4    | Note added about training session length to ensure all attendees allow sufficient time |
 | 7.4      | Promotion to Specialist (Check Ride) section moved to 1A.7, original section 7.5 moved up to become 7.4 |
-
-+++
-
-
-
-+++ Summary of Changes - Version: 21.4.0.1
-
-| Location        | Change                                                       |
-| --------------- | ------------------------------------------------------------ |
-| 1A.1.2          | Reference to 7.1.5 added for training-time sessions          |
-| 1A.3.1          | Guidance added on avoiding controlling or providing service to airports that do not have ramp spawn points for aircraft |
-| 1A.5.4          | Minimum rank to be a Recruiter changed to Officer            |
-| 1A.6.2          | Region assignments no longer apply during the Officer Check Ride phase |
-| 1A.6.2          | For official events (such as FF and Streams), Controllers can open event airports (outside of their assigned region) up to 1 hour before the event start time |
-| 1B.2.1          | Added crashing/taxiing into buildings/objects as a possible reason for issuing a violation |
-| 3.1.1           | Clarification added on intersecting runways                  |
-| 3.5.1           | Minor wording correction to pro tip                          |
-| 6.9.3           | Minor wording correction                                     |
-| 7.1.5           | Guidance added on flying for training-time sessions          |
-| 7.4.2           | Spelling mistake corrected                                   |
-| 7C.2.1 / 7C.2.9 | Canned replies added for Recruiters                          |
-| 7C.3.3          | Minor spelling mistake corrected                             |
 
 +++
 

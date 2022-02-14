@@ -2,7 +2,7 @@
 id: taxi
 title: Taxi
 meta: Learn how to taxi in Infinite Flight.
-order: 5
+order: 6
 ---
 
 # Taxi
@@ -14,7 +14,7 @@ order: 5
 
  
 
-Before you’re ready to taxi, you need to set your [Trim and Flaps](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) for take-off. Press and hold on each of them until you have the desired setting.
+Before you’re ready to taxi, you need to set your [Trim and Flaps](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls) for take-off. Press and hold on each of them until you have the desired setting.
 
 
 
@@ -24,7 +24,7 @@ Before you’re ready to taxi, you need to set your [Trim and Flaps](/guide/gett
 
 Step 1
 
-: Check surroundings to make sure it is clear, use the [Cameras](/guide/getting-started/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) to help you
+: Check surroundings to make sure it is clear, use the [Cameras](/guide/getting-started-guide/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started-guide/pilot-user-interface/flight-planning#mini-map) to help you
 
  
 
@@ -36,7 +36,7 @@ Step 2
 
 Step 3
 
-: Release the [Park Brake](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) and increase [power](/guide/getting-started/pilot-user-interface/hud#head-up-display-(hud)) to start the taxi
+: Release the [Park Brake](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls) and increase [power](/guide/getting-started-guide/pilot-user-interface/hud#head-up-display-(hud)) to start the taxi
 
  
 
@@ -48,7 +48,7 @@ Tip
 
 Step 4
 
-: Use the [Rudder](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) to maintain the taxiway centerline and either the [Rud Brakes or Park Brake](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) to keep your speed under control
+: Use the [Rudder](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls) to maintain the taxiway centerline and either the [Rud Brakes or Park Brake](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls) to keep your speed under control
 
  
 
@@ -60,7 +60,7 @@ Tip
 
 Step 5
 
-: If you need to cross a runway whilst taxiing, make sure to [request runway crossing](/guide/flying-guide/atc-communication/atis-pushback-and-taxi#pilot-to-ground-controller-communication-table) with the active ATC, or if there is no active ATC, announce crossing on the Unicom frequency – always check it’s clear before you enter the runway! Don’t forget to access the [Systems](/guide/getting-started/pilot-user-interface/systems#systems) menu and select the following:
+: If you need to cross a runway whilst taxiing, make sure to [request runway crossing](/guide/flying-guide/atc-communication/atis-pushback-and-taxi#pilot-to-ground-controller-communication-table) with the active ATC, or if there is no active ATC, announce crossing on the Unicom frequency – always check it’s clear before you enter the runway! Don’t forget to access the [Systems](/guide/getting-started-guide/pilot-user-interface/systems#systems) menu and select the following:
 
  
 

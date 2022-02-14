@@ -43,7 +43,7 @@ Take note that IFR (Instrument Flight Rules) aircraft can fly in IMC (Instrument
 
 Step 1
 
-: Check that the weather is VMC (minimum of 3 statute miles visibility*). You can do this by [accessing the 'wx' tab from you map or mini map](/guide/getting-started/pilot-user-interface/flight-planning#getting-more-from-your-map-and-mini-map)
+: Check that the weather is VMC (minimum of 3 statute miles visibility*). You can do this by [accessing the 'wx' tab from you map or mini map](/guide/getting-started-guide/pilot-user-interface/flight-planning#getting-more-from-your-map-and-mini-map)
 
 
 
@@ -55,7 +55,7 @@ Step 2
 
 Tip
 
-: [ForeFlight](/guide/getting-started/home-user-interface/settings#foreflight) is a great tool for flight planning, make sure to give it a go!
+: [ForeFlight](/guide/getting-started-guide/home-user-interface/settings#foreflight) is a great tool for flight planning, make sure to give it a go!
 
 
 

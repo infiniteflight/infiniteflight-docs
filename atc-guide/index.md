@@ -9,7 +9,7 @@ meta: Learn how to get the most out of Infinite Flight with our online documenta
 
 
 
-## Guide Version: 21.7.0
+## Guide Version: 22.1.0
 
 
 
@@ -23,4 +23,4 @@ It is important to note that the ATC Guide focuses on *controlling techniques* r
 
 Tip
 
-: New to Infinite Flight? Make sure to check out our [Getting Started Guide](/guide/getting-started#welcome-to-the-infinite-flight-user-guide!) that will help you become familiar with using the app!
+: New to Infinite Flight? Make sure to check out our [Getting Started Guide](/guide/getting-started-guide#welcome-to-the-getting-started-guide!) that will help you become familiar with using the app!

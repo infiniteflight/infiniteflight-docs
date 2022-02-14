@@ -8,7 +8,7 @@ contributor: tomthetank,likeablegeek
 
 # Connect API Samples
 
-Below you can find a range of samples in a variety of languages to help you get started with the Connect API. We welcome contributions, message [@Cameron](https://community.infiniteflight.com/u/cameron) or [@KaiM] on the Infinite Flight Community with a link to your project.
+Below you can find a range of samples in a variety of languages to help you get started with the Connect API. We welcome contributions, message [@Cameron](https://community.infiniteflight.com/u/cameron) or [@KaiM](https://community.infiniteflight.com/u/kaim/) on the Infinite Flight Community with a link to your project.
 
 These samples are all licensed differently, so check the terms of the license before using them in your own projects.
 

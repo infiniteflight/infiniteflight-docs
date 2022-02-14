@@ -31,31 +31,31 @@ Step 2
 
 Tip
 
-: Use the Flight Path Vector (the green circle displayed on the [HUD](/guide/getting-started/pilot-user-interface/hud#head-up-display-(hud)) when airborne), commonly referred to as 'The Bird', to help you. If the FPV is placed on the runway centerline, your aircraft will be tracking it
+: Use the Flight Path Vector (the green circle displayed on the [HUD](/guide/getting-started-guide/pilot-user-interface/hud#head-up-display-(hud)) when airborne), commonly referred to as 'The Bird', to help you. If the FPV is placed on the runway centerline, your aircraft will be tracking it
 
 
 
 Step 3
 
-: After the flare, and just before touchdown; gently use the [rudder](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) to align the aircraft nose with the runway centerline
+: After the flare, and just before touchdown; gently use the [rudder](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls) to align the aircraft nose with the runway centerline
 
 
 
 Step 4
 
-: In strong crosswinds, you may need to simultaneously lower the 'into wind' wing to maintain the centerline until touchdown (if the wind is coming from the right, tilt your device to the right so that the right [aileron](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) is up, and the left aileron is down)
+: In strong crosswinds, you may need to simultaneously lower the 'into wind' wing to maintain the centerline until touchdown (if the wind is coming from the right, tilt your device to the right so that the right [aileron](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls) is up, and the left aileron is down)
 
 
 
 Tip
 
-: For independent control of your ailerons and rudder, make sure that auto-coordination is turned **OFF** in your [Settings](/guide/getting-started/home-user-interface/settings#settings)
+: For independent control of your ailerons and rudder, make sure that auto-coordination is turned **OFF** in your [Settings](/guide/getting-started-guide/home-user-interface/settings#settings)
 
 
 
 Step 5
 
-: Use the [rudder](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) to maintain the runway centerline. As speed decreases, so does the aerodynamic affect of the rudder, more input will be required at slower speeds
+: Use the [rudder](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls) to maintain the runway centerline. As speed decreases, so does the aerodynamic affect of the rudder, more input will be required at slower speeds
 
 
 
@@ -69,31 +69,31 @@ Step 1
 
 Step 2
 
-: To perform a crosswind landing using the wing low method, lower the 'into wind' wing (so if the wind is coming from the right, tilt your device to the right so that the right [aileron](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) is up, and the left aileron is down). Simultaneously, use the [rudder](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) to keep the aircraft nose aligned with the runway centerline
+: To perform a crosswind landing using the wing low method, lower the 'into wind' wing (so if the wind is coming from the right, tilt your device to the right so that the right [aileron](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls) is up, and the left aileron is down). Simultaneously, use the [rudder](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls) to keep the aircraft nose aligned with the runway centerline
 
 
 
 Tip
 
-: For independent control of your ailerons and rudder, make sure that auto-coordination is turned **OFF** in your [Settings](/guide/getting-started/home-user-interface/settings#settings)
+: For independent control of your ailerons and rudder, make sure that auto-coordination is turned **OFF** in your [Settings](/guide/getting-started-guide/home-user-interface/settings#settings)
 
 
 
 Step 3
 
-: During the flare, airspeed will decrease, and therefore so will the aerodynamic affect of the flight controls. More [rudder](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) and [aileron](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) input will be required
+: During the flare, airspeed will decrease, and therefore so will the aerodynamic affect of the flight controls. More [rudder](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls) and [aileron](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls) input will be required
 
 
 
 Step 4
 
-: During the touchdown, and just before the nose gear is lowered; you may need to relax the [rudder](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) inputs to prevent the aircraft from veering off in the direction of the increased rudder deflection used during the flare
+: During the touchdown, and just before the nose gear is lowered; you may need to relax the [rudder](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls) inputs to prevent the aircraft from veering off in the direction of the increased rudder deflection used during the flare
 
 
 
 Step 5
 
-: Use the [rudder](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) and "into wind" [aileron](/guide/getting-started/pilot-user-interface/flight-controls#flight-controls) to maintain the runway centerline - more input will be required at slower speeds
+: Use the [rudder](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls) and "into wind" [aileron](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls) to maintain the runway centerline - more input will be required at slower speeds
 
 
 

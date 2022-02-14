@@ -53,13 +53,13 @@ Tip
 
 Step 4
 
-: The Radar Controller will issue vectors and/or altitude assignments to get you into position and then ask for you to 'report the airport in site' - use the [Cameras](/guide/getting-started/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started/pilot-user-interface/flight-planning#mini-map) to help you locate the airport
+: The Radar Controller will issue vectors and/or altitude assignments to get you into position and then ask for you to 'report the airport in site' - use the [Cameras](/guide/getting-started-guide/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started-guide/pilot-user-interface/flight-planning#mini-map) to help you locate the airport
 
 
 
 Tip
 
-: Feel overloaded? Reduce your workload by engaging the [Autopilot](/guide/getting-started/pilot-user-interface/autopilot#autopilot)!
+: Feel overloaded? Reduce your workload by engaging the [Autopilot](/guide/getting-started-guide/pilot-user-interface/autopilot#autopilot)!
 
 
 

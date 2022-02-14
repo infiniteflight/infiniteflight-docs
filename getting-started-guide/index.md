@@ -8,7 +8,7 @@ meta: Learn how to get the most out of Infinite Flight with our online documenta
 
 
 
-## Guide Version: 21.7.0
+## Guide Version: 22.1.0
 
 
 
