@@ -20,13 +20,23 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 
 
 
-## Scenery Editor Manual Version (Internal): 22.1.0.9
+## Scenery Editor Manual Version (Internal): 22.1.1.1
 
-## Last Updated: 1630Z - 13 FEB 22
+## Last Updated: 1530Z - 18 FEB 22
 
 
 
-+++ Summary of Changes - Version: 22.1.0.9 (CURRENT VERSION)
++++ Summary of Changes - Version: 22.1.1.1 (CURRENT VERSION)
+
+| Location | Change          |
+| -------- | --------------- |
+| All      | Complete Rework |
+
++++
+
+
+
++++ Summary of Changes - Version: 22.1.0.9
 
 | Location | Change                                                       |
 | -------- | ------------------------------------------------------------ |
@@ -53,16 +63,4 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 
 +++
 
-
-
-+++ Summary of Changes - Version: 22.1.0.7
-
-| Location      | Change                                                       |
-| ------------- | ------------------------------------------------------------ |
-| 2.1.2         | Description of new "Adjust Jet Bridge Alt" button added      |
-| 7.5.6 / 7.5.8 | Images added                                                 |
-| 7.5.7         | New step by step guide for using the "Adjust Jet Bridge Alt" button added |
-| 7.5.8 / 7.5.9 | Added information on adjusting jet bridge height to accommodate both narrow-body and wide-body aircraft |
-
-+++
 
