@@ -27,6 +27,7 @@ This version of the API was first included in Infinite Flight 19.4.
       - [Retrieving States from the API](#retrieving-states-from-the-api)
       - [Setting States with the API](#setting-states-with-the-api)
       - [Running Commands through the API](#running-commands-through-the-api)
+      - [Working with Flight Plans from Infinite Flight v22.1](#working-with-flight-plans-from-infinite-flight-v221)
 
 ## About the API
 
@@ -340,7 +341,7 @@ This breaks down as:
 When the API responds it will return a response which looks like this:
 
 ```markup
-6e 02 00 00 04 00 00 00 00 00 00 00
+    6e 02 00 00 04 00 00 00 00 00 00 00
 ```
 
 This breaks down as:
@@ -436,3 +437,95 @@ For instance, after toggling the parking brakes state as illustrated above, retr
 As mentioned earlier in "[The API Manifest](#the-api-manifest)", currently there are commands returned in the manifest which cannot be used because they require data to be passed to them. The API currently provides no mechanism to do this which renders there comamnds effectively non-functional at this time. It is expected that in the future Infinite Flight will enable these commands.
 
 For example, the command `commands/ParkingBrakes` is a simple toggle: issue the command and the parking brakes switch between off and on. But, other commands clearly don't work that way. For instance, the command `commands/FlightPlan.AddWaypoints` requires a series of waypoints to be provided. The latter cannot be done at this time.
+
+#### Working with Flight Plans from Infinite Flight v22.1
+
+With the release of v22.1 of Infinite Flight, changes have been made to how flight plan data is returned with the `aircraft/0/flightplan/full_info` state. Where previously data was returned using a simple string, from v22.1 the Connect v2 API returns a JSON-formatted string which matches the JSON format returned as well in the Connect v1 API statying in v22.1 of Infinite Flight.
+
+The format of this string looks like this:
+
+```json
+{
+  "Result": 0,
+  "Type": "Fds.IFAPI.APIFlightPlan",
+  "Bearing": 1.988517,
+  "DesiredTrack": 1.59089124,
+  "DetailedInfo": {
+    "AlternateDestinations": null,
+    "Altitude": 0,
+    "Altitudes": null,
+    "DepartureAirportCode": "LEMD",
+    "DepartureTime": "/Date(-62135596800000+0000)/",
+    "DestinationAirportCode": "IMR",
+    "EntityID": "00000000-0000-0000-0000-000000000000",
+    "EstimatedTimeEnroute": "PT0S",
+    "FlightID": "00000000-0000-0000-0000-000000000000",
+    "FlightPlanItems": [
+      {
+        "Altitude": -1,
+        "Children": null,
+        "Identifier": "LEMD",
+        "Length": 0,
+        "Location": {
+          "Altitude": 608.9904,
+          "Latitude": 40.495345592498779,
+          "Longitude": -3.5602057874202728
+        },
+        "Name": "Adolfo Suárez Madrid-Barajas",
+        "StartIndex": 0,
+        "Type": 0
+      },
+      {
+        "Altitude": -1,
+        "Children": null,
+        "Identifier": null,
+        "Length": 0,
+        "Location": {
+          "Altitude": 0,
+          "Latitude": 40.71944583,
+          "Longitude": -3.5575025
+        },
+        "Name": "D001O",
+        "StartIndex": 0,
+        "Type": 0
+      },
+      {
+        "Altitude": -1,
+        "Children": null,
+        "Identifier": "IMR",
+        "Length": 0,
+        "Location": {
+          "Altitude": 0,
+          "Latitude": 40.519747222222222,
+          "Longitude": -3.5736333333333334
+        },
+        "Name": "MADRID BARAJAS",
+        "StartIndex": 0,
+        "Type": 0
+      }
+    ],
+    "FlightPlanType": 0,
+    "FuelOnBoard": "PT0S",
+    "LastUpdate": "/Date(1645012763298)/",
+    "Remarks": null,
+    "Speed": 0,
+    "Waypoints": ["LEMD", "D001O", "IMR"]
+  },
+  "DistanceToDestination": 26.87741,
+  "DistanceToNext": 14.8649006,
+  "ETAToDestination": 1.32894981e17,
+  "ETAToNext": 1.32894938e17,
+  "ETEToDestination": 171.8713,
+  "ETEToNext": 95.05565,
+  "ICAO": null,
+  "NextWaypointLatitude": 40.7194443,
+  "NextWaypointLongitude": -3.55750251,
+  "TotalDistance": 25.4681568,
+  "Track": 323.766663,
+  "WaypointName": "D001O"
+}
+```
+
+> Credit goes to [@carmichaelalonso](https://github.com/carmichaelalonso) for publishing this JSON sample on GitHub [here](https://gist.github.com/carmichaelalonso/6f2b82bae992e81b24b93df6842c3cee).
+
+If you rely on the `aircraft/0/flightplan/full_info` state in your application, you should check the version of Infinite Flight using the `infiniteflight/app_version` state to verify the version and process the data from `aircraft/0/flightplan/full_info` accordingly.
