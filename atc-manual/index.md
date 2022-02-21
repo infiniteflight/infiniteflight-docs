@@ -26,11 +26,24 @@ Should
 
 
 
-## ATC Manual Version (Internal): 22.1.0.1
+## ATC Manual Version (Internal): 22.1.0.2
 
-## Last Updated: 1430Z - 13 FEB 22
+## Last Updated: 1600Z - 21 FEB 22
 
-+++ Summary of Changes - Version: 22.1.0.1 (CURRENT VERSION)
++++ Summary of Changes - Version: 22.1.0.2 (CURRENT VERSION)
+
+| Location           | Change                                                       |
+| ------------------ | ------------------------------------------------------------ |
+| 1.2.1 / Section 1A | Multiple references to FNF removed                           |
+| 1A.2.2             | Reference to Regions removed                                 |
+| 1A.5.2             | Reference to Admins removed and replaced with IFATC Moderators |
+| 4.2.1              | "No Light Aircraft" ATIS remark changed to Controller discretion |
+
++++
+
+
+
++++ Summary of Changes - Version: 22.1.0.1
 
 | Location        | Change                                                       |
 | --------------- | ------------------------------------------------------------ |
