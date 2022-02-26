@@ -28,7 +28,7 @@ Should
 
 ## ATC Manual Version (Internal): 22.1.0.2
 
-## Last Updated: 1000Z - 25 FEB 22
+## Last Updated: 1400Z - 26 FEB 22
 
 +++ Summary of Changes - Version: 22.1.0.2 (CURRENT VERSION)
 
@@ -38,7 +38,7 @@ Should
 | 1A.2.2             | Reference to Regions removed                                 |
 | 1A.5.2             | Reference to Admins removed and replaced with IFATC Moderators |
 | 1B.1.4             | Spelling mistake in pro tip corrected                        |
-| 4.2.1              | "No Light Aircraft" ATIS remark changed to Controller discretion |
+| 4.2.1              | "No Light Aircraft" ATIS remark changed to Controller discretion (except for GA focussed airports) |
 
 +++
 
