@@ -20,13 +20,13 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 
 
 
-## Scenery Editor Manual Version (Internal): 22.1.1.1
+## Scenery Editor Manual Version (Internal): 22.1.0.10
 
-## Last Updated: 1630Z - 21 FEB 22
+## Last Updated: 1400Z - 26 FEB 22
 
 
 
-+++ Summary of Changes - Version: 22.1.1.1 (CURRENT VERSION)
++++ Summary of Changes - Version: 22.1.0.10 (CURRENT VERSION)
 
 | Location | Change          |
 | -------- | --------------- |
