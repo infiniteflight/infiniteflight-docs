@@ -28,7 +28,7 @@ Should
 
 ## ATC Manual Version (Internal): 22.1.0.2
 
-## Last Updated: 1300Z - 22 FEB 22
+## Last Updated: 1000Z - 25 FEB 22
 
 +++ Summary of Changes - Version: 22.1.0.2 (CURRENT VERSION)
 
