@@ -26,18 +26,32 @@ Should
 
 
 
-## ATC Manual Version (Internal): 22.1.0.1
+## ATC Manual Version (Internal): 22.1.0.2
 
-## Last Updated: 1430Z - 13 FEB 22
+## Last Updated: 1400Z - 26 FEB 22
 
-+++ Summary of Changes - Version: 22.1.0.1 (CURRENT VERSION)
++++ Summary of Changes - Version: 22.1.0.2 (CURRENT VERSION)
+
+| Location           | Change                                                       |
+| ------------------ | ------------------------------------------------------------ |
+| 1.2.1 / Section 1A | Multiple references to FNF removed                           |
+| 1A.2.2             | Reference to Regions removed                                 |
+| 1A.5.2             | Reference to Admins removed and replaced with IFATC Moderators |
+| 1B.1.4             | Spelling mistake in pro tip corrected                        |
+| 4.2.1              | "No Light Aircraft" ATIS remark changed to Controller discretion (except for GA focussed airports) |
+
++++
+
+
+
++++ Summary of Changes - Version: 22.1.0.1
 
 | Location        | Change                                                       |
 | --------------- | ------------------------------------------------------------ |
 | All             | Numerous hyperlinks fixed                                    |
 | 1.2.1           | Added IMC and SFC abbreviations                              |
 | 1A.1.2          | Briefing rooms removed                                       |
-| 1A.1.3          | Botcommands list updated                                     |
+| 1A.1.3          | Bot Commands list updated                                    |
 | 1A.2.1          | Minor grammatical error corrected                            |
 | 1A.1.8          | Descriptions of the "Mute" and "Deafen" symbols added        |
 | 1A.4.1          | Note removed that is no longer applicable                    |

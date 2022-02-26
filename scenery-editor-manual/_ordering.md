@@ -2,13 +2,15 @@
 ordering:
   - meta
   - 1.-introduction
-  - 1a.-administration
   - 2.-user-interface
   - 3.-getting-started
   - 4.-satellite-imagery
-  - 5.-taxiways-and-pavements
-  - 6.-buildings-and-facades
-  - 7.-objects
-  - 8.-airport-gate
-  - 9.-review-and-release
+  - 5.-pavements
+  - 6.-taxiways
+  - 7.-start-locations
+  - 8.-buildings-and-facades
+  - 9.-objects
+  - 10.-airport-gates
+  - 11.-review-and-release
+  - 12.-summary
 ---
