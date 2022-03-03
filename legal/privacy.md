@@ -99,4 +99,4 @@ Laura Laban - contact@infiniteflight.com
 We’ll post any changes we make to our privacy notice on this page and, if they’re significant changes we’ll let you know within the Game of through an announcement through our Services.
 
 
-Last Revision: February 17th, 2022
+Last Revision: March 3rd, 2022
