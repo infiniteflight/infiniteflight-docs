@@ -4,7 +4,7 @@
 
 We are Infinite Flight LLC (“Infinite Flight”, “we,” “our,” “us”). We recognise that you care how information about you is collected and used and have created this privacy policy to inform you of our practices regarding collection, use, and sharing of information. 
 
-The practices described in this privacy policy apply to information gathered through our game, “Infinite Flight” and through our main websites "infiniteflight.com", "infinite-flight.com" (“App”, “Game”, “Simulator”, "Website"), and do not reflect our practices with respect to information gathered through offline means or through our other services, specifically our community forum (“community.infinite-flight.com”), collectively “Services”, governed by their own Privacy Policy.
+The practices described in this privacy policy apply to information gathered through our game, “Infinite Flight” and through our main websites "infiniteflight.com", (“App”, “Game”, “Simulator”, "Website"), and do not reflect our practices with respect to information gathered through offline means or through our other services, specifically our community forum (“community.infiniteflight.com”), collectively “Services”, governed by their own Privacy Policy.
 
 This privacy policy will be published in English. If this privacy policy is published in any language other than English, the English language version will be the governing agreement and shall control interpretation of all matters discussed below.
 
@@ -14,11 +14,11 @@ Please read the following carefully and do not hesitate to contact us via contac
 
 **Your personal information**
 
- We hold your first and last names, your email address, and your method of authentication (Google or Facebook) for the purpose of identification. We obtain this when you sign into the App using Google or Facebook. Once you sign into the App, you are no longer anonymous to us.
+ If you have linked your Infinite Flight Community account, we hold your username and email address for the purpose of identification. We obtain this when you link your account in the App with an Infinite Flight Community account. If you link this account inside the App, you are no longer anonymous to us.
 
 **IP Address and Device Type**
 
-We hold the IP Address and Device Type (specifically, the model and/or operating system you are running the App on) for each session you use the App. This is for the purpose of system diagnostics and for the prevention and detection of fraud.
+We hold the IP Address and Device Type (specifically, the model and/or operating system you are running the App on) for each multiplayer session you use the App. This is for the purpose of system diagnostics and for the prevention and detection of fraud.
 
 ## How do we use this information?
 
@@ -34,7 +34,7 @@ We use your information to provide our services. This is to:
 
 ## Who do we share your information with?
 
-At any time whilst your account is active, your information may be shared with:
+At any time while your account is active, your information may be shared with:
 
  - Our employees (either within Infinite Flight LLC, a parent or subsidiary company) and contractors who may require access to perform their jobs.
 
@@ -52,7 +52,7 @@ We keep your data until your account is terminated. You can request for us to te
 
  - Request access to all personal data about you we store.
 
- - Request for us to update your personal information, should this not automated through our authentication providers (Facebook or Google).
+ - Request for us to update your personal information.
 
  - Request data deletion. Note this will result in the termination of your account.
 
@@ -92,11 +92,11 @@ You can send questions and complaints to:
 
 European Users with questions or complaints about GDPR compliance should also address Infinite Flight LLC’s representative in the Union:
 
-Mr Cameron Carmichael Alonso - LiveFlight Limited (cameron@liveflightapp.com)
+Laura Laban - contact@infiniteflight.com
 
 ## Changes to this policy
 
 We’ll post any changes we make to our privacy notice on this page and, if they’re significant changes we’ll let you know within the Game of through an announcement through our Services.
 
 
-Last Revision: November 9th, 2018
+Last Revision: February 17th, 2022
