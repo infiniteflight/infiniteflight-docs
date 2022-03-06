@@ -12,7 +12,7 @@ Retrieve the flight plan for a specific active flight.
 
 ## Resource
 
-**GET** `https://api.infiniteflight.com/public/v2/flight/{flightId}/flightplan`
+**GET** `https://api.infiniteflight.com/public/v2/sessions/{sessionId}/flights/{flightId}/flightplan`
 
 ## Authorization
 

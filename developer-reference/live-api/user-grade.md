@@ -12,7 +12,7 @@ Retrieve the full grade table and detailed statistics for a user.
 
 ## Resource
 
-**GET** `https://api.infiniteflight.com/public/v2/user/grade/{userId}`
+**GET** `https://api.infiniteflight.com/public/v2/users/{userId}`
 
 ## Authorization
 

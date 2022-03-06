@@ -11,7 +11,7 @@ Retrieve active ATC status information for an airport, and the number of inbound
 
 ## Resource
 
-**GET** `https://api.infiniteflight.com/public/v2/airport/{airportIcao}/status/{serverId}`
+**GET** `https://api.infiniteflight.com/public/v2/sessions/{sessionId}/airport/{airportIcao}/status`
 
 ## Authorization
 
