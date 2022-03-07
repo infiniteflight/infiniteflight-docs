@@ -5,6 +5,6 @@ meta: [SEO Meta]
 ---
 
 
-# [SEO / Post Title]
+# [SEO / Page Title]
 
 Sample text
