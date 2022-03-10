@@ -28,7 +28,9 @@ Should
 
 ## ATC Manual Version (Internal): 22.1.0.2
 
-## Last Updated: 1400Z - 26 FEB 22
+## Last Updated: 1230Z - 07 MAR 22
+
+
 
 +++ Summary of Changes - Version: 22.1.0.2 (CURRENT VERSION)
 
@@ -77,43 +79,6 @@ Should
 | 7C.1.6 / 7D.3.4 | Botcommands for use by Moderators and Supervisors moved to their applicable sections |
 | 7E.1.2          | Note added for replay files that exceed 50 hours or more in duration |
 | 7E.2.3          | Note added for dealing with specific Violations              |
-
-+++
-
-
-
-+++ Summary of Changes - Version: 21.7.0.1
-
-| Location | Change                                                       |
-| -------- | ------------------------------------------------------------ |
-| 1A.1.2   | Added *#social-media* channel                                |
-| 1A.1.2   | Note added below table that lists common abbreviations used for opening/closing messages |
-| 1A.3.1   | Clarity added on use of abbreviations such as GTS for opening/closing messages |
-| 1A.4.1   | Minor wording correction                                     |
-| 3.6.2    | Clarification added on how to handle radar pattern work when pattern work is denied in the ATIS |
-| 6.12.1   | Visual approaches aligned with pattern work, a minimum of 3 statute miles (5000 meters) visibility is required |
-| 7B.2.1   | Re-worded to align with 7B.3.2                               |
-
-+++
-
-
-
-+++ Summary of Changes - Version: 21.6.0.1
-
-| Location | Change                                                       |
-| -------- | ------------------------------------------------------------ |
-| 1A.1.2   | Added *#atc-schedule* and *#events* channel descriptions     |
-| 1A.3.1   | Removal of controlling within region assignment restriction  |
-| 1A.3.1   | Added use of *@split* reaction role                          |
-| 1A.4     | New airport selection page added, previous sections 1A.4 and 1A.5 moved to 1A.5 and 1A.6 respectively |
-| 1A.5.2   | Minimum controlling times for class B and all radar facilities increased to 1 hour |
-| 1A.6     | Region assignment section removed                            |
-| 1A.6     | Rank Structure section reworked                              |
-| 1A.7     | New Check Ride Process section                               |
-| 1A.8     | Disciplinary and Suspension Procedure section moved          |
-| 4.2.1    | Removal of restriction to not use LUAW when "Rolling Dept." ATIS remark is in use |
-| 7.1.4    | Note added about training session length to ensure all attendees allow sufficient time |
-| 7.4      | Promotion to Specialist (Check Ride) section moved to 1A.7, original section 7.5 moved up to become 7.4 |
 
 +++
 
