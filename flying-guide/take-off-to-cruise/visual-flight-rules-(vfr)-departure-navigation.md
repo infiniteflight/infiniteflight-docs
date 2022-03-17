@@ -21,7 +21,7 @@ Flights conducted under VFR can only be operated if the weather conditions are s
 
 
 - navigate visually
-- and "see & avoid" obstacles such as terrain and other aircraft
+- and "see & avoid" obstacles such as terrain and other aircraft (maintaining a **MINIMUM** of 500ft vertical separation with other aircraft)
 
 
 
