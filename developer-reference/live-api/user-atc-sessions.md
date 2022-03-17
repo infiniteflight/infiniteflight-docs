@@ -25,6 +25,7 @@ Include your API key (`<apikey>`) by either:
 | Name     | Located in | Description    | Required | Schema        |
 | -------- | ---------- | -------------- | -------- | ------------- |
 | `userId` | path       | ID of the User | Yes      | string (uuid) |
+| `page`   | query      | Index of the page to retrieve | No, default `1` | integer |
 
 ## Response
 
