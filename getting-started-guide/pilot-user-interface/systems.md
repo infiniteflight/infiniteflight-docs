@@ -17,13 +17,13 @@ The systems symbol allows you to select between different aircraft systems (note
 
 Step 1
 
-: To change the selected system, press and hold for more options
+: To open the system menu tap the "Systems" button, this will open the system menu for the selected system
 
 
 
 Step 2
 
-: When you press and hold, an option box and the selected system box will appear next to the systems button. The current system will have a solid orange box next to it
+: To change the selected system, press and hold the "Systems" button. An option box will appear next to the systems menu. The current system will have a solid orange box next to it
 
 
 
@@ -35,4 +35,4 @@ Step 3
 
 Step 4
 
-: The system box will change to the selected system and various options within this system can then be selected
+: The system menu will change to the selected system and various options within this system can then be selected

@@ -57,7 +57,17 @@ The different types of airspace displayed on your [map and mini map](/guide/gett
 | Terminal Control Area           | Light Green |
 | Flight Information Region (FIR) | White       |
 
- 
+
+
+## Separation
+
+When aircraft are flying IFR, they must maintain a minimum separation of 3nm laterally or 1000ft vertically with other aircraft at all times.
+
+
+
+![Image 6.2.2.1 - Aircraft Separation](_images/manual/graphics/atc-aircraft-separation.jpg)
+
+
 
 ## IFR En-Route Procedures
 

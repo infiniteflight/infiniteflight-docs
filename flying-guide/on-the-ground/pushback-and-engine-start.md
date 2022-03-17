@@ -72,6 +72,14 @@ Step 2
 
 
 
+| Pushback   | Action  |
+| ---------- | ------- |
+| Attach Tug | **TAP** |
+
+{.checklist}
+
+
+
 Step 3
 
 : Tune to the active frequency and [request pushback](/guide/flying-guide/atc-communication/atis-pushback-and-taxi#pushback-communication-summary), or if there is no active ATC, tune to the Unicom frequency – listen for traffic before starting your pushback
@@ -96,9 +104,9 @@ Step 5
 
 : Access the [Ground Services](/guide/getting-started-guide/pilot-user-interface/ground-services) menu and select the following:
 
-| Ground    | Action  |
-| --------- | ------- |
-| Push Back | **TAP** |
+| Pushback | Action  |
+| -------- | ------- |
+| Push     | **TAP** |
 
 {.checklist}
 
@@ -106,7 +114,7 @@ Step 5
 
 Step 6
 
-: Make sure to have a plan on where to push. ATC may tell you what runway to expect for departure too. Use the [Cameras](/guide/getting-started-guide/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started-guide/pilot-user-interface/flight-planning#mini-map) throughout the pushback and the [Rudder](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls) to move the aircraft
+: Make sure to have a plan on where to push. ATC may tell you what runway to expect for departure too. Use the [Cameras](/guide/getting-started-guide/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started-guide/pilot-user-interface/flight-planning#mini-map) throughout the pushback and the [Rudder](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls) for directional control
 
  
 
@@ -116,15 +124,12 @@ Step 7
 
  
 
-| Ground        | Action  |
-| ------------- | ------- |
-| Stop Pushback | **TAP** |
+| Pushback   | Action  |
+| ---------- | ------- |
+| Push       | **TAP** |
+| Detach Tug | **TAP** |
 
 {.checklist}
-
-
-
-Alternatively you can just **TAP** the [Park Brake](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls). 
 
 
 
