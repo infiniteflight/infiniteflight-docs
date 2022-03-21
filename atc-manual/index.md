@@ -8,7 +8,7 @@ meta: Introduction to the Infinite Flight Air Traffic Controller (IFATC) Manual.
 
 
 
-## Guide Version: 22.1.0
+## Guide Version: 22.2.0
 
 
 
@@ -26,13 +26,26 @@ Should
 
 
 
-## ATC Manual Version (Internal): 22.1.0.2
+## ATC Manual Version (Internal): 22.2.1
 
-## Last Updated: 1230Z - 07 MAR 22
+## Last Updated: 1600Z - 17 MAR 22
 
 
 
-+++ Summary of Changes - Version: 22.1.0.2 (CURRENT VERSION)
++++ Summary of Changes - Version: 22.2.1 (CURRENT VERSION)
+
+| Location | Change                                                       |
+| -------- | ------------------------------------------------------------ |
+| 1A.3.1   | Added clarification on including the actual facilities opened/closed (such as Ground or Tower) when announcing in *#controllers* |
+| 1B.2.1   | Added insulting or inappropriate flight path/plan(s) to the list of reasons for issuing a Violation |
+| 2.3.2    | More clarity added on the conditions for runway crossings    |
+| 6.6.5    | Note added to reference occasions where a Violation can be issued |
+
++++
+
+
+
++++ Summary of Changes - Version: 22.1.0.2
 
 | Location           | Change                                                       |
 | ------------------ | ------------------------------------------------------------ |

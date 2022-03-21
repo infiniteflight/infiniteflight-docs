@@ -18,7 +18,7 @@ Before you’re ready to taxi, you need to set your [Trim and Flaps](/guide/gett
 
 
 
-## Taxi, Rudder and Brakes
+## Taxi
 
  
 
@@ -74,5 +74,3 @@ Step 5
  
 
 Once you’re clear of the runway, you can turn these lights back to **OFF**.
-
- 
