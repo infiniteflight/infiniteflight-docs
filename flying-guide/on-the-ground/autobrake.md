@@ -7,7 +7,13 @@ order: 7
 
 # Autobrake
 
+@[vimeo](690477241)
+
+
+
 The autobrake system has two main purposes, these are:
+
+
 
 - reduce the braking distance in case of an aborted takeoff
 - establish and maintain a selected deceleration rate during landing, thereby improving passenger comfort and reducing crew workload
