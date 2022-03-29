@@ -17,6 +17,6 @@ jobs:
       - name: Install processmd
         run: yarn global add @flyingdevelopmentstudio/processmd
         env:
-          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NODE_AUTH_TOKEN: ${{ secrets.PACKAGES_PAT }}
       - name: Build documentation
         run: processmd --no-output --no-uploadImages --inputDir=.
