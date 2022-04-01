@@ -136,7 +136,7 @@ Include your API key (`<apikey>`) by either:
 | `userId`                | string (uuid)   | Unique identifier for the user                               |
 | `virtualOrganization`   | string          | The virtual organization of the user's forum account if linked. Can be null if not set |
 | `discourseUsername`     | string          | The user's forum username if the account is linked. If the account isn't linked, this will be null |
-| `groups`                | [string (uuid)] | **Deprecated - will be in a future update** A list of groups the user can be a part of. |
+| `groups`                | [string (uuid)] | **Deprecated - will be removed in a future update** A list of groups the user can be a part of. |
 | `roles`                 | [integer]       | A list of roles a user has been assigned. See below for a list of main roles. |
 | `errorCode`             | integer         | Status code of user query. Not in use for this endpoint      |
 | `onlineFlights`         | integer         | Number of flights carried out in multiplayer                 |

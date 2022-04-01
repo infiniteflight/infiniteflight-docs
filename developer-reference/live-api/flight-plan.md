@@ -117,7 +117,7 @@ Include your API key (`<apikey>`) by either:
 | Name         | Type             | Description                                                  |
 | ------------ | ---------------- | ------------------------------------------------------------ |
 | `name`       | string           | Name of the waypoint or the procedure. In the `children` array, this is the name of a waypoint inside a procedure. |
-| `type`       | integer          | Type of procedure for this item., Only use this if the FlightPlanItem's `children` field is populated and not null. *Enum:* `"Sid = 0"`, `"STAR = 1"`,  `"Approach = 2"`, `"Track = 3"`, `"Unknown = 5"` |
+| `type`       | integer          | Type of procedure for this item. Only use this if the FlightPlanItem's `children` field is populated and not null. *Enum:* `"Sid = 0"`, `"STAR = 1"`,  `"Approach = 2"`, `"Track = 3"`, `"Unknown = 5"` |
 | `children`   | [FlightPlanItem] | An array of FlightPlanItems containing waypoint information about a procedure. Only present if this item defines a procedure (SID/STAR/Approach/Track). If not, assume this is a Fix/VOR/Custom User Waypoint. |
 | `identifier` | string           | Identifier for the waypoint or the procedure. This is not unique. |
 | `altitude`   | integer          | The altitude in feet for this waypoint. This is optionally defined by the user and defaults to `-1` if not set. |
