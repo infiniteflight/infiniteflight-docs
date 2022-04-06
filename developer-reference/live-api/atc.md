@@ -12,7 +12,7 @@ Retrieve active Air Traffic Control frequencies for a session
 
 ## Resource
 
-**GET** `https://api.infiniteflight.com/public/v2/atc/{sessionId}`
+**GET** `https://api.infiniteflight.com/public/v2/sessions/{sessionId}/atc`
 
 ## Authorization
 

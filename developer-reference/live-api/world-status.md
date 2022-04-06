@@ -11,7 +11,7 @@ Retrieve active ATC status information and inbound/outbound aircraft information
 
 ## Resource
 
-**GET** `https://api.infiniteflight.com/public/v2/world/status/{serverId}`
+**GET** `https://api.infiniteflight.com/public/v2/sessions/{sessionId}/world`
 
 ## Authorization
 

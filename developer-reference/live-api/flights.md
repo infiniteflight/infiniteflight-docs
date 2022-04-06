@@ -11,7 +11,7 @@ Retrieve a list of all flights for a session.
 
 ## Resource
 
-**GET** `https://api.infiniteflight.com/public/v2/flights/{sessionId}`
+**GET** `https://api.infiniteflight.com/public/v2/sessions/{sessionId}/flights`
 
 ## Authorization
 

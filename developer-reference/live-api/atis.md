@@ -12,7 +12,7 @@ Retrieve the ATIS for an airport on a specific server if it is active.
 
 ## Resource
 
-**GET** `https://api.infiniteflight.com/public/v2/airport/{airportIcao}/atis/{serverId}`
+**GET** `https://api.infiniteflight.com/public/v2/sessions/{sessionId}/airport/{airportIcao}/atis`
 
 ## Authorization
 
