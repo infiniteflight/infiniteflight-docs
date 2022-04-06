@@ -19,7 +19,7 @@ order: 1
 
 
 
-![Account Settings Page](_images/manual/frames/account.png)
+![Account Settings Page](_images/manual/frames/account1.png)
 
 
 
