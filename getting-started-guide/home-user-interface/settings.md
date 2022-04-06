@@ -112,12 +112,13 @@ Tip
 | [Your Infinite Flight Pro Subscription](/guide/getting-started-guide/home-user-interface/subscriptions) | This will either show the plans available to purchase if you do not have a current Infinite Flight Pro subscription; or if you do, the date it will automatically renew on |
 | [Callsign](/guide/getting-started-guide/home-user-interface/user-profile#callsigns) | Used for communication with controllers and other pilots     |
 | [Community Forum Account](/guide/getting-started-guide/home-user-interface/user-profile#linking-community-forum-account) | Connect an [Infinite Flight Community](https://community.infiniteflight.com) profile to show your username in-flight. This connection also allows you to sign in if you switch device platforms |
+| [Discord Account](/guide/getting-started-guide/home-user-interface/user-profile#linking-a-discord-account) | Link a Discord account to gain exclusive access to our Pro-only Discord server |
 | Account Statistics                                           | See your [grade level and violation history](/guide/getting-started-guide/home-user-interface/user-profile#the-grade-table). These stats determine multiplayer server level eligibility |
 | Switch Account                                               | Use a different Infinite Flight account to access a subscription bought on another device |
 
 
 
-![Account Settings Page](_images/manual/frames/account.png)
+![Account Settings Page](_images/manual/frames/account1.png)
 
 
 

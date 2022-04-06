@@ -13,7 +13,7 @@ Please note, this is currently only supported on the Expert Server and Training 
 
 ## Resource
 
-**GET** `https://api.infiniteflight.com/public/v2/flight/{flightId}/route`
+**GET** `https://api.infiniteflight.com/public/v2/sessions/{sessionId}/flights/{flightId}/route`
 
 ## Authorization
 

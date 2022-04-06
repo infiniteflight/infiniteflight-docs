@@ -12,7 +12,7 @@ Retrieve user statistics for multiple users, including their grade, flight time 
 
 ## Resource
 
-**POST** `https://api.infiniteflight.com/public/v2/user/stats`
+**POST** `https://api.infiniteflight.com/public/v2/users`
 
 ## Authorization
 
