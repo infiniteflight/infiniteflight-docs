@@ -19,7 +19,7 @@ order: 1
 
 
 
-![Account Settings Page](_images/manual/frames/account.png)
+![Account Settings Page](_images/manual/frames/account1.png)
 
 
 
@@ -43,13 +43,57 @@ Step 3
 
 Step 4
 
-: Once completed, it will return to the app and you will see that your IFC username is now displayed in the orange box
+: Once completed, it will return to the app and you will see that your IFC username is now displayed
 
 
 
 Tip
 
 : Don't want your IFC username to show in-flight? No problem! You can still link your account if you want to, then visit [Settings > Live](/guide/getting-started-guide/home-user-interface/settings#live) where you can un-tick the "Show Username In-Flight" box!
+
+
+
+## Linking a Discord Account
+
+To link a Discord account to gain exclusive access to our [Pro-only](/guide/get-help/subscriptions#what-is-a-pro-subscription%3F) server, follow the steps below:
+
+
+
+Step 1
+
+: Next to Discord Account, tap the "Connect" button
+
+
+
+> You must have an active [Pro subscription](/guide/getting-started-guide/home-user-interface/subscriptions#how-do-i-get-a-pro-subscription%3F) before you will be able to tap the "Connect" button
+
+
+
+Step 2
+
+: A pop up will appear to confirm that you are happy for your information to be shared between the *Infinite Flight* app and website. Tap "Continue"
+
+
+
+Step 3
+
+: A *discord.com* pop up will appear that will allow you to either login or create a new account (if you are already logged in on that device, it will automatically register this and you will only need to tap "authorize")
+
+
+
+Step 4
+
+: Once completed, it will return to the app and you will be asked if you would like to join the Infinite Flight Discord server. Tap "OK" if you would like to do this or "Not Now" if you would rather do it later
+
+
+
+>  Tapping "OK" will open a *discord.com* pop up, tap "Accept Invite"
+
+
+
+Step 6
+
+: Once completed you will see that your Discord username is now displayed
 
 
 

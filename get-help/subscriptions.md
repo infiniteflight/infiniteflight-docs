@@ -145,7 +145,7 @@ Auto-Renew can be cancelled directly from the Google Play or App Store. Please f
 
 
 
-![Account Settings Page](_images/manual/frames/account.png)
+![Account Settings Page](_images/manual/frames/account1.png)
 
 
 
