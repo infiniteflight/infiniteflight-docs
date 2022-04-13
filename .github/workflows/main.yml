@@ -15,7 +15,7 @@ jobs:
           node-version: "16.x"
           registry-url: "https://npm.pkg.github.com"
       - name: Install processmd
-        run: yarn global add @flyingdevelopmentstudio/processmd
+        run: yarn global add @infiniteflight/processmd
         env:
           NODE_AUTH_TOKEN: ${{ secrets.PACKAGES_PAT }}
       - name: Build documentation

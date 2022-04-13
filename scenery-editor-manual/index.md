@@ -16,7 +16,7 @@ Welcome to the Scenery Editor Manual, designed to help newly qualified and veter
 
 
 
-On joining the Scenery Editor Team and uploading airports using the Scenery Editor, all Editors agree to the [Contributor License Agreement (CLA)](https://github.com/flyingdevelopmentstudio/infiniteflight-localization/blob/main/CONTRIBUTING.md).
+On joining the Scenery Editor Team and uploading airports using the Scenery Editor, all Editors agree to the [Contributor License Agreement (CLA)](https://github.com/infiniteflight/infiniteflight-localization/blob/main/CONTRIBUTING.md).
 
 
 
