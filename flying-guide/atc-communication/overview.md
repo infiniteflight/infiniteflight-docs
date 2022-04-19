@@ -54,33 +54,43 @@ Tip
 
 
 
-**Calling "inbound on the [ILS/GPS/Visual]" without an Approach Clearance**
++++ Calling "inbound on the [ILS/GPS/Visual]" without an Approach Clearance
 
-If you did not receive an approach clearance from a Radar Controller, you must ensure that you announce "inbound for [landing/touch & go]", not "inbound on the [ILS/GPS/Visual]". 
+If you did not receive an approach clearance from a Radar Controller, you must ensure that you announce "inbound for [landing/touch & go]", not "inbound on the [ILS/GPS/Visual]".
 
-
-
-**Transmitting "Check In [IFR]" on initial contact with Approach**
-
-When with a Radar Controller that is operating Approach, only make the approach request - no other requests are required.
++++
 
 
 
-**Transmitting "requesting descent via [STAR] arrival" when with Approach**
++++ Transmitting "Check In [IFR]" on initial contact with Approach
 
 When with a Radar Controller that is operating Approach, only make the approach request - no other requests are required.
 
++++
 
 
-**Requesting "Flight Following [VFR]" after "Check In [IFR]"**
+
++++ Transmitting "requesting descent via [STAR] arrival" when with Approach
+
+When with a Radar Controller that is operating Approach, only make the approach request - no other requests are required.
+
++++
+
+
+
++++ Requesting "Flight Following [VFR]" after "Check In [IFR]"
 
 When contacting a Radar Controller only send one request - "Check In [IFR]" followed by "Flight Following [VFR]" is asking for two different services and is not required
 
++++
 
 
-**Announcing "remaining in the pattern" when departing**
+
++++ Announcing "remaining in the pattern" when departing
 
 If you do not intend on flying patterns at the airport, then do not announce "remaining in the pattern". Instead, announce the direction of your departure from the Tower Controller's airspace.
+
++++
 
 
 

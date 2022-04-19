@@ -153,7 +153,13 @@ Step 8
 
 
 
-## Pilot to Radar Controller Communication Table
+## Descent and Approach Communication Table
+
+Below are all the ATC commands that can be sent to pilots by a Radar Controller and what pilots can request or respond with:
+
+
+
++++ Pilot to Radar Controller
 
 | Request/Message           | When to Send                                                 | When Not to Send                                             |
 | ------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -169,7 +175,11 @@ Step 8
 
 
 
-## Radar Controller to Pilot Communication Table
++++
+
+
+
++++ Radar Controller to Pilot
 
 
 | Instruction/Message                              | ATC Intention                                                | Pilot Actions                                                |
@@ -183,3 +193,6 @@ Step 8
 | Adjust Speed to Follow Aircraft ahead.           | ATC wants the pilot to slow down to maintain separation with the aircraft ahead. | The pilot should adjust their speed so that they are flying at or less than the speed of the aircraft ahead. |
 | Please Expedite Altitude Change                  | ATC wants the pilot to expedite their altitude change.       | The pilot should increase their vertical speed to descend or ascend expeditiously. |
 | Amend Flight Plan to Include ATC Preferred STAR. | ATC needs to regulate traffic flow.                          | The pilot should add an ATC preferred STAR to their flight plan. |
+
++++
+
