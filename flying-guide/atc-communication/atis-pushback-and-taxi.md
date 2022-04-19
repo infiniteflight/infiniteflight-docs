@@ -66,6 +66,8 @@ Below are two tables that define the meaning of all REMARKS and NOTAMS that may 
 
 
 
++++ REMARKS
+
 | REMARKS                           | ATC Intention                                                | Pilot Actions                                                |
 | :-------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
 | No Intersection Departures        | ATC require pilots to use the full length of the runway.     | The pilot should hold short at the end of the runway.        |
@@ -82,11 +84,19 @@ Below are two tables that define the meaning of all REMARKS and NOTAMS that may 
 | SID/STAR Use Recommended          | SID/STAR use is not essential for traffic management but is recommended. | The pilots should add a SID/STAR to their flight plan.       |
 | SID/STAR Use Required             | SID/STAR use is essential for traffic management or events.  | The pilot must add an ATC preferred SID/STAR to their flight plan. |
 
++++
+
+
+
++++ NOTAMS
+
 | NOTAMS                     | ATC Intention                                     | Pilot Actions                                                |
 | :------------------------- | :------------------------------------------------ | :----------------------------------------------------------- |
 | Event in Progress          | An event is in progress.                          | The pilot may experience delays or, depending on the event, will not be allowed to participate. |
 | Size Restrictions in Place | The airport cannot handle certain sized aircraft. | The pilot should think about the size of their aircraft in relation to the airport. |
 | Low Visibility             | Low visibility has been reported.                 | The pilot should expect low visibility.                      |
+
++++
 
 
 
@@ -188,7 +198,13 @@ Step 3
 
 
 
-## Pilot to Ground Controller Communication Table
+## Pushback and Taxi Communication Tables
+
+Below are all the ATC commands that can be sent to pilots by a Ground Controller and what pilots can request or respond with:
+
+
+
++++ Pilot to Ground Controller
 
 | Request/Message                   | When to Send                                                 | When Not to Send                                             |
 | --------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -198,9 +214,11 @@ Step 3
 | Request Runway Crossing           | If the pilot's taxi route requires them to cross a runway, they must request permission to cross. The requested runway should be the same as the runway in use. | In any other circumstance.                                   |
 | Request Frequency Change          | The pilot should request a frequency change if they wish to change frequencies and have not yet been given a clearance to do so. | The pilot should not request a frequency change from Ground when they are taxiing to a runway. The frequency change is included in the taxi instruction (“contact Tower when ready”). |
 
++++
 
 
-## Ground Controller to Pilot Communication Table
+
++++ Ground Controller to Pilot 
 
 | Instruction/Message                      | ATC Intention                                                | Pilot Actions                                                |
 | ---------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -217,3 +235,6 @@ Step 3
 | Make a 180                               | ATC wants the pilot to make a 180º turn.                     | The pilot should turn around and await further instructions. |
 | Follow Aircraft Ahead                    | ATC wants the pilot to follow the aircraft ahead.            | The pilot should follow the aircraft ahead until given further instructions. |
 | Continue Taxi at your Discretion         | ATC wants to let the pilot know that they are no longer subject to progressive taxi instructions. | The pilot can continue their taxi at their discretion. If any other taxi instructions are given, they should follow those. |
+
++++
+
