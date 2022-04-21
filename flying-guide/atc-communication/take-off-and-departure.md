@@ -62,7 +62,13 @@ Step 4
 
 
 
-## Pilot to Tower Controller Communication Tables
+## Take-Off Communication Tables
+
+Below are all the ATC commands that can be sent to pilots by a Tower Controller and what pilots can request or respond with:
+
+
+
++++ Pilot to Tower Controller (On the Ground)
 
 | Request/Message (On the Ground)              | When to Send                                                 | When Not to Send           |
 | :------------------------------------------- | :----------------------------------------------------------- | :------------------------- |
@@ -70,6 +76,12 @@ Step 4
 | Request Departure - Remaining in the Pattern | The pilot should state that they will be remaining in the pattern if they plan to fly patterns (take-off and land at the same airport). "In Sequence" can be included when not first in line for departure. | In any other circumstance. |
 | Request Runway Crossing                      | If the pilot is with the tower controller and wishes to cross a runway, they should request permission to cross the active end. | In any other circumstance. |
 | Request Frequency Change                     | The pilot should request a frequency change if they wish to change frequencies and have not yet been given a clearance to do so. | In any other circumstance. |
+
++++
+
+
+
++++ Pilot to Tower Controller (In the Air)
 
 | Request/Message (In the Air) | When to Send                                                 | When Not to Send           |
 | :--------------------------- | :----------------------------------------------------------- | :------------------------- |
@@ -86,9 +98,11 @@ Step 4
 | Request Frequency Change     | The pilot should request a frequency change if they wish to change frequencies and have not yet been given a clearance to do so. | In any other circumstance. |
 | Announce Missed Approach     | If the pilot’s approach is not looking right for any reason, they should announce a missed approach. | In any other circumstance. |
 
++++
 
 
-## Tower Controller to Pilot Communication Table
+
++++ Tower Controller to Pilot
 
 | Instruction/Message                              | ATC Intention                                                | Pilot Actions                                                |
 | ------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -105,6 +119,8 @@ Step 4
 | Maintain Slowest Practical Speed                 | ATC wants the pilot to fly as slow as is safe.               | The pilot should decrease their speed as much as possible.   |
 | Maintain Best Forward Speed                      | ATC wants the pilot to fly as fast as is safe.               | The pilot should increase their speed as much as possible.   |
 | Adjust Speed to Follow Aircraft Ahead            | ATC wants the pilot to slow down to maintain separation with the aircraft ahead. | The pilot should adjust their speed so that they are flying at or less than the speed of the aircraft ahead. |
+
++++
 
 
 
@@ -165,7 +181,13 @@ Tip
 
 
 
-## Pilot to Radar Controller Communication Table
+## Departure Communication Table
+
+Below are all the ATC commands that can be sent to pilots by a Radar Controller and what pilots can request or respond with:
+
+
+
++++ Pilot to Radar Controller
 
 | Request/Message           | When to Send                                                 | When Not to Send                                             |
 | ------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -179,8 +201,11 @@ Tip
 | Request Frequency Change  | The pilot should request a frequency change if they wish to change frequencies and have not yet been given a clearance to do so. | The pilot should not use this impatiently. Frequency changes will not always be given immediately. |
 | Airport In Sight          | The pilot may report airport in sight if they can see the airport while on a visual approach. | In any other circumstance.                                   |
 
++++
 
-## Radar Controller to Pilot Communication Table
+
+
++++ Radar Controller to Pilot
 
 
 | Instruction/Message                              | ATC Intention                                                | Pilot Actions                                                |
@@ -194,4 +219,6 @@ Tip
 | Adjust Speed to Follow Aircraft ahead.           | ATC wants the pilot to slow down to maintain separation with the aircraft ahead. | The pilot should adjust their speed so that they are flying at or less than the speed of the aircraft ahead. |
 | Please Expedite Altitude Change                  | ATC wants the pilot to expedite their altitude change.       | The pilot should increase their vertical speed to descend or ascend expeditiously. |
 | Amend Flight Plan to Include ATC Preferred STAR. | ATC needs to regulate traffic flow.                          | The pilot should add an ATC preferred STAR to their flight plan. |
+
++++
 

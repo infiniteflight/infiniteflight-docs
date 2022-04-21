@@ -67,7 +67,13 @@ Note: Airspace parameters and ATC jurisdictions may be altered with the use of N
 
 
 
-## Pilot to Radar Controller Communication Table
+## En-Route Communication Table
+
+Below are all the ATC commands that can be sent to pilots by a Radar Controller and what pilots can request or respond with:
+
+
+
++++ Pilot to Radar Controller
 
 | Request/Message           | When to Send                                                 | When Not to Send                                             |
 | ------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -81,9 +87,11 @@ Note: Airspace parameters and ATC jurisdictions may be altered with the use of N
 | Request Frequency Change  | The pilot should request a frequency change if they wish to change frequencies and have not yet been given a clearance to do so. | The pilot should not use this impatiently. Frequency changes will not always be given immediately. |
 | Airport In Sight          | The pilot may report airport in sight if they can see the airport while on a visual approach. | In any other circumstance.                                   |
 
++++
 
 
-## Radar Controller to Pilot Communication Table
+
++++ Radar Controller to Pilot
 
 
 | Instruction/Message                              | ATC Intention                                                | Pilot Actions                                                |
@@ -97,3 +105,6 @@ Note: Airspace parameters and ATC jurisdictions may be altered with the use of N
 | Adjust Speed to Follow Aircraft ahead.           | ATC wants the pilot to slow down to maintain separation with the aircraft ahead. | The pilot should adjust their speed so that they are flying at or less than the speed of the aircraft ahead. |
 | Please Expedite Altitude Change                  | ATC wants the pilot to expedite their altitude change.       | The pilot should increase their vertical speed to descend or ascend expeditiously. |
 | Amend Flight Plan to Include ATC Preferred STAR. | ATC needs to regulate traffic flow.                          | The pilot should add an ATC preferred STAR to their flight plan. |
+
++++
+
