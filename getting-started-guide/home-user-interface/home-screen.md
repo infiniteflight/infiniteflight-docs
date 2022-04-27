@@ -17,7 +17,7 @@ Welcome to the home screen of your newly downloaded Infinite Flight app. Below y
 
    
 
-2. [Solo mode](/guide/getting-started-guide/home-user-interface/fly-solo#fly-solo) is offline (no internet connection required), allowing you to practice without anyone else around, in weather conditions of your choosing
+2. [Fly Solo](/guide/getting-started-guide/home-user-interface/fly-solo#fly-solo) is our offline mode (no internet connection required), allowing you to practice without anyone else around, in weather conditions of your choosing
 
    
 
@@ -29,22 +29,18 @@ Welcome to the home screen of your newly downloaded Infinite Flight app. Below y
 
    
 
-5. Our default settings are sure to get you going, but if you want to, you can [customize your experience](/guide/getting-started-guide/home-user-interface/settings#settings)
+5. All of your controlling sessions and flights are recorded and stored in [Replays](/guide/getting-started-guide/home-user-interface/replays#replays) for when you want to look back
 
    
 
-6. Rookie or professional, our [User Guide](/guide) is here to help any experience level
+6. Ready to go flying? Tap on the [Fly button](/guide/getting-started-guide/pilot-user-interface/fly-screen) to begin Rookie or professional, our [User Guide](/guide) is here to help any experience level
 
    
 
-7. All of your controlling sessions and flights are recorded and stored in [Replays](/guide/getting-started-guide/home-user-interface/replays#replays) for when you want to look back
+7. Our default settings are sure to get you going, but if you want to, you can [customize your experience](/guide/getting-started-guide/home-user-interface/settings#settings)
 
    
 
-8. As well as replays, all information is automatically logged when you fly or control so that you can keep track [in the Logbook](/guide/getting-started-guide/home-user-interface/logbook)
-
-   
-
-9. Subscribe to our social media pages and [YouTube channel](https://www.youtube.com/user/infiniteflightapp) to stay up to date with the latest Infinite Flight news
+9. Rookie or professional, our [User Guide](/guide) is here to help any experience level
 
  
