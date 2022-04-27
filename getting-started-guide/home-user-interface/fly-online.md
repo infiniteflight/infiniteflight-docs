@@ -127,7 +127,7 @@ If you’re about to fly online, we also use a variety of colors to give you an 
 
 The various live servers available to use are displayed here. Each server has its own set of rules and minimum grade requirements, make sure to check these before trying to join!
 
-![Server Page](/Users/reganhawthorn/Documents/GitHub/infiniteflight-docs/getting-started-guide/home-user-interface/_images/manual/frames/server-page1.png)
+![Server Page](_images/manual/frames/server-page1.png)
 
  
 
