@@ -7,27 +7,31 @@ order: 4
 
 # Fly Online
 
-![Online Page](_images/manual/frames/fly-online.png)
+![Online Page](_images/manual/frames/fly-online1.png)
 
  
 
 1. Pick your aircraft using the [Aircraft Selection button](/guide/getting-started-guide/home-user-interface/fly-online#aircraft-selection)
 
-   
+    
 
 2. Pick your starting point using the [Airport and Gate Selection button](/guide/getting-started-guide/home-user-interface/fly-online#airport-and-gate-selection)
 
-   
+    
 
 3. There are various servers for different experiences, select the [Server button](#server) to pick the best fit for you
 
+    
+
+4. The Airspace Status table helps show you how many aircraft are inbound to a particular airport and if it has active ATC. You can tap the refresh button to make sure it’s up to date before you decide where to fly from and to
+
+    
+
+5. You can also select an airport and gate by tapping on the airport from the airspace status table, and then "Go to [ICAO]"
+
    
 
-4.  The Airspace Status table helps show you how many aircraft are inbound to a particular airport and if it has active ATC. You can tap the refresh button to make sure it’s up to date before you decide where to fly from and to
-
-   
-
-5. Ready to go flying? Tap on the [Fly button](/guide/getting-started-guide/pilot-user-interface/fly-screen) to begin
+6. Ready to go flying? Tap on the [Fly button](/guide/getting-started-guide/pilot-user-interface/fly-screen) to begin
 
  
 
@@ -35,7 +39,7 @@ order: 4
 
 There are loads of different aircraft and liveries to choose from, maybe it’s your favorite airline, or the aircraft you just completed your Private Pilots License in, the choices are endless! Below is a break down of how to select your next aircraft.
 
-![Aircraft Page](_images/manual/frames/aircraft-page.png)
+![Aircraft Page](_images/manual/frames/aircraft-page1.png)
 
 
 
@@ -63,7 +67,7 @@ There are loads of different aircraft and liveries to choose from, maybe it’s 
 
 The entire globe is ready for you to explore, you can either use the features below to choose where to begin, or zoom in with your fingers!
 
-![Map Zoomed Out](_images/manual/frames/map-zoomed-out.png)
+![Map Zoomed Out](_images/manual/frames/map-zoomed-out1.png)
 
  
 
@@ -77,7 +81,7 @@ The entire globe is ready for you to explore, you can either use the features be
 
 3. Magenta dots signify uncontrolled airports
 
-   ![Map Zoomed In](_images/manual/frames/map-zoomed-in.png)
+   ![Map Zoomed In](_images/manual/frames/map-zoomed-in1.png)
 
    
 

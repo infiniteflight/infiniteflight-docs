@@ -7,39 +7,36 @@ order: 6
 
 # Replays
 
-All flights and controlling sessions are recorded automatically and you can revisit them any time! You can also:
+All flights and controlling sessions are recorded automatically and you can revisit them any time!
 
 
 
-- [Share (export)](/guide/getting-started-guide/home-user-interface/replays#how-to-export-your-replay) and [import](/guide/getting-started-guide/home-user-interface/replays#how-to-import-your-replay) replays
-
-  
-
-- Delete replays
+ ![Replay page](_images/manual/frames/replay-page1.png)
 
   
 
-- And edit the description to help keep track
+1. All replays are listed here, by tapping a replay it will turn amber to show it is selected (or you can tap the dot to the left of each replay to select multiple replay files, the dot will change from hollow to solid to show it is selected). You can also tap the star next to a replay to highlight your favourites
 
- 
+    
 
- ![Replay page](_images/manual/frames/replay-page.png)
+2. Tap this button to [import](/guide/getting-started-guide/home-user-interface/replays#how-to-import-your-replay) a replay into your device
 
- 
+    
 
-To view a replay:
+3. Once you have selected a replay, you can tap this button to [share (export)](/guide/getting-started-guide/home-user-interface/replays#how-to-export-your-replay) it 
 
+    
 
+4. Tap this button to delete the selected replay(s)
 
-Step 1
+    
 
-: Select the replay that you want to view
+5. Select a replay and then tap this button to add a comment
 
- 
+    
 
-Step 2
+6. Tap this button to view the selected replay
 
-: Tap "Replay"
 
  
 
