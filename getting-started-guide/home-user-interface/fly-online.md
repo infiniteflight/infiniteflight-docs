@@ -7,27 +7,31 @@ order: 4
 
 # Fly Online
 
-![Online Page](_images/manual/frames/fly-online.png)
+![Online Page](_images/manual/frames/fly-online1.png)
 
  
 
 1. Pick your aircraft using the [Aircraft Selection button](/guide/getting-started-guide/home-user-interface/fly-online#aircraft-selection)
 
-   
+    
 
 2. Pick your starting point using the [Airport and Gate Selection button](/guide/getting-started-guide/home-user-interface/fly-online#airport-and-gate-selection)
 
-   
+    
 
 3. There are various servers for different experiences, select the [Server button](#server) to pick the best fit for you
 
+    
+
+4. The Airspace Status table helps show you how many aircraft are inbound to a particular airport and if it has active ATC. You can tap the refresh button to make sure it’s up to date before you decide where to fly from and to
+
+    
+
+5. You can also select an airport and gate by tapping on the airport from the airspace status table, and then "Go to [ICAO]"
+
    
 
-4.  The Airspace Status table helps show you how many aircraft are inbound to a particular airport and if it has active ATC. You can tap the refresh button to make sure it’s up to date before you decide where to fly from and to
-
-   
-
-5. Ready to go flying? Tap on the [Fly button](/guide/getting-started-guide/pilot-user-interface/fly-screen) to begin
+6. Ready to go flying? Tap on the [Fly button](/guide/getting-started-guide/pilot-user-interface/fly-screen) to begin
 
  
 
@@ -35,7 +39,7 @@ order: 4
 
 There are loads of different aircraft and liveries to choose from, maybe it’s your favorite airline, or the aircraft you just completed your Private Pilots License in, the choices are endless! Below is a break down of how to select your next aircraft.
 
-![Aircraft Page](_images/manual/frames/aircraft-page.png)
+![Aircraft Page](_images/manual/frames/aircraft-page1.png)
 
 
 
@@ -63,7 +67,7 @@ There are loads of different aircraft and liveries to choose from, maybe it’s 
 
 The entire globe is ready for you to explore, you can either use the features below to choose where to begin, or zoom in with your fingers!
 
-![Map Zoomed Out](_images/manual/frames/map-zoomed-out.png)
+![Map Zoomed Out](_images/manual/frames/map-zoomed-out1.png)
 
  
 
@@ -77,7 +81,7 @@ The entire globe is ready for you to explore, you can either use the features be
 
 3. Magenta dots signify uncontrolled airports
 
-   ![Map Zoomed In](_images/manual/frames/map-zoomed-in.png)
+   ![Map Zoomed In](_images/manual/frames/map-zoomed-in1.png)
 
    
 
@@ -119,20 +123,26 @@ If you’re about to fly online, we also use a variety of colors to give you an 
 
 
 
-
 ## Server
 
-The various live servers available to use are displayed here. Each server has its own set of rules and minimum grade requirements, make sure to check these before trying to join! Tap on the one you want to fly in and then tap the "back" button.
+The various live servers available to use are displayed here. Each server has its own set of rules and minimum grade requirements, make sure to check these before trying to join!
 
-![Server Page](_images/manual/frames/server-page.png)
 
- 
+
+  ![Server Page](_images/manual/frames/server-page1a.png)
+
+
 
 | Server   | Description                                                  | Minimum [Grade](/guide/getting-started-guide/home-user-interface/user-profile#the-grade-table) |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Casual   | This server may be accessed by all grades. ATC is not available and pilots may fly freely without affecting their stats or grade. All users should still be respectful and courteous to other pilots | N/A                                                          |
-| Training | This server is used to practice pilot and ATC skills. All ATC facilities (except ATIS) can be accessed and procedures are enforced by server issued [Violations](/guide/getting-started-guide/pilot-user-interface/violations#violations) | 2                                                            |
-| Expert   | This is a server where published rules must be adhered to. All procedures are strictly enforced by ATC (infractions may result in ATC issued [Violations](/guide/getting-started-guide/pilot-user-interface/violations#violations)) | 3*                                                           |
+| Expert   | This is a server where published rules must be adhered to. All procedures are strictly enforced by ATC. Infractions may result in issued [Violations](/guide/getting-started-guide/pilot-user-interface/violations#violations) | 3*                                                           |
+| IFATC**  | This server is reserved for IFATC training, approach tests and tutorial filming. All controlling and flying outside of this shall remain on the Expert Server, misuse can result in suspension | N/A                                                          |
+| Training | This server is used to practice pilot and ATC skills. All ATC facilities (except ATIS) can be accessed and procedures are enforced by [Violations](/guide/getting-started-guide/pilot-user-interface/violations#violations) | 2                                                            |
 
-**In addition to the minimum grade requirement, the number of total Level 1 Violations must be at least 50% less than the number of total landings. Pilots may not have [5 or more Level 2 or 3 Violations in the last 365 days](/guide/getting-started-guide/pilot-user-interface/violations#what-happens-if-i-get-a-violation%3F)*
+**In addition to the minimum grade requirement, the number of total Level 1 Violations must be at least 50% less than the number of total landings and pilots may not have [5 or more Level 2 or 3 Violations in the last 365 days](/guide/getting-started-guide/pilot-user-interface/violations#what-happens-if-i-get-a-violation%3F)*
+
+
+
+***Not available unless a member of IFATC*
 

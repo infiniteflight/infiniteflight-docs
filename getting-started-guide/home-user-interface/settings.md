@@ -2,7 +2,7 @@
 id: settings
 title: Settings
 meta: Learn how to use the Settings page in Infinite Flight to customize your flying experience.
-order: 8
+order: 7
 contributor: deercrusher
 ---
 
@@ -11,7 +11,7 @@ contributor: deercrusher
 The Settings menu allows you to customize your Infinite Flight experience before and during play. Below is a guide to help you navigate your way around and to find the best settings for you!
 
 
-![Settings Page](_images/manual/frames/settings-main1.png)
+![Settings Page](_images/manual/frames/settings-main2.png)
 
 
 1. On the left hand side of the screen are 6 categories that split the settings up, tap each one to find settings within
@@ -57,9 +57,9 @@ The Settings menu allows you to customize your Infinite Flight experience before
 | Enable ForeFlight Link                  | Sends Position/Altitude/Traffic data to local devices running ForeFlight (for more info click [here](/guide/getting-started-guide/home-user-interface/settings#foreflight)) |
 | Enable Infinite Flight Connect          | Enables Infinite Flight Connect API System (toggle this on to allow Infinite Flight and third party apps such as InFlight Assistant and Fly-By-Wire to bridge if they are on the same network) |
 | Show Touches                            | Useful when recording videos/tutorials                       |
-| Enable Automatic Low Power              | Enters low power mode during longer flights to save battery (this intentionally reduces frame rates to be more efficient with power consumption - it is normal to see lower quality frame rates with this setting) |
 | Automatic Engine Start                  | Always starts with the engine running (once you spawn, engines will be heard & can be seen running) |
 | Weight Units                            | Select what weight unit you want to use i.e. Kgs or Lbs (aircraft fuel quantity and consumption will then been shown in this unit) |
+| Show Performance Metrics                | Shows metrics including the current frame rate               |
 | Clear Scenery Cache                     | Clear scenery data cached on local storage (users that are experiencing issues falling through taxiways, aprons, ramps, runways or experiencing any other scenery related type of issues should tap on “Clear Cache”. If issues persist after you’ve tried that, consider making a [#support](https://community.infiniteflight.com/c/support/17) ticket to report your issue) |
 | Screenshot Resolution Scale             | Resolution scale factor for screenshots                      |
 
@@ -71,11 +71,11 @@ Tip
 
 
 
-## Live
+## Online
 
  
 
-![Live Settings Page](_images/manual/frames/settings-live1.png)
+![Online Settings Page](_images/manual/frames/settings-live2.png)
 
 
 
@@ -118,7 +118,17 @@ Tip
 
 
 
-![Account Settings Page](_images/manual/frames/account1.png)
+![Account Settings Page](_images/manual/frames/account1b.png)
+
+
+
+## Logbook
+
+All live and solo flights are recorded here so that you can keep track of your flights.
+
+
+
+![Logbook Page](_images/manual/frames/logbook1.png)
 
 
 
@@ -128,7 +138,7 @@ There are two sliders that adjust the SFX and ATC Volume. Slide your finger alon
 
 
 
-![Audio Settings Page](_images/manual/frames/settings-audio1.png)
+![Audio Settings Page](_images/manual/frames/settings-audio2.png)
 
 
 
@@ -151,17 +161,19 @@ Infinite Flight supports both iOS and Android devices; because of this, the sett
 
 
 
-![Graphics Settings Page](_images/manual/frames/settings-graphics1.png)
+![Graphics Settings Page](_images/manual/frames/settings-graphics2.png)
 
 
 
 | Setting              | What it does                                                 |
 | -------------------- | ------------------------------------------------------------ |
 | Rendering Quality    | Controls the quality of the rendering                        |
+| 3D Object Density    | Controls the density of objects at airports                  |
 | Rendering Resolution | Controls the rendering resolution of the aircraft and scenery |
 | Texture Quality      | Controls the quality of the textures                         |
 | Anti-Aliasing        | Makes lines/graphics smoother and softens out the jagged/rough graphics that you may experience (it is not supported on all devices and can run very slow because of this - if device performance starts to degrade, turn this setting to **OFF**) |
 | Limit Frame Rate     | Limit Frame Rate to optimize battery life, when toggled to **ON** the rate is capped at 30 frames per second; when toggled to **OFF**, frame rates are much higher and will also reduce device performance (we recommend using this function for medium/long haul flying) |
+| Benchmark            | Run graphics benchmark to determine the performance at these graphics settings |
 
 
 
@@ -185,7 +197,7 @@ In the control settings you can further adjust your control sensitivity for each
 
 
 
-![Control Settings Page](_images/manual/frames/settings-controls1.png)
+![Control Settings Page](_images/manual/frames/settings-controls2.png)
 
 
 
@@ -203,7 +215,7 @@ Tip
 
    
 
-3. The "Restore Defaults" button will reset your control settings to factory option. If you’re having trouble with sensitivities or any other control issues, we recommend you use this. The "Show Devices" button will show the devices (if any) that it is using for your controls. Without any external joysticks or yokes, clicking this button will show 1 device. The "Setup Tutorial" button will redirect you to a tutorial on the Infinite Flight Community forum. This will guide you how to set up joysticks, yokes or any other external devices
+3. The "Restore Defaults" button will reset your control settings to factory option. If you’re having trouble with sensitivities or any other control issues, we recommend you use this. The "Show Devices" button will show the devices (if any) that it is using for your controls. Without any external joysticks or yokes, clicking this button will show 1 device. The "Setup Guide" button will redirect you to a tutorial on the Infinite Flight Community forum. This will guide you how to set up joysticks, yokes or any other external devices
 
 
 

@@ -122,7 +122,7 @@ We recommend that you only appeal **Level 3** Violations as these prevent access
 
 Step 1
 
-: Access your [logbook](/guide/getting-started-guide/home-user-interface/logbook#logbook) from the [home screen](/guide/getting-started-guide/home-user-interface/home-screen#home-screen)
+: Access your [logbook](/guide/getting-started-guide/home-user-interface/settings#logbook) from the [settings](/guide/getting-started-guide/home-user-interface/settings) page
 
  
 
