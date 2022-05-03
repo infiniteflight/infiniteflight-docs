@@ -26,13 +26,23 @@ Should
 
 
 
-## ATC Manual Version (Internal): 22.3.0
+## ATC Manual Version (Internal): 22.3.1
 
-## Last Updated: 1100Z - 02 MAY 22
+## Last Updated: 1000Z - 03 MAY 22
 
 
 
-+++ Summary of Changes - Version: 22.3.0 (CURRENT VERSION)
++++ Summary of Changes - Version: 22.3.1 (CURRENT VERSION)
+
+| Location | Change                                |
+| -------- | ------------------------------------- |
+| 7A.2.7   | Removal of suggested training airport |
+
++++
+
+
+
++++ Summary of Changes - Version: 22.3.0
 
 | Location | Change                                                       |
 | -------- | ------------------------------------------------------------ |
@@ -53,20 +63,6 @@ Should
 | 1B.2.1   | Added insulting or inappropriate flight path/plan(s) to the list of reasons for issuing a Violation |
 | 2.3.2    | More clarity added on the conditions for runway crossings    |
 | 6.6.5    | Note added to reference occasions where a Violation can be issued |
-
-+++
-
-
-
-+++ Summary of Changes - Version: 22.1.0.2
-
-| Location           | Change                                                       |
-| ------------------ | ------------------------------------------------------------ |
-| 1.2.1 / Section 1A | Multiple references to FNF removed                           |
-| 1A.2.2             | Reference to Regions removed                                 |
-| 1A.5.2             | Reference to Admins removed and replaced with IFATC Moderators |
-| 1B.1.4             | Spelling mistake in pro tip corrected                        |
-| 4.2.1              | "No Light Aircraft" ATIS remark changed to Controller discretion (except for GA focussed airports) |
 
 +++
 
