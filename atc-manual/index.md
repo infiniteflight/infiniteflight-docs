@@ -8,7 +8,7 @@ meta: Introduction to the Infinite Flight Air Traffic Controller (IFATC) Manual.
 
 
 
-## Guide Version: 22.3.0
+## Guide Version: 22.4.0
 
 
 
@@ -65,5 +65,4 @@ Should
 | 6.6.5    | Note added to reference occasions where a Violation can be issued |
 
 +++
-
 
