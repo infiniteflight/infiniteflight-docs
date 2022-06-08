@@ -160,17 +160,20 @@ Step 4
 
 Step 5
 
-: Access the [Ground Services](/guide/getting-started-guide/pilot-user-interface/ground-services) menu and select the following:
+: Access the [Ground Services](/guide/getting-started-guide/pilot-user-interface/ground-services) menu and select the following services:
 
+ 
 
-
-
-| Ground          | Action  |
-| --------------- | ------- |
-| Connect Bridges | **TAP** |
+| Ground    | Action  |
+| --------- | ------- |
+| PAX       | **TAP** |
+| CATERING  | **TAP** |
+| CARGO     | **TAP** |
+| GND POWER | **TAP** |
 
 {.checklist}
 
 
 
-> The parking brake must be set and the engines switched off before you can connect the jet bridges
+> For ground services to be used the aircraft must be parked at a stand that is large enough for that aircraft type, the parking brake set and the engines and beacon set to off. Pushback is only possible when all other ground services are deselected (provided the aircraft is capable of pushback)
+

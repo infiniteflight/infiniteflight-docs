@@ -26,13 +26,25 @@ Should
 
 
 
-## ATC Manual Version (Internal): 22.3.1
+## ATC Manual Version (Internal): 22.4.1
 
-## Last Updated: 1000Z - 03 MAY 22
+## Last Updated: 1430Z - 08 JUN 22
 
 
 
-+++ Summary of Changes - Version: 22.3.1 (CURRENT VERSION)
++++ Summary of Changes - Version: 22.4.1 (CURRENT VERSION)
+
+| Location | Change                                                       |
+| -------- | ------------------------------------------------------------ |
+| 1A.5.1   | 6 months changed to 12 months to align with recruitment procedures in Section 7C |
+| 3.2.5    | Adjusted wording to ensure clarity when handling intersection departures |
+| 3.6.1    | Pro Tip added to recommend using the same tower frequency when switching Controllers with Radar present |
+
++++
+
+
+
++++ Summary of Changes - Version: 22.3.1
 
 | Location | Change                                |
 | -------- | ------------------------------------- |

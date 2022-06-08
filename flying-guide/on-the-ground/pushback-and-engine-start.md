@@ -15,7 +15,7 @@ order: 4
 
  
 
-Before commencing a pushback, make sure to access the [Systems](/guide/getting-started-guide/pilot-user-interface/systems#systems) menu and select the following:
+When you first spawn at the gate, make sure to access the [Systems](/guide/getting-started-guide/pilot-user-interface/systems#systems) menu and select the following:
 
 
 
@@ -48,25 +48,47 @@ Before commencing a pushback, make sure to access the [Systems](/guide/getting-s
 
 
 
+Access the [Ground Services](/guide/getting-started-guide/pilot-user-interface/ground-services) menu and select the following services: 
+
+
+
+| Ground    | Action  |
+| --------- | ------- |
+| PAX       | **TAP** |
+| CATERING  | **TAP** |
+| CARGO     | **TAP** |
+| GND POWER | **TAP** |
+
+{.checklist}
+
+
+
+> For ground services to be used the aircraft must be parked at a stand that is large enough for that aircraft type, the parking brake set and the engines and beacon set to off. Pushback is only possible when all other ground services are deselected (provided the aircraft is capable of pushback)
+
+
+
 ## Pushback
 
  
 
 Step 1
 
-: Check surroundings to make sure it is clear, use the [Cameras](/guide/getting-started-guide/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started-guide/pilot-user-interface/flight-planning#mini-map) to help you. If jet bridges have been connected, these must be stowed before pushback
+: Check surroundings to make sure it is clear, use the [Cameras](/guide/getting-started-guide/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started-guide/pilot-user-interface/flight-planning#mini-map) to help you. If ground services have been used, these must be deselected before pushback
 
 
 
 Step 2
 
-: Access the [Ground Services](/guide/getting-started-guide/pilot-user-interface/ground-services) menu and select the following:
+: Access the [Ground Services](/guide/getting-started-guide/pilot-user-interface/ground-services) menu and deselect the following services if they have been selected (they will be highlighted in orange if they have been selected):
 
  
 
-| Ground       | Action  |
-| ------------ | ------- |
-| Stow Bridges | **TAP** |
+| Ground    | Action  |
+| --------- | ------- |
+| PAX       | **TAP** |
+| CATERING  | **TAP** |
+| CARGO     | **TAP** |
+| GND POWER | **TAP** |
 
 {.checklist}
 
