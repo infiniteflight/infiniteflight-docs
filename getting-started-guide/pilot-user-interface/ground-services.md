@@ -23,11 +23,11 @@ Step 1
 
 Step 2
 
-: Within the menu there are various options that can be selected. And services that are selected will be highlighted orange
+: Within the menu there are various options that can be selected. Services that are selected will be highlighted orange
 
 
 
-> For jet bridges to be attached the aircraft must be parked at a stand that is large enough for that aircraft type, the parking brake set and the engines set to off. Pushback is only possible when all other ground services are deselected (provided the aircraft is capable of pushback)
+> For ground services to be used the aircraft must be parked at a stand that is large enough for that aircraft type, the parking brake set and the engines and beacon set to off. Pushback is only possible when all other ground services are deselected (provided the aircraft is capable of pushback)
 
 
 
