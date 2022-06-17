@@ -66,15 +66,3 @@ Should
 +++
 
 
-
-+++ Summary of Changes - Version: 22.2.1
-
-| Location | Change                                                       |
-| -------- | ------------------------------------------------------------ |
-| 1A.3.1   | Added clarification on including the actual facilities opened/closed (such as Ground or Tower) when announcing in *#controllers* |
-| 1B.2.1   | Added insulting or inappropriate flight path/plan(s) to the list of reasons for issuing a Violation |
-| 2.3.2    | More clarity added on the conditions for runway crossings    |
-| 6.6.5    | Note added to reference occasions where a Violation can be issued |
-
-+++
-

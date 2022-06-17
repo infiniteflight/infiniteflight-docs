@@ -175,5 +175,5 @@ Step 5
 
 
 
-> For ground services to be used the aircraft must be parked at a stand that is large enough for that aircraft type, the parking brake set and the engines and beacon set to off. Pushback is only possible when all other ground services are deselected (provided the aircraft is capable of pushback)
+> For ground services to be used the aircraft must be parked at a stand that is large enough for that aircraft type, the parking brake set and the engines and beacon set to off
 

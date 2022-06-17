@@ -77,6 +77,36 @@ Want to know what everything in the ATIS means? Visit our [ATC Manual](/guide/at
 
 
 
+## Autopilot (AP) Setup
+
+Before departure, your Autopilot should be set up with initial "targets", to do this follow the steps below:
+
+
+
+Step 1
+
+: Open the [Autopilot](/guide/getting-started-guide/pilot-user-interface/autopilot) FCU (Flight Control Unit) by tapping "AP OFF" on the right of the screen
+
+
+
+Step 2
+
+: Change the "SPD" (speed) button to select your target climb speed for after take-off (should be V2)
+
+
+
+Step 3
+
+: Change the "ALT" (altitude) button to select your desired target stop altitude after departure (usually the stop altitude for the [SID](/guide/flying-guide/take-off-to-cruise/standard-instrument-departure-(sid)-navigation) you plan on flying)
+
+
+
+Step 4
+
+: You should then see these targets on the PFD and HUD
+
+
+
 ## Flight Plan
 
 ![Map Screen](_images/manual/frames/flight-planning-map.png)

@@ -10,11 +10,37 @@ order: 6
 
 
 
-## Trim and Flaps
+## After Start
 
  
 
-Before you’re ready to taxi, you need to set your [Trim and Flaps](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls) for take-off. Press and hold on each of them until you have the desired setting.
+Once your engine(s) is/are started and before commencing taxi, the after start checks should be completed:
+
+
+
+Step 1
+
+: Set [Spoilers](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls) to **ARMED**
+
+
+
+Step 2
+
+: Set [Trim and Flaps](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls) for take-off
+
+
+
+Step 3
+
+: Set [Autobrake](/guide/flying-guide/on-the-ground/autobrake) to **MAX** (if fitted) by accessing the [Systems](/guide/getting-started-guide/pilot-user-interface/systems#systems) menu and selecting the following:
+
+
+
+| Misc       | Action  |
+| ---------- | ------- |
+| Autobrakes | **MAX** |
+
+{.checklist}
 
 
 
@@ -74,3 +100,6 @@ Step 5
  
 
 Once you’re clear of the runway, you can turn these lights back to **OFF**.
+
+
+
