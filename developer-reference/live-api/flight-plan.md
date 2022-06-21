@@ -51,7 +51,8 @@ Include your API key (`<apikey>`) by either:
           "altitude": -1,
           "location": {
             "latitude": 26.92723722,
-            "longitude": -77.47139889
+            "longitude": -77.47139889,
+            "altitude": 0
           }
         },
         {
@@ -66,7 +67,8 @@ Include your API key (`<apikey>`) by either:
               "altitude": 4000,
               "location": {
                 "latitude": 44.97196917,
-                "longitude": -93.429735
+                "longitude": -93.429735,
+                "altitude": 0
               }
             },
             {
@@ -77,7 +79,8 @@ Include your API key (`<apikey>`) by either:
               "altitude": -1,
               "location": {
                 "latitude": 44.887794494628906,
-                "longitude": -93.23413848876953
+                "longitude": -93.23413848876953,
+                "altitude": 0
               }
             }
           ],
@@ -85,7 +88,8 @@ Include your API key (`<apikey>`) by either:
           "altitude": 0,
           "location": {
             "latitude": 0,
-            "longitude": 0
+            "longitude": 0,
+            "altitude": 0
           }
         }
       ]
@@ -129,3 +133,4 @@ Include your API key (`<apikey>`) by either:
 | ----------- | ------ | ----------------------------------------- |
 | `latitude`  | double | Current decimal latitude of the aircraft  |
 | `longitude` | double | Current decimal longitude of the aircraft |
+| `altitude`  | double | Current decimal altitude of the aircraft  |

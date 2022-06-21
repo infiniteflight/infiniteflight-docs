@@ -11,11 +11,23 @@ order: 4
 
 
 
-## Electrical, Signs and Lights
+## Preliminary Cockpit Preparation
 
- 
 
-When you first spawn at the gate, make sure to access the [Systems](/guide/getting-started-guide/pilot-user-interface/systems#systems) menu and select the following:
+
+After spawning, access the [Ground Services](/guide/getting-started-guide/pilot-user-interface/ground-services) menu and select the following service (if available for that aircraft type): 
+
+
+
+| Ground    | Action  |
+| --------- | ------- |
+| GND POWER | **TAP** |
+
+{.checklist}
+
+
+
+Then access the [Systems](/guide/getting-started-guide/pilot-user-interface/systems#systems) menu and select the following:
 
 
 
@@ -30,16 +42,6 @@ When you first spawn at the gate, make sure to access the [Systems](/guide/getti
 
 
 
-
-| Passengers | Action |
-| ---------- | ------ |
-| Seat Belts | **ON** |
-| No Smoking | **ON** |
-
-{.checklist}
-
-
-
 | Lights | Action |
 | ------ | ------ |
 | Nav    | **ON** |
@@ -48,22 +50,33 @@ When you first spawn at the gate, make sure to access the [Systems](/guide/getti
 
 
 
+
+| Passengers  | Action |
+| ----------- | ------ |
+| Seat Belts* | **ON** |
+| No Smoking  | **ON** |
+
+{.checklist}
+
+*When you have finished refuelling
+
+
+
 Access the [Ground Services](/guide/getting-started-guide/pilot-user-interface/ground-services) menu and select the following services: 
 
 
 
-| Ground    | Action  |
-| --------- | ------- |
-| PAX       | **TAP** |
-| CATERING  | **TAP** |
-| CARGO     | **TAP** |
-| GND POWER | **TAP** |
+| Ground   | Action  |
+| -------- | ------- |
+| PAX      | **TAP** |
+| CATERING | **TAP** |
+| CARGO    | **TAP** |
 
 {.checklist}
 
 
 
-> For ground services to be used the aircraft must be parked at a stand that is large enough for that aircraft type, the parking brake set and the engines and beacon set to off. Pushback is only possible when all other ground services are deselected (provided the aircraft is capable of pushback)
+> For ground services to be used the aircraft must be parked at a stand that is large enough for that aircraft type, the parking brake set and the engines and beacon set to off
 
 
 
@@ -74,6 +87,10 @@ Access the [Ground Services](/guide/getting-started-guide/pilot-user-interface/g
 Step 1
 
 : Check surroundings to make sure it is clear, use the [Cameras](/guide/getting-started-guide/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started-guide/pilot-user-interface/flight-planning#mini-map) to help you. If ground services have been used, these must be deselected before pushback
+
+
+
+> Make sure to have the APU running (if fitted) before disconnecting the ground power
 
 
 
@@ -91,6 +108,10 @@ Step 2
 | GND POWER | **TAP** |
 
 {.checklist}
+
+
+
+> The ground services can be disconnected in any order and is usually done when that ground service has completed their assigned tasks as decided by the pilot
 
 
 
@@ -134,6 +155,10 @@ Step 5
 
 
 
+> Your parking brake must be set to **OFF** before you can push
+
+
+
 Step 6
 
 : Make sure to have a plan on where to push. ATC may tell you what runway to expect for departure too. Use the [Cameras](/guide/getting-started-guide/pilot-user-interface/cameras#camera) and [Mini Map](/guide/getting-started-guide/pilot-user-interface/flight-planning#mini-map) throughout the pushback and the [Rudder](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls) for directional control
@@ -155,6 +180,10 @@ Step 7
 
 
 
+> You should set your parking brake to **ON** once the push has been completed and before detaching the tug
+
+
+
 Tip
 
 :   When aligning your aircraft with the taxiway centerline, anticipation is required. Don’t forget that the larger the aircraft, the sooner you will have to start the turn!
@@ -163,7 +192,7 @@ Tip
 
 ## Engine Start
 
-Engine start can commence during or after the push back.
+Engine start can commence during or after the pushback.
 
  
 

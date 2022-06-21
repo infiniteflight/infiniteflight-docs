@@ -20,13 +20,28 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 
 
 
-## Scenery Editor Manual Version (Internal): 22.2.1
+## Scenery Editor Manual Version (Internal): 22.4.1
 
-## Last Updated: 1400Z - 21 APR 22
+## Last Updated: 1000Z - 20 JUN 22
 
 
 
-+++ Summary of Changes - Version: 22.2.1 (CURRENT VERSION)
++++ Summary of Changes - Version: 22.4.1 (CURRENT VERSION)
+
+| Location              | Change                                                       |
+| --------------------- | ------------------------------------------------------------ |
+| 2.1.2                 | Reference to model lines added                               |
+| 5.1, 6.1, 8.1 and 9.1 | Do's and Don'ts added                                        |
+| 6.2.3                 | Added ILS holds and runway turnaround lines to table         |
+| 6.2.4                 | Added runway and ILS holds to table                          |
+| 9.5                   | New section for model lines                                  |
+| 11.2                  | Notes added to highlight particular points in the editor checklist |
+
++++
+
+
+
++++ Summary of Changes - Version: 22.2.1
 
 | Location | Change          |
 | -------- | --------------- |
@@ -47,19 +62,4 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 
 +++
 
-
-
-+++ Summary of Changes - Version: 22.1.0.8
-
-| Location   | Change                                                       |
-| ---------- | ------------------------------------------------------------ |
-| 1.2.1      | Abbreviations updated                                        |
-| Section 1A | Removed, all in-house rules will be located in Discord       |
-| 2.1.2      | References changed for jet bridges (contained within the new Section 8) |
-| 3.1.3      | References changed for start locations, stand guidance and jet bridges (contained within the new Section 8) |
-| 7.1.1      | References changed for start locations, stand guidance and jet bridges (contained within the new Section 8) |
-| Section 8  | New section for airport gates added (includes start locations, stand guidance and jet bridges) |
-| Section 9  | New section for review and release to make space for Section 8 |
-
-+++
 
