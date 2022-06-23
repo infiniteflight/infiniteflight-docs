@@ -22,7 +22,7 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 
 ## Scenery Editor Manual Version (Internal): 22.4.1
 
-## Last Updated: 1000Z - 20 JUN 22
+## Last Updated: 1300Z - 23 JUN 22
 
 
 
@@ -31,7 +31,7 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 | Location              | Change                                                       |
 | --------------------- | ------------------------------------------------------------ |
 | 2.1.2                 | Reference to model lines added                               |
-| 5.1, 6.1, 8.1 and 9.1 | Do's and Don'ts added                                        |
+| 5.1, 6.1, 8.1 and 9.1 | "Do and Do Not" tables added                                 |
 | 6.2.3                 | Added ILS holds and runway turnaround lines to table         |
 | 6.2.4                 | Added runway and ILS holds to table                          |
 | 9.5                   | New section for model lines                                  |
@@ -61,5 +61,4 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 | 9.1.1    | Editor checklist updated (now in alphabetical order and gates/jet bridges added) |
 
 +++
-
 
