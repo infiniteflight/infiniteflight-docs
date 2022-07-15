@@ -3,7 +3,7 @@ id: samples
 title: Samples & Client Libraries
 meta: Samples and Client Libraries for the Infinite Flight Live API
 order: 19
-contributor: A-FitzGerald
+contributor: A-FitzGerald,SPEEDBIRD101
 ---
 
 # Live API Samples & Client Libraries
@@ -14,3 +14,4 @@ Below you can find a range of samples in a variety of languages to help you get 
 - [C#](https://github.com/Velocity23/infiniteflightlive-samples/tree/master/C%23)
 - [Kotlin](https://github.com/A-FitzGerald/InfiniteLiveKt) (thanks @A-FitzGerald)
 - [PHP](https://github.com/Velocity23/infiniteflightlive-samples/tree/master/PHP)
+- [Python](https://github.com/SPEEDBIRD101-CLXVA/InfiniteFlight-LiveApi) (thanks @SPEEDBIRD101)
