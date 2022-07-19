@@ -274,6 +274,10 @@ Step 6
 
 
 
+> There is also a search bar available to find the airline or general aviation code you want
+
+
+
 Tip
 
 : The country code applies to where the aircraft is registered - therefore it does not need to be the same as the country you are flying from/to!
