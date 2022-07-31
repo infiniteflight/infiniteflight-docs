@@ -2,7 +2,7 @@
 id: samples
 title: Samples
 meta: Samples for the Infinite Flight Connect APIs
-order: 4
+order: 5
 contributor: tomthetank,likeablegeek
 ---
 
