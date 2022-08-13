@@ -1,5 +1,5 @@
 ---
-id: aircraft
+id: aircraft-liveries
 title: Get Aircraft Liveries
 meta: Overview of the Aircraft Liveries endpoint of the Infinite Flight Live API
 order: 20
