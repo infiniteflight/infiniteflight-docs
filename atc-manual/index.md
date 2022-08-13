@@ -8,7 +8,7 @@ meta: Introduction to the Infinite Flight Air Traffic Controller (IFATC) Manual.
 
 
 
-## Guide Version: 22.4.0
+## Guide Version: 22.5.0
 
 
 
@@ -26,13 +26,25 @@ Should
 
 
 
-## ATC Manual Version (Internal): 22.4.1
+## ATC Manual Version (Internal): 22.5.1
 
-## Last Updated: 1430Z - 08 JUN 22
+## Last Updated: 1430Z - 19 JUL 22
 
 
 
-+++ Summary of Changes - Version: 22.4.1 (CURRENT VERSION)
++++ Summary of Changes - Version: 22.5.1 (CURRENT VERSION)
+
+| Location | Change                                                       |
+| -------- | ------------------------------------------------------------ |
+| 1B.3.1   | Appeals can be made outside of the 7 day window, however it will only be reviewed at the discretion of the Appeals Team |
+| 7B.2.1   | Some test sites adjusted                                     |
+| 7E.2.3   | Appeals can be made outside of the 7 day window, however it will only be reviewed at the discretion of the Appeals Team |
+
++++
+
+
+
++++ Summary of Changes - Version: 22.4.1
 
 | Location | Change                                                       |
 | -------- | ------------------------------------------------------------ |
@@ -49,19 +61,6 @@ Should
 | Location | Change                                |
 | -------- | ------------------------------------- |
 | 7A.2.7   | Removal of suggested training airport |
-
-+++
-
-
-
-+++ Summary of Changes - Version: 22.3.0
-
-| Location | Change                                                       |
-| -------- | ------------------------------------------------------------ |
-| 1B.3.1   | All replays to be kept by Controllers for a minimum of 7 days |
-| 7B.2.1   | Airports updated for the Initial Practical Test              |
-| 7B.3.2   | Airports updated for the Radar Practical Test and recommended STARs removed |
-| 7B.3.3   | Retest site removed                                          |
 
 +++
 
