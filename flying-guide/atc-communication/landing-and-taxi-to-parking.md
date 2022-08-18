@@ -50,9 +50,9 @@ Step 4
 | ----------------------- | ------------------------------------------------------------ |
 | Send                    | When not cleared for an approach by a Radar Controller       |
 | Request Specific Runway | When not cleared for an approach by a Radar Controller       |
-| On the ILS              | After being cleared for the ILS Approach by a Radar Controller |
-| On the GPS              | After being cleared for the GPS Approach by a Radar Controller |
-| On the Visual           | After being cleared for the Visual Approach by a Radar Controller |
+| On the ILS              | When cleared for the ILS Approach by a Radar Controller or flying a charted ILS Approach |
+| On the GPS              | When cleared for the GPS Approach by a Radar Controller or flying a charted GPS Approach |
+| On the Visual           | When cleared for the Visual Approach by a Radar Controller or flying a charted Visual Approach |
 
 
 
