@@ -8,7 +8,7 @@ meta: Learn how to use the Infinite Flight Scenery Editor with our online docume
 
 
 
-## Guide Version: 22.5.0
+## Guide Version: 22.6.0
 
 
 

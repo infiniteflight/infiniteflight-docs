@@ -20,6 +20,16 @@ Our documentation is written in Markdown, hosted in GitHub and rendered using ou
 
 
 
+## Community Contribution
+
+The community can contribute to any of the guides by tapping the "Contribute on GitHub" link located at the bottom of every page of the guides. Our announcement on the IFC as well as this ReadMe document should both be consulted when making any changes to the guides to ensure compliance. 
+
+
+
+>  Localization (i.e. providing the guides in a different language) is not currently supported and therefore only edits in US english will be accepted at this time
+
+
+
 ## Setting up an Editing Environment
 
 
@@ -69,7 +79,7 @@ Step 1
 
 Step 2
 
-: In this case, select the ``Documents\GitHub\infiniteflight-docs` folder, which will look like this
+: In this case, select the `Documents\GitHub\infiniteflight-docs` folder, which will look like this
 
 ​	![image-20191119160558562](_images/image-20191119160558562.png)
 
@@ -200,7 +210,7 @@ See  `_template.md` for an example on how to style a new page.
 
 ### Language
 
-US English must be used for the documentation
+US English must be used for the documentation.
 
 
 
