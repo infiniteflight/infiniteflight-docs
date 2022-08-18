@@ -71,7 +71,7 @@ Include your API key (`<apikey>`) by either:
 | `flightId`            | string (uuid) | Unique identifier for the flight                             |
 | `userId`              | string (uuid) | Unique identifier for the user                               |
 | `aircraftId`          | string (uuid) | Unique identifier for the aircraft type                      |
-| `liveryId`            | string (uuid) | Unique identifier for the livery and aircraft combination    |
+| `liveryId`            | string (uuid) | Unique identifier for the livery and aircraft combination. **This is currently only supported on the Casual server**    |
 | `username`            | string        | The user's forum username if the account is linked. If the account isn't linked, this will be null |
 | `virtualOrganization` | string        | The virtual organization of the user's forum account if linked. Can be null if not set |
 | `callsign`            | string        | Callsign for the flight                                      |
