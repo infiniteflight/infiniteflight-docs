@@ -76,7 +76,3 @@ Below is a complete list of all the reasons that can be used by Controllers when
 
 
 > Fighter aircraft must not exceed 350KIAS when below 10,000ft and under ATC control, however Pilots are expected to maintain a reasonable speed in the vicinity of other aircraft or when instructed to slow down by Controllers. Reporting for excessive speed can be issued when a lack of etiquette is shown. Standard speed restrictions for commercial aircraft also apply to military cargo aircraft (i.e. maximum 250 KIAS when below 10,000ft and under ATC control)
-
-
-
-### 
