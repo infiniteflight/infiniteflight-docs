@@ -91,7 +91,7 @@ Include your API key (`<apikey>`) by either:
 | `created` | string (datetime) | The time the flight was created |
 | `userId` | string (uuid) | The ID of the user who flew the flight |
 | `aircraftId` | string (uuid) | The ID of the aircraft flown |
-| `liveryId` | string (uuid) | The ID of the livery flown |
+| `liveryId` | string (uuid) | The ID of the livery flown. **This is currently only supported on the Casual server** |
 | `callsign` | string | The callsign of the user during this flight |
 | `server` | string | The name of the server the flight was flown on |
 | `dayTime` | float | The flight time during the day, in minutes |

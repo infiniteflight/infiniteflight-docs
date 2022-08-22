@@ -111,15 +111,25 @@ Situational awareness whilst flying is an important aspect that pilots must main
 
 +++ Fighter Aircraft Etiquette
 
-There is currently no system limit on speeds for fighter aircraft, however a reasonable speed should always be maintained when in a controlled airspace, whether tower or approach. As a general rule 250-300kts should never be exceeded when under the control of ATC.
+There is currently no automated system limit on speeds for fighter aircraft, however a reasonable speed should always be maintained when in a controlled airspace, whether tower or approach. 
 
 
 
-The following are a good rule of thumb and the *recommended* military aircraft parameters:
+Enforced procedures:
 
-- Do not exceed M1.0 in normal flight
-- Do not exceed 300KIAS under ATC control or in a congested airspace
-- Do not exceed 250KIAS within 15 miles of the landing airport
+- Do not exceed 350KIAS when below 10,000ft and under ATC control 
+
+
+
+Recommended procedures:
+
+- Should not exceed M1.0 in normal flight
+- Should not exceed 250KIAS when operating in a congested commercial aircraft environment 
+- Monitor speed of traffic in vicinity and adjust speed accordingly 
+
+
+
+> Standard speed restrictions for commercial aircraft also apply to military cargo aircraft (i.e. maximum 250 KIAS when below 10,000ft and under ATC control)
 
 
 
