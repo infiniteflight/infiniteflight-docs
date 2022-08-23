@@ -8,6 +8,10 @@ contributor: KaiM
 
 # Infinite Flight OpenTrack API
 
+NOT AVAILABLE IN 22.6
+
+: Due to a bug, this API is not available in Infinite Flight 22.6. We'll re-add this in a future app update. Apologies for any inconvenience
+
 The OpenTrack API is an extremely simple UDP API used to control the camera in-game. This function was added in Infinite Flight version 20.2.
 
 ## How to use the API
