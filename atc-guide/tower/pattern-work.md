@@ -79,7 +79,7 @@ Scenario
 :::
 
 ::: scenario
-*YU-UMMY* is number 1 for runway 10R, *G-ZZJB* is sequenced number 2 for runway 10R, *G-RIZZ* is number 1 for 10L and *N623KB* is sequenced number 2 for 10L. *YU-UMMY* then asks for a RWY change to 10L. 
+*YU-MMY* is number 1 for runway 10R, *G-ZZJB* is sequenced number 2 for runway 10R, *G-RIZZ* is number 1 for 10L and *N623KB* is sequenced number 2 for 10L. *YU-MMY* then asks for a RWY change to 10L. 
 ::: 
 
 [Insert requested by Regan]
@@ -88,16 +88,16 @@ Scenario
 
 | Technique 1                                                  |
 | ------------------------------------------------------------ |
-| 1: Instruct *YU-UMMY* to "enter right downwind RWY10L, number 2, traffic to follow is on left downwind” |
-| 2: If you are concerned about a conflict on base between *‌G-RIZZ* and *YU-UMMY*, then you can also tell *G-RIZZ* to "turn base" ahead of *YU-UMMY* to alleviate this | 
-| 3: When you clear *YU-UMMY* for the option, you can then tell them to “make left traffic” if you wish to do so to move them onto that side for subsequent patterns |
+| 1: Instruct *YU-MMY* to "enter right downwind RWY10L, number 2, traffic to follow is on left downwind” |
+| 2: If you are concerned about a conflict on base between *‌G-RIZZ* and *YU-MMY*, then you can also tell *G-RIZZ* to "turn base" ahead of *YU-MMY* to alleviate this | 
+| 3: When you clear *YU-MMY* for the option, you can then tell them to “make left traffic” if you wish to do so to move them onto that side for subsequent patterns |
 | 4: Issue *N623KB* a re-sequence to follow *‌G-RIZZ* “number 3, traffic to follow is on left downwind” |
 
 {.technique}
 
 | Technique 1       | Pro or Con?                                 |
 | ----------------- | ------------------------------------------- |
-| :fa-check-circle: | *YU-UMMY* will not have to extend downwind and the controller will have to issue less commands, lightening the pilot’s and controller’s workload                             |
+| :fa-check-circle: | *YU-MMY* will not have to extend downwind and the controller will have to issue less commands, lightening the pilot’s and controller’s workload                             |
 | :fa-times-circle: | *N623KB* is in a C172 and you could accommodate a shorter downwind for them by sequencing *YU-UMMY* number 3 to follow *N623KB* | 
 
 {.prosandcons}
@@ -110,10 +110,10 @@ Tip
 | Technique 2                                                  |
 | ------------------------------------------------------------ |
 | 1: Instruct *G-ZZJB* to "turn base”                     |
-| 2: Instruct *YU-UMMY* to “enter right downwind RW10L, number 3 traffic to follow is on left downwind” |
+| 2: Instruct *YU-MMY* to “enter right downwind RW10L, number 3 traffic to follow is on left downwind” |
 | 3: To alleviate the risk of confusion between pilots you can instruct *YU-UMMY* to “extend downwind, I’ll call your base” to ensure there is no conflict with *N623KB* |
 | 4: You can instruct *N623KB* to turn base when appropriate so *YU-UMMY* doesn’t have to extend downwind as far |
-| 5: Instruct *YU-UMMY* to “turn base” when adequate spacing is achieved between them and *N623KB* | 
+| 5: Instruct *YU-MMY* to “turn base” when adequate spacing is achieved between them and *N623KB* | 
 
 {.technique}
 
