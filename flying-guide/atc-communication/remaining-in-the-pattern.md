@@ -65,6 +65,10 @@ Step 5
 ![Sequence and Clearance](_images/manual/frames/sequence-and-clearance.png)
 
 
+Manual
+
+: Make sure you are flying at the correct altitude while remaining in the pattern. The pattern altitude is 1000ft AAL (above aerodrome level) for props and 1500ft AAL for jets. [More info?](https://infiniteflight.com/guide/atc-manual/3.-tower/3.4-pattern-work-transitions-flight-of-xx#3.4.1)
+
 
 ## Remaining in the Pattern Communication Tables
 
