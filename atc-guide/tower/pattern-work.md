@@ -79,7 +79,7 @@ Scenario
 :::
 
 ::: scenario
-*YU-MMY* is number 1 for runway 10R, *G-ZZJB* is sequenced number 2 for runway 10R, *G-RIZZ* is number 1 for 10L and *N623KB* is sequenced number 2 for 10L. *YU-MMY* then asks for a RWY change to 10L. 
+*YU-MMY* is number 1 for runway 10R, *G-ZZJB* is sequenced number 2 for runway 10R, *G-RIZZ* is number 1 for runway 10L and *N623KB* is sequenced number 2 for runway 10L. *YU-MMY* then asks for a RWY change to 10L. 
 ::: 
 
 [Insert requested by Regan]
