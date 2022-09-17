@@ -12,7 +12,7 @@ NOT AVAILABLE IN 22.6
 
 : Due to a bug, this API is not available in Infinite Flight 22.6. We'll re-add this in a future app update. Apologies for any inconvenience
 
-To set the Camera Position using the OpenTrack API, send just one chunk with 6 `double` values in the following order.
+To set the Camera Position using the OpenTrack API, send just one chunk with 6 `double` values in [Little-Endian](/guide/developer-reference/connect-api/version-2#little-endian) format in the following order.
 
 * X-Axis
 * Y-Axis
