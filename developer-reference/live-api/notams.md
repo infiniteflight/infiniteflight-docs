@@ -73,7 +73,7 @@ Include your API key (`<apikey>`) by either:
 | `author`          | string | Name of NOTAM author                      |
 | `type`            | NotamType | Type of NOTAM. _Enum:_ `"NOTAM" = 0, "TFR" = 1`    |
 | `sessionId`            | string (uuid)        | The ID of the session on which the NOTAM is published. `null` for all sessions. |
-| `radius` | float        | The radius of the radius in NM |
+| `radius` | float        | Radius of the NOTAM in NM |
 | `message`            | string        | Main message for NOTAM                                      |
 | `latitude`            | double        | Decimal latitude of the center of the NOTAM                     |
 | `longitude`           | double        | Decimal longitude of the center of the NOTAM                    |
