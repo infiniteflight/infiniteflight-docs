@@ -96,7 +96,7 @@ Step 1
 
 Step 2
 
-: Use the [rudder](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls) to maintain the runway centerline. As speed decreases, so does the aerodynamic affect of the rudder, more input will be required at slower speeds
+: Use the [rudder](/guide/getting-started-guide/pilot-user-interface/flight-controls#flight-controls) to maintain the runway centerline. As speed decreases, so does the aerodynamic effect of the rudder, more input will be required at slower speeds
 
 
 

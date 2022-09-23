@@ -3,12 +3,12 @@ id: user-stats
 title: Get User Stats
 meta: Overview of the user stats endpoint of the Infinite Flight Live API
 order: 8
-
+contributor: sqeezelemon
 ---
 
 # Get User Stats
 
-Retrieve user statistics for multiple users, including their grade, flight time and username.
+Retrieve user statistics for up to 25 users at once, including their grade, flight time and username.
 
 ## Resource
 
