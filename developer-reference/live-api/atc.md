@@ -3,7 +3,7 @@ id: atc
 title: Get Active ATC Frequencies
 meta: Overview of the ATC endpoint of the Infinite Flight Live API
 order: 7
-contributor: KaiM
+contributor: KaiM,sqeezelemon
 ---
 
 # Get Active ATC Frequencies

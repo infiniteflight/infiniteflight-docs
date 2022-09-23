@@ -3,6 +3,7 @@ id: world-status
 title: Get World Status
 meta: Overview of the World Status endpoint of the Infinite Flight Live API
 order: 12
+contributor: sqeezelemon
 ---
 
 # Get World Status

@@ -3,7 +3,7 @@ id: camera-position
 title: Set Camera Position
 meta: Set the Camera Position with the Infinite Flight OpenTrack API
 order: 2
-contributor: KaiM,epaga
+contributor: KaiM,epaga,sqeezelemon
 ---
 
 # Set Camera Position
