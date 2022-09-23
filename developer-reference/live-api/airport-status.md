@@ -3,6 +3,7 @@ id: airport-status
 title: Get Airport Status
 meta: Overview of the Airport Status endpoint of the Infinite Flight Live API
 order: 11
+contributor: sqeezelemon
 ---
 
 # Get Airport Status

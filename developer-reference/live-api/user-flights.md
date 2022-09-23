@@ -3,6 +3,7 @@ id: user-flights
 title: Get User Flights
 meta: Overview of the User Flights endpoint of the Infinite Flight Live API
 order: 14
+contributor: sqeezelemon
 ---
 
 # Get User Flights
