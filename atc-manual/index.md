@@ -8,7 +8,7 @@ meta: Introduction to the Infinite Flight Air Traffic Controller (IFATC) Manual.
 
 
 
-## Guide Version: 22.6.0
+## Guide Version: 22.7.0
 
 
 
@@ -26,13 +26,23 @@ Should
 
 
 
-## ATC Manual Version (Internal): 22.6.1
+## ATC Manual Version (Internal): 22.7.1
 
-## Last Updated: 0730Z - 19 AUG 22
+## Last Updated: 1330Z - 10 SEP 22
 
 
 
-+++ Summary of Changes - Version: 22.6.1 (CURRENT VERSION)
++++ Summary of Changes - Version: 22.7.1 (CURRENT VERSION)
+
+| Location | Change                                                       |
+| -------- | ------------------------------------------------------------ |
+| 7E.2     | Violations issued to current IFATC will be handled by the IFATC Manager/Moderators |
+
++++
+
+
+
++++ Summary of Changes - Version: 22.6.1
 
 | Location | Change                                                       |
 | -------- | ------------------------------------------------------------ |
@@ -56,17 +66,4 @@ Should
 | 7E.2.3   | Appeals can be made outside of the 7 day window, however it will only be reviewed at the discretion of the Appeals Team |
 
 +++
-
-
-
-+++ Summary of Changes - Version: 22.4.1
-
-| Location | Change                                                       |
-| -------- | ------------------------------------------------------------ |
-| 1A.5.1   | 6 months changed to 12 months to align with recruitment procedures in Section 7C |
-| 3.2.5    | Adjusted wording to ensure clarity when handling intersection departures |
-| 3.6.1    | Pro Tip added to recommend using the same tower frequency when switching Controllers with Radar present |
-
-+++
-
 
