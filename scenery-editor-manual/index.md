@@ -8,7 +8,7 @@ meta: Learn how to use the Infinite Flight Scenery Editor with our online docume
 
 
 
-## Guide Version: 22.7.0
+## Guide Version: 22.6.0
 
 
 
@@ -20,23 +20,13 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 
 
 
-## Scenery Editor Manual Version (Internal): 22.7.1
+## Scenery Editor Manual Version (Internal): 22.4.1
 
-## Last Updated: 1500Z - 24 SEP 22
-
-
-
-+++ Summary of Changes - Version: 22.7.1 (CURRENT VERSION)
-
-| Location    | Change                                  |
-| ----------- | --------------------------------------- |
-| Section 11A | New section with guidance for Reviewers |
-
-+++
+## Last Updated: 1300Z - 23 JUN 22
 
 
 
-+++ Summary of Changes - Version: 22.4.1
++++ Summary of Changes - Version: 22.4.1 (CURRENT VERSION)
 
 | Location              | Change                                                       |
 | --------------------- | ------------------------------------------------------------ |
@@ -56,6 +46,19 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 | Location | Change          |
 | -------- | --------------- |
 | All      | Complete Rework |
+
++++
+
+
+
++++ Summary of Changes - Version: 22.1.0.9
+
+| Location | Change                                                       |
+| -------- | ------------------------------------------------------------ |
+| All      | Numerous hyperlinks fixed                                    |
+| 1.2.1    | Abbreviations updated                                        |
+| 8.3      | Safedock references changes to Stand Guidance                |
+| 9.1.1    | Editor checklist updated (now in alphabetical order and gates/jet bridges added) |
 
 +++
 
