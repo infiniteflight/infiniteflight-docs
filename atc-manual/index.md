@@ -26,13 +26,23 @@ Should
 
 
 
-## ATC Manual Version (Internal): 22.6.1
+## ATC Manual Version (Internal): 22.7.1
 
-## Last Updated: 0730Z - 19 AUG 22
+## Last Updated: 0845Z - 25 SEP 22
 
 
 
-+++ Summary of Changes - Version: 22.6.1 (CURRENT VERSION)
++++ Summary of Changes - Version: 22.7.1 (CURRENT VERSION)
+
+| Location | Change                   |
+| -------- | ------------------------ |
+| 6.1      | Removal of FNF reference |
+
++++
+
+
+
++++ Summary of Changes - Version: 22.6.1
 
 | Location | Change                                                       |
 | -------- | ------------------------------------------------------------ |
@@ -68,5 +78,4 @@ Should
 | 3.6.1    | Pro Tip added to recommend using the same tower frequency when switching Controllers with Radar present |
 
 +++
-
 
