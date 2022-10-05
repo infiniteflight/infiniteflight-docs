@@ -28,7 +28,7 @@ Should
 
 ## ATC Manual Version (Internal): 22.7.1
 
-## Last Updated: 1330Z - 10 SEP 22
+## Last Updated: 0830Z - 05 OCT 22
 
 
 
@@ -36,6 +36,7 @@ Should
 
 | Location | Change                                                       |
 | -------- | ------------------------------------------------------------ |
+| 6.1      | Removed Friday Night Flight reference                        |
 | 7E.2     | Violations issued to current IFATC will be handled by the IFATC Manager/Moderators |
 
 +++
