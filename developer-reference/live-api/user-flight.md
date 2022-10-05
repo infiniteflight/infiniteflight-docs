@@ -3,6 +3,7 @@ id: user-flight
 title: Get User Flight
 meta: Overview of the User Flight endpoint of the Infinite Flight Live API
 order: 15
+contributor: sqeezelemon
 ---
 
 # Get User Flights
@@ -60,7 +61,7 @@ Include your API key (`<apikey>`) by either:
 | Name | Type | Description |
 | -- | -- | -- |
 | `errorCode` | integer | _Enum:_ `"Ok = 0"`, `"UserNotFound = 1"`, `"MissingRequestParameters = 2"`, `"EndpointError = 3"`, `"NotAuthorized = 4"`, `"ServerNotFound = 5"`, `"FlightNotFound = 6"`, `"NoAtisAvailable = 7"` |
-| `result` | UserFlight | An array of tracks that are active in Infinite Flight. |
+| `result` | UserFlight | A flight from the logbook. |
 
 #### UserFlight
 
@@ -70,7 +71,7 @@ Include your API key (`<apikey>`) by either:
 | `created` | string (datetime) | The time the flight was created |
 | `userId` | string (uuid) | The ID of the user who flew the flight |
 | `aircraftId` | string (uuid) | The ID of the aircraft flown |
-| `liveryId` | string (uuid) | The ID of the livery flown |
+| `liveryId` | string (uuid) | The ID of the livery flown. **This is currently only supported on the Casual server** |
 | `callsign` | string | The callsign of the user during this flight |
 | `server` | string | The name of the server the flight was flown on |
 | `dayTime` | float | The flight time during the day, in minutes |

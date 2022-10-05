@@ -3,6 +3,7 @@ id: user-atc-session
 title: Get User ATC Session
 meta: Overview of the User ATC Session endpoint of the Infinite Flight Live API
 order: 17
+contributor: sqeezelemon
 ---
 
 # Get User ATC Session
@@ -59,7 +60,7 @@ Include your API key (`<apikey>`) by either:
 | Name | Type | Description |
 | -- | -- | -- |
 | `errorCode` | integer | _Enum:_ `"Ok = 0"`, `"UserNotFound = 1"`, `"MissingRequestParameters = 2"`, `"EndpointError = 3"`, `"NotAuthorized = 4"`, `"ServerNotFound = 5"`, `"FlightNotFound = 6"`, `"NoAtisAvailable = 7"` |
-| `result` | UserAtcSession | An array of tracks that are active in Infinite Flight. |
+| `result` | UserAtcSession | An ATC session from the logbook. |
 
 #### UserAtcSession
 
