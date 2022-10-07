@@ -2,6 +2,7 @@
 ordering:
   - meta
   - 1.-introduction
+  - 1a.-administration
   - 2.-user-interface
   - 3.-getting-started
   - 4.-satellite-imagery

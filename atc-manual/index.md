@@ -28,7 +28,7 @@ Should
 
 ## ATC Manual Version (Internal): 22.7.1
 
-## Last Updated: 0830Z - 05 OCT 22
+## Last Updated: 1430Z - 07 OCT 22
 
 
 
@@ -37,6 +37,8 @@ Should
 | Location | Change                                                       |
 | -------- | ------------------------------------------------------------ |
 | 6.1      | Removed Friday Night Flight reference                        |
+| 7B.1.2   | Adjustment of Discord channel structure for tests            |
+| 7C.1.5   | Adjustment of Discord channel structure for tests            |
 | 7E.2     | Violations issued to current IFATC will be handled by the IFATC Manager/Moderators |
 
 +++
