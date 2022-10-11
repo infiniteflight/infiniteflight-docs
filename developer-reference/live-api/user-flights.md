@@ -99,6 +99,6 @@ Include your API key (`<apikey>`) by either:
 | `nightTime` | float | The flight time during the night, in minutes |
 | `totalTime` | float | The total flight time of the flight, in minutes |
 | `landingCount` | integer | The number of landings conducted during the flight |
-| `originAirport` | string | The ICAO code of the departure airport |
-| `destinationAirport` | string | The ICAO code of the arrival airport |
+| `originAirport` | string | The ICAO code of the departure airport. Can be null |
+| `destinationAirport` | string | The ICAO code of the arrival airport. Can be null |
 | `xp` | integer | The number of XP earned during the flight |
