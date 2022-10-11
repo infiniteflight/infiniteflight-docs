@@ -3,11 +3,11 @@ name: Test Documentation Build
 on:
   workflow_dispatch:
   push:
-  pull_request:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    if: github.repository == 'infiniteflight/infiniteflight-docs'
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2
