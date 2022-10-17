@@ -105,6 +105,21 @@ Aircraft larger than A318 not authorized (A223, E-Jets and C130s are allowed). L
 
 
 
++++ HAAB (Bole Intl - Addis Ababa)
+
+RWY 07L/25R CLOSED. RWY07L/25R to be used as taxiway ONLY.
+
+| Parameters | Restrictions |
+| ---------- | ------------ |
+| Type       | NOTAM        |
+| Status     | ACTIVE       |
+| Floor      | SFC          |
+| Ceiling    | 10,000ft     |
+
++++
+
+
+
 +++ KASE (Aspen-Pitkin Co Sardy)
 
 Aircraft larger than CRJ-900 not authorized (including A320/B737 series). Larger aircraft MUST divert. Special Airport Procedures in Effect due terrain - RWY33 for departure ONLY, after departure, immediately turn right 10 degrees. RWY15 for arrivals ONLY.
@@ -138,6 +153,21 @@ Aircraft larger than A321/B757 not authorized. Larger aircraft MUST divert.
 +++ KLGA (La Guardia)
 
 Aircraft larger than A321/B757 not authorized. Larger aircraft MUST divert.
+
+| Parameters | Restrictions |
+| ---------- | ------------ |
+| Type       | NOTAM        |
+| Status     | ACTIVE       |
+| Floor      | SFC          |
+| Ceiling    | 10,000ft     |
+
++++
+
+
+
++++ LIRP (Pisa-San Giusto "Galileo Galilei")
+
+RWY 04L/22R CLOSED. RWY04L/22R to be used as taxiway ONLY.
 
 | Parameters | Restrictions |
 | ---------- | ------------ |
@@ -242,7 +272,7 @@ RWY 10L/28R CLOSED. RWY 10L/28R to be used as taxiway ONLY.
 
 +++ SBRJ (Santos Dumont)
 
-Aircraft larger than A321/B757 not authorized. Larger aircraft MUST divert.
+Aircraft larger than A320/B737 not authorized. Larger aircraft MUST divert.
 
 | Parameters | Restrictions |
 | ---------- | ------------ |
@@ -273,6 +303,21 @@ RWY 02L/20R CLOSED. RWY 02L/20R to be used as taxiway ONLY.
 +++ UAAA (Almaty Intl)
 
 RWY 05L/23R CLOSED. RWY 05L/23R to be used as taxiway ONLY. 
+
+| Parameters | Restrictions |
+| ---------- | ------------ |
+| Type       | NOTAM        |
+| Status     | ACTIVE       |
+| Floor      | SFC          |
+| Ceiling    | 10,000ft     |
+
++++
+
+
+
++++ VHHX (Kai Tak)
+
+Special Airport Procedures in Effect due terrain - Straight in approach RWY13 not authorized. For RWY13 Approach - CC NDB at 4500ft. Track 040° from CC NDB to SC NDB. Do not descend below 2000ft until crossing RW NDB 7NM. Visual right turn abeam checkerboard to RWY13. Published Approach Procedures (Found Online) Recommended.
 
 | Parameters | Restrictions |
 | ---------- | ------------ |

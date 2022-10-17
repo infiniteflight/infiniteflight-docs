@@ -2,6 +2,7 @@
 ordering:
   - meta
   - 1.-introduction
+  - 1a.-administration
   - 2.-user-interface
   - 3.-getting-started
   - 4.-satellite-imagery
@@ -12,5 +13,6 @@ ordering:
   - 9.-objects
   - 10.-airport-gates
   - 11.-review-and-release
+  - 11a.-reviewers
   - 12.-summary
 ---
