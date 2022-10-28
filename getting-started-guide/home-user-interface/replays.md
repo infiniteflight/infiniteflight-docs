@@ -11,7 +11,7 @@ All flights and controlling sessions are recorded automatically and you can revi
 
 
 
- ![Replay page](_images/manual/frames/replay-page1.png)
+ ![Replays](_images/manual/frames/replay-page-227.png)
 
   
 
@@ -38,7 +38,7 @@ All flights and controlling sessions are recorded automatically and you can revi
 6. Tap this button to view the selected replay
 
 
- 
+
 
 ## Pilot Replays
 

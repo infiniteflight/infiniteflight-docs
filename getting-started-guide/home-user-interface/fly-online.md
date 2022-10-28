@@ -7,7 +7,7 @@ order: 4
 
 # Fly Online
 
-![Online Page](_images/manual/frames/fly-online1.png)
+![Fly Online](_images/manual/frames/fly-online-page-227.png)
 
  
 
@@ -39,7 +39,7 @@ order: 4
 
 There are loads of different aircraft and liveries to choose from, maybe it’s your favorite airline, or the aircraft you just completed your Private Pilots License in, the choices are endless! Below is a break down of how to select your next aircraft.
 
-![Aircraft Page](_images/manual/frames/aircraft-page1.png)
+![Aircraft Selection](_images/manual/frames/aircraft-selection-page-227.png)
 
 
 
@@ -67,7 +67,7 @@ There are loads of different aircraft and liveries to choose from, maybe it’s 
 
 The entire globe is ready for you to explore, you can either use the features below to choose where to begin, or zoom in with your fingers!
 
-![Map Zoomed Out](_images/manual/frames/map-zoomed-out1.png)
+![Airport Selection](_images/manual/frames/airport-selection-page-227.png)
 
  
 
@@ -81,7 +81,7 @@ The entire globe is ready for you to explore, you can either use the features be
 
 3. Magenta dots signify uncontrolled airports
 
-   ![Map Zoomed In](_images/manual/frames/map-zoomed-in1.png)
+   ![Gate Selection](_images/manual/frames/airport-selection-page-zoomed-227.png)
 
    
 
@@ -129,7 +129,7 @@ The various live servers available to use are displayed here. Each server has it
 
 
 
-  ![Server Page](_images/manual/frames/server-page1a.png)
+  ![Online Servers](_images/manual/frames/fly-online-server-page-227.png)
 
 
 
