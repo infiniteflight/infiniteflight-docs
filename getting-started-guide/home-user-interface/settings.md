@@ -11,10 +11,10 @@ contributor: deercrusher
 The Settings menu allows you to customize your Infinite Flight experience before and during play. Below is a guide to help you navigate your way around and to find the best settings for you!
 
 
-![Settings Page](_images/manual/frames/settings-main2.png)
+![Settings](_images/manual/frames/settings-general-227-1.png)
 
 
-1. On the left hand side of the screen are 6 categories that split the settings up, tap each one to find settings within
+1. On the left hand side of the screen are 7 categories that split the settings up, tap each one to find settings within
 
    
 
@@ -30,7 +30,7 @@ The Settings menu allows you to customize your Infinite Flight experience before
 
    
 
-5. The Back button will take you back to the [Home Screen](/guide/getting-started-guide/home-user-interface/home-screen)
+5. The Back button will take you back to the previous page
 
    
 
@@ -75,7 +75,7 @@ Tip
 
  
 
-![Online Settings Page](_images/manual/frames/settings-live2.png)
+![Online Settings](_images/manual/frames/settings-online-227.png)
 
 
 
@@ -118,7 +118,7 @@ Tip
 
 
 
-![Account Settings Page](_images/manual/frames/account1b.png)
+![Account Settings](_images/manual/frames/settings-account-227.png)
 
 
 
@@ -128,7 +128,7 @@ All live and solo flights are recorded here so that you can keep track of your f
 
 
 
-![Logbook Page](_images/manual/frames/logbook1.png)
+![Logbook](_images/manual/frames/settings-logbook-227.png)
 
 
 
@@ -138,7 +138,7 @@ There are two sliders that adjust the SFX and ATC Volume. Slide your finger alon
 
 
 
-![Audio Settings Page](_images/manual/frames/settings-audio2.png)
+![Audio Settings](_images/manual/frames/settings-audio-227.png)
 
 
 
@@ -161,7 +161,7 @@ Infinite Flight supports both iOS and Android devices; because of this, the sett
 
 
 
-![Graphics Settings Page](_images/manual/frames/settings-graphics2.png)
+![Graphics Settings](_images/manual/frames/settings-graphics-227.png)
 
 
 
@@ -197,7 +197,7 @@ In the control settings you can further adjust your control sensitivity for each
 
 
 
-![Control Settings Page](_images/manual/frames/settings-controls2.png)
+![Control Settings Page](_images/manual/frames/settings-controls-227.png)
 
 
 

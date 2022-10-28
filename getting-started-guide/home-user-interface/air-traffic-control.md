@@ -7,7 +7,7 @@ order: 5
 
 # Air Traffic Control
 
-![ATC Page](_images/manual/frames/atc1.png)
+![Air Traffic Control](_images/manual/frames/air-traffic-control-227.png)
 
 1. Pick your frequencies using the [Station Selection button](#station-selection)
 
@@ -29,7 +29,7 @@ order: 5
 
 Selecting frequencies is very similar to selecting an airport and parking position if you were about to fly. The globe is displayed in the same way, and you can either use the features below to choose where to begin, or zoom in with your fingers!
 
- ![ATC Map Page](_images/manual/frames/atc-map1.png)
+ ![Station Selection](_images/manual/frames/station-selection-page-227.png)
 
 
 
@@ -85,7 +85,7 @@ The various live servers available to use are displayed here. Each server has it
 
 
 
- ![Server Page](_images/manual/frames/server-page1a.png)
+  ![Online Servers](_images/manual/frames/fly-online-server-page-227.png)
 
 
 
