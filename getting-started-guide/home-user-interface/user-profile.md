@@ -145,6 +145,12 @@ Step 5
 
 ## The Grade Table
 
+Tip
+
+: Your Grade Table can be found by tapping Settings > Account > Account Statistics > View Stats
+
+
+
 The Grade Table is categorized into the following 4 sections:
 
 

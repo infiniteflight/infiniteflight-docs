@@ -57,6 +57,7 @@ The Settings menu allows you to customize your Infinite Flight experience before
 | Enable ForeFlight Link                  | Sends Position/Altitude/Traffic data to local devices running ForeFlight (for more info click [here](/guide/getting-started-guide/home-user-interface/settings#foreflight)) |
 | Enable Infinite Flight Connect          | Enables Infinite Flight Connect API System (toggle this on to allow Infinite Flight and third party apps such as InFlight Assistant and Fly-By-Wire to bridge if they are on the same network) |
 | Show Touches                            | Useful when recording videos/tutorials                       |
+| Enable Automatic Low Power              | Enter low power during long flights to save battery          |
 | Automatic Engine Start                  | Always starts with the engine running (once you spawn, engines will be heard & can be seen running) |
 | Weight Units                            | Select what weight unit you want to use i.e. Kgs or Lbs (aircraft fuel quantity and consumption will then been shown in this unit) |
 | Show Performance Metrics                | Shows metrics including the current frame rate               |

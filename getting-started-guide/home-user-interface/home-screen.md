@@ -16,9 +16,9 @@ Welcome to the home screen of your newly downloaded Infinite Flight app. Below y
 1. At the bottom are tabs which can be tapped to navigate to other pages:
 
    - [Fly Solo](/guide/getting-started-guide/home-user-interface/fly-solo#fly-solo) is our offline mode (no internet connection required), allowing you to practice without anyone else around, in weather conditions of your choosing
-   - [Fly Online](/guide/getting-started-guide/home-user-interface/fly-online#fly-online) is home to our three live servers which allow you to choose the experience you want, but with some company too
-   - Don’t want to fly? Here you can [control](/guide/getting-started-guide/home-user-interface/air-traffic-control#air-traffic-control) aircraft on our live servers instead
-   - All of your controlling sessions and flights are recorded and stored in [Replays](/guide/getting-started-guide/home-user-interface/replays#replays) for when you want to look back
+   - [Fly Online](/guide/getting-started-guide/home-user-interface/fly-online#fly-online) is home to our live servers which allow you to choose the experience you want, but with some company too
+   - [Air Traffic Control](/guide/getting-started-guide/home-user-interface/air-traffic-control#air-traffic-control) is where you can control aircraft on our live servers
+   - [Replays](/guide/getting-started-guide/home-user-interface/replays#replays) is where all of your controlling sessions and flights are recorded for when you want to look back
 
     
 
@@ -36,5 +36,3 @@ Welcome to the home screen of your newly downloaded Infinite Flight app. Below y
 
 5. Find all the latest news on our home screen, just scroll and tap on any of the topics that take your interest
 
-
- 
