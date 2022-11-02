@@ -131,41 +131,41 @@ Step 4
 
 ## Map
 
-![Map](_images/manual/frames/map-227.png)
+![Map](_images/manual/frames/map-227-v2.png)
 
  
 
 1. Airports are always represented by either blue or magenta dots, if you’re flying online they may also have a [colored dot in the middle](/guide/getting-started-guide/home-user-interface/fly-online#airport-and-gate-selection) for reference to the weather
 
-    
+  ​    
 
 2. VOR (Very High Frequency [VHF] Omnidirectional Range) navigation aids are represented by this symbol. They can be tuned to either NAV 1 or 2, if fitted on your selected aircraft
 
-    
+   
 
 3. NDB (Non Directional Beacon) navigation aids are represented by this symbol. They can be tuned to ADF 1 (Automatic Direction Finder), if fitted on your selected aircraft
 
-    
+   
 
 4. A GPS (Global Positioning System) Fix is represented by this symbol
 
-    
+   
 
 5. In the bottom right of the screen is settings, center screen and zoom in/out functions. Additionally, you can cycle the display between just the Map, Flight Plan, or both displayed
 
-   
+
 
 6. By tapping anywhere on the map, a drop down list will appear with anything close to that point. You can select which one you want from the list for more info. If it is a fix/navaid you can tap the "+" symbol to add it to your Flight Plan, or the symbol next to this to perform a "direct to" function
 
-  ![Information Tab](_images/manual/frames/map2-227.png) 
-
-7. If you have tap anything on the list, a "more info" tab will appear. If it was an airport that was tapped, additional tabs for weather, runways and procedures will also be available
+   ![Information Tab](_images/manual/frames/map2-227-v2.png)
 
    
 
-8. If it was an aircraft that was tapped, there is the ability to copy their flight plan by tapping "Copy FPL" 
+7. If you have tap anything on the list, a "more info" tab will appear. If it was an airport that was tapped, additional tabs for weather, runways and procedures will also be available
 
-    
+     
+
+8. If it was an aircraft that was tapped, there is the ability to copy their flight plan by tapping "Copy FPL"  
 
 ## Mini Map
 
