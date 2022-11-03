@@ -37,7 +37,7 @@ The art of sequencing allows controllers to let pilots know who they are suppose
 
 Tip 
 
-: When you’re on left downwind the airport will be on your left and when you’re on right downwind the airport will be on your right. The same thing applies for the crosswind and base leg of the traffic pattern. 
+: When you’re on left downwind the airport will be on your left and when you’re on right downwind the airport will be on your right. The same thing applies for the crosswind and base leg of the traffic pattern 
 
 ![Image 3.3.1.1 - Tower Sequencing](_images/manual/graphics/atc-tower-sequencing.jpg)
 
