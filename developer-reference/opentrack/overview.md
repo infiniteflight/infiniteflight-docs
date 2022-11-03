@@ -3,7 +3,7 @@ id: overview
 title: Overview
 meta: Overview of the Infinite Flight OpenTrack API
 order: 1
-contributor: KaiM
+contributor: KaiM,sqeezelemon
 ---
 
 # Infinite Flight OpenTrack API
@@ -45,3 +45,7 @@ This documentation is aimed at someone with knowledge of:
 - User Datagram Protocol (UDP)
 - Data Types
 - Camera Axis
+
+## Samples
+
+- [ConnectKit](https://github.com/sqeezelemon/ConnectKit) - Swift client

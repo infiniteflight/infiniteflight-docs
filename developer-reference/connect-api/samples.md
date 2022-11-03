@@ -3,7 +3,7 @@ id: samples
 title: Samples
 meta: Samples for the Infinite Flight Connect APIs
 order: 5
-contributor: tomthetank,likeablegeek
+contributor: tomthetank,likeablegeek,sqeezelemon
 ---
 
 # Connect API Samples
@@ -25,3 +25,4 @@ These samples are all licensed differently, so check the terms of the license be
 - [Official v2 Demo](https://github.com/carmichaelalonso/infiniteflightapi) - C#
 - [ifc2](https://community.infiniteflight.com/t/ifc2-new-javascript-client-for-the-connect-v2-api/637176) - JavaScript
 - [SwiftFlight](https://github.com/tomthetank46/SwiftFlight) - Swift
+- [ConnectKit](https://github.com/sqeezelemon/ConnectKit) - Swift
