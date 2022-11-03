@@ -137,7 +137,7 @@ Step 4
 
 1. Airports are always represented by either blue or magenta dots, if you’re flying online they may also have a [colored dot in the middle](/guide/getting-started-guide/home-user-interface/fly-online#airport-and-gate-selection) for reference to the weather
 
-  ​    
+
 
 2. VOR (Very High Frequency [VHF] Omnidirectional Range) navigation aids are represented by this symbol. They can be tuned to either NAV 1 or 2, if fitted on your selected aircraft
 
