@@ -96,7 +96,7 @@ All flights and controlling sessions are recorded automatically and you can revi
 
 
 
- ![ATC Replay page](_images/manual/frames/replay-atc.png)
+ ![ATC Replay page](_images/manual/frames/replay-atc-1.png)
 
 
 

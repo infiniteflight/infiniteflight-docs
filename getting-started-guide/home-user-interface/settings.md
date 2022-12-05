@@ -198,7 +198,7 @@ In the control settings you can further adjust your control sensitivity for each
 
 
 
-![Control Settings Page](_images/manual/frames/settings-controls-227.png)
+![Control Settings Page](_images/manual/frames/settings-controls-228.png)
 
 
 

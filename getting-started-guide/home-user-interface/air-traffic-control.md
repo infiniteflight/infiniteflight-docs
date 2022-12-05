@@ -75,10 +75,6 @@ Selecting frequencies is very similar to selecting an airport and parking positi
 
     
 
-7. Red cones signify a runway that has an Instrument Landing System (ILS) approach to that runway threshold. White cones signify a Global Positioning System (GPS) approach
-
- 
-
 ## Server
 
 The various live servers available to use are displayed here. Each server has its own set of rules and minimum grade requirements, make sure to check these before trying to join!
