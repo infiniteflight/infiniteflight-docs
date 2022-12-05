@@ -8,7 +8,7 @@ meta: Introduction to the Infinite Flight Air Traffic Controller (IFATC) Manual.
 
 
 
-## Guide Version: 22.7.0
+## Guide Version: 22.8.0
 
 
 
@@ -26,16 +26,17 @@ Should
 
 
 
-## ATC Manual Version (Internal): 22.7.1
+## ATC Manual Version (Internal): 22.8.1
 
-## Last Updated: 1630Z - 31 OCT 22
+## Last Updated: 1300Z - 05 DEC 22
 
 
 
-+++ Summary of Changes - Version: 22.7.1 (CURRENT VERSION)
++++ Summary of Changes - Version: 22.8.1 (CURRENT VERSION)
 
 | Location | Change                                                       |
 | -------- | ------------------------------------------------------------ |
+| 1A.3.1   | Removal of incorrect reference                               |
 | 6.1      | Removed Friday Night Flight reference                        |
 | 7A.1.7   | Adjustment of Discord channel structure for training/tests   |
 | 7B.1.2   | Adjustment of Discord channel structure for tests            |
