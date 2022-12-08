@@ -8,7 +8,7 @@ meta: Learn how to use the Infinite Flight Scenery Editor with our online docume
 
 
 
-## Guide Version: 22.6.0
+## Guide Version: 22.8.0
 
 
 
@@ -20,13 +20,27 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 
 
 
-## Scenery Editor Manual Version (Internal): 22.4.1
+## Scenery Editor Manual Version (Internal): 22.8.1
 
-## Last Updated: 1300Z - 23 JUN 22
+## Last Updated: 1015Z - 08 DEC 22
 
 
 
-+++ Summary of Changes - Version: 22.4.1 (CURRENT VERSION)
++++ Summary of Changes - Version: 22.8.1 (CURRENT VERSION)
+
+| Location    | Change                                                       |
+| ----------- | ------------------------------------------------------------ |
+| Section 1A  | New section with guidance for Editors                        |
+| 3.1.2       | Link updated to go to the *#editors* sub-category on the IFC |
+| 5.1         | Formatting issue within do/do not table fixed                |
+| 11.1.3      | Limit on Peer Reviews per airport removed                    |
+| Section 11A | New section with guidance for Reviewers                      |
+
++++
+
+
+
++++ Summary of Changes - Version: 22.4.1
 
 | Location              | Change                                                       |
 | --------------------- | ------------------------------------------------------------ |
@@ -46,19 +60,6 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 | Location | Change          |
 | -------- | --------------- |
 | All      | Complete Rework |
-
-+++
-
-
-
-+++ Summary of Changes - Version: 22.1.0.9
-
-| Location | Change                                                       |
-| -------- | ------------------------------------------------------------ |
-| All      | Numerous hyperlinks fixed                                    |
-| 1.2.1    | Abbreviations updated                                        |
-| 8.3      | Safedock references changes to Stand Guidance                |
-| 9.1.1    | Editor checklist updated (now in alphabetical order and gates/jet bridges added) |
 
 +++
 

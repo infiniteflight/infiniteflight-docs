@@ -19,7 +19,7 @@ order: 1
 
 
 
-![Account Settings Page](_images/manual/frames/account1b.png)
+![Account Settings](_images/manual/frames/settings-account-227.png)
 
 
 
@@ -145,6 +145,12 @@ Step 5
 
 ## The Grade Table
 
+Tip
+
+: Your Grade Table can be found by tapping Settings > Account > Account Statistics > View Stats
+
+
+
 The Grade Table is categorized into the following 4 sections:
 
 
@@ -156,7 +162,7 @@ The Grade Table is categorized into the following 4 sections:
 
 
 
-![Grade Table](_images/manual/frames/grade-table1.png)
+![Grade Table](_images/manual/frames/stat-page-227.png)
 
 
 

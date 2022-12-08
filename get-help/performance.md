@@ -11,7 +11,7 @@ order: 3
 
 - We recommend that the "Frame rate limit" should be set to **30fps** for most devices. Some high-performance devices can use **60fps**, but it requires more of your device in terms of performance and power consumption. If you start noticing performance degradations while using the 60fps option, it's strongly recommended that you lower it to **30fps**. 
 
-- Infinite Flight doesn’t take up a specific amount of storage, it can change depending on the area you’re flying in, how many aircraft that needs to be downloaded during online flights etc. We therefore recommend that you always have at least **1GB** of storage available on your device.
+- Infinite Flight doesn’t take up a specific amount of storage, it can change depending on the area you’re flying in, how many aircraft that needs to be downloaded during online flights etc. We therefore recommend that you always have at least **3GB** of storage available on your device.
 
 - Before longer flights, it is advised to reboot your device and close any apps running in the background to enhance your experience.
 

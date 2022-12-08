@@ -38,7 +38,7 @@ Our minimum device requirements for the Global versions of Infinite Flight is as
 
 
 
-Additionally, we strongly recommend that your device has **at least** 2GB+ of internal device memory (RAM).
+Additionally, we strongly recommend that your device has **at least** 3GB+ of internal device memory (RAM).
 
 
 
@@ -62,7 +62,7 @@ Tip
 
    
 
-Additionally, we strongly recommend that your device has **at least** 2GB+ of internal device memory (RAM).
+Additionally, we strongly recommend that your device has **at least** 3GB+ of internal device memory (RAM).
 
 
 
