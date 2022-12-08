@@ -22,7 +22,7 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 
 ## Scenery Editor Manual Version (Internal): 22.8.1
 
-## Last Updated: 0830Z - 08 DEC 22
+## Last Updated: 0930Z - 08 DEC 22
 
 
 
@@ -33,7 +33,7 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 | Section 1A  | New section with guidance for Editors                        |
 | 3.1.2       | Link updated to go to the *#editors* sub-category on the IFC |
 | 5.1         | Formatting issue within do/do not table fixed                |
-| 11.1.3      | No more than 1 Peer Review per airport                       |
+| 11.1.3      | Limit on Peer Reviews per airport removed                    |
 | Section 11A | New section with guidance for Reviewers                      |
 
 +++
