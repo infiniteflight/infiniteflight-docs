@@ -9,11 +9,15 @@ order: 1
 
 
 
-## Guide Version: 22.8.0
+## Guide Version: 23.1.0
 
 
 
-Sometimes things don't work as you'd expect and we'd love to get you back in the air as soon as possible of course. In here you will find the most common problems our users encounter, together with some helpful tips on how to resolve them. If further assistance is required, don't be afraid to reach out to our support team via e-mail. 
+Sometimes things don't work as you'd expect and we'd love to get you back in the air as soon as possible. In this guide you will find the most common problems our users encounter, together with some helpful tips on how to resolve them.
+
+
+
+If further assistance is required, please [contact our support team](mailto:support@infiniteflight.com).
 
 
 
@@ -26,7 +30,8 @@ Sometimes things don't work as you'd expect and we'd love to get you back in the
 - **KATL Spawn points incorrectly configured to allow certain aircraft to spawn that should be allowed (22.1)** - ([https://community.infiniteflight.com/t/katl-gate-aircraft-sizing-issues/653624](https://community.infiniteflight.com/t/katl-gate-aircraft-sizing-issues/653624))
 
 
+
 ## Contact
 
-Email support is available via [support@infiniteflight.com](mailto:support@infiniteflight.com).
+To contact our support team, please email [support@infiniteflight.com](mailto:support@infiniteflight.com).
 

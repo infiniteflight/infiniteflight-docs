@@ -9,9 +9,9 @@ order: 8
 
 
 
-## What is a Pro Subscription?
+## What is a Pro subscription?
 
-The Infinite Flight Pro Subscription* comes with all In-App Purchases unlocked, including any newly added content during the active subscription period. Only items purchased separately will remain available once your subscription expires or is cancelled.
+The Infinite Flight Pro Subscription* comes with all in-app purchases unlocked, including any newly added content during the active subscription period. Only items purchased separately will remain available once your subscription expires or is cancelled.
 
 
 
@@ -25,7 +25,7 @@ The Infinite Flight Pro Subscription* comes with all In-App Purchases unlocked, 
 
 
 
-## How do I get a Pro Subscription?
+## How do I get a Pro subscription?
 
 
 
@@ -67,13 +67,11 @@ Step 5
 
 
 
-Tip
-
-: Please note that if you do not have a previous subscription using Google or Facebook, then you will need to use Infinite Flight to login. New subscriptions using Google or Facebook to login is no longer supported
+> If you do not have a previous subscription using Google or Facebook, then you will need to use Infinite Flight to login. New subscriptions using Google or Facebook to login is no longer supported
 
 
 
-## How to Manage your Subscription
+## How to manage your subscription
 
 If you decide to install Infinite Flight on a different device, your subscription can be passed over provided you are using the same Apple ID (for iOS) or Google Play account (for Android) that the previous subscription was purchased on.
 
@@ -101,7 +99,15 @@ Step 3
 
 
 
-## How to Revert to Default Account 
+If you are still unable to access your subscription after completing the steps above, please send an e-mail explaining the steps you’ve already taken as well as the information below to support@infiniteflight.com:
+
+- Display Name and Callsign
+- Device
+- Complete Purchase Receipt showing date, item, and item number (beginning with GPA if Android User)
+
+
+
+## How to revert to Default Account 
 
 When Infinite Flight is launched on your device, it will search for an active subscription and automatically link to it if found. If however, you want to use your account on a different device, you can use the "Switch Account" button within the [Account Settings page](/guide/getting-started-guide/home-user-interface/settings#account).
 
