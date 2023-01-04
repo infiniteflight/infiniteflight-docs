@@ -10,6 +10,8 @@ contributor: KaiM,nicolas
 
 This documentation is for Version 1 of the Connect API. Using this API is no longer recommended due to it's slow speed and limited features. See the [Version 2 Documentation](/guide/developer-reference/connect-api/version-2) for more information.
 
+> **The Connect API v1 is being sunsetted and will be removed in update 23.1. See [here](https://community.infiniteflight.com/t/important-sunsetting-connect-api-v1/753771) for further details.**{.red}
+
 ## Connection
 
  1. To enable Infinite Flight command server, check **Enable Infinite Flight Connect** in **Settings > General**
