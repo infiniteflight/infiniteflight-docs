@@ -28,15 +28,17 @@ Should
 
 ## ATC Manual Version (Internal): 23.1.1
 
-## Last Updated: 1030Z - 28 DEC 22
+## Last Updated: 1700Z - 09 JAN 22
 
 
 
 +++ Summary of Changes - Version: 23.1.1 (CURRENT VERSION)
 
-| Location | Change                      |
-| -------- | --------------------------- |
-| 6.10.6   | Minor formatting correction |
+| Location      | Change                                              |
+| ------------- | --------------------------------------------------- |
+| 6.5.1 / 6.5.2 | Additional notes added                              |
+| 6.5.5         | Reworded to clarify how to deal with FF on Approach |
+| 6.10.6        | Minor formatting correction                         |
 
 +++
 
@@ -70,5 +72,4 @@ Should
 | 7B.3.2   | Testing locations removed                                    |
 
 +++
-
 
