@@ -22,7 +22,7 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 
 ## Scenery Editor Manual Version (Internal): 23.1.1
 
-## Last Updated: 1130Z - 10 JAN 22
+## Last Updated: 1730Z - 26 JAN 22
 
 
 
@@ -34,6 +34,7 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 | 5.1      | Note added to clarify adding pavement patches                |
 | 6.2.5    | Clarification on naming the connections between two or more taxiways |
 | 6.2.6    | Renamed from 6.2.5                                           |
+| 8.1      | "Do/Do Not" list updated                                     |
 | 9.5.1    | Clarification on the length of model lines and objects       |
 | 11.1.5   | More information added on navigation database updates        |
 | 11.2.5   | Note added to clarify adding pavement patches                |

@@ -28,17 +28,21 @@ Should
 
 ## ATC Manual Version (Internal): 23.1.1
 
-## Last Updated: 1700Z - 09 JAN 22
+## Last Updated: 1730Z - 26 JAN 22
 
 
 
 +++ Summary of Changes - Version: 23.1.1 (CURRENT VERSION)
 
-| Location      | Change                                              |
-| ------------- | --------------------------------------------------- |
-| 6.5.1 / 6.5.2 | Additional notes added                              |
-| 6.5.5         | Reworded to clarify how to deal with FF on Approach |
-| 6.10.6        | Minor formatting correction                         |
+| Location      | Change                                                       |
+| ------------- | ------------------------------------------------------------ |
+| 6.5.1 / 6.5.2 | Additional notes added                                       |
+| 6.5.5         | Reworded to clarify how to deal with FF on Approach          |
+| 6.10.6        | Minor formatting correction                                  |
+| 7C.2.1        | Reference to "Canned" replies removed and replaced with "Template" |
+| 7C.2.9        | Step by step guide updated and reference to "Canned" replies removed and replaced with "Template" |
+| 7E.2.3        | Minor wording correction (changed admin to moderator)        |
+| 7E.2.7        | Step by step guide updated and reference to "Canned" replies removed and replaced with "Template" |
 
 +++
 
