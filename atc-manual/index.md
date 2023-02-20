@@ -28,7 +28,7 @@ Should
 
 ## ATC Manual Version (Internal): 23.1.1
 
-## Last Updated: 1730Z - 26 JAN 22
+## Last Updated: 1200Z - 17 FEB 23
 
 
 
@@ -36,6 +36,7 @@ Should
 
 | Location      | Change                                                       |
 | ------------- | ------------------------------------------------------------ |
+| 1A.7.8        | No more than 50 total inbounds at the time of opening for Officers in the CR phase |
 | 6.5.1 / 6.5.2 | Additional notes added                                       |
 | 6.5.5         | Reworded to clarify how to deal with FF on Approach          |
 | 6.10.6        | Minor formatting correction                                  |
