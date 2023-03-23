@@ -28,7 +28,7 @@ Should
 
 ## ATC Manual Version (Internal): 23.1.1
 
-## Last Updated: 1200Z - 17 FEB 23
+## Last Updated: 1100Z - 23 MAR 23
 
 
 
@@ -36,10 +36,14 @@ Should
 
 | Location      | Change                                                       |
 | ------------- | ------------------------------------------------------------ |
+| 1.2           | CAF, FS and RAIS added to abbreviations list                 |
+| 1A.3.1        | "Should not" changed to "must not" for Controllers reserving frequencies privately |
 | 1A.7.8        | No more than 50 total inbounds at the time of opening for Officers in the CR phase |
+| 2.2.1         | Pro Tip added for guidance on issuing "give way" commands    |
 | 6.5.1 / 6.5.2 | Additional notes added                                       |
 | 6.5.5         | Reworded to clarify how to deal with FF on Approach          |
 | 6.10.6        | Minor formatting correction                                  |
+| 7.4.4         | Authorization from a Trainer is required for controlling on the Training Server |
 | 7C.2.1        | Reference to "Canned" replies removed and replaced with "Template" |
 | 7C.2.9        | Step by step guide updated and reference to "Canned" replies removed and replaced with "Template" |
 | 7E.2.3        | Minor wording correction (changed admin to moderator)        |
