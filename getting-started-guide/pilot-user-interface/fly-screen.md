@@ -23,7 +23,7 @@ Let&#39;s get you ready to fly! Welcome to the screen you'll see once you've [ca
 
    
 
-3. A headset icon is shown if you&#39;re on one of the live servers, you'll be able to [talk to the Air Traffic Controllers using this button](/guide/getting-started-guide/pilot-user-interface/communication#communication). If you're in Solo mode, the icon is a [replay symbol](/guide/getting-started-guide/pilot-user-interface/fly-screen#replay-mode-in-solo)
+3. A headset icon is shown if you&#39;re on one of the live servers, you'll be able to [talk to the Air Traffic Controllers using this button](/guide/getting-started-guide/pilot-user-interface/communication#communication)
 
    
 
@@ -72,32 +72,3 @@ Let&#39;s get you ready to fly! Welcome to the screen you'll see once you've [ca
     Tip
 
     : Make sure your device is [calibrated](/guide/getting-started-guide/pilot-user-interface/calibration#calibration) and the sensitivity is adjusted to suit you! 
-
-
-
-## Replay Mode in Solo
-
-
-
-![Replay mode in Solo](_images/manual/frames/solo-replay-mode.png)
-
-
-
-1. The jog button allows you to "jog" the replay either forward or backwards to find a particular point in the replay. You can either tap within the band or tap, hold and drag your finger
-
-    
-
-2. The play/pause, slower and faster buttons are found here (the slower/faster buttons will only work when the replay is playing)
-
-    
-
-3. The cross symbol will return you to your last location in solo mode before the replay button was pushed
-
-    
-
-4. By tapping, holding and then dragging your finger along the band with the seek button, you can locate a particular point within the replay
-
-    
-
-5. Tap the live button to return to solo mode, this will immediately end the replay and return you to solo mode, at the point that you are currently at within the replay
-

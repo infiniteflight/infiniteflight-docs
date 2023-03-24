@@ -15,7 +15,7 @@ This is where you'll find information and frequently asked questions related to 
 
 ## What is a Pro Subscription?
 
-The Infinite Flight Pro Subscription* comes with all In-App Purchases unlocked, including any newly added content during the active subscription period. Only items purchased separately will remain available once your subscription expires or is cancelled.
+The Infinite Flight Pro Subscription* comes with all in-app purchases unlocked, including any newly added content during the active subscription period. Only items purchased separately will remain available once your subscription expires or is cancelled.
 
 
 
@@ -29,7 +29,7 @@ The Infinite Flight Pro Subscription* comes with all In-App Purchases unlocked, 
 
 
 
-## How do I get a Pro Subscription?
+## How do I get a Pro subscription?
 
 
 
@@ -71,15 +71,13 @@ Step 5
 
 
 
-Tip
-
-: Please note that if you do not have a previous subscription using Google or Facebook, then you will need to use Infinite Flight to login. New subscriptions using Google or Facebook to login is no longer supported
+> If you do not have a previous subscription using Google or Facebook, then you will need to use Infinite Flight to login. New subscriptions using Google or Facebook to login is no longer supported
 
 
 
-## Unable to Purchase a Pro Subscription
+## Unable to purchase a Pro subscription
 
-If you find that you are unable to purchase a Pro Subscription whilst following the steps above, it is likely due to one of the following reasons:
+If you find that you are unable to purchase a Pro subscription whilst following the steps above, it is likely due to one of the following reasons:
 
 
 
@@ -93,7 +91,7 @@ To try to fix the issue we recommend checking parental permissions, restarting y
 
 
 
-## How to Manage your Subscription
+## How to manage your subscription
 
 If you decide to install Infinite Flight on a different device, your subscription can be passed over provided you are using the same Apple ID (for iOS) or Google Play account (for Android) that the previous subscription was purchased on.
 
@@ -125,14 +123,13 @@ If you are still unable to access your subscription after completing the steps a
 
 - Display Name and Callsign
 - Device
-- Complete Purchase Receipt showing date, item, and item number (Beginning with GPA if Android User)
+- Complete Purchase Receipt showing date, item, and item number (beginning with GPA if Android User)
 
 
 
-## How do I Cancel my PRO Subscription? 
+## How do I cancel my Pro subscription? 
 
 Auto-Renew can be cancelled directly from the Google Play or App Store. Please find the instructions for your store below:
-
 
 [Google Play](https://support.google.com/googleplay/answer/7018481?co=GENIE.Platform%3DAndroid&hl=en){.button}
 
@@ -141,7 +138,7 @@ Auto-Renew can be cancelled directly from the Google Play or App Store. Please f
 
 
 
-## How can I Change the Community Forum Account Currently Linked to my Infinite Flight Account? 
+## How can I change the Community Forum account currently linked to my Infinite Flight account? 
 
 
 

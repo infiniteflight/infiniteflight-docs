@@ -8,7 +8,7 @@ meta: Learn how to use the Infinite Flight Scenery Editor with our online docume
 
 
 
-## Guide Version: 22.8.0
+## Guide Version: 23.1.0
 
 
 
@@ -20,13 +20,32 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 
 
 
-## Scenery Editor Manual Version (Internal): 22.8.1
+## Scenery Editor Manual Version (Internal): 23.1.1
 
-## Last Updated: 1015Z - 08 DEC 22
+## Last Updated: 1100Z - 23 MAR 23
 
 
 
-+++ Summary of Changes - Version: 22.8.1 (CURRENT VERSION)
++++ Summary of Changes - Version: 23.1.1 (CURRENT VERSION)
+
+| Location | Change                                                       |
+| -------- | ------------------------------------------------------------ |
+| 3.3.2    | Minor wording correction                                     |
+| 4.2.1    | Recommendation to use 50% quality rather than 100% to optimize file size |
+| 5.1      | Note added to clarify adding pavement patches                |
+| 6.2.5    | Clarification on naming the connections between two or more taxiways |
+| 6.2.6    | Renamed from 6.2.5                                           |
+| 7.2.1    | Start Location properties updated                            |
+| 8.1      | "Do/Do Not" list updated                                     |
+| 9.5.1    | Clarification on the length of model lines and objects       |
+| 11.1.5   | More information added on navigation database updates        |
+| 11.2.5   | Note added to clarify adding pavement patches                |
+
++++
+
+
+
++++ Summary of Changes - Version: 22.8.1
 
 | Location    | Change                                                       |
 | ----------- | ------------------------------------------------------------ |
@@ -50,16 +69,6 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 | 6.2.4                 | Added runway and ILS holds to table                          |
 | 9.5                   | New section for model lines                                  |
 | 11.2                  | Notes added to highlight particular points in the editor checklist |
-
-+++
-
-
-
-+++ Summary of Changes - Version: 22.2.1
-
-| Location | Change          |
-| -------- | --------------- |
-| All      | Complete Rework |
 
 +++
 
