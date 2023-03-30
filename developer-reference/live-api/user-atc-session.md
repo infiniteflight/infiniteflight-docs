@@ -10,6 +10,10 @@ contributor: sqeezelemon
 
 Retrieves an ATC session from the log of a given user.
 
+⚠️ Important Notice
+
+: This API is intended for simulated flight only and must not be used in real-world flight situations.
+
 ## Resource
 
 **GET** `https://api.infiniteflight.com/public/v2/users/{userId}/atc/{atcSessionId}`
