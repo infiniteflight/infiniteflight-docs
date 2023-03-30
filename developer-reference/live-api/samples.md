@@ -18,6 +18,6 @@ Below you can find a range of samples in a variety of languages to help you get 
 - [Swift](https://github.com/sqeezelemon/SwiftyLiveApi) (thanks @sqeezelemon)
 - [Go](https://github.com/sqeezelemon/golive) (thanks @sqeezelemon)
 
-⚠️ Important Notice
+⚠️
 
 : This API is intended for simulated flight only and must not be used in real-world flight situations.

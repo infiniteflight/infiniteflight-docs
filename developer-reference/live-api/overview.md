@@ -15,7 +15,7 @@ The Live API is our HTTP API used for requesting data from Infinite Flight Serve
 - Retrieve flight plans for each flight.
 - Retrieve stats for users.
 
-⚠️ Important Notice
+⚠️
 
 : This API is intended for simulated flight only and must not be used in real-world flight situations.
 

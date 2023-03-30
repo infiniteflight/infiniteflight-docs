@@ -10,7 +10,7 @@ contributor: KaiM,sqeezelemon
 
 Retrieve active Air Traffic Control frequencies for a session
 
-⚠️ Important Notice
+⚠️
 
 : This API is intended for simulated flight only and must not be used in real-world flight situations.
 

@@ -9,7 +9,7 @@ order: 13
 
 Retrieves a list of Oceanic Tracks active in Infinite Flight multiplayer sessions.
 
-⚠️ Important Notice
+⚠️
 
 : This API is intended for simulated flight only and must not be used in real-world flight situations.
 

@@ -10,7 +10,7 @@ contributor: sqeezelemon
 
 Retrieves a flight from the logbook of a given user.
 
-⚠️ Important Notice
+⚠️
 
 : This API is intended for simulated flight only and must not be used in real-world flight situations.
 

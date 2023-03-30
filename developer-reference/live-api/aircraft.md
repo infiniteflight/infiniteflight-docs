@@ -9,7 +9,7 @@ order: 19
 
 Retrieve a list of all aircraft models.
 
-⚠️ Important Notice
+⚠️
 
 : This API is intended for simulated flight only and must not be used in real-world flight situations.
 
