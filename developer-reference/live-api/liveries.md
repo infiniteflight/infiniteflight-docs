@@ -9,7 +9,7 @@ order: 21
 
 Retrieve a list of all aircraft liveries.
 
-⚠️ Important Notice
+⚠️
 
 : This API is intended for simulated flight only and must not be used in real-world flight situations.
 

@@ -9,7 +9,7 @@ order: 2
 
 Retrieve active sessions (servers) in Infinite Flight.
 
-⚠️ Important Notice
+⚠️
 
 : This API is intended for simulated flight only and must not be used in real-world flight situations.
 

@@ -9,9 +9,9 @@ order: 20
 
 Retrieve a list of all liveries for an aircraft model.
 
-⚠️ Important Notice
+⚠️
 
-: This API is intended for simulated flight only and must not be used in real-world flight situations
+: This API is intended for simulated flight only and must not be used in real-world flight situations.
 
 
 ## Resource

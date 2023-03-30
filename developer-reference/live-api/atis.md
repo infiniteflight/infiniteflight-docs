@@ -10,7 +10,7 @@ contributor: KaiM
 
 Retrieve the ATIS for an airport on a specific server if it is active.
 
-⚠️ Important Notice
+⚠️
 
 : This API is intended for simulated flight only and must not be used in real-world flight situations.
 

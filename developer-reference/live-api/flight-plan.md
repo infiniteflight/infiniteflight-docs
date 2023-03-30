@@ -10,7 +10,7 @@ order: 6
 
 Retrieve the flight plan for a specific active flight.
 
-⚠️ Important Notice
+⚠️
 
 : This API is intended for simulated flight only and must not be used in real-world flight situations.
 

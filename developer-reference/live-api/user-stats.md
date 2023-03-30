@@ -10,7 +10,7 @@ contributor: sqeezelemon
 
 Retrieve user statistics for up to 25 users at once, including their grade, flight time and username.
 
-⚠️ Important Notice
+⚠️
 
 : This API is intended for simulated flight only and must not be used in real-world flight situations.
 

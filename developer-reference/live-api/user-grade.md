@@ -10,7 +10,7 @@ contributor: KaiM,sqeezelemon,Ethan_C
 
 Retrieve the full grade table and detailed statistics for a user.
 
-⚠️ Important Notice
+⚠️
 
 : This API is intended for simulated flight only and must not be used in real-world flight situations.
 

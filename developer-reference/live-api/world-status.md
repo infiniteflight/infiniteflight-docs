@@ -10,7 +10,7 @@ contributor: sqeezelemon
 
 Retrieve active ATC status information and inbound/outbound aircraft information for all airports with activity on a specific server.
 
-⚠️ Important Notice
+⚠️
 
 : This API is intended for simulated flight only and must not be used in real-world flight situations.
 
