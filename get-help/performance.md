@@ -55,7 +55,10 @@ order: 3
 
 +++ Additional iOS tips
 
-- Perform a soft restart. This is a quick and reliable way of making sure your device is operating at peak efficiency. This is done by holding down the power/lock button until you see “Slide to power off”. Then hold down the home button until you’ve returned to the home screen. For iOS devices without a Home button, a normal restart is recommended as the soft restart feature is not available
+- Perform a restart. This is a quick and reliable way of making sure your device is operating at peak efficiency. 
+
+  - For iOS devices without a home button, this is done by holding down the power/lock button and the volume up button at the same time until you see "slide to power off," then slide that to power off the device. Wait 30 seconds, then hold down the power/lock button until you’ve returned to the home screen.
+  - For iOS devices with a home button, this is done by holding down the power/lock button until you see “slide to power off,” then slide that to power off the device. Wait 30 seconds, then hold down the power/lock button until you’ve returned to the home screen. 
 
 - Make sure “Low power mode” if "off" (it is indicated as "on" when the battery icon is yellow). This can be deactivated from Settings > Battery, or from “Control Center”. Having “Low power mode” enabled while using Infinite Flight could result in a performance degradation
 
