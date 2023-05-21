@@ -11,10 +11,10 @@ contributor: deercrusher
 The Settings menu allows you to customize your Infinite Flight experience before and during play. Below is a guide to help you navigate your way around and to find the best settings for you!
 
 
-![Settings](_images/manual/frames/settings-general-227-1.png)
+![General Settings](_images/manual/frames/settings-general-232.png)
 
 
-1. On the left hand side of the screen are 7 categories that split the settings up, tap each one to find settings within
+1. On the left hand side of the screen are 6 categories that split the settings up, tap each one to find settings within
 
    
 
@@ -42,27 +42,27 @@ The Settings menu allows you to customize your Infinite Flight experience before
 
 
 
-| Setting                                 | What it does                                                 |
-| --------------------------------------- | ------------------------------------------------------------ |
-| Language                                | Sets the language of the app's interface                     |
-| Interface Timeout                       | Controls how long the User Interface controls stay on screen |
-| Hide Status Bar                         | Hides the status bar when the interface timeout occurs       |
-| Control Sensitivity                     | Sets the controls sensitivity                                |
-| Airport Names                           | Shows names and distance of the airports while flying (displayed on the scenery outside, this includes the airport's 4 letter ICAO code and distance) |
-| Landing Aid                             | Shows a set of rectangles around the landing path and helps make stabilized landings (for a more realistic experience consider turning this **OFF**) |
-| Invert External Cameras Vertical Motion | Inverts the vertical motion of the external cameras (locked, external cameras on the aircraft) |
-| Invert Internal Cameras Vertical Motion | Inverts the vertical motion of the internal cameras (tower and cockpit) |
-| Automatically Set Start Airport         | Automatically sets the start airport to where the last flight ended |
-| Auto-Coordination                       | Automatically couples the ailerons and the rudder (on the ground only) |
-| Enable ForeFlight Link                  | Sends Position/Altitude/Traffic data to local devices running ForeFlight (for more info click [here](/guide/getting-started-guide/home-user-interface/settings#foreflight)) |
-| Enable Infinite Flight Connect          | Enables Infinite Flight Connect API System (toggle this on to allow Infinite Flight and third party apps such as InFlight Assistant and Fly-By-Wire to bridge if they are on the same network) |
-| Show Touches                            | Useful when recording videos/tutorials                       |
-| Enable Automatic Low Power              | Enter low power during long flights to save battery          |
-| Automatic Engine Start                  | Always starts with the engine running (once you spawn, engines will be heard & can be seen running) |
-| Weight Units                            | Select what weight unit you want to use i.e. Kgs or Lbs (aircraft fuel quantity and consumption will then been shown in this unit) |
-| Show Performance Metrics                | Shows metrics including the current frame rate               |
-| Clear Scenery Cache                     | Clear scenery data cached on local storage (users that are experiencing issues falling through taxiways, aprons, ramps, runways or experiencing any other scenery related type of issues should tap on “Clear Cache”. If issues persist after you’ve tried that, consider making a [#support](https://community.infiniteflight.com/c/support/17) ticket to report your issue) |
-| Screenshot Resolution Scale             | Resolution scale factor for screenshots                      |
+| Setting                                                      | What it does                                                 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Language                                                     | Sets the language of the app's interface                     |
+| Interface Timeout                                            | Controls how long the User Interface controls stay on screen |
+| Hide Status Bar                                              | Hides the status bar when the interface timeout occurs       |
+| Control Sensitivity                                          | Sets the controls sensitivity                                |
+| Airport Names                                                | Shows names and distance of the airports while flying (displayed on the scenery outside, this includes the airport's 4 letter ICAO code and distance) |
+| Landing Aid                                                  | Shows a set of rectangles around the landing path and helps make stabilized landings (for a more realistic experience consider turning this **OFF**) |
+| Invert External Cameras Vertical Motion                      | Inverts the vertical motion of the external cameras (locked, external cameras on the aircraft) |
+| Invert Internal Cameras Vertical Motion                      | Inverts the vertical motion of the internal cameras (tower and cockpit) |
+| Automatically Set Start Airport                              | Automatically sets the start airport to where the last flight ended |
+| Auto-Coordination                                            | Automatically couples the ailerons and the rudder (on the ground only) |
+| Enable [ForeFlight](/guide/getting-started-guide/home-user-interface/settings#foreflight) Link | Sends Position/Altitude/Traffic data to local devices running ForeFlight |
+| Enable Infinite Flight Connect                               | Enables Infinite Flight Connect API System (toggle this on to allow Infinite Flight and third party apps such as InFlight Assistant and Fly-By-Wire to bridge if they are on the same network) |
+| Show Touches                                                 | Useful when recording videos/tutorials                       |
+| Enable Automatic Low Power                                   | Enter low power during long flights to save battery          |
+| Automatic Engine Start                                       | Always starts with the engine running (once you spawn, engines will be heard & can be seen running) |
+| Weight Units                                                 | Select what weight unit you want to use i.e. Kgs or Lbs (aircraft fuel quantity and consumption will then been shown in this unit) |
+| Show Performance Metrics                                     | Shows metrics including the current frame rate               |
+| Clear Scenery Cache                                          | Clear scenery data cached on local storage (users that are experiencing issues falling through taxiways, aprons, ramps, runways or experiencing any other scenery related type of issues should tap on “Clear Cache”. If issues persist after you’ve tried that, consider making a [#support](https://community.infiniteflight.com/c/support/17) ticket to report your issue) |
+| Screenshot Resolution Scale                                  | Resolution scale factor for screenshots                      |
 
 
 
@@ -76,7 +76,7 @@ Tip
 
  
 
-![Online Settings](_images/manual/frames/settings-online-227.png)
+![Online Settings](_images/manual/frames/settings-online-232.png)
 
 
 
@@ -119,7 +119,7 @@ Tip
 
 
 
-![Account Settings](_images/manual/frames/settings-account-227.png)
+![Account Settings](_images/manual/frames/settings-account-232.png)
 
 
 
@@ -129,7 +129,7 @@ There are two sliders that adjust the SFX and ATC Volume. Slide your finger alon
 
 
 
-![Audio Settings](_images/manual/frames/settings-audio-227.png)
+![Audio Settings](_images/manual/frames/settings-audio-232.png)
 
 
 
@@ -152,7 +152,7 @@ Infinite Flight supports both iOS and Android devices; because of this, the sett
 
 
 
-![Graphics Settings](_images/manual/frames/settings-graphics-227.png)
+![Graphics Settings](_images/manual/frames/settings-graphics-232.png)
 
 
 
@@ -164,7 +164,6 @@ Infinite Flight supports both iOS and Android devices; because of this, the sett
 | Texture Quality      | Controls the quality of the textures                         |
 | Anti-Aliasing        | Makes lines/graphics smoother and softens out the jagged/rough graphics that you may experience (it is not supported on all devices and can run very slow because of this - if device performance starts to degrade, turn this setting to **OFF**) |
 | Limit Frame Rate     | Limit Frame Rate to optimize battery life, when toggled to **ON** the rate is capped at 30 frames per second; when toggled to **OFF**, frame rates are much higher and will also reduce device performance (we recommend using this function for medium/long haul flying) |
-| Benchmark            | Run graphics benchmark to determine the performance at these graphics settings |
 
 
 
@@ -188,7 +187,7 @@ In the control settings you can further adjust your control sensitivity for each
 
 
 
-![Control Settings Page](_images/manual/frames/settings-controls-228.png)
+![Control Settings](_images/manual/frames/settings-controls-232.png)
 
 
 
