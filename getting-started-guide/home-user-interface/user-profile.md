@@ -19,7 +19,7 @@ order: 4
 
 
 
-![Account Settings](_images/manual/frames/settings-account-227.png)
+![Account Settings](_images/manual/frames/settings-account-232.png)
 
 
 
