@@ -7,17 +7,11 @@ order: 3
 
 # Logbook
 
-
-
 All flights and controlling sessions are recorded automatically and you can revisit them any time!
 
 
 
-![Logbook](_images/manual/frames/settings-logbook-227.png)
-
-
-
- ![Replays](_images/manual/frames/replay-page-227.png)
+![Logbook](_images/manual/frames/logbook-232-v2.png)
 
   
 
@@ -42,6 +36,10 @@ All flights and controlling sessions are recorded automatically and you can revi
      
 
 6. Tap this button to view the selected replay
+
+
+
+> If the app is uninstalled (or a flight is flown on a different device but with the same account), the logbook entry is retained but the replay will no longer be available
 
 
 
@@ -196,7 +194,7 @@ Step 1
 
 Step 2
 
-: Tap the import symbol (envelope with arrow at the top of the screen) A window will open allowing you to navigate to where the file you wish to import is located
+: Tap the import symbol (envelope with arrow at the top of the screen). A window will open allowing you to navigate to where the file you wish to import is located
 
 
 

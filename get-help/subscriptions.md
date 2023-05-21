@@ -15,7 +15,7 @@ This is where you'll find information and frequently asked questions related to 
 
 ## What is a Pro Subscription?
 
-The Infinite Flight Pro Subscription* comes with all in-app purchases unlocked, including any newly added content during the active subscription period. Only items purchased separately will remain available once your subscription expires or is cancelled.
+The Infinite Flight Pro subscription* comes with all in-app purchases unlocked, including any newly added content during the active subscription period. Only items purchased separately will remain available once your subscription expires or is cancelled.
 
 
 
@@ -47,17 +47,17 @@ Step 2
 
 Step 3
 
-: The subscription page will be displayed, from there, tap the blue button
+: A subscription pop-up will appear, from there, tap the blue button
 
 
 
-![Subscription Page](_images/manual/frames/get-pro.png)
+![Subscription](_images/manual/frames/subscription-232.png)
 
 
 
 Step 4
 
-: If you already have an account, tap "I already have an account" in the bottom right hand corner of the screen
+: If you already have an account, tap "I already have an account"
 
 
 
@@ -67,7 +67,7 @@ Step 5
 
 
 
-![Login](_images/manual/frames/login2.png)
+![Login](_images/manual/frames/login-232.png)
 
 
 
@@ -109,7 +109,7 @@ Step 1
 
 Step 2
 
-: The subscription page will be displayed, from there, tap "I already have an account" in the bottom right hand corner of the screen
+: A subscription pop-up will appear, from there, tap "I already have an account"
 
 
 
@@ -142,7 +142,7 @@ Auto-Renew can be cancelled directly from the Google Play or App Store. Please f
 
 
 
-![Account Settings Page](_images/manual/frames/account1b.png)
+![Account Settings](_images/manual/frames/settings-account-232.png)
 
 
 
