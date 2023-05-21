@@ -9,7 +9,7 @@ order: 0
 
 Welcome to the home screen of your newly downloaded Infinite Flight app. Below you’ll find everything you need to know about this page and how to navigate your way through it.
 
-![Home](_images/manual/frames/home-page-227-1.png)
+![Home](_images/manual/frames/home-page-232.png)
 
 
 

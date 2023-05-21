@@ -15,7 +15,7 @@ There are three modes within Flight that can be selected, these are:
 
 
 
-[Insert screenshot with Type numbered as 1]
+![Flight](_images/manual/frames/flight-232.png)
 
 
 
@@ -27,17 +27,7 @@ There are three modes within Flight that can be selected, these are:
 
 
 
-[Insert screenshot]
-
-1 world
-
-2 aircraft selection
-
-3 search icon
-
-4 map
-
-5 fly
+![Free Flight](_images/manual/frames/free-flight-232.png)
 
 
 
@@ -65,11 +55,7 @@ There are three modes within Flight that can be selected, these are:
 
 
 
-[Insert screenshot]
-
-1 getting started
-
-2 fly
+![Flight School](_images/manual/frames/flight-school-232.png)
 
 
 
@@ -85,17 +71,7 @@ There are three modes within Flight that can be selected, these are:
 
 
 
-[Insert screenshot]
-
-1 world
-
-2 three dot symbol
-
-3 flight strip, by green ATC symbol
-
-4 card
-
-5 fly
+![Missions](_images/manual/frames/missions-232.png)
 
 
 
@@ -126,19 +102,7 @@ When in [Free Flight](/guide/getting-started-guide/home-user-interface/flight#fr
 
 
 
-[Insert screenshot with aircraft selection page]
-
-1 bombardier title
-
-2 next to crj-700
-
-3 infinite flight drop down
-
-4 show older a/c
-
-5 restore purchase
-
-6 ok
+![Aircraft Selection](_images/manual/frames/aircraft-selection-232.png)
 
 
 
@@ -170,15 +134,7 @@ When in [Free Flight](/guide/getting-started-guide/home-user-interface/flight#fr
 
 
 
-[Insert screenshot with airport selection page]
-
-1 search icon
-
-2 next to blue dot like KOAK
-
-3 next to KSFO
-
-4 magenta dot (KHAF)
+![Airport Selection](_images/manual/frames/airport-selection-232.png)
 
  
 
@@ -208,13 +164,7 @@ If you’re about to fly online, we also use a variety of colors to give you an 
 
 
 
-[Insert screenshot with gate selection page]
-
-1 by runway with green marking
-
-2 next to terminal 3 gate e12
-
-3 next to gate on card
+![Gate Selection](_images/manual/frames/gate-selection-232.png)
 
 
 
@@ -249,7 +199,7 @@ The various live servers available to use are displayed here. Each server has it
 
 
 
-[Insert screenshot with different worlds showing]
+![Worlds](_images/manual/frames/worlds-232.png)
 
 
 
