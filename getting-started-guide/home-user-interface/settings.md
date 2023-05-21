@@ -2,7 +2,7 @@
 id: settings
 title: Settings
 meta: Learn how to use the Settings page in Infinite Flight to customize your flying experience.
-order: 7
+order: 6
 contributor: deercrusher
 ---
 
@@ -120,16 +120,6 @@ Tip
 
 
 ![Account Settings](_images/manual/frames/settings-account-227.png)
-
-
-
-## Logbook
-
-All live and solo flights are recorded here so that you can keep track of your flights.
-
-
-
-![Logbook](_images/manual/frames/settings-logbook-227.png)
 
 
 

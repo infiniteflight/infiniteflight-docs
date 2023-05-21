@@ -1,13 +1,19 @@
 ---
-id: replays
-title: Replays
-meta: Learn how to use use Replays in Infinite Flight.
-order: 6
+id: logbook
+title: Logbook
+meta: Learn about your Logbook and replays within Infinite Flight.
+order: 3
 ---
 
-# Replays
+# Logbook
+
+
 
 All flights and controlling sessions are recorded automatically and you can revisit them any time!
+
+
+
+![Logbook](_images/manual/frames/settings-logbook-227.png)
 
 
 
@@ -15,25 +21,25 @@ All flights and controlling sessions are recorded automatically and you can revi
 
   
 
-1. All replays are listed here, by tapping a replay it will turn amber to show it is selected (or you can tap the dot to the left of each replay to select multiple replay files, the dot will change from hollow to solid to show it is selected). You can also tap the star next to a replay to highlight your favourites
+1. All flight and controlling replays are listed here
 
-    
+     
 
-2. Tap this button to [import](/guide/getting-started-guide/home-user-interface/replays#how-to-import-your-replay) a replay into your device
+2. Tap a replay to select it, a card will appear on the right of the screen that contains a summary of that replay
 
-    
+   
 
-3. Once you have selected a replay, you can tap this button to [share (export)](/guide/getting-started-guide/home-user-interface/replays#how-to-export-your-replay) it 
+3. Tap this button to [import](/guide/getting-started-guide/home-user-interface/replays#how-to-import-your-replay) a replay into your device
 
-    
+   
 
-4. Tap this button to delete the selected replay(s)
+4. The three dot symbol can be tapped to filter your replays 
 
-    
+     
 
-5. Select a replay and then tap this button to add a comment
+5. Once you have selected a replay, you can tap the three dot symbol on the replay card to [share (export)](/guide/getting-started-guide/home-user-interface/replays#how-to-export-your-replay), edit or delete
 
-    
+     
 
 6. Tap this button to view the selected replay
 
@@ -146,7 +152,7 @@ All flights and controlling sessions are recorded automatically and you can revi
 
 Step 1
 
-: Access your "Replays"
+: Open your "Logbook"
 
 
 
@@ -158,7 +164,7 @@ Step 2
 
 Step 3
 
-: Click "Share"
+: Tap the three dot symbol on the replay card and select "Share"
 
 
 
@@ -170,7 +176,7 @@ Step 4
 
 Step 5
 
-: Your file will be saved to the location you selected
+: Your file will be saved to the location you have selected
 
 
 
@@ -184,13 +190,13 @@ You can also import replays into your device to view them. To do this follow the
 
 Step 1
 
-: Access your "Replays" 
+: Open your "Logbook"
 
 
 
 Step 2
 
-: Select "Import". A window will open allowing you to navigate to where the file you wish to import is located
+: Tap the import symbol (envelope with arrow at the top of the screen) A window will open allowing you to navigate to where the file you wish to import is located
 
 
 
@@ -202,4 +208,4 @@ Step 3
 
 Step 4
 
-: Infinite Flight will open (if not already) and import the replay into your "Replays"
+: Infinite Flight will open (if not already) and import the replay into your "Logbook"

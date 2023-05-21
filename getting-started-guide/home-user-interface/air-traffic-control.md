@@ -2,7 +2,7 @@
 id: air-traffic-control
 title: Air Traffic Control
 meta: Learn how to start an Air Traffic Control session on Infinite Flight.
-order: 5
+order: 2
 ---
 
 # Air Traffic Control

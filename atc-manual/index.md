@@ -8,7 +8,7 @@ meta: Introduction to the Infinite Flight Air Traffic Controller (IFATC) Manual.
 
 
 
-## Guide Version: 23.1.0
+## Guide Version: 23.2.0
 
 
 
@@ -26,9 +26,24 @@ Should
 
 
 
-## ATC Manual Version (Internal): 23.1.1
+## ATC Manual Version (Internal): 23.2.1
 
-## Last Updated: 1100Z - 23 MAR 23
+## Last Updated: 1730Z - 17 MAY 23
+
+
+
++++ Summary of Changes - Version: 23.2.1 (CURRENT VERSION)
+
+| Location | Change                                                       |
+| -------- | ------------------------------------------------------------ |
+| 1A.3.1   | Controllers are not permitted to control Infinite Flight on other platforms (such as BlueStacks) |
+| 4.1.2    | Note added on how to handle pilots that do not have the latest ATIS information |
+| 6.14.9   | Speed is at the discretion of the pilot when leaving a hold unless subsequently given a speed command |
+| 6.14.10  | Moved from 6.14.9                                            |
+| 7A.2.8   | ATIS added to the Initial checklist for training             |
+| 7B.1.2   | Minor wording correction                                     |
+
++++
 
 
 
@@ -64,21 +79,6 @@ Should
 | 7C.1.5   | Adjustment of Discord channel structure for training/tests   |
 | 7C.2.4   | Minor wording correction and removal of email address as a profile verification requirement |
 | 7E.2     | Violations issued to current IFATC will be handled by the IFATC Manager/Moderators |
-
-+++
-
-
-
-+++ Summary of Changes - Version: 22.6.1
-
-| Location | Change                                                       |
-| -------- | ------------------------------------------------------------ |
-| 1B.2.1   | Tip changed to a note instead and adjusted to highlight that fighter aircraft are not to exceed 350KIAS when below 10,000ft and under ATC control |
-| 2.1.4    | Minor wording adjustment to account for the fact that all aircraft are now capable of pushback |
-| 2.2.1    | Adjusted wording to prioritize the use of "give way" commands to ensure traffic does not conflict with aircraft exiting the runway |
-| 3.3.1    | Minor wording adjustment to account for pilots calling inbound on ILS/GPS/Visual without a Radar Controller present |
-| 7B.2     | Testing locations removed                                    |
-| 7B.3.2   | Testing locations removed                                    |
 
 +++
 

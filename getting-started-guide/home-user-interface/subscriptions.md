@@ -2,7 +2,7 @@
 id: subscriptions
 title: Subscriptions
 meta: Learn how to manage your subscriptions for Infinite Flight.
-order: 8
+order: 5
 ---
 
 # Subscriptions

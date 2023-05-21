@@ -2,7 +2,7 @@
 id: user-profile
 title: User Profile
 meta: Learn how to interact with your user profile in Infinite Flight.
-order: 1
+order: 4
 ---
 
 # User Profile

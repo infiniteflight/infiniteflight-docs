@@ -8,7 +8,7 @@ meta: Learn how to use the Infinite Flight Scenery Editor with our online docume
 
 
 
-## Guide Version: 23.1.0
+## Guide Version: 23.2.0
 
 
 
@@ -20,13 +20,27 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 
 
 
-## Scenery Editor Manual Version (Internal): 23.1.1
+## Scenery Editor Manual Version (Internal): 23.2.1
 
-## Last Updated: 1100Z - 23 MAR 23
+## Last Updated: 1330Z - 17 MAY 23
 
 
 
-+++ Summary of Changes - Version: 23.1.1 (CURRENT VERSION)
++++ Summary of Changes - Version: 23.2.1 (CURRENT VERSION)
+
+| Location | Change                                           |
+| -------- | ------------------------------------------------ |
+| 1.3.2    | Aircraft within each aircraft categories updated |
+| 1A.1.2   | Minor wording corrections                        |
+| 1A.1.2   | *#help-request* channel added                    |
+| 1A.2.1   | Note moved to 1A.3.1 as a rule                   |
+| 8.2.2    | Hangar height table updated                      |
+
++++
+
+
+
++++ Summary of Changes - Version: 23.1.1
 
 | Location | Change                                                       |
 | -------- | ------------------------------------------------------------ |
@@ -54,21 +68,6 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 | 5.1         | Formatting issue within do/do not table fixed                |
 | 11.1.3      | Limit on Peer Reviews per airport removed                    |
 | Section 11A | New section with guidance for Reviewers                      |
-
-+++
-
-
-
-+++ Summary of Changes - Version: 22.4.1
-
-| Location              | Change                                                       |
-| --------------------- | ------------------------------------------------------------ |
-| 2.1.2                 | Reference to model lines added                               |
-| 5.1, 6.1, 8.1 and 9.1 | "Do and Do Not" tables added                                 |
-| 6.2.3                 | Added ILS holds and runway turnaround lines to table         |
-| 6.2.4                 | Added runway and ILS holds to table                          |
-| 9.5                   | New section for model lines                                  |
-| 11.2                  | Notes added to highlight particular points in the editor checklist |
 
 +++
 
