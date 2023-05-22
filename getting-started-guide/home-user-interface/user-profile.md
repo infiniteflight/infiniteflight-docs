@@ -2,7 +2,7 @@
 id: user-profile
 title: User Profile
 meta: Learn how to interact with your user profile in Infinite Flight.
-order: 1
+order: 4
 ---
 
 # User Profile
@@ -19,7 +19,7 @@ order: 1
 
 
 
-![Account Settings](_images/manual/frames/settings-account-227.png)
+![Account Settings](_images/manual/frames/settings-account-232.png)
 
 
 
