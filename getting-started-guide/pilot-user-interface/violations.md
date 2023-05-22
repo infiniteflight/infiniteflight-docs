@@ -12,7 +12,7 @@ order: 14
 ## What are Violations?
 
 
-Violations can either be automatically generated (Level 1) or issued by ATC (Level 2 or 3) and are a way to moderate pilot behavior on the [Training and Expert Servers](/guide/getting-started-guide/home-user-interface/fly-online#server). **Level 1** Violations can be received on both servers, however **Level 2** and **Level 3** Violations can only be issued on the Expert Server. Each server has its own set of rules and minimum [grade](/guide/getting-started-guide/home-user-interface/user-profile#the-grade-table) requirements, but the Expert Server is for serious users only. If the server rules and procedures are not followed, ATC will strictly enforce this and pilots could be issued a Violation. 
+Violations can either be automatically generated (Level 1) or issued by ATC (Level 2 or 3) and are a way to moderate pilot behavior on the [Training and Expert Servers](/guide/getting-started-guide/home-user-interface/flight#worlds). **Level 1** Violations can be received on both servers, however **Level 2** and **Level 3** Violations can only be issued on the Expert Server. Each server has its own set of rules and minimum [grade](/guide/getting-started-guide/home-user-interface/user-profile#the-grade-table) requirements, but the Expert Server is for serious users only. If the server rules and procedures are not followed, ATC will strictly enforce this and pilots could be issued a Violation. 
 
  
 
@@ -122,7 +122,7 @@ We recommend that you only appeal **Level 3** Violations as these prevent access
 
 Step 1
 
-: Access your [logbook](/guide/getting-started-guide/home-user-interface/settings#logbook) from the [settings](/guide/getting-started-guide/home-user-interface/settings) page
+: Access your [logbook](/guide/getting-started-guide/home-user-interface/logbook)
 
  
 
@@ -140,7 +140,7 @@ Step 3
 
 Step 4
 
-: It is highly likely that you will be asked to [provide your pilot replay](/guide/getting-started-guide/home-user-interface/replays#replays) to assist the team in handling your appeal
+: It is highly likely that you will be asked to [provide your pilot replay](/guide/getting-started-guide/home-user-interface/logbook) to assist the team in handling your appeal
 
 
 

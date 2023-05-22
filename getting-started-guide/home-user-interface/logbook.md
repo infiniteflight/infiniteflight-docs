@@ -23,7 +23,7 @@ All flights and controlling sessions are recorded automatically and you can revi
 
    
 
-3. Tap this button to [import](/guide/getting-started-guide/home-user-interface/replays#how-to-import-your-replay) a replay into your device
+3. Tap this button to [import](/guide/getting-started-guide/home-user-interface/logbook#how-to-import-your-replay) a replay into your device
 
    
 
@@ -31,7 +31,7 @@ All flights and controlling sessions are recorded automatically and you can revi
 
      
 
-5. Once you have selected a replay, you can tap the three dot symbol on the replay card to [share (export)](/guide/getting-started-guide/home-user-interface/replays#how-to-export-your-replay), edit or delete
+5. Once you have selected a replay, you can tap the three dot symbol on the replay card to [share (export)](/guide/getting-started-guide/home-user-interface/logbook#how-to-export-your-replay), edit or delete
 
      
 

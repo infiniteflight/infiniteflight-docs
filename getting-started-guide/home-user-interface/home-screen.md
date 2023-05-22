@@ -15,13 +15,13 @@ Welcome to the home screen of your newly downloaded Infinite Flight app. Below y
 
 1. At the bottom are tabs which can be tapped to navigate to other pages:
 
-   - [Flight](/guide/getting-started-guide/home-user-interface/flight#flight) is home to everything flying within Infinite Flight, including Free Flight, Flight Training and Missions
-   - [Air Traffic Control](/guide/getting-started-guide/home-user-interface/air-traffic-control#air-traffic-control) is where you can control aircraft in our various worlds
+   - [Flight](/guide/getting-started-guide/home-user-interface/flight#flight) is home to everything flying within Infinite Flight, including [Free Flight](/guide/getting-started-guide/home-user-interface/flight#free-flight), [Flight School](/guide/getting-started-guide/home-user-interface/flight#flight-school), and [Missions](/guide/getting-started-guide/home-user-interface/flight#missions)
+   - [Air Traffic Control](/guide/getting-started-guide/home-user-interface/air-traffic-control#air-traffic-control) is where you can control aircraft in our various [Worlds](/guide/getting-started-guide/home-user-interface/air-traffic-control#worlds)
    - [Logbook](/guide/getting-started-guide/home-user-interface/logbook#logbook) is where all of your controlling sessions and flights are recorded for when you want to look back
    
     
    
-2. In the top right hand corner you’ll find the "Get Pro" subscription button. If you already have a subscription, then your [User Profile](/guide/getting-started-guide/home-user-interface/user-profile) will show instead
+2. In the top right hand corner you’ll find the [Get Pro](/guide/getting-started-guide/home-user-interface/subscriptions) subscription button. If you already have a subscription, then your [User Profile](/guide/getting-started-guide/home-user-interface/user-profile) will show instead
 
     
 

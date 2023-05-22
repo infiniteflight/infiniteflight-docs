@@ -135,7 +135,7 @@ Step 4
 
  
 
-1. Airports are always represented by either blue or magenta dots, if you’re flying online they may also have a [colored dot in the middle](/guide/getting-started-guide/home-user-interface/fly-online#airport-and-gate-selection) for reference to the weather
+1. Airports are always represented by either blue or magenta dots, if you’re flying online they may also have a [colored dot in the middle](/guide/getting-started-guide/home-user-interface/flight#airport-and-gate-selection) for reference to the weather
 
 
 

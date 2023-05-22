@@ -75,26 +75,24 @@ Selecting frequencies is very similar to selecting an airport and parking positi
 
     
 
-## Server
+## Worlds
 
 The various live servers available to use are displayed here. Each server has its own set of rules and minimum grade requirements, make sure to check these before trying to join!
 
 
 
-  ![Online Servers](_images/manual/frames/fly-online-server-page-227.png)
+![Worlds](_images/manual/frames/worlds-232.png)
 
 
 
 | Server   | Description                                                  | Minimum [Grade](/guide/getting-started-guide/home-user-interface/user-profile#the-grade-table) |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Solo     | Choose your own aircraft and route, test your piloting skills and explore beautiful scenery without rules or other pilots | N/A                                                          |
 | Casual   | This server may be accessed by all grades. ATC is not available and pilots may fly freely without affecting their stats or grade. All users should still be respectful and courteous to other pilots | N/A                                                          |
-| Expert   | This is a server where published rules must be adhered to. All procedures are strictly enforced by ATC. Infractions may result in issued [Violations](/guide/getting-started-guide/pilot-user-interface/violations#violations) | 3*                                                           |
-| IFATC**  | This server is reserved for IFATC training, approach tests and tutorial filming. All controlling and flying outside of this shall remain on the Expert Server, misuse can result in suspension | N/A                                                          |
 | Training | This server is used to practice pilot and ATC skills. All ATC facilities (except ATIS) can be accessed and procedures are enforced by [Violations](/guide/getting-started-guide/pilot-user-interface/violations#violations) | 2                                                            |
+| Expert   | This is a server where published rules must be adhered to. All procedures are strictly enforced by ATC. Infractions may result in issued [Violations](/guide/getting-started-guide/pilot-user-interface/violations#violations) | 3*                                                           |
 
 **In addition to the minimum grade requirement, the number of total Level 1 Violations must be at least 50% less than the number of total landings and pilots may not have [5 or more Level 2 or 3 Violations in the last 365 days](/guide/getting-started-guide/pilot-user-interface/violations#what-happens-if-i-get-a-violation%3F)*
 
 
-
-***Not available unless a member of IFATC*
 
