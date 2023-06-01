@@ -13,13 +13,13 @@ order: 2
 
 
 
-1. Select the [World](/guide/getting-started-guide/home-user-interface/air-traffic-control#world) you would like to control in (Training Server, or Expert Server)
+1. Select the [World](/guide/getting-started-guide/home-user-interface/air-traffic-control#worlds) you would like to control in (Training Server, or Expert Server)
 
-      
+  ​    
 
 2. The search function allows you to find the airport you want with ease. If you know the ICAO four letter code (e.g. KSFO for San Francisco Intl.) then you can type some or all of this, and a list of options will appear. Alternatively, just type in some or all of the city/airport name
 
-   ​    
+  ​    
 
 3. You can also use the map to find your chosen airport. Just use your finger to navigate around the globe, a pinching motion to zoom in and out, and then tap on the airport you want
 
@@ -100,15 +100,16 @@ The various live servers available to use are displayed here. Each server has it
 
 
 
-![Worlds](_images/manual/frames/worlds-232.png)
+![ATC Worlds](_images/manual/frames/atc-worlds-232.png)
 
 
 
 | Server   | Description                                                  | Minimum [Grade](/guide/getting-started-guide/home-user-interface/user-profile#the-grade-table) |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Solo     | Choose your own aircraft and route, test your piloting skills and explore beautiful scenery without rules or other pilots | N/A                                                          |
-| Casual   | This server may be accessed by all grades. ATC is not available and pilots may fly freely without affecting their stats or grade. All users should still be respectful and courteous to other pilots | N/A                                                          |
 | Training | This server is used to practice pilot and ATC skills. All ATC facilities (except ATIS) can be accessed and procedures are enforced by [Violations](/guide/getting-started-guide/pilot-user-interface/violations#violations) | 2                                                            |
-| Expert   | This is a server where published rules must be adhered to. All procedures are strictly enforced by ATC. Infractions may result in issued [Violations](/guide/getting-started-guide/pilot-user-interface/violations#violations) | 3*                                                           |
+| Expert*  | This is a server where published rules must be adhered to. All procedures are strictly enforced by ATC. Infractions may result in issued [Violations](/guide/getting-started-guide/pilot-user-interface/violations#violations) | 3**                                                          |
 
-**In addition to the minimum grade requirement, the number of total Level 1 Violations must be at least 50% less than the number of total landings and pilots may not have [5 or more Level 2 or 3 Violations in the last 365 days](/guide/getting-started-guide/pilot-user-interface/violations#what-happens-if-i-get-a-violation%3F)*
+**In order to be able to control on the Expert server, you must undergo formal training - more information can be found on the [Infinite Flight Community Forum](https://community.infiniteflight.com/t/infinite-flight-atc-recruiting/564656)*
+
+***In addition to the minimum grade requirement, the number of total Level 1 Violations must be at least 50% less than the number of total landings and pilots may not have [5 or more Level 2 or 3 Violations in the last 365 days](/guide/getting-started-guide/pilot-user-interface/violations#what-happens-if-i-get-a-violation%3F)*
+

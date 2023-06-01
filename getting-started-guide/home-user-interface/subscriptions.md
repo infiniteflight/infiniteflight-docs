@@ -19,9 +19,11 @@ The Infinite Flight Pro subscription* comes with all in-app purchases unlocked, 
 
 
 
-| Duration | Price (USD) |
-| -------- | ----------- |
-| 1 Month  | $9.99       |
+| Duration    | Price (USD) |
+| ----------- | ----------- |
+| Monthly     | $9.99       |
+| Semi Yearly | $49.99      |
+| Yearly      | $79.99      |
 
 
 
@@ -43,31 +45,31 @@ Step 2
 
 Step 3
 
-: A subscription pop-up will appear, from there, tap the blue button
+: A subscription pop-up will appear, from there, tap the blue button to subscribe to our monthly option, or tap "More Options" to discover the other packages available
 
 
 
-![Subscription](_images/manual/frames/subscription-232.png)
+![Get Pro](_images/manual/frames/get-pro-232.png)
 
 
 
 Step 4
 
-: If you already have an account, tap "I already have an account"
+: If you already have an account, tap "More Options > Sign in with Infinite Flight"
+
+
+
+![Subscription](_images/manual/frames/subscription-v2-232.png)
 
 
 
 Step 5
 
-: You will then be able to login
+: You will then be able to login using your account details from the [Infinite Flight Community Forum](https://community.infiniteflight.com). This will search for an active subscription (if your subscription has expired then you will need to select a payment option to continue)
 
 
 
-![Login](_images/manual/frames/login-232.png)
-
-
-
-> If you do not have a previous subscription using Google or Facebook, then you will need to use Infinite Flight to login. New subscriptions using Google or Facebook to login is no longer supported
+> More information on subscriptions can be found [here](/guide/get-help/subscriptions), or by contacting [support@infiniteflight.com](mailto:support@infiniteflight.com)
 
 
 

@@ -31,7 +31,7 @@ There are three modes within Flight that can be selected, these are:
 
 
 
-1. Select the [World](/guide/getting-started-guide/home-user-interface/flight#world) you would like to fly in (Solo, Casual Server, Training Server, or Expert Server)
+1. Select the [World](/guide/getting-started-guide/home-user-interface/flight#worlds) you would like to fly in (Solo, Casual Server, Training Server, or Expert Server)
 
    
 
@@ -75,7 +75,7 @@ There are three modes within Flight that can be selected, these are:
 
 
 
-1. Select the [World](/guide/getting-started-guide/home-user-interface/flight#world) you would like to fly in (Solo, Casual Server, Training Server, or Expert Server)
+1. Select the [World](/guide/getting-started-guide/home-user-interface/flight#worlds) you would like to fly in (Solo, Casual Server, Training Server, or Expert Server)
 
    
 
