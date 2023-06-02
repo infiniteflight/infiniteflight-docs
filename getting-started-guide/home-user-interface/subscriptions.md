@@ -133,11 +133,11 @@ Step 2
 
 Step 3
 
-: The login page will be displayed, tap the "Revert to Default Account" button
+: The subscription page will be displayed, tap the "Revert to default account" button
 
 
 
-![Login](_images/manual/frames/login-232.png)
+![Subscription](_images/manual/frames/subscription-v2-232.png)
 
 
 
