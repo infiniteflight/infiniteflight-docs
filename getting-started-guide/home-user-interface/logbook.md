@@ -11,31 +11,35 @@ All flights and controlling sessions are recorded automatically and you can revi
 
 
 
-![Logbook](_images/manual/frames/logbook-232-v2.png)
+![Logbook](_images/manual/frames/logbook-232-v3.png)
 
   
 
 1. All flight and controlling replays are listed here
 
-     
+  ​    
 
 2. Tap a replay to select it, a card will appear on the right of the screen that contains a summary of that replay
 
-   
+    
 
 3. Tap this button to [import](/guide/getting-started-guide/home-user-interface/logbook#how-to-import-your-replay) a replay into your device
 
-   
+    
 
 4. The three dot symbol can be tapped to filter your replays 
 
-     
+  ​    
 
 5. Once you have selected a replay, you can tap the three dot symbol on the replay card to [share (export)](/guide/getting-started-guide/home-user-interface/logbook#how-to-export-your-replay), edit or delete
 
-     
+   
 
-6. Tap this button to view the selected replay
+6. The replay duration and type (i.e. Solo, Multiplayer or ATC) is shown here
+
+  ​    
+
+7. Tap this button to view the selected replay
 
 
 

@@ -102,7 +102,7 @@ When in [Free Flight](/guide/getting-started-guide/home-user-interface/flight#fr
 
 
 
-![Aircraft Selection](_images/manual/frames/aircraft-selection-232.png)
+![Aircraft Selection](_images/manual/frames/aircraft-selection-232-v2.png)
 
 
 
@@ -140,17 +140,23 @@ When in [Free Flight](/guide/getting-started-guide/home-user-interface/flight#fr
 
 1. The search function allows you to find the airport you want with ease. If you know the ICAO four letter code (e.g. KSFO for San Francisco Intl.) then you can type some or all of this, and a list of options will appear. Alternatively, just type in some or all of the city/airport name
 
+     
+
+2. Blue dots signify airports that have a tower facility (although it may not necessarily have active ATC) and magenta dots signify uncontrolled airports
+
     
-
-2. Blue dots signify airports that have a tower facility (although it may not necessarily have active ATC)
-
-   
 
 3. Airports that have buildings added are marked with a "3D" symbol
 
    
 
-4. Magenta dots signify uncontrolled airports
+4. In [solo](/guide/getting-started-guide/home-user-interface/flight#worlds) mode you can park wherever you want, but in our live servers all parking positions are size restricted. If there are no parking positions available at an airport for the selected aircraft type, the airport is greyed out
+
+    
+
+   Tip
+
+   : [Select the aircraft](/guide/getting-started-guide/home-user-interface/flight#aircraft-selection) you want to fly before selecting a parking position, then you’ll be able to see where you can and can’t park
 
    
 
@@ -178,7 +184,7 @@ If you’re about to fly online, we also use a variety of colors to give you an 
 
    
 
-2. In [solo](/guide/getting-started-guide/home-user-interface/flight#world) mode you can park wherever you want, but in our live servers all parking positions are size restricted. If the parking positions are red, you’re too big
+2. In [solo](/guide/getting-started-guide/home-user-interface/flight#worlds) mode you can park wherever you want, but in our live servers all parking positions are size restricted. If the parking positions are red, you’re too big
 
    
 
