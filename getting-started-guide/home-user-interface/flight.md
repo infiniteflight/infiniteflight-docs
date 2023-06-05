@@ -134,7 +134,7 @@ When in [Free Flight](/guide/getting-started-guide/home-user-interface/flight#fr
 
 
 
-![Airport Selection](_images/manual/frames/airport-selection-232.png)
+![Airport Selection](_images/manual/frames/airport-selection-232-v2.png)
 
  
 
