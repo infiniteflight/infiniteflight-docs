@@ -20,13 +20,25 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 
 
 
-## Scenery Editor Manual Version (Internal): 23.2.1
+## Scenery Editor Manual Version (Internal): 23.2.2
 
-## Last Updated: 1330Z - 17 MAY 23
+## Last Updated: 2000Z - 26 JUN 23
 
 
 
-+++ Summary of Changes - Version: 23.2.1 (CURRENT VERSION)
++++ Summary of Changes - Version: 23.2.2 (CURRENT VERSION)
+
+| Location | Change                                                       |
+| -------- | ------------------------------------------------------------ |
+| 3.2.2    | The "City" name needs to be the city that the airport primarily serves |
+| 5.1      | Minor wording correction                                     |
+| 6.2.3    | Only Runway Hold lines closest to the runway to be given the usage type of "Aircraft" |
+
++++
+
+
+
++++ Summary of Changes - Version: 23.2.1
 
 | Location | Change                                           |
 | -------- | ------------------------------------------------ |
