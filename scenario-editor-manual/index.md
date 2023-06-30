@@ -13,17 +13,17 @@ Important
 
 ## What is a scenario?
 
-A scenario is a session in Infinite Flight with specific aims. This could be:
+A scenario is a session in Infinite Flight with a specific goal or set of goals. This could be:
 
- - A flight training lesson (i.e. how to land an aircraft)
- - A challenge (i.e. land the Space Shuttle)
- - A mission (i.e. fly a specific route)
+ - A flight training lesson (e.g. how to land an aircraft)
+ - A challenge (e.g. land the Space Shuttle)
+ - A mission (e.g. fly a specific route)
 
-The Scenario Editor has been created to help you build interactive experiences inside Infinite Flight. You have access to all the simulator states in Infinite Flight to build scenarios that can prompt users to perform a specific action, and then carry out more actions based on their reaction.
+The Scenario Editor has been created to help you build interactive experiences inside Infinite Flight. You have access to all the simulator states in Infinite Flight to build scenarios that can prompt users to perform a specific action, and then carry out more actions based on their inputs.
 
 ## Accessing The Scenario Editor
 
-To use the Scenario Editor, you must be registered by a member of the Infinite Flight team. This is currently invite only. Please reach out to your contact at Infinite Flight if you cannot access it.
+To use the Scenario Editor, you must be registered by a member of the Infinite Flight team. This is currently invite-only. Please reach out to your contact at Infinite Flight if you cannot access it.
 
 
 Step 1

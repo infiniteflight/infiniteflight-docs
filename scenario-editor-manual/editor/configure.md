@@ -13,7 +13,7 @@ You can set the name, description and thumbnail here. These are currently shown 
 
 **These are required or else the rest of the scenario can't be configured.** This is because states are specific to aircraft.
 
-This will determine the aircraft and livery that is available when the user first starts the app. 
+This will determine the aircraft and livery that is available when the user first starts the scenario. 
 
 Note
 : If the aircraft is only available behind a Pro subscription, the Scenario will only be available to Pro subscribers.
