@@ -10,6 +10,10 @@ contributor: sqeezelemon
 
 Retrieve active ATC status information for an airport, and the number of inbound and outbound aircraft.
 
+⚠️
+
+: This API is intended for simulated flight only and must not be used in real-world flight situations.
+
 ## Resource
 
 **GET** `https://api.infiniteflight.com/public/v2/sessions/{sessionId}/airport/{airportIcao}/status`

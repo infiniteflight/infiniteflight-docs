@@ -10,6 +10,10 @@ contributor: sqeezelemon
 
 Retrieves a flight from the logbook of a given user.
 
+⚠️
+
+: This API is intended for simulated flight only and must not be used in real-world flight situations.
+
 ## Resource
 
 **GET** `https://api.infiniteflight.com/public/v2/users/{userId}/flights/{flightId}`

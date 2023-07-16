@@ -11,6 +11,10 @@ Retrieve the flown route of a specific flight with position, altitude, speed and
 
 Please note, this is currently only supported on the Expert Server and Training Server.
 
+⚠️
+
+: This API is intended for simulated flight only and must not be used in real-world flight situations.
+
 ## Resource
 
 **GET** `https://api.infiniteflight.com/public/v2/sessions/{sessionId}/flights/{flightId}/route`

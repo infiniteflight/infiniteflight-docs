@@ -10,6 +10,10 @@ contributor: sqeezelemon
 
 Retrieve user statistics for up to 25 users at once, including their grade, flight time and username.
 
+⚠️
+
+: This API is intended for simulated flight only and must not be used in real-world flight situations.
+
 ## Resource
 
 **POST** `https://api.infiniteflight.com/public/v2/users`

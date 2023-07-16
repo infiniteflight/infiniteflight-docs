@@ -10,6 +10,10 @@ contributor: KaiM,sqeezelemon
 
 Retrieve active Air Traffic Control frequencies for a session
 
+⚠️
+
+: This API is intended for simulated flight only and must not be used in real-world flight situations.
+
 ## Resource
 
 **GET** `https://api.infiniteflight.com/public/v2/sessions/{sessionId}/atc`

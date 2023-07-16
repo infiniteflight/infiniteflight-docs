@@ -9,6 +9,10 @@ order: 13
 
 Retrieves a list of Oceanic Tracks active in Infinite Flight multiplayer sessions.
 
+⚠️
+
+: This API is intended for simulated flight only and must not be used in real-world flight situations.
+
 ## Resource
 
 **GET** `https://api.infiniteflight.com/public/v2/tracks`
