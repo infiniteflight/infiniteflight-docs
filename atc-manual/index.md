@@ -26,13 +26,23 @@ Should
 
 
 
-## ATC Manual Version (Internal): 23.2.1
+## ATC Manual Version (Internal): 23.2.2
 
-## Last Updated: 1730Z - 17 MAY 23
+## Last Updated: 0445Z - 17 JUL 23
 
 
 
-+++ Summary of Changes - Version: 23.2.1 (CURRENT VERSION)
++++ Summary of Changes - Version: 23.2.2 (CURRENT VERSION)
+
+| Location | Change                   |
+| -------- | ------------------------ |
+| 7A.2.1   | Reference to 7.1.3 added |
+
++++
+
+
+
++++ Summary of Changes - Version: 23.2.1
 
 | Location | Change                                                       |
 | -------- | ------------------------------------------------------------ |
