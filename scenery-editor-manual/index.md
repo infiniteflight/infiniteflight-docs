@@ -8,7 +8,7 @@ meta: Learn how to use the Infinite Flight Scenery Editor with our online docume
 
 
 
-## Guide Version: 23.2.0
+## Guide Version: 23.3.0
 
 
 
@@ -20,13 +20,24 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 
 
 
-## Scenery Editor Manual Version (Internal): 23.2.2
+## Scenery Editor Manual Version (Internal): 23.3.1
 
-## Last Updated: 2000Z - 26 JUN 23
+## Last Updated: 1230Z - 27 SEP 23
 
 
 
-+++ Summary of Changes - Version: 23.2.2 (CURRENT VERSION)
++++ Summary of Changes - Version: 23.3.1 (CURRENT VERSION)
+
+| Location | Change                                                       |
+| -------- | ------------------------------------------------------------ |
+| 6.1      | Removed making red line with white line reference from Do/Do Not table |
+| 9.5.5    | Model Line Properties table updated                          |
+
++++
+
+
+
++++ Summary of Changes - Version: 23.2.2
 
 | Location | Change                                                       |
 | -------- | ------------------------------------------------------------ |
@@ -47,39 +58,6 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 | 1A.1.2   | *#help-request* channel added                    |
 | 1A.2.1   | Note moved to 1A.3.1 as a rule                   |
 | 8.2.2    | Hangar height table updated                      |
-
-+++
-
-
-
-+++ Summary of Changes - Version: 23.1.1
-
-| Location | Change                                                       |
-| -------- | ------------------------------------------------------------ |
-| 3.3.2    | Minor wording correction                                     |
-| 4.2.1    | Recommendation to use 50% quality rather than 100% to optimize file size |
-| 5.1      | Note added to clarify adding pavement patches                |
-| 6.2.5    | Clarification on naming the connections between two or more taxiways |
-| 6.2.6    | Renamed from 6.2.5                                           |
-| 7.2.1    | Start Location properties updated                            |
-| 8.1      | "Do/Do Not" list updated                                     |
-| 9.5.1    | Clarification on the length of model lines and objects       |
-| 11.1.5   | More information added on navigation database updates        |
-| 11.2.5   | Note added to clarify adding pavement patches                |
-
-+++
-
-
-
-+++ Summary of Changes - Version: 22.8.1
-
-| Location    | Change                                                       |
-| ----------- | ------------------------------------------------------------ |
-| Section 1A  | New section with guidance for Editors                        |
-| 3.1.2       | Link updated to go to the *#editors* sub-category on the IFC |
-| 5.1         | Formatting issue within do/do not table fixed                |
-| 11.1.3      | Limit on Peer Reviews per airport removed                    |
-| Section 11A | New section with guidance for Reviewers                      |
 
 +++
 

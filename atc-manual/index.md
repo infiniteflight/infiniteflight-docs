@@ -8,7 +8,7 @@ meta: Introduction to the Infinite Flight Air Traffic Controller (IFATC) Manual.
 
 
 
-## Guide Version: 23.2.0
+## Guide Version: 23.3.0
 
 
 
@@ -26,13 +26,13 @@ Should
 
 
 
-## ATC Manual Version (Internal): 23.2.3
+## ATC Manual Version (Internal): 23.3.1
 
-## Last Updated: 1630Z - 19 SEP 23
+## Last Updated: 1230Z - 27 SEP 23
 
 
 
-+++ Summary of Changes - Version: 23.2.3 (CURRENT VERSION)
++++ Summary of Changes - Version: 23.3.1 (CURRENT VERSION)
 
 | Location                 | Change                                        |
 | ------------------------ | --------------------------------------------- |
