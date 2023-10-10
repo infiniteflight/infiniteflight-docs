@@ -43,7 +43,7 @@ Step 1
 
 Step 2
 
-: If no active subscription is detected, the "Get Pro" button will be displayed in the top right hand corner of the [Home Screen](/guide/getting-started-guide/home-user-interface/home-screen), tap it
+: If no active subscription is detected, the "Get Pro" button will be displayed in the top left hand corner of the [Home Screen](/guide/getting-started-guide/home-user-interface/home-screen), tap it
 
 
 
@@ -101,7 +101,7 @@ If however, you are no longer using the same platform (i.e. iOS to Android or vi
 
 Step 1
 
-: If no active subscription is detected, the "Get Pro" button will be displayed in the top right hand corner of the [Home Screen](/guide/getting-started-guide/home-user-interface/home-screen), tap it
+: If no active subscription is detected, the "Get Pro" button will be displayed in the top left hand corner of the [Home Screen](/guide/getting-started-guide/home-user-interface/home-screen), tap it
 
 
 
@@ -145,7 +145,7 @@ Auto-Renew can be cancelled directly from the Google Play or App Store. Please f
 
 Step 1
 
-: Tap the profile icon in the top right hand corner of the screen to access the Account Settings page. Next to "Community Forum Account", tap your current IFC username
+: Tap the profile icon in the top left hand corner of the screen to access the Account Settings page. Next to "Community Forum Account", tap your current IFC username
 
 
 

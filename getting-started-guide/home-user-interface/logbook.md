@@ -11,7 +11,7 @@ All flights and controlling sessions are recorded automatically and you can revi
 
 
 
-![Logbook](_images/manual/frames/logbook-232-v3.png)
+![Logbook](_images/manual/frames/logbook-233.png)
 
 
 
@@ -23,11 +23,11 @@ All flights and controlling sessions are recorded automatically and you can revi
 
    
 
-3. Tap this button to [import](/guide/getting-started-guide/home-user-interface/logbook#how-to-import-your-replay) a replay into your device
+3. The three dot symbol can be tapped to filter your replays
 
    
 
-4. The three dot symbol can be tapped to filter your replays
+4. Tap this button to [import](/guide/getting-started-guide/home-user-interface/logbook#how-to-import-your-replay) a replay into your device
 
    
 
@@ -198,7 +198,7 @@ Step 1
 
 Step 2
 
-: Tap the import symbol (envelope with arrow at the top of the screen). A window will open allowing you to navigate to where the file you wish to import is located
+: Tap the import symbol (envelope with arrow at the bottom left of the screen). A window will open allowing you to navigate to where the file you wish to import is located
 
 
 
