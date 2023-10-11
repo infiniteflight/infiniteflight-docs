@@ -139,7 +139,7 @@ Auto-Renew can be cancelled directly from the Google Play or App Store. Please f
 
 
 
-![Account Settings](_images/manual/frames/settings-account-232.png)
+![Account Settings](_images/manual/frames/settings-account-233.png)
 
 
 
