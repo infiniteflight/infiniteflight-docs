@@ -17,7 +17,7 @@ Below are the minimum requirements for a successful install on your device. In a
 
 +++ Android
 
- -    Android 7.0 (Nougat) operating system or later with a 64-bit processor
+ -    Android 9.0 (Pie) operating system or later with a 64-bit processor
 
  -    Device must support OpenGL ES 3.0, [click here to check](https://play.google.com/store/apps/details?id=littledreamstudios.openglcheck&hl=en)
 
@@ -29,7 +29,7 @@ Below are the minimum requirements for a successful install on your device. In a
 
 Tip
 
-: If your device doesn’t have a 64-bit processor and cannot be upgraded to Android 7.0, you will still be able to enjoy Infinite Flight on versions prior to 21.1. To find out if your device meets these requirements, check [here](https://community.infiniteflight.com/t/21-1-android-support/560936)
+: If your device doesn’t have a 64-bit processor and cannot be upgraded to Android 9.0, you will be able to enjoy Infinite Flight on versions prior to 23.2 for a short period of time. To find out if your device meets these requirements, check [here](https://community.infiniteflight.com/t/21-1-android-support/560936)
 
 +++
 
