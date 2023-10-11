@@ -28,7 +28,7 @@ Should
 
 ## ATC Manual Version (Internal): 23.3.1
 
-## Last Updated: 1230Z - 27 SEP 23
+## Last Updated: 1800Z - 11 OCT 23
 
 
 
@@ -36,6 +36,7 @@ Should
 
 | Location                 | Change                                        |
 | ------------------------ | --------------------------------------------- |
+| 1A.7.9                   | Flowchart updated                             |
 | Section 7, 7A, 7B, 7C    | Complete Rework                               |
 | 7D.3.2 / 7D.3.4 / 7D.4.4 | Minor adjustment to reflect dashboard changes |
 | 7E.3.3                   | Minor adjustment to reflect dashboard changes |
