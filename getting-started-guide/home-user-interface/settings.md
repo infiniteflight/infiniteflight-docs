@@ -187,9 +187,9 @@ In the control settings you can adjust your control sensitivity for each axis as
 
 
 
-1. Motion will allow you to customize the experience for the device that you have connected, such as a joystick
+1. Motion will allow you to customize your current device accelerometers (if you have a joystick or other controlling device connected, this tab will appear first)
 
-2. Keyboard will allow you to customize the experience for the keyboard that is connected
+2. Keyboard will allow you to customize the experience for any keyboard that is connected
 
 3. The various options that can be linked to either your joystick or keyboard will be listed here
 
@@ -204,6 +204,10 @@ In the control settings you can adjust your control sensitivity for each axis as
    : If you’re having trouble with sensitivities or any other control issues, we recommend you use this
 
 7. The filter can be used to see only commands that have been assigned
+
+
+
+> You can bind an axis (such as roll) to more than one device, however it will only be fed from one device at a time. The order of priority is from left to right (connected device > motion > keyboard)
 
 
 
