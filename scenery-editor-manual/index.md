@@ -22,7 +22,7 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 
 ## Scenery Editor Manual Version (Internal): 23.3.1
 
-## Last Updated: 1000Z - 08 OCT 23
+## Last Updated: 2230Z - 11 OCT 23
 
 
 
@@ -33,6 +33,8 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 | 1A.4.1   | Editor rank changed to Senior Editor                         |
 | 1A.4.1   | Table edited to include WIP airport view column and associated note |
 | 6.1      | Removed making red line with white line reference from Do/Do Not table |
+| 9.1      | Do/Do Not table updated - do not use construction equipment for temporary NOTAMS |
+| 9.1.1    | Objects list updated                                         |
 | 9.5.5    | Model Line Properties table updated                          |
 
 +++

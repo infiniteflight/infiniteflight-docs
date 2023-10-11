@@ -1,6 +1,6 @@
 ---
 id: mode
-title: mode
+title: Mode
 meta: Learn how to start a flight in Free Flight, Missions or Flight Training mode within Infinite Flight.
 order: 1
 ---
