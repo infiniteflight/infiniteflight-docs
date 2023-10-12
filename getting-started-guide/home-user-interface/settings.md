@@ -11,7 +11,7 @@ contributor: deercrusher
 The Settings menu allows you to customize your Infinite Flight experience before and during play. Below is a guide to help you navigate your way around and to find the best settings for you!
 
 
-![General Settings](_images/manual/frames/settings-general-232.png)
+![General Settings](_images/manual/frames/settings-general-233.png)
 
 
 1. On the left hand side of the screen are 6 categories that split the settings up, tap each one to find settings within
@@ -30,39 +30,36 @@ The Settings menu allows you to customize your Infinite Flight experience before
 
    
 
-5. The Back button will take you back to the previous page
+5. The Back button will take you back to the [home screen](/guide/getting-started-guide/home-user-interface/home-screen)
 
    
 
-6. The "About" button allows you to access Infinite Flight Social Media, [Terms of Use](/legal/terms#terms-of-use-agreement-(tou)) and [Privacy Policy](/legal/privacy#privacy-policy---infinite-flight-app)
-
-   
 
 ## General
 
 
 
-| Setting                                                      | What it does                                                 |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Language                                                     | Sets the language of the app's interface                     |
-| Interface Timeout                                            | Controls how long the User Interface controls stay on screen |
-| Hide Status Bar                                              | Hides the status bar when the interface timeout occurs       |
-| Control Sensitivity                                          | Sets the controls sensitivity                                |
-| Airport Names                                                | Shows names and distance of the airports while flying (displayed on the scenery outside, this includes the airport's 4 letter ICAO code and distance) |
-| Landing Aid                                                  | Shows a set of rectangles around the landing path and helps make stabilized landings (for a more realistic experience consider turning this **OFF**) |
-| Invert External Cameras Vertical Motion                      | Inverts the vertical motion of the external cameras (locked, external cameras on the aircraft) |
-| Invert Internal Cameras Vertical Motion                      | Inverts the vertical motion of the internal cameras (tower and cockpit) |
-| Automatically Set Start Airport                              | Automatically sets the start airport to where the last flight ended |
-| Auto-Coordination                                            | Automatically couples the ailerons and the rudder (on the ground only) |
-| Enable [ForeFlight](/guide/getting-started-guide/home-user-interface/settings#foreflight) Link | Sends Position/Altitude/Traffic data to local devices running ForeFlight |
-| Enable Infinite Flight Connect                               | Enables Infinite Flight Connect API System (toggle this on to allow Infinite Flight and third party apps such as InFlight Assistant and Fly-By-Wire to bridge if they are on the same network) |
-| Show Touches                                                 | Useful when recording videos/tutorials                       |
-| Enable Automatic Low Power                                   | Enter low power during long flights to save battery          |
-| Automatic Engine Start                                       | Always starts with the engine running (once you spawn, engines will be heard & can be seen running) |
-| Weight Units                                                 | Select what weight unit you want to use i.e. Kgs or Lbs (aircraft fuel quantity and consumption will then been shown in this unit) |
-| Show Performance Metrics                                     | Shows metrics including the current frame rate               |
-| Clear Scenery Cache                                          | Clear scenery data cached on local storage (users that are experiencing issues falling through taxiways, aprons, ramps, runways or experiencing any other scenery related type of issues should tap on “Clear Cache”. If issues persist after you’ve tried that, consider making a [#support](https://community.infiniteflight.com/c/support/17) ticket to report your issue) |
-| Screenshot Resolution Scale                                  | Resolution scale factor for screenshots                      |
+| Setting                                 | What it does                                                 |
+| --------------------------------------- | ------------------------------------------------------------ |
+| Language                                | Sets the language of the app's interface                     |
+| Interface Timeout                       | Controls how long the User Interface controls stay on screen |
+| Hide Status Bar                         | Hides the status bar when the interface timeout occurs       |
+| Control Sensitivity                     | Sets the controls sensitivity                                |
+| Airport Names                           | Shows names and distance of the airports while flying (displayed on the scenery outside, this includes the airport's 4 letter ICAO code and distance) |
+| Landing Aid                             | Shows a set of rectangles around the landing path and helps make stabilized landings (for a more realistic experience consider turning this **OFF**) |
+| Invert External Cameras Vertical Motion | Inverts the vertical motion of the external cameras (locked, external cameras on the aircraft) |
+| Invert Internal Cameras Vertical Motion | Inverts the vertical motion of the internal cameras (tower and cockpit) |
+| Automatically Set Start Airport         | Automatically sets the start airport to where the last flight ended |
+| Auto-Coordination                       | Automatically couples the ailerons and the rudder (on the ground only) |
+| Enable EFB Link                         | Sends Position/Altitude/Traffic data to local devices running EFBs like [ForeFlight](/guide/getting-started-guide/home-user-interface/settings#foreflight), Garmin Pilot or others |
+| Enable Infinite Flight Connect          | Enables Infinite Flight Connect API System (toggle this on to allow Infinite Flight and third party apps such as InFlight Assistant and Fly-By-Wire to bridge if they are on the same network) |
+| Show Touches                            | Useful when recording videos/tutorials                       |
+| Enable Automatic Low Power              | Enter low power during long flights to save battery          |
+| Automatic Engine Start                  | Always starts with the engine running (once you spawn, engines will be heard & can be seen running) |
+| Weight Units                            | Select what weight unit you want to use i.e. Kgs or Lbs (aircraft fuel quantity and consumption will then been shown in this unit) |
+| Show Performance Metrics                | Shows metrics including the current frame rate               |
+| Clear Scenery Cache                     | Clear scenery data cached on local storage (users that are experiencing issues falling through taxiways, aprons, ramps, runways or experiencing any other scenery related type of issues should tap on “Clear Cache”. If issues persist after you’ve tried that, consider making a [#support](https://community.infiniteflight.com/c/support/17) ticket to report your issue) |
+| Screenshot Resolution Scale             | Resolution scale factor for screenshots                      |
 
 
 
@@ -76,7 +73,7 @@ Tip
 
  
 
-![Online Settings](_images/manual/frames/settings-online-232.png)
+![Online Settings](_images/manual/frames/settings-online-233.png)
 
 
 
@@ -119,7 +116,7 @@ Tip
 
 
 
-![Account Settings](_images/manual/frames/settings-account-232.png)
+![Account Settings](_images/manual/frames/settings-account-233.png)
 
 
 
@@ -129,7 +126,7 @@ There are two sliders that adjust the SFX and ATC Volume. Slide your finger alon
 
 
 
-![Audio Settings](_images/manual/frames/settings-audio-232.png)
+![Audio Settings](_images/manual/frames/settings-audio-233.png)
 
 
 
@@ -152,7 +149,7 @@ Infinite Flight supports both iOS and Android devices; because of this, the sett
 
 
 
-![Graphics Settings](_images/manual/frames/settings-graphics-232.png)
+![Graphics Settings](_images/manual/frames/settings-graphics-233.png)
 
 
 
@@ -163,22 +160,21 @@ Infinite Flight supports both iOS and Android devices; because of this, the sett
 | Rendering Resolution | Controls the rendering resolution of the aircraft and scenery |
 | Texture Quality      | Controls the quality of the textures                         |
 | Anti-Aliasing        | Makes lines/graphics smoother and softens out the jagged/rough graphics that you may experience (it is not supported on all devices and can run very slow because of this - if device performance starts to degrade, turn this setting to **OFF**) |
-| Limit Frame Rate     | Limit Frame Rate to optimize battery life, when toggled to **ON** the rate is capped at 30 frames per second; when toggled to **OFF**, frame rates are much higher and will also reduce device performance (we recommend using this function for medium/long haul flying) |
+| Frame Rate Limit     | Sets the highest allowed frame rate                          |
 
 
 
 ## Controls
 
-In the control settings you can further adjust your control sensitivity for each axis. The 2 axes that your device’s accelerometers utilize are:
+In the control settings you can adjust your control sensitivity for each axis as well as customize your settings for joysticks, keyboards or other controlling devices. The 2 axes that your device’s accelerometers utilize are:
 
 
 
-| Setting  | What it does                                                 |
-| -------- | ------------------------------------------------------------ |
-| Roll     | Roll is the movement around the longitudinal axis (the longitudinal axis runs from the nose to the tail). This is left/right (banking) motion which is accomplished through the use of the ailerons found on the wings |
-| Pitch    | Pitch is the movement around the lateral axis (the lateral axis runs from one wing tip to the other). This is the nose up/down motion through the use of the elevator as found on the tail |
-| Yaw*     | Yaw is the rotation around the vertical axis. This motion is translated into the form of turning the nose left or right through the rudder on the tail |
-| Throttle | Throttle is your power levers that you will use to adjust the amount of thrust provided by the engines |
+| Setting | What it does                                                 |
+| ------- | ------------------------------------------------------------ |
+| Roll    | Roll is the movement around the longitudinal axis (the longitudinal axis runs from the nose to the tail). This is left/right (banking) motion which is accomplished through the use of the ailerons found on the wings |
+| Pitch   | Pitch is the movement around the lateral axis (the lateral axis runs from one wing tip to the other). This is the nose up/down motion through the use of the elevator as found on the tail |
+| Yaw*    | Yaw is the rotation around the vertical axis. This motion is translated into the form of turning the nose left or right through the rudder on the tail |
 
 
 
@@ -187,25 +183,31 @@ In the control settings you can further adjust your control sensitivity for each
 
 
 
-![Control Settings](_images/manual/frames/settings-controls-232.png)
+![Control Settings](_images/manual/frames/settings-controls-233.png)
 
 
 
-Tip
+1. Motion will allow you to customize your current device accelerometers (if you have a joystick or other controlling device connected, this tab will appear first)
 
-: In the screenshot above products such as the Logitech 3D Pro Joystick are not being used, therefore Yaw and Throttle “Key/Axis” assignments are unassigned. These controls will be seen on screen as soon as you spawn
+2. Keyboard will allow you to customize the experience for any keyboard that is connected
+
+3. The various options that can be linked to either your joystick or keyboard will be listed here
+
+4. "Tap to Assign" will allow you to program the available command to your yoke, joystick, keyboard or other controlling device
+
+5. Config will bring up the sensitivity (slider on the left) and dead zone (slider on the right) for pitch and roll which can be adjusted
+
+6. Defaults will reset your control settings to the factory option
+
+   Tip
+
+   : If you’re having trouble with sensitivities or any other control issues, we recommend you use this
+
+7. The filter can be used to see only commands that have been assigned
 
 
 
-1. Axes (current screen) and Commands are found at the top of this page. Tapping on "commands" will take you to the list of available commands that you could program to your yoke, joystick, keyboard or other controlling device. Simply tap on the item’s “Key/Item”, push the button on your joystick and you’ve now assigned a new command to that button
-
-   
-
-2. These are your sensitivity controls for the 3 axes as mentioned above. Low sensitivity is on the left while High sensitivity is on the right. Try flying around for a little bit before adjusting these. If you inadvertently adjust these and need to set it back to default settings, tap on the "Restore Defaults" button
-
-   
-
-3. The "Restore Defaults" button will reset your control settings to factory option. If you’re having trouble with sensitivities or any other control issues, we recommend you use this. The "Show Devices" button will show the devices (if any) that it is using for your controls. Without any external joysticks or yokes, clicking this button will show 1 device. The "Setup Guide" button will redirect you to a tutorial on the Infinite Flight Community forum. This will guide you how to set up joysticks, yokes or any other external devices
+> You can bind an axis (such as roll) to more than one device, however it will only be fed from one device at a time. The order of priority is from left to right (connected device > motion > keyboard)
 
 
 
@@ -218,4 +220,4 @@ Tip
 
 
 
-"ForeFlight Link" allows Infinite Flight pilots to use ForeFlight and its many features as if they were in a real airplane. Practice approaches and procedures, and fly a route before spending that hard-earned money on fuel! You’ll have maps, approach plates, weather, performance data, traffic and synthetic vision right from your mobile device. With ForeFlight’s new connection method, we’ve put together this video to show you how to get started!
+The EFB link allows Infinite Flight pilots to use ForeFlight and its many features as if they were in a real airplane. Practice approaches and procedures, and fly a route before spending that hard-earned money on fuel! You’ll have maps, approach plates, weather, performance data, traffic and synthetic vision right from your mobile device. With ForeFlight’s new connection method, we’ve put together this video to show you how to get started!

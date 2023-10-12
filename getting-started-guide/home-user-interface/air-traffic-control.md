@@ -9,39 +9,31 @@ order: 2
 
 
 
-![ATC Page](_images/manual/frames/air-traffic-control-page-232.png)
+![ATC Page](_images/manual/frames/air-traffic-control-page-233.png)
 
 
 
-1. Select the [World](/guide/getting-started-guide/home-user-interface/air-traffic-control#worlds) you would like to control in (Training Server, or Expert Server)
+1. The search function allows you to find the airport you want with ease. If you know the ICAO four letter code (e.g. KSFO for San Francisco Intl.) then you can type some or all of this, and a list of options will appear. Alternatively, just type in some or all of the city/airport name
 
-  ​    
+2. You can also use the map to find your chosen airport. Just use your finger to navigate around the globe, a pinching motion to zoom in and out, and then tap on the airport you want
 
-2. The search function allows you to find the airport you want with ease. If you know the ICAO four letter code (e.g. KSFO for San Francisco Intl.) then you can type some or all of this, and a list of options will appear. Alternatively, just type in some or all of the city/airport name
+3. Airports that have buildings added are marked with a "3D" symbol
 
-  ​    
+4. Red cones indicate an ILS onto that runway, white cones indicate any other approach type available
 
-3. You can also use the map to find your chosen airport. Just use your finger to navigate around the globe, a pinching motion to zoom in and out, and then tap on the airport you want
-
-     
-
-4. Airports that have buildings added are marked with a "3D" symbol
-
-   
-
-5. Red cones indicate an ILS onto that runway, white cones indicate any other approach type available
-
-    
-
-6. A card is displayed on the right of your device with all the information relevant to your selected airport including:
+5. A card is displayed on the right of your device with all the information relevant to your selected airport including:
 
    - Traffic inbound count
-   - Expected duration you plan to control for
-   - Available frequencies
-   - Any other controllers that are active at this airport
-   - Weather
 
-   
+   - Expected duration you plan to control for
+
+   - Frequencies
+
+   - and Weather
+
+6. You can select the server to control on by tapping here (Training or Expert)
+
+
 
 ## Frequency Selection
 
@@ -49,7 +41,7 @@ Once you have chosen the airport, you can use the card to select the frequencies
 
 
 
-![Frequency Selection](_images/manual/frames/frequency-selection-232.png)
+![Frequency Selection](_images/manual/frames/frequency-selection-233.png)
 
 
 
@@ -94,13 +86,9 @@ Once you have chosen the airport, you can use the card to select the frequencies
    
 
 
-## Worlds
+## Servers
 
-The various live servers available to use are displayed here. Each server has its own set of rules and minimum grade requirements, make sure to check these before trying to join!
-
-
-
-![ATC Worlds](_images/manual/frames/atc-worlds-232.png)
+The various live servers are available when Multi Player is selected. Each server has its own set of rules and minimum grade requirements, make sure to check these before trying to join!
 
 
 
