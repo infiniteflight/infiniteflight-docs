@@ -41,6 +41,7 @@ Include your API key (`<apikey>`) by either:
   "errorCode": 0,
   "result": {
     "airportIcao": "VTBS",
+    "airportName": "Suvarnabhumi Airport",
     "inboundFlightsCount": 40,
     "inboundFlights": [
       "4f559855-fecc-4a8a-a95e-1d097eed9b72",
@@ -82,6 +83,7 @@ _Response Type:_ `application/json`
 | Name                   | Type                | Description                                                                                                       |
 | ---------------------- | ------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | `airportIcao`          | string              | ICAO of the airport                                                                                               |
+| `airportName`          | string              | Name of the airport                                          |
 | `inboundFlightsCount`  | integer             | Number of aircraft inbound to this airport (must have final waypoint in flight plan set as the airport ICAO)      |
 | `inboundFlights`       | [string (uuid)]     | A list of flight identifiers inbound to this airport. Use this to get flight plans or flight route information    |
 | `outboundFlightsCount` | integer             | Number of aircraft departing this airport (must have first waypoint in flight plan set as the airport ICAO)       |
