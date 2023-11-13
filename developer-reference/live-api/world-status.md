@@ -41,6 +41,7 @@ Include your API key (`<apikey>`) by either:
   "result": [
     {
       "airportIcao": "KLAX",
+      "airportName": "Los Angeles International Airport",
       "inboundFlightsCount": 103,
       "inboundFlights": [
         "e1cf6c27-6f18-43a0-8bf8-cec5406e93a0",
@@ -84,6 +85,7 @@ Include your API key (`<apikey>`) by either:
 | Name                   | Type                | Description                                                  |
 | ---------------------- | ------------------- | ------------------------------------------------------------ |
 | `airportIcao`          | string              | ICAO of the airport                                          |
+| `airportName`          | string              | Name of the airport                                          |
 | `inboundFlightsCount`  | integer             | Number of aircraft inbound to this airport (must have final waypoint in flight plan set as the airport ICAO) |
 | `inboundFlights`       | [string (uuid)]     | A list of flight identifiers inbound to this airport. Use this to get flight plans or flight route information |
 | `outboundFlightsCount` | integer             | Number of aircraft departing this airport (must have first waypoint in flight plan set as the airport ICAO) |

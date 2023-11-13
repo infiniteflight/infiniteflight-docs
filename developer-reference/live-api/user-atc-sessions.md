@@ -59,7 +59,10 @@ Include your API key (`<apikey>`) by either:
         "created": "2020-07-03T10:27:08.021137",
         "updated": "2020-07-03T10:37:49.026714",
         "operations": 9,
-        "totalTime": 86.15142588333333
+        "totalTime": 86.15142588333333,
+        "worldType": 3,
+        "server": "Expert",
+        "violationsIssued": 2
       },
       ...
     ]
@@ -98,6 +101,9 @@ Include your API key (`<apikey>`) by either:
 | `updated` | string (datetime) | The time at which last report was received |
 | `operations` | integer | The number of operations earned during the session |
 | `totalTime` | double | The duration of the session in minutes |
+| `worldType` | integer | Type of the server this session was opened on. _Enum:_ `"Solo = 0"`, `"Casual = 1"`, `"Training = 2"`, `"Expert = 3"`, `"Private = 4"` |
+| `server` | string | Name of the server this session was opened on | 
+| `violationsIssued` | integer | Number of violations this user issued while controlling |
 
 #### ATCFacility
 

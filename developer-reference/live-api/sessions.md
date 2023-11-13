@@ -37,7 +37,9 @@ Include your API key (`<apikey>`) by either:
       "id": "89573c7f-d398-4281-bcc0-3e9b7f6b8492",
       "name": "Sample Server",
       "userCount": 187,
-      "type": 0
+      "type": 0,
+      "worldType": 0,
+      "minimumGradeLevel": 2
     }
   ]
 }
@@ -54,10 +56,12 @@ Include your API key (`<apikey>`) by either:
 
 #### SessionInfo
 
-| Name        | Type    | Description                                                  |
-| ----------- | ------- | ------------------------------------------------------------ |
-| `id`        | string  | The unique identifier for the server. Use this to request flights and ATC data |
-| `name`      | string  | Name of the server                                           |
-| `maxUsers`  | integer | Maximum number of users the server can accept                |
-| `userCount` | integer | Connected users to the server                                |
-| `type`      | integer | _Enum:_ `"Unrestricted = 0"`, `"Restricted = 1"`             |
+| Name                | Type    | Description                                                  |
+| ------------------- | ------- | ------------------------------------------------------------ |
+| `id`                | string  | The unique identifier for the server. Use this to request flights and ATC data |
+| `name`              | string  | Name of the server                                           |
+| `maxUsers`          | integer | Maximum number of users the server can accept                |
+| `userCount`         | integer | Connected users to the server                                |
+| `type`              | integer | _Enum:_ `"Unrestricted = 0"`, `"Restricted = 1"`             |
+| `worldType`         | integer | _Enum:_ `"Solo = 0"`, `"Casual = 1"`, `"Training = 2"`, `"Expert = 3"`, `"Private = 4"` |
+| `minimumGradeLevel` | integer | Minimum grade index to access server. Add 1 to get grade name (i.e. index 0 is grade 1) |
