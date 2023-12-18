@@ -8,7 +8,7 @@ meta: Learn how to use the Infinite Flight Scenery Editor with our online docume
 
 
 
-## Guide Version: 23.3.0
+## Guide Version: 23.4.0
 
 
 
@@ -20,13 +20,13 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 
 
 
-## Scenery Editor Manual Version (Internal): 23.3.2
+## Scenery Editor Manual Version (Internal): 23.4.1
 
-## Last Updated: 1530Z - 03 NOV 23
+## Last Updated: 1200Z - 18 DEC 23
 
 
 
-+++ Summary of Changes - Version: 23.3.2 (CURRENT VERSION)
++++ Summary of Changes - Version: 23.4.1 (CURRENT VERSION)
 
 | Location | Change                                                       |
 | -------- | ------------------------------------------------------------ |
