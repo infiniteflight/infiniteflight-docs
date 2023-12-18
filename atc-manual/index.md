@@ -26,13 +26,25 @@ Should
 
 
 
-## ATC Manual Version (Internal): 23.3.1
+## ATC Manual Version (Internal): 23.3.2
 
-## Last Updated: 1800Z - 11 OCT 23
+## Last Updated: 1000Z - 24 OCT 23
 
 
 
-+++ Summary of Changes - Version: 23.3.1 (CURRENT VERSION)
++++ Summary of Changes - Version: 23.3.2 (CURRENT VERSION)
+
+| Location                | Change                             |
+| ----------------------- | ---------------------------------- |
+| 7A.1.6 / 7C.1.5         | Minor wording correction           |
+| 7A.1.6 / 7B1.2 / 7C.1.5 | *#test-time* Discord channel added |
+| 7D.3.2                  | Minor wording correction           |
+
++++
+
+
+
++++ Summary of Changes - Version: 23.3.1
 
 | Location                 | Change                                        |
 | ------------------------ | --------------------------------------------- |
@@ -50,21 +62,6 @@ Should
 | Location | Change                   |
 | -------- | ------------------------ |
 | 7A.2.1   | Reference to 7.1.3 added |
-
-+++
-
-
-
-+++ Summary of Changes - Version: 23.2.1
-
-| Location | Change                                                       |
-| -------- | ------------------------------------------------------------ |
-| 1A.3.1   | Controllers are not permitted to control Infinite Flight on other platforms (such as BlueStacks) |
-| 4.1.2    | Note added on how to handle pilots that do not have the latest ATIS information |
-| 6.14.9   | Speed is at the discretion of the pilot when leaving a hold unless subsequently given a speed command |
-| 6.14.10  | Moved from 6.14.9                                            |
-| 7A.2.8   | ATIS added to the Initial checklist for training             |
-| 7B.1.2   | Minor wording correction                                     |
 
 +++
 

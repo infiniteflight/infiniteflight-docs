@@ -20,13 +20,24 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 
 
 
-## Scenery Editor Manual Version (Internal): 23.3.1
+## Scenery Editor Manual Version (Internal): 23.3.2
 
-## Last Updated: 2230Z - 11 OCT 23
+## Last Updated: 1530Z - 03 NOV 23
 
 
 
-+++ Summary of Changes - Version: 23.3.1 (CURRENT VERSION)
++++ Summary of Changes - Version: 23.3.2 (CURRENT VERSION)
+
+| Location | Change                                                       |
+| -------- | ------------------------------------------------------------ |
+| 3.2.2    | Added "in meters" to Airport elevation within the properties table |
+| 4.2.1    | Notes added to provide more detail on SAS exporting/importing |
+
++++
+
+
+
++++ Summary of Changes - Version: 23.3.1
 
 | Location | Change                                                       |
 | -------- | ------------------------------------------------------------ |
@@ -48,20 +59,6 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 | 3.2.2    | The "City" name needs to be the city that the airport primarily serves |
 | 5.1      | Minor wording correction                                     |
 | 6.2.3    | Only Runway Hold lines closest to the runway to be given the usage type of "Aircraft" |
-
-+++
-
-
-
-+++ Summary of Changes - Version: 23.2.1
-
-| Location | Change                                           |
-| -------- | ------------------------------------------------ |
-| 1.3.2    | Aircraft within each aircraft categories updated |
-| 1A.1.2   | Minor wording corrections                        |
-| 1A.1.2   | *#help-request* channel added                    |
-| 1A.2.1   | Note moved to 1A.3.1 as a rule                   |
-| 8.2.2    | Hangar height table updated                      |
 
 +++
 
