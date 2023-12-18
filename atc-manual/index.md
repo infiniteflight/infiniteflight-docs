@@ -43,6 +43,8 @@ Should
 | 4.1.5 / 4.1.6           | References moved down by one                 |
 | 6.2.4                   | Collision Alert System added                 |
 | 6.2.4 / 6.2.5           | References moved down by one                 |
+| 6.6.6                   | Information added on Flight Resume feature   |
+| 6.6.7 - 6.6.14          | References moved down by one                 |
 | 7A.1.6 / 7C.1.5         | Minor wording correction                     |
 | 7A.1.6 / 7B1.2 / 7C.1.5 | *#test-time* Discord channel added           |
 | 7D.3.2                  | Minor wording correction                     |
