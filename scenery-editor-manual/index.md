@@ -32,6 +32,7 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 | -------- | ------------------------------------------------------------ |
 | 3.2.2    | Added "in meters" to Airport elevation within the properties table |
 | 4.2.1    | Notes added to provide more detail on SAS exporting/importing |
+| 6.1      | Do/Do Not table updated to include not adding "X's" to runways |
 
 +++
 
