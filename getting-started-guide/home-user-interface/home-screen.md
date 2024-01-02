@@ -7,6 +7,12 @@ order: 0
 
 # Home Screen
 
+
+
+@[vimeo](880529317)
+
+
+
 Welcome to the home screen of your newly downloaded Infinite Flight app. Below you’ll find everything you need to know about this page and how to navigate your way through it.
 
 ![Home](_images/manual/frames/home-screen-233.png)

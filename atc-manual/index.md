@@ -8,7 +8,7 @@ meta: Introduction to the Infinite Flight Air Traffic Controller (IFATC) Manual.
 
 
 
-## Guide Version: 23.3.0
+## Guide Version: 24.1.0
 
 
 
@@ -26,13 +26,37 @@ Should
 
 
 
-## ATC Manual Version (Internal): 23.3.1
+## ATC Manual Version (Internal): 24.1.1
 
-## Last Updated: 1800Z - 11 OCT 23
+## Last Updated: 1200Z - 02 JAN 24
 
 
 
-+++ Summary of Changes - Version: 23.3.1 (CURRENT VERSION)
++++ Summary of Changes - Version: 24.1.1 (CURRENT VERSION)
+
+| Location                | Change                                                       |
+| ----------------------- | ------------------------------------------------------------ |
+| 2.2.2                   | Drag and Taxi feature added                                  |
+| 2.2.3 / 2.2.4           | References moved down by one                                 |
+| 3.1.2                   | Tip added to monitor departures in case of a rejected take-off |
+| 3.5.4                   | Fly runway heading reference added                           |
+| 4.1.5                   | Added guidance on advertised approach in use                 |
+| 4.1.5 / 4.1.6           | References moved down by one                                 |
+| 5.1.1                   | Grammatical error corrected                                  |
+| 6.2.4                   | Collision Alert System added                                 |
+| 6.2.4 / 6.2.5           | References moved down by one                                 |
+| 6.6.6                   | Information added on Flight Resume feature                   |
+| 6.6.7 - 6.6.14          | References moved down by one                                 |
+| 6.14.10                 | Minor wording correction                                     |
+| 7A.1.6 / 7C.1.5         | Minor wording correction                                     |
+| 7A.1.6 / 7B1.2 / 7C.1.5 | *#test-time* Discord channel added                           |
+| 7D.3.2                  | Minor wording correction                                     |
+
++++
+
+
+
++++ Summary of Changes - Version: 23.3.1
 
 | Location                 | Change                                        |
 | ------------------------ | --------------------------------------------- |
@@ -50,21 +74,6 @@ Should
 | Location | Change                   |
 | -------- | ------------------------ |
 | 7A.2.1   | Reference to 7.1.3 added |
-
-+++
-
-
-
-+++ Summary of Changes - Version: 23.2.1
-
-| Location | Change                                                       |
-| -------- | ------------------------------------------------------------ |
-| 1A.3.1   | Controllers are not permitted to control Infinite Flight on other platforms (such as BlueStacks) |
-| 4.1.2    | Note added on how to handle pilots that do not have the latest ATIS information |
-| 6.14.9   | Speed is at the discretion of the pilot when leaving a hold unless subsequently given a speed command |
-| 6.14.10  | Moved from 6.14.9                                            |
-| 7A.2.8   | ATIS added to the Initial checklist for training             |
-| 7B.1.2   | Minor wording correction                                     |
 
 +++
 

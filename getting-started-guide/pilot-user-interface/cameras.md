@@ -2,7 +2,7 @@
 id: cameras
 title: Cameras
 meta: Learn how to change cameras in Infinite Flight.
-order: 8
+order: 9
 ---
 
 # Cameras

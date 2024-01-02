@@ -2,7 +2,7 @@
 id: autopilot
 title: Autopilot
 meta: Learn how to use the Autopilot in Infinite Flight.
-order: 11
+order: 12
 ---
 
 # Autopilot
