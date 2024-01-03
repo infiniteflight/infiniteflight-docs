@@ -15,7 +15,7 @@ Get specific information about an airport, including location data and scenery e
 
 ## Resource
 
-**GET** `https://api.infiniteflight.com/public/v2/airports/{airportIcao}`
+**GET** `https://api.infiniteflight.com/public/v2/airport/{airportIcao}`
 
 ## Authorization
 
