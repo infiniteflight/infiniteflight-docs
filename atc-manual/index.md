@@ -8,7 +8,7 @@ meta: Introduction to the Infinite Flight Air Traffic Controller (IFATC) Manual.
 
 
 
-## Guide Version: 24.1.0
+## Guide Version: 24.2.0
 
 
 
@@ -26,13 +26,36 @@ Should
 
 
 
-## ATC Manual Version (Internal): 24.1.1
+## ATC Manual Version (Internal): 24.2.1
 
-## Last Updated: 1200Z - 02 JAN 24
+## Last Updated: 0930Z - 28 FEB 24
 
 
 
-+++ Summary of Changes - Version: 24.1.1 (CURRENT VERSION)
++++ Summary of Changes - Version: 24.2.1 (CURRENT VERSION)
+
+| Location        | Change                                                       |
+| --------------- | ------------------------------------------------------------ |
+| 1A.3.1          | Controllers are not to tag Controllers that are currently open on an active frequency |
+| 1A.6.2          | More detail on the Apprentice entry rank into IFATC          |
+| 1A.6.3 - 1A.6.5 | Renumbered to make space for 1A.6.2                          |
+| 1A.6.6          | Guidance on returning members of IFATC that apply for the rank of Officer |
+| 1A.6.7 - 1A.6.8 | Renumbered to make space for 1A.6.6                          |
+| 1A.7            | Section rewritten and new max arrival counts added           |
+| 2.2.3           | More guidance on the use of Drag & Taxi feature              |
+| 2.2.4 / 2.2.5   | Renumbered to make space for 2.2.3                           |
+| 3.1.3           | Note added to give controllers guidance on requested aircraft to reject the takeoff |
+| 3.2.6           | Controllers may issue line up & wait or takeoff clearance prior to aircraft requesting it |
+| 3.2.7 - 3.2.11  | Renumbered to make space for 3.2.6                           |
+| 6.8             | New diversion section                                        |
+| 6.9 - 6.15      | Renumbered to make space for 6.8                             |
+| 7.3.1 / 7.4.1   | Apply Now buttons made functional                            |
+
++++
+
+
+
++++ Summary of Changes - Version: 24.1.1
 
 | Location                | Change                                                       |
 | ----------------------- | ------------------------------------------------------------ |
@@ -64,16 +87,6 @@ Should
 | Section 7, 7A, 7B, 7C    | Complete Rework                               |
 | 7D.3.2 / 7D.3.4 / 7D.4.4 | Minor adjustment to reflect dashboard changes |
 | 7E.3.3                   | Minor adjustment to reflect dashboard changes |
-
-+++
-
-
-
-+++ Summary of Changes - Version: 23.2.2
-
-| Location | Change                   |
-| -------- | ------------------------ |
-| 7A.2.1   | Reference to 7.1.3 added |
 
 +++
 

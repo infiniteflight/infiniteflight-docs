@@ -8,7 +8,7 @@ meta: Reference for the Infinite Flight Live and Connect APIs
 
 
 
-## Guide Version: 24.1.0
+## Guide Version: 24.2.0
 
 
 
