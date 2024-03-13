@@ -28,28 +28,38 @@ Should
 
 ## ATC Manual Version (Internal): 24.2.1
 
-## Last Updated: 0930Z - 28 FEB 24
+## Last Updated: 0930Z - 13 MAR 24
 
 
 
 +++ Summary of Changes - Version: 24.2.1 (CURRENT VERSION)
 
-| Location        | Change                                                       |
-| --------------- | ------------------------------------------------------------ |
-| 1A.3.1          | Controllers are not to tag Controllers that are currently open on an active frequency |
-| 1A.6.2          | More detail on the Apprentice entry rank into IFATC          |
-| 1A.6.3 - 1A.6.5 | Renumbered to make space for 1A.6.2                          |
-| 1A.6.6          | Guidance on returning members of IFATC that apply for the rank of Officer |
-| 1A.6.7 - 1A.6.8 | Renumbered to make space for 1A.6.6                          |
-| 1A.7            | Section rewritten and new max arrival counts added           |
-| 2.2.3           | More guidance on the use of Drag & Taxi feature              |
-| 2.2.4 / 2.2.5   | Renumbered to make space for 2.2.3                           |
-| 3.1.3           | Note added to give controllers guidance on requested aircraft to reject the takeoff |
-| 3.2.6           | Controllers may issue line up & wait or takeoff clearance prior to aircraft requesting it |
-| 3.2.7 - 3.2.11  | Renumbered to make space for 3.2.6                           |
-| 6.8             | New diversion section                                        |
-| 6.9 - 6.15      | Renumbered to make space for 6.8                             |
-| 7.3.1 / 7.4.1   | Apply Now buttons made functional                            |
+| Location                 | Change                                                       |
+| ------------------------ | ------------------------------------------------------------ |
+| 1A.3.1                   | Controllers are not to tag Controllers that are currently open on an active frequency |
+| 1A.6.2                   | More detail on the Apprentice entry rank into IFATC          |
+| 1A.6.3 - 1A.6.5          | Renumbered to make space for 1A.6.2                          |
+| 1A.6.4                   | To commence radar training, Controllers now apply online and do not need to contact a Recruiter |
+| 1A.6.6                   | Guidance on returning members of IFATC that apply for the rank of Officer |
+| 1A.6.7 - 1A.6.8          | Renumbered to make space for 1A.6.6                          |
+| 1A.7                     | Section rewritten and new max arrival counts added           |
+| 2.2.3                    | More guidance on the use of Drag & Taxi feature              |
+| 2.2.4 / 2.2.5            | Renumbered to make space for 2.2.3                           |
+| 3.1.3                    | Note added to give controllers guidance on requested aircraft to reject the takeoff |
+| 3.2.6                    | Controllers may issue line up & wait or takeoff clearance prior to aircraft requesting it |
+| 3.2.7 - 3.2.11           | Renumbered to make space for 3.2.6                           |
+| 6.8                      | New diversion section                                        |
+| 6.9 - 6.15               | Renumbered to make space for 6.8                             |
+| 7.3.1 / 7.4.1            | Apply Now buttons made functional                            |
+| 7.3.3                    | Maximum number of training sessions outlined                 |
+| 7.4                      | Section rewritten                                            |
+| 7A.2.3                   | Note edited to remove Radar Written Test                     |
+| 7A.2.5                   | Maximum training sessions added                              |
+| 7A.2.6 - 7A.2.9          | Renumbered to make space for 7A.2.5                          |
+| 7B.1                     | Note added to ensure testers have in-progress airports hidden for testing |
+| 7C.2.1                   | Steps adjusted to reflect changes to the Dashboard           |
+| 7C.4.1 / 7C.5.7          | Recruiters to use the pause application function after 3 failed attempts at the Practical Test |
+| 7C.4.2 / 7C.5.5 / 7C.5.8 | Minor wording correction                                     |
 
 +++
 
