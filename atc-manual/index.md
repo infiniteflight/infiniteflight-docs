@@ -28,7 +28,7 @@ Should
 
 ## ATC Manual Version (Internal): 24.2.1
 
-## Last Updated: 1330Z - 14 MAR 24
+## Last Updated: 1515Z - 15 MAR 24
 
 
 
@@ -37,6 +37,7 @@ Should
 | Location                 | Change                                                       |
 | ------------------------ | ------------------------------------------------------------ |
 | 1A.3.1                   | Controllers are not to tag Controllers that are currently open on an active frequency |
+| 1A.6.1                   | B airports added to Apprentice rank                          |
 | 1A.6.2                   | More detail on the Apprentice entry rank into IFATC          |
 | 1A.6.3 - 1A.6.5          | Renumbered to make space for 1A.6.2                          |
 | 1A.6.4                   | To commence radar training, Controllers now apply online and do not need to contact a Recruiter |
