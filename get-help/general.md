@@ -37,7 +37,7 @@ Tip
 
 +++ iOS
 
- - iOS 13 operating system or later with a 64-bit processor 
+ - iOS 15 operating system or later with a 64-bit processor 
 
  - [Click here to see full list of devices supported](https://community.infiniteflight.com/t/device-compatibility-thread-19-4-built-by-us-for-you/323610)
 
@@ -49,7 +49,7 @@ Tip
 
 Tip
 
-: If your device doesn’t have iOS 13 operating system or later, you will still be able to enjoy Infinite Flight on versions prior to 21.6. To find out if your device meets these requirements, check [here](https://infiniteflight.com/timeline/21-6-ios-support)
+: Any device that supports iOS 13 should be able to update to iOS 15, however, if your device doesn’t have iOS 13 operating system or later, you will still be able to enjoy Infinite Flight on versions prior to 21.6. To find out if your device meets these requirements, checkcheck [here](https://infiniteflight.com/timeline/21-6-ios-support)
 
 +++
 

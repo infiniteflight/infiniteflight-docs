@@ -63,6 +63,36 @@ Tip
 
 
 
+## Adding Coordinates to your Flight Plan
+
+The following format needs to be used when adding coordinates to a flight plan:
+
+
+
+ddmmx/ddmmy
+
+
+
+> **Key:**
+>
+> d - degrees
+>
+> m - minutes
+>
+> x - N or S
+>
+> y - E or W
+
+
+
+When adding a coordinate, you will need to include at least one other waypoint or coordinate as it is not possible to add just one coordinate by itself. For example, if you wanted to add 55N050W (5500N/05000W using the above compatible format), you would need to select another coordinate or waypoint to add to the flight plan at the same time (e.g. 5500N/05000W 5500N/04000W 5500N/03000W etc.).
+
+
+
+> It is currently not possible to add seconds so these will need to be rounded to the nearest minute when adding to your flight plan
+
+
+
 ## Share Flight Plan
 
 

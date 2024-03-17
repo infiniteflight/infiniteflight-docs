@@ -111,5 +111,5 @@ Tip
 
 Step 5
 
-: You can also request [Radar Vectors](/guide/atc-manual/6.-radar/6.11-radar-vectors#6.11-radar-vectors) or other ATC services, IFR separation rules (both for aircraft and terrain) will then apply
+: You can also request [Radar Vectors](/guide/atc-manual/6.-radar/6.12-radar-vectors#6.12-radar-vectors) or other ATC services, IFR separation rules (both for aircraft and terrain) will then apply
 

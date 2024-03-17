@@ -11,7 +11,7 @@ contributor: deercrusher
 The Settings menu allows you to customize your Infinite Flight experience before and during play. Below is a guide to help you navigate your way around and to find the best settings for you!
 
 
-![General Settings](_images/manual/frames/settings-general-233.png)
+![General Settings](_images/manual/frames/settings-general-242.png)
 
 
 1. On the left hand side of the screen are 6 categories that split the settings up, tap each one to find settings within
@@ -69,11 +69,32 @@ Tip
 
 
 
+## Graphics
+
+Infinite Flight supports both iOS and Android devices; because of this, the settings may need to be changed to ensure optimum performance. Unfortunately, not all devices are able to perform with all settings on high. Different combinations of high, medium and low may be required. For a detailed look at what graphics settings each device can handle, take a look at [this](https://community.infiniteflight.com/t/device-compatibility-thread-20-3-built-by-us-for-you/323610) topic on the Infinite Flight Community Forum.
+
+
+
+![Graphics Settings](_images/manual/frames/settings-graphics-242.png)
+
+
+
+| Setting              | What it does                                                 |
+| -------------------- | ------------------------------------------------------------ |
+| Rendering Quality    | Controls the quality of the rendering                        |
+| 3D Object Density    | Controls the density of objects at airports                  |
+| Rendering Resolution | Controls the rendering resolution of the aircraft and scenery |
+| Texture Quality      | Controls the quality of the textures                         |
+| Anti-Aliasing        | Makes lines/graphics smoother and softens out the jagged/rough graphics that you may experience (it is not supported on all devices and can run very slow because of this - if device performance starts to degrade, turn this setting to **OFF**) |
+| Frame Rate Limit     | Sets the highest allowed frame rate                          |
+
+
+
 ## Online
 
  
 
-![Online Settings](_images/manual/frames/settings-online-233.png)
+![Online Settings](_images/manual/frames/settings-online-242.png)
 
 
 
@@ -113,10 +134,11 @@ Tip
 | [Discord Account](/guide/getting-started-guide/home-user-interface/user-profile#linking-a-discord-account) | Link a Discord account to gain exclusive access to our Pro-only Discord server |
 | Account Statistics                                           | See your [grade level and violation history](/guide/getting-started-guide/home-user-interface/user-profile#the-grade-table). These stats determine multiplayer server level eligibility |
 | Switch Account                                               | Use a different Infinite Flight account to access a subscription bought on another device |
+| Delete Account                                               | Removes your personal information, stats and linked accounts. Your subscription will still be available via a new, anonymous account. |
 
 
 
-![Account Settings](_images/manual/frames/settings-account-233.png)
+![Account Settings](_images/manual/frames/settings-account-242.png)
 
 
 
@@ -126,7 +148,7 @@ There are two sliders that adjust the SFX and ATC Volume. Slide your finger alon
 
 
 
-![Audio Settings](_images/manual/frames/settings-audio-233.png)
+![Audio Settings](_images/manual/frames/settings-audio-242.png)
 
 
 
@@ -140,27 +162,6 @@ There are two sliders that adjust the SFX and ATC Volume. Slide your finger alon
 Tip
 
 : For both of these settings, try to find a happy medium where you can enjoy the sounds of the aircraft whilst being able to hear Controllers and not miss a radio call. In addition, you will also be able to use your device volume to adjust the overall volume
-
-
-
-## Graphics
-
-Infinite Flight supports both iOS and Android devices; because of this, the settings may need to be changed to ensure optimum performance. Unfortunately, not all devices are able to perform with all settings on high. Different combinations of high, medium and low may be required. For a detailed look at what graphics settings each device can handle, take a look at [this](https://community.infiniteflight.com/t/device-compatibility-thread-20-3-built-by-us-for-you/323610) topic on the Infinite Flight Community Forum.
-
-
-
-![Graphics Settings](_images/manual/frames/settings-graphics-233.png)
-
-
-
-| Setting              | What it does                                                 |
-| -------------------- | ------------------------------------------------------------ |
-| Rendering Quality    | Controls the quality of the rendering                        |
-| 3D Object Density    | Controls the density of objects at airports                  |
-| Rendering Resolution | Controls the rendering resolution of the aircraft and scenery |
-| Texture Quality      | Controls the quality of the textures                         |
-| Anti-Aliasing        | Makes lines/graphics smoother and softens out the jagged/rough graphics that you may experience (it is not supported on all devices and can run very slow because of this - if device performance starts to degrade, turn this setting to **OFF**) |
-| Frame Rate Limit     | Sets the highest allowed frame rate                          |
 
 
 
@@ -183,7 +184,7 @@ In the control settings you can adjust your control sensitivity for each axis as
 
 
 
-![Control Settings](_images/manual/frames/settings-controls-233.png)
+![Control Settings](_images/manual/frames/settings-controls-242.png)
 
 
 

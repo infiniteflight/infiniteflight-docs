@@ -9,7 +9,7 @@ order: 1
 
 
 
-## Guide Version: 24.1.0
+## Guide Version: 24.2.0
 
 
 
