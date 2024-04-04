@@ -144,3 +144,27 @@ Step 3
 Step 4
 
 : The device will automatically switch from your account to the original account that was used with that device. If no active subscription is detected, the "Get Pro" button will be displayed instead
+
+## Redeeming A Custom Promo Code (Android)
+
+Android users who wish to redeem a custom code with Google Play must follow the process below since links for custom codes are not possible at this time. To redeem a custom code:
+
+Step 1
+
+: Start the subscription process by tapping the GetPro button from the Infinite Flight home screen. For more information on this process, follow the steps above.
+
+Step 2
+
+: Press the purchase button which displays the regular monthly price of the subscription (you will not immediately be charged).
+
+Step 3
+
+: Once this window opens, you will see the payment method field selection. Tap on this field to make a selection.
+
+Step 4
+
+: From the Payment Methods list, tap "Redeem Code" and enter the custom code.
+
+Step 5
+
+: The subscription in the offer will begin. Note that if this is a trial offer, the subscription will renew at the regular monthly price at the end of the period unless canceled before the trial ends. Some trials are available for new subscribers only.
