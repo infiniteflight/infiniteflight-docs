@@ -151,7 +151,7 @@ Android users who wish to redeem a custom code with Google Play must follow the 
 
 Step 1
 
-: Start the subscription process by tapping the GetPro button from the Infinite Flight home screen. For more information on this process, follow [the steps above](/guide/getting-started-guide/home-user-interface/subscriptions#how-do-i-get-a-pro-subscription).
+: Start the subscription process by tapping the GetPro button from the Infinite Flight home screen. For more information on this process, follow the steps above.
 
 Step 2
 
