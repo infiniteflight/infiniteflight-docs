@@ -240,7 +240,7 @@ Callsigns are used while flying to identify you and for the Air Traffic Controll
 
 Step 1
 
-: From the [home screen](/guide/getting-started-guide/home-user-interface/home-screen), tap your user profile in the top right hand corner of your device
+: From the [home screen](/guide/getting-started-guide/home-user-interface/home-screen), tap your user profile in the top left hand corner of your device
 
 
 
@@ -524,3 +524,45 @@ The table below shows the formatting that must be used when selecting an ID for 
 
 +++
 
+## Delete Your Account
+
+You can delete either your Infinite Flight or Infinite Flight Community account at any time.
+
+#### Infinite Flight (in-app)
+
+Your in-app account can be deleted from the User Profile page. This will delete your account, removing your stats and any linked accounts (but will not delete the linked accounts). **This is not reversible.**
+
+Note that your subscription will not be cancelled automatically. It will be available under a new, anonymous account when you next relaunch the app.
+
+Step 1
+
+: From the [home screen](/guide/getting-started-guide/home-user-interface/home-screen), tap your user profile in the top left hand corner of your device
+
+Step 2
+
+: The "Account" tab should automatically display, but it can be selected from the navigation bar on the left of your device if it hasn't
+
+Step 3
+
+: Press "Delete" next to Delete Account
+
+Step 4
+
+: You will be asked to confirm you want to delete your account, then you must type DELETE to confirm the account deletion.
+
+
+#### Infinite Flight Community (forum)
+
+Your Infinite Flight Community account is created on our forum. There is no self-service deletion option here, but you can contact our moderators at any time to delete your account.
+
+Step 1
+
+: Go to the [Infinite Flight Community](https://community.infiniteflight.com/new-message?groupname=moderators&title=Account%20Deletion%20Request&body=%3E%20To%20delete%20your%20Infinite%20Flight%20Community%20account%2C%20you%20need%20to%20message%20the%20Moderator%20team%20who%20will%20confirm%20your%20account%20deletion%20request.%20Accounts%20are%20anonymized%2C%20which%20means%20all%20personally-identifiable%20information%20is%20deleted%2C%20but%20past%20posts%20remain%20(tied%20to%20an%20anonymous%20account)%20so%20that%20forum%20discussions%20are%20not%20missing%20context.%0A%3E%20%0A%3E%20If%20you%20wish%20to%20delete%20your%20Infinite%20Flight%20account%2C%20please%20check%20the%20Account%20page%20inside%20the%20app%2C%20or%20contact%20support%40infiniteflight.com%20for%20help.%0A%0A**I%20have%20read%20the%20above%20account%20deletion%20information%20in%20the%20Preferences%20tab%20and%20I%20would%20like%20to%20anonymize%20my%20Infinite%20Flight%20Community%20account.**) (this link will prepare a private message to send to the moderators).
+
+Step 2
+
+: Send the message, and await confirmation of account deletion from the moderators.
+
+Tip
+
+: For a linked Discord account, refer to [Discord Support's instructions](https://support.discord.com/hc/en-us/articles/212500837-How-do-I-permanently-delete-my-account) on how to delete your Discord account.
