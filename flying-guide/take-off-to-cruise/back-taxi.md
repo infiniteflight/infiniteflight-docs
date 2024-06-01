@@ -66,6 +66,10 @@ Tip
 
 Step 5
 
+: If you need to cross a runway whilst back-taxiing, make sure to [request runway crossing](/guide/flying-guide/atc-communication/remaining-in-the-pattern#pilot-to-tower-controller-communication-table-on-the-ground) with the active ATC, or if there is no active ATC, announce crossing on the Unicom frequency – always check it’s clear before you enter the runway!
+
+Step 6
+
 : If you have just landed and pass the last usable exit, you will be cleared to Back-Taxi and contact Ground when off the runway by ATC. Wait until you are at a sensible speed before attempting to make a 180 degree turn
 
 
