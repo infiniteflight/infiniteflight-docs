@@ -8,7 +8,7 @@ meta: Learn how to use the Infinite Flight Scenery Editor with our online docume
 
 
 
-## Guide Version: 24.2.0
+## Guide Version: 24.3.0
 
 
 
@@ -20,13 +20,24 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 
 
 
-## Scenery Editor Manual Version (Internal): 24.1.1
+## Scenery Editor Manual Version (Internal): 24.3.1
 
-## Last Updated: 1200Z - 02 JAN 24
+## Last Updated: 1130Z - 04 JUL 24
 
 
 
-+++ Summary of Changes - Version: 24.1.1 (CURRENT VERSION)
++++ Summary of Changes - Version: 24.3.1 (CURRENT VERSION)
+
+| Location | Change                                                       |
+| -------- | ------------------------------------------------------------ |
+| 1A.4.1   | Note added to highlight that Reviewers will usually not make edits to an airport under the Official Review process |
+| 11A.1.3  | Guidance added for Reviewers                                 |
+
++++
+
+
+
++++ Summary of Changes - Version: 24.1.1
 
 | Location | Change                                                       |
 | -------- | ------------------------------------------------------------ |
@@ -48,18 +59,6 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 | 9.1      | Do/Do Not table updated - do not use construction equipment for temporary NOTAMS |
 | 9.1.1    | Objects list updated                                         |
 | 9.5.5    | Model Line Properties table updated                          |
-
-+++
-
-
-
-+++ Summary of Changes - Version: 23.2.2
-
-| Location | Change                                                       |
-| -------- | ------------------------------------------------------------ |
-| 3.2.2    | The "City" name needs to be the city that the airport primarily serves |
-| 5.1      | Minor wording correction                                     |
-| 6.2.3    | Only Runway Hold lines closest to the runway to be given the usage type of "Aircraft" |
 
 +++
 
