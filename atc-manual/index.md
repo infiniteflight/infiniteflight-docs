@@ -28,7 +28,7 @@ Should
 
 ## ATC Manual Version (Internal): 24.3.1
 
-## Last Updated: 1700Z - 04 JUL 24
+## Last Updated: 1730Z - 04 JUL 24
 
 
 
@@ -46,6 +46,7 @@ Should
 | 2.1.3                                      | Use of give way added when it is not clear to pushback       |
 | 3.2.7                                      | Hyperlink typo fixed                                         |
 | 7A.1.6 / 7B.1.2 / 7C.1.5 / 7D.1.1 / 7E.1.1 | Channel list updated                                         |
+| 7A.2.8                                     | Removal of some training airport recommendations             |
 
 +++
 
