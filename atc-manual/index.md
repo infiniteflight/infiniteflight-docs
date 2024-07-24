@@ -28,7 +28,7 @@ Should
 
 ## ATC Manual Version (Internal): 24.3.1
 
-## Last Updated: 1730Z - 04 JUL 24
+## Last Updated: 1130Z - 24 JUL 24
 
 
 
@@ -47,6 +47,7 @@ Should
 | 3.2.7                                      | Hyperlink typo fixed                                         |
 | 7A.1.6 / 7B.1.2 / 7C.1.5 / 7D.1.1 / 7E.1.1 | Channel list updated                                         |
 | 7A.2.8                                     | Removal of some training airport recommendations             |
+| 7B.2.1 / 7B.3.2                            | Clarification on where to find test locations                |
 
 +++
 
