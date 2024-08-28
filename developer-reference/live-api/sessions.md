@@ -39,7 +39,9 @@ Include your API key (`<apikey>`) by either:
       "userCount": 187,
       "type": 0,
       "worldType": 0,
-      "minimumGradeLevel": 2
+      "minimumGradeLevel": 2,
+      "minimumAppVersion": "24.3",
+      "maximumAppVersion": null
     }
   ]
 }
@@ -65,3 +67,5 @@ Include your API key (`<apikey>`) by either:
 | `type`              | integer | _Enum:_ `"Unrestricted = 0"`, `"Restricted = 1"`             |
 | `worldType`         | integer | _Enum:_ `"Solo = 0"`, `"Casual = 1"`, `"Training = 2"`, `"Expert = 3"`, `"Private = 4"` |
 | `minimumGradeLevel` | integer | Minimum grade index to access server. Add 1 to get grade name (i.e. index 0 is grade 1) |
+| `minimumAppVersion` | string  | Minimum version of Infinite Flight able to connect to this server                       |
+| `maximumAppVersion` | string  | Minimum version of Infinite Flight able to connect to this server                       |
