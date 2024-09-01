@@ -28,7 +28,7 @@ Should
 
 ## ATC Manual Version (Internal): 24.3.1
 
-## Last Updated: 1130Z - 24 JUL 24
+## Last Updated: 1400Z - 01 SEP 24
 
 
 
@@ -43,8 +43,12 @@ Should
 | 1A.3.1                                     | Clarification on reserving frequencies                       |
 | 1A.5.3                                     | Minimum controlling times amended to be based on ATC rank instead of airspace classification |
 | 1A.6.5                                     | Channel name updated                                         |
+| 1A.7.6                                     | Officer Check Ride rules amended to include reference to Center facilities |
+| 1A.8.2                                     | Table removed and clarification added to controller's receiving violations |
+| 1A.8.3                                     | Removed                                                      |
 | 2.1.3                                      | Use of give way added when it is not clear to pushback       |
 | 3.2.7                                      | Hyperlink typo fixed                                         |
+| 4.2.1                                      | Long Taxi and Flow Control removed                           |
 | 7A.1.6 / 7B.1.2 / 7C.1.5 / 7D.1.1 / 7E.1.1 | Channel list updated                                         |
 | 7A.2.8                                     | Removal of some training airport recommendations             |
 | 7B.2.1 / 7B.3.2                            | Clarification on where to find test locations                |
