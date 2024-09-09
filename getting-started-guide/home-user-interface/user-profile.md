@@ -9,17 +9,47 @@ order: 4
 
 
 
-@[vimeo](466698714)
+![User Profile](_images/manual/frames/user-profile-243.png)
+
+
+
+1. The top left settings symbol can be tapped to access your [Account](/guide/getting-started-guide/home-user-interface/user-profile#account) (here you can manage connections to other accounts and your subscription) 
+2. Tapping the arrow next to Grade will expand it to show you the [Grade Table](/guide/getting-started-guide/home-user-interface/user-profile#the-grade-table) and what you need to achieve the next grade
+3. Tapping the arrow next to [Violations](/guide/getting-started-guide/pilot-user-interface/violations) will expand it to show you a breakdown of your violations 
+4. This is the back arrow and can be used to return to the previous page, alternatively you can tap the "X" symbol in the top right corner
+5. Tap to see your followers, or those that you are following. There is a search bar at the bottom that can be used to find users that you would like to follow
+6. Tap to link to your [Discord account](/guide/getting-started-guide/home-user-interface/user-profile#linking-a-discord-account)
+7. This will navigate your to the [Infinite Flight Community](https://community.infiniteflight.com)
+
+
+
+## Account 
+
+
+
+![Account Settings](_images/manual/frames/account-page-243.png)
+
+
+
+| Connections                                                  | What it does                                                 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Community Forum Account](/guide/getting-started-guide/home-user-interface/user-profile#linking-community-forum-account) | Connect an [Infinite Flight Community](https://community.infiniteflight.com) profile to show your username in-flight. This connection also allows you to sign in if you switch device platforms |
+| [Discord Account](/guide/getting-started-guide/home-user-interface/user-profile#linking-a-discord-account) | Link a Discord account to gain exclusive access to our Pro-only Discord server |
+| [Navigraph (SimBrief) Account](/guide/getting-started-guide/home-user-interface/user-profile#linking-a-navigraph-(simbrief)-account) | Link your Navigraph account to access your SimBrief Flight Plans |
+
+
+
+| Miscellaneous                                                | What it does                                                 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Your Infinite Flight Pro Subscription](/guide/getting-started-guide/home-user-interface/subscriptions) | This will either show the "Get Pro" symbol if you do not have a current Infinite Flight Pro subscription; or if you do, the date it will automatically renew on |
+| Switch Account                                               | Use a different Infinite Flight account to access a subscription bought on another device |
+| Delete Account                                               | Removes your personal information, stats and linked accounts. Your subscription will still be available via a new, anonymous account. |
 
 
 
 ## Linking Community Forum Account
 
 [Callsigns](/guide/getting-started-guide/home-user-interface/user-profile#callsigns) are used whilst flying to identify you and for the Air Traffic Controllers to communicate with you. In addition to this, a unique user identifier is shown by default. If, however, you have an [Infinite Flight Community](https://community.infiniteflight.com) (IFC) account, you can choose to have your username displayed alongside your callsign. To link your account, follow the steps below:
-
-
-
-![Account Settings](_images/manual/frames/settings-account-242.png)
 
 
 
@@ -97,6 +127,12 @@ Step 6
 
 
 
+## Linking a Navigraph (SimBrief) Account
+
+@[vimeo](1006229998)
+
+
+
 ## Virtual Organization Affiliation
 
 Your Virtual Organization affiliation can be found displayed in app next to your Username as well as within the "info tab" (tap on any aircraft from your map or mini map and then select the respective callsign/username to show the "info tab").
@@ -147,7 +183,7 @@ Step 5
 
 Tip
 
-: Your Grade Table can be found by tapping Settings > Account > Account Statistics > View Stats
+: Your Grade Table can be found by tapping your User Profile symbol and then the arrow next to your displayed grade 
 
 
 
@@ -162,7 +198,7 @@ The Grade Table is categorized into the following 4 sections:
 
 
 
-![Grade Table](_images/manual/frames/stat-page-227.png)
+![Grade Table](_images/manual/frames/stat-page-243.png)
 
 
 
@@ -180,10 +216,6 @@ The Grade Table is categorized into the following 4 sections:
    - orange parameters mean that you are yet to meet the requirement - this may be due to a deficiency or an exceeded limitation
 
    
-
-4. The "Show Violation History" tab will open a log that shows all violations, why they were received, and, if issued by a Controller, their username. This can then be used when [appealing a Level 2 or Level 3 Violation](/guide/getting-started-guide/pilot-user-interface/violations#appealing-a-level-2-or-3-violation) if you believe it was issued in error
-
-
 
 Below is a table that outlines the different Grade requirements:
 
@@ -240,19 +272,19 @@ Callsigns are used while flying to identify you and for the Air Traffic Controll
 
 Step 1
 
-: From the [home screen](/guide/getting-started-guide/home-user-interface/home-screen), tap your user profile in the top right hand corner of your device
+: From the [home screen](/guide/getting-started-guide/home-user-interface/home-screen), tap mode in the bottom right corner of the screen
 
 
 
 Step 2
 
-: The "Account" tab should automatically display, but it can be selected from the navigation bar on the left of your device if it hasn't
+: Toggle to Multi Player and then select Free Flight
 
 
 
 Step 3
 
-: Tap the edit "pencil" symbol to the right of your device in line with "Callsign"
+: Callsign will now be visible under the aircraft icon on the right of the screen, tap the arrow to open the page
 
 
 

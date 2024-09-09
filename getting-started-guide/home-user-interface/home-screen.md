@@ -15,14 +15,13 @@ order: 0
 
 Welcome to the home screen of your newly downloaded Infinite Flight app. Below you’ll find everything you need to know about this page and how to navigate your way through it.
 
-![Free Flight](_images/manual/frames/home-screen-242-v2.png)
+![Free Flight](_images/manual/frames/home-screen-243.png)
 
 
 
 1. The top left symbol can be tapped to access our news page as well as the leaderboards, your [logbook](/guide/getting-started-guide/home-user-interface/logbook#logbook) and [settings](/guide/getting-started-guide/home-user-interface/settings#settings). Next to this you’ll find the [Get Pro](/guide/getting-started-guide/home-user-interface/subscriptions) subscription button. If you already have a subscription, then your [User Profile](/guide/getting-started-guide/home-user-interface/user-profile) will show instead
 3. Location (airport/stand) selection - this search function allows you to [find the airport](/guide/getting-started-guide/home-user-interface/home-screen#airport-and-gate-selection) you want with ease. If you know the ICAO four letter code (e.g. KSFO for San Francisco Intl.) then you can type some or all of this, and a list of options will appear. Alternatively, just type in some or all of the city/airport name (only available in [Free Flight](/guide/getting-started-guide/home-user-interface/mode#free-flight) mode)
-4. Tap here to [select your aircraft](/guide/getting-started-guide/home-user-interface/home-screen#aircraft-selection) (only available in [Free Flight](/guide/getting-started-guide/home-user-interface/mode#free-flight) mode)
-5. If Air Traffic Control is open at the airport you have selected, the facilities will be highlighted in green (only available in Multi Player on specific [Servers](/guide/getting-started-guide/home-user-interface/mode#servers))
+4. Tap here to [select your aircraft](/guide/getting-started-guide/home-user-interface/home-screen#aircraft-selection) (only available in [Free Flight](/guide/getting-started-guide/home-user-interface/mode#free-flight) mode). If Air Traffic Control is open at the airport you have selected, the facilities will be highlighted in green under the aircraft symbol (only available in Multi Player on specific [Servers](/guide/getting-started-guide/home-user-interface/mode#servers))
 6. Select the time of day by tapping one of the symbols (sunrise, midday, sunset, night or current time). Or the arrow to fully customise the date and time
 7. Weather is shown here, this can be adjusted using the arrow symbol (only available in Single Player [Free Flight](/guide/getting-started-guide/home-user-interface/mode#free-flight) mode)
 8. In the bottom left of the map is the Center map symbol. You can also use the map to find your starting location. Just use your finger to navigate around the globe, a pinching motion to zoom in and out, and then tap on the airport you want. You can also select the specific gate that you want by zooming in and then tapping on the respective light blue dot representing your chosen gate (only available in [Free Flight](/guide/getting-started-guide/home-user-interface/mode#free-flight) mode). A green boarder is shown if you do not have a [Pro](/guide/getting-started-guide/home-user-interface/subscriptions) subscription. Flight and airport selection is limited to within these various regions across the globe
