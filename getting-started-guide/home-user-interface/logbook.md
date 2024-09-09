@@ -11,37 +11,50 @@ All flights and controlling sessions are recorded automatically and you can revi
 
 
 
-![Logbook](_images/manual/frames/logbook-233.png)
+![Logbook](_images/manual/frames/logbook-243.png)
 
 
 
-1. All flight and controlling replays are listed here
-
-   
-
-2. Tap a replay to select it, a card will appear on the right of the screen that contains a summary of that replay
+1. All flight entires are listed here
 
    
 
-3. The three dot symbol can be tapped to filter your replays
+2. Tap a logbook entry to select it, a card will appear on the right of the screen that contains a summary of that entry
 
    
 
-4. Tap this button to [import](/guide/getting-started-guide/home-user-interface/logbook#how-to-import-your-replay) a replay into your device
+3. You can cycle between all entries or just those that are stored as replays here
 
    
 
-5. Once you have selected a replay, you can tap the three dot symbol on the replay card to [share (export)](/guide/getting-started-guide/home-user-interface/logbook#how-to-export-your-replay), edit or delete
+4. The three dot symbol can be tapped to filter your entries (i.e. All, Multiplayer or Solo)
 
    
 
-6. The replay duration and type (i.e. Solo, Multiplayer or ATC) is shown here
+6. The flight duration and type (i.e. Solo or Online) is shown here
+
+
+
+![Logbook](_images/manual/frames/replays-243.png)
+
+
+
+
+1. Tap this button to [import](/guide/getting-started-guide/home-user-interface/logbook#how-to-import-your-replay) a replay into your device
+
+    
+
+2. This will upload all replays to the Infinite Flight servers
+
+    
+
+3. Once you have selected a replay, you can tap the three dot symbol on the replay card to [share (export)](/guide/getting-started-guide/home-user-interface/logbook#how-to-export-your-replay), edit or delete
 
    
 
-7. Tap this button to view the selected replay
+4. Tap this button to view the selected replay (only visible for entries that have a replay available)
 
-
+   
 
 > If the app is uninstalled (or a flight is flown on a different device but with the same account), the logbook entry is retained but the replay will no longer be available
 

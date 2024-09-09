@@ -8,7 +8,7 @@ meta: Introduction to the Infinite Flight Air Traffic Controller (IFATC) Manual.
 
 
 
-## Guide Version: 24.2.0
+## Guide Version: 24.3.0
 
 
 
@@ -26,13 +26,38 @@ Should
 
 
 
-## ATC Manual Version (Internal): 24.2.1
+## ATC Manual Version (Internal): 24.3.1
 
-## Last Updated: 1515Z - 15 MAR 24
+## Last Updated: 1400Z - 01 SEP 24
 
 
 
-+++ Summary of Changes - Version: 24.2.1 (CURRENT VERSION)
++++ Summary of Changes - Version: 24.3.1 (CURRENT VERSION)
+
+| Location                                   | Change                                                       |
+| ------------------------------------------ | ------------------------------------------------------------ |
+| 1.1.2                                      | Reference to if-atc.com removed                              |
+| 1A.1.2                                     | Discord channel list updated                                 |
+| 1A.1.3                                     | Bot command table removed                                    |
+| 1A.2.1                                     | Controllers need to link their Discord account in-app before controlling |
+| 1A.3.1                                     | Clarification on reserving frequencies                       |
+| 1A.5.3                                     | Minimum controlling times amended to be based on ATC rank instead of airspace classification |
+| 1A.6.5                                     | Channel name updated                                         |
+| 1A.7.6                                     | Officer Check Ride rules amended to include reference to Center facilities |
+| 1A.8.2                                     | Table removed and clarification added to controller's receiving violations |
+| 1A.8.3                                     | Removed                                                      |
+| 2.1.3                                      | Use of give way added when it is not clear to pushback       |
+| 3.2.7                                      | Hyperlink typo fixed                                         |
+| 4.2.1                                      | Long Taxi and Flow Control removed                           |
+| 7A.1.6 / 7B.1.2 / 7C.1.5 / 7D.1.1 / 7E.1.1 | Channel list updated                                         |
+| 7A.2.8                                     | Removal of some training airport recommendations             |
+| 7B.2.1 / 7B.3.2                            | Clarification on where to find test locations                |
+
++++
+
+
+
++++ Summary of Changes - Version: 24.2.1
 
 | Location                 | Change                                                       |
 | ------------------------ | ------------------------------------------------------------ |
@@ -85,19 +110,6 @@ Should
 | 7A.1.6 / 7C.1.5         | Minor wording correction                                     |
 | 7A.1.6 / 7B1.2 / 7C.1.5 | *#test-time* Discord channel added                           |
 | 7D.3.2                  | Minor wording correction                                     |
-
-+++
-
-
-
-+++ Summary of Changes - Version: 23.3.1
-
-| Location                 | Change                                        |
-| ------------------------ | --------------------------------------------- |
-| 1A.7.9                   | Flowchart updated                             |
-| Section 7, 7A, 7B, 7C    | Complete Rework                               |
-| 7D.3.2 / 7D.3.4 / 7D.4.4 | Minor adjustment to reflect dashboard changes |
-| 7E.3.3                   | Minor adjustment to reflect dashboard changes |
 
 +++
 

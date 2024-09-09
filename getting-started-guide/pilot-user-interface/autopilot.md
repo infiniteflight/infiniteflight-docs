@@ -25,7 +25,7 @@ Step 2
 
 Step 3
 
-: Altitude (ALT), vertical speed (VS), speed (SPD), heading (HDG), vertical navigation (VNAV), lateral navigation (LNAV) and approach mode (APPR) can be engaged or disengaged by tapping each symbol. By pressing and holding on each symbol (with the exception of the AP, VNAV, LNAV and APPR), and then moving your finger up or down, the value can be changed
+: Altitude (ALT), vertical speed (VS), altitude presets (ALT PRESETS), speed (SPD), heading (HDG), vertical navigation (VNAV), lateral navigation (LNAV GPS) and approach mode (APPR) can be engaged or disengaged by tapping each symbol. By pressing and holding on each symbol (with the exception of the AP, ALT PRESETS, VNAV, LNAV and APPR), and then moving your finger up or down, the value can be changed. For ALT PRESETS, just tap the button and a list of preset options will appear which can be selected (this will override any current altitude that is set in the ALT window)
 
 Step 4
 

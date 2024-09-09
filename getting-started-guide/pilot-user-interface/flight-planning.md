@@ -19,14 +19,14 @@ order: 6
 
 2. The buttons at the bottom of the FPL page have the following functions:
 
-   | Button                                                       | Function                                                     |
-   | ------------------------------------------------------------ | ------------------------------------------------------------ |
-   | -                                                            | Delete a waypoint                                            |
-   | Act. Leg                                                     | Make a waypoint the active leg by selecting the waypoint, and then tapping this button |
-   | Clear                                                        | Clear entire flight plan                                     |
-   | Up/Down Arrow                                                | Move a waypoint or procedure up/down in your flight plan by selecting the waypoint/procedure, and then using the arrows to position it as desired |
-   | Set Alt                                                      | Tap a waypoint and then this button to set an altitude target that can be used with VNAV |
-   | Open/[Share](/guide/getting-started-guide/pilot-user-interface/flight-planning#share-flight-plan) | You can open a flight plan using this button, or if you already have a flight plan you can share it |
+   | Button        | Function                                                     |
+   | ------------- | ------------------------------------------------------------ |
+   | -             | Delete a waypoint                                            |
+   | Act. Leg      | Make a waypoint the active leg by selecting the waypoint, and then tapping this button |
+   | Clear         | Clear entire flight plan                                     |
+   | Up/Down Arrow | Move a waypoint or procedure up/down in your flight plan by selecting the waypoint/procedure, and then using the arrows to position it as desired |
+   | OPT.          | Tap a waypoint and then this button to set/edit/delete an altitude target that can be used with VNAV. Tapping "Set Autopilot ALT" will change the altitude selected in the [autopilot](/guide/getting-started-guide/pilot-user-interface/autopilot) to the altitude of the waypoint selected |
+   | Double Arrow  | You can open a flight plan using this button, if you already have a flight plan you can [share](/guide/getting-started-guide/pilot-user-interface/flight-planning#share-flight-plan) it, or you can load a flight plan from SimBrief |
 
 
 
