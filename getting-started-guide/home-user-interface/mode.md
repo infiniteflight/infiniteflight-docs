@@ -69,7 +69,7 @@ There are four modes that can be selected, these are:
 
 
 
-![Missions](_images/manual/frames/missions-243.png)
+![Missions](_images/manual/frames/missions-243-v2.png)
 
 
 
