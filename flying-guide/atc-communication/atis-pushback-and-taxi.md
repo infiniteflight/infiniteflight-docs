@@ -72,8 +72,6 @@ Below are two tables that define the meaning of all REMARKS and NOTAMS that may 
 | :-------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
 | No Intersection Departures        | ATC require pilots to use the full length of the runway.     | The pilot should hold short at the end of the runway.        |
 | No Pattern Work                   | ATC is not accepting pattern work.                           | The pilot should not attempt to fly patterns at the airport, this does not include flying inbound for a touch & go landing provided the pilot then departs the airspace. |
-| Flow Control                      | ATC is controlling the departure rate.                       | The pilot should expect a delayed departure.                 |
-| Long Taxi                         | ATC may not send departures to the closest runway.           | The pilot should expect to be sent to a runway that requires a long taxi time. |
 | Gate Hold                         | ATC needs to freeze all outbound ground movement.            | The pilot should hold at their gate until the hold is lifted, do not send duplicate pushback requests. |
 | No Light Aircraft                 | Light aircraft (XCub, C172, P38, SR22, and Spitfire) are not allowed in the airspace or at the airport. | The pilot, if flying a light aircraft, must divert to or respawn at a different airport. |
 | Rolling Departures                | ATC would like to expedite departures.                       | When cleared for take-off, the pilot should enter the runway and begin their take-off roll immediately. |

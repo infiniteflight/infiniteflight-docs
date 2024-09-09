@@ -139,29 +139,31 @@ Auto-Renew can be cancelled directly from the Google Play or App Store. Please f
 
 
 
-![Account Settings](_images/manual/frames/settings-account-242.png)
-
-
-
 Step 1
 
-: Tap the profile icon in the top left hand corner of the screen to access the Account Settings page. Next to "Community Forum Account", tap your current IFC username
+: The User Profile will be displayed in the top left hand corner of the screen, tap it
 
 
 
 Step 2
 
-: A pop up will appear to confirm that you are happy to unlink this profile
+: Tap the settings symbol in the top left corner, from there tap your current IFC username next to "Community Forum Account"
 
 
 
 Step 3
 
-: Tap "Unlink", it will return to the app and you will see that your IFC username is now replaced with a "Connect" button
+: Open Forum or Unlink will appear beneath
 
 
 
 Step 4
+
+: Tap "Unlink", it will return to the app and you will see that your IFC username is now replaced with a "Connect" button
+
+
+
+Step 5
 
 : You can now tap "Connect" to [link a different Community Forum Account](/guide/getting-started-guide/home-user-interface/user-profile#linking-community-forum-account)
 

@@ -111,7 +111,7 @@ If you are still unable to access your subscription after completing the steps a
 
 ## How to revert to Default Account 
 
-When Infinite Flight is launched on your device, it will search for an active subscription and automatically link to it if found. If however, you want to use your account on a different device, you can use the "Switch Account" button within the [Account Settings page](/guide/getting-started-guide/home-user-interface/settings#account).
+When Infinite Flight is launched on your device, it will search for an active subscription and automatically link to it if found. If however, you want to use your account on a different device, you can use the "Switch Account" button within your [User Profile Account Settings page](/guide/getting-started-guide/home-user-interface/user-profile#account).
 
 
 
@@ -127,7 +127,7 @@ Step 1
 
 Step 2
 
-: The [Account Settings page](/guide/getting-started-guide/home-user-interface/settings#account) will be displayed, from there, tap the "Switch Account" button
+: Tap the settings symbol in the top left corner, from there tap the "Switch Account" button
 
 
 

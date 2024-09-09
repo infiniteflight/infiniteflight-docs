@@ -11,10 +11,10 @@ contributor: deercrusher
 The Settings menu allows you to customize your Infinite Flight experience before and during play. Below is a guide to help you navigate your way around and to find the best settings for you!
 
 
-![General Settings](_images/manual/frames/settings-general-242.png)
+![General Settings](_images/manual/frames/settings-general-243.png)
 
 
-1. On the left hand side of the screen are 6 categories that split the settings up, tap each one to find settings within
+1. On the left hand side of the screen are 5 categories that split the settings up, tap each one to find settings within
 
    
 
@@ -75,7 +75,7 @@ Infinite Flight supports both iOS and Android devices; because of this, the sett
 
 
 
-![Graphics Settings](_images/manual/frames/settings-graphics-242.png)
+![Graphics Settings](_images/manual/frames/settings-graphics-243.png)
 
 
 
@@ -94,7 +94,7 @@ Infinite Flight supports both iOS and Android devices; because of this, the sett
 
  
 
-![Online Settings](_images/manual/frames/settings-online-242.png)
+![Online Settings](_images/manual/frames/settings-online-243.png)
 
 
 
@@ -118,37 +118,13 @@ Infinite Flight supports both iOS and Android devices; because of this, the sett
 
 
 
-## Account 
-
-
-
-@[vimeo](466698714)
-
-
-
-| Setting                                                      | What it does                                                 |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Your Infinite Flight Pro Subscription](/guide/getting-started-guide/home-user-interface/subscriptions) | This will either show the plans available to purchase if you do not have a current Infinite Flight Pro subscription; or if you do, the date it will automatically renew on |
-| [Callsign](/guide/getting-started-guide/home-user-interface/user-profile#callsigns) | Used for communication with controllers and other pilots     |
-| [Community Forum Account](/guide/getting-started-guide/home-user-interface/user-profile#linking-community-forum-account) | Connect an [Infinite Flight Community](https://community.infiniteflight.com) profile to show your username in-flight. This connection also allows you to sign in if you switch device platforms |
-| [Discord Account](/guide/getting-started-guide/home-user-interface/user-profile#linking-a-discord-account) | Link a Discord account to gain exclusive access to our Pro-only Discord server |
-| Account Statistics                                           | See your [grade level and violation history](/guide/getting-started-guide/home-user-interface/user-profile#the-grade-table). These stats determine multiplayer server level eligibility |
-| Switch Account                                               | Use a different Infinite Flight account to access a subscription bought on another device |
-| Delete Account                                               | Removes your personal information, stats and linked accounts. Your subscription will still be available via a new, anonymous account. |
-
-
-
-![Account Settings](_images/manual/frames/settings-account-242.png)
-
-
-
 ## Audio
 
 There are two sliders that adjust the SFX and ATC Volume. Slide your finger along the slider to find the desired setting.
 
 
 
-![Audio Settings](_images/manual/frames/settings-audio-242.png)
+![Audio Settings](_images/manual/frames/settings-audio-243.png)
 
 
 
@@ -184,7 +160,7 @@ In the control settings you can adjust your control sensitivity for each axis as
 
 
 
-![Control Settings](_images/manual/frames/settings-controls-242.png)
+![Control Settings](_images/manual/frames/settings-controls-243.png)
 
 
 
