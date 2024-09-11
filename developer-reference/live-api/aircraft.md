@@ -50,7 +50,7 @@ Include your API key (`<apikey>`) by either:
 | `errorCode` | integer       | _Enum:_ `"Ok = 0"`, `"UserNotFound = 1"`, `"MissingRequestParameters = 2"`, `"EndpointError = 3"`, `"NotAuthorized = 4"`, `"ServerNotFound = 5"`, `"FlightNotFound = 6"`, `"NoAtisAvailable = 7"` |
 | `result`    | [AircraftPackage] | Array of AircraftPackage objects                                 |
 
-#### AircraftPacakge
+#### AircraftPackage
 
 | Name   | Type          | Description                     |
 | ------ | ------------- | ------------------------------- |
