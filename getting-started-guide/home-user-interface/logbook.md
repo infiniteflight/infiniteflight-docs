@@ -23,7 +23,7 @@ All flights and controlling sessions are recorded automatically and you can revi
 
    
 
-3. You can cycle between all entries or just those that are stored as replays here
+3. You can cycle between all entries or just those that are stored as [replays](/guide/getting-started-guide/home-user-interface/logbook#replays)
 
    
 
@@ -34,6 +34,8 @@ All flights and controlling sessions are recorded automatically and you can revi
 6. The flight duration and type (i.e. Solo or Online) is shown here
 
 
+
+### Replays
 
 ![Logbook](_images/manual/frames/replays-243.png)
 
