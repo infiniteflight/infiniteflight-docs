@@ -217,6 +217,8 @@ The Grade Table is categorized into the following 4 sections:
 
    
 
++++ Grade Requirements
+
 Below is a table that outlines the different Grade requirements:
 
 | Requirement                                    | G1   | G2   | G3     | G4     | G5      |
@@ -235,7 +237,11 @@ Below is a table that outlines the different Grade requirements:
 | Max Combined Level 2 and 3 Violations (1 year) | -    | 10   | 5      | 4      | 2       |
 |{.grade-table}||||||
 
++++
 
+
+
++++ Grade Table Parameters
 
 Below is a table that outlines all the Grade Table parameters and a brief description of them:
 
@@ -261,6 +267,8 @@ Below is a table that outlines all the Grade Table parameters and a brief descri
 - 10 Level 1 Violations (total) and 20 Landings (12 months) would give a ratio of **0.50**
 - 10 Level 1 Violations (total) and 10 Landings (12 months) would give a ratio of **1.00**
 - 20 Level 1 Violations (total) and 10 Landings (12 months) would give a ratio of **2.00**
+
++++
 
 
 
