@@ -22,7 +22,7 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 
 ## Scenery Editor Manual Version (Internal): 24.3.1
 
-## Last Updated: 1130Z - 04 JUL 24
+## Last Updated: 1130Z - 22 AUG 24
 
 
 
@@ -31,6 +31,7 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 | Location | Change                                                       |
 | -------- | ------------------------------------------------------------ |
 | 1A.4.1   | Note added to highlight that Reviewers will usually not make edits to an airport under the Official Review process |
+| 10.2     | Adjustment from 150m to 60m for stand guidance               |
 | 11A.1.3  | Guidance added for Reviewers                                 |
 
 +++
