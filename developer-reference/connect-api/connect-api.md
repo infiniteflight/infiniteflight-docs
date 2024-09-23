@@ -1,6 +1,6 @@
 ---
 id: version-2
-title: Connect API v2
+title: Connect API
 meta: Reference for the Infinite Flight Connect API Version 2
 order: 3
 contributor: likeablegeek,KaiM,tomthetank
@@ -64,10 +64,16 @@ Common examples of modules/packages which can be used to establish TCP socket co
 If the IP address of the device to connect to is unknown, it is possible to discover existing Infinite Flight devices on the same local network using UDP. Infinite Flight broadcasts [UDP](https://www.cloudflare.com/en-gb/learning/ddos/glossary/user-datagram-protocol-udp/) packets on port `15000` which provide the IP address of the device among other details. An example UDP broadcast from Infinite Flight looks like this:
 
 ```json
-    ["State": Playing, "Port": 10111, "DeviceID": iPad7, "Aircraft": Cessna 172,
-    "Version": 19.4.7354.25209, "DeviceName": Thomas’s iPad,
-    "Addresses":("fe80::1c79:baf4:f9f1:dd59%3", "192.168.1.26"),
-    "Livery": Civil Air Patrol]
+{
+    "state": "Playing",
+    "port": 10111,
+    "deviceId": "iPad7",
+    "aircraft": "Cessna 172",
+    "version": "19.4.7354.25209",
+    "deviceName": "Thomas’s iPad",
+    "addresses": ["fe80::1c79:baf4:f9f1:dd59%3", "192.168.1.26"],
+    "livery": "Civil Air Patrol"
+}
 ```
 
 From this information IPv4 or IPv6 addresses for the device can be extracted as well as information about the version of Infinite Flight in use, the current aircraft and livery, and the type of device. The port indicated will be `10111` which is the port for the [Connect API v1](https://infiniteflight.com/guide/developer-reference/connect-api/version-1). **To connect to the v2 API, connect to port `10112` as mentioned above in "[Connecting to the API](#connecting-to-the-api)".**

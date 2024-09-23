@@ -3,7 +3,7 @@ id: user-grade
 title: Get User Grade
 meta: Overview of the user grade endpoint of the Infinite Flight Live API
 order: 9
-contributor: KaiM,sqeezelemon
+contributor: KaiM,sqeezelemon,Ethan_C
 ---
 
 # Get User Grade
@@ -49,7 +49,9 @@ Include your API key (`<apikey>`) by either:
     "atcOperations": 14641,
     "atcRank": 3,
     "lastLevel1ViolationDate": "2020-12-16T03:20:10.283484",
-    "lastReportViolationDate": "0001-01-01T00:00:00",
+    "lastLevel2ViolationDate": "0001-01-01T00:00:00",
+    "lastLevel3ViolationDate": "2018-07-01T17:44:05.345678",
+    "lastReportViolationDate": "2018-07-01T17:44:05.345678",
     "violationCountByLevel": {
       "level1": 9,
       "level2": 0,
@@ -99,7 +101,9 @@ _Response Type:_ `application/json`
 | `atcOperations`           | integer            | Total number of ATC Operations.                                                                                                   |
 | `atcRank`                 | integer            | ATC Rank on the Expert Server. See below for the ranks. Can be null if user isn't an IFATC controller.                            |
 | `total12MonthsViolations` | integer            | Total amount of Level 1, 2, and 3 violations received in the last 12 months                                                       |
-| `lastLevel1ViolationDate` | string (datetime)  | Date of the user's last Level 1 violation                                                                                         |
+| `lastLevel1ViolationDate` | string (datetime)  | Date of the user's last Level 1 violation. Defaults to `0001-01-01T00:00:00` if the user does not have any Level 1 violations. |                                                                                         |
+| `lastLevel2ViolationDate` | string (datetime)  | Date of the user's last Level 2 violation. Defaults to `0001-01-01T00:00:00` if the user does not have any Level 2 violations. |                                                                                        |
+| `lastLevel3ViolationDate` | string (datetime)  | Date of the user's last Level 3 violation (report). Defaults to `0001-01-01T00:00:00` if the user does not have any Level 3 violations (reports). |                                                                                        |
 | `lastReportViolationDate` | string (datetime)  | Date of the user's last Level 2 or 3 violation (report). Defaults to `0001-01-01T00:00:00` if the user does not have any reports. |
 
 #### Roles

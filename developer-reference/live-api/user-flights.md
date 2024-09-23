@@ -60,7 +60,27 @@ Include your API key (`<apikey>`) by either:
         "landingCount": 0,
         "originAirport": "YTYA",
         "destinationAirport": "YTYA",
-        "xp": 25
+        "xp": 25,
+        "worldType": 1,
+        "violations": [
+          {
+            "issuedBy": {
+                "id": "2a11e620-1cc1-4ac6-90d1-18c4ed9cb913",
+                "username": "Cameron",
+                "callsign": "EC-CAM",
+                "discourseUser": {
+                    "userId": 4,
+                    "username": "Cameron",
+                    "virtualOrganization": "",
+                    "avatarTemplate": "/user_avatar/community.infiniteflight.com/cameron/{size}/886772_2.png"
+                }
+            },
+            "level": 1,
+            "type": "Ground Overspeed",
+            "description": "Ground Overspeed",
+            "created": "2023-10-31T16:34:51.014366+00:00"
+          }
+        ]
       },
       ...
     ]
@@ -106,3 +126,33 @@ Include your API key (`<apikey>`) by either:
 | `originAirport` | string | The ICAO code of the departure airport. Can be null |
 | `destinationAirport` | string | The ICAO code of the arrival airport. Can be null |
 | `xp` | integer | The number of XP earned during the flight |
+| `worldType` | integer | Type of server the flight was flown on. _Enum:_ `"Solo = 0"`, `"Casual = 1"`, `"Training = 2"`, `"Expert = 3"`, `"Private = 4"` |
+| `violations` | [Violation] | An array of violations the user received in this flight. |
+
+#### Violation
+
+| Name          | Type          | Description |
+| ------------- | ------------- | ----------- |
+| `issuedBy`    | Issuer        | The information about the person who issued the violation |
+| `level`       | integer       | The severity level of the violation |
+| `type`        | string        | The type of violation committed |
+| `description` | string        | A detailed description of the violation |
+| `created`     | string (datetime) | The time when the violation was recorded |
+
+#### Issuer
+
+| Name             | Type   | Description |
+| ---------------- | ------ | ----------- |
+| `id`             | string (uuid) | The ID of the issuer |
+| `username`       | string | The username of the issuer |
+| `callsign`       | string | The callsign of the issuer |
+| `discourseUser`  | DiscourseUser | Information about the issuer's Discourse account, if available |
+
+#### DiscourseUser
+
+| Name                 | Type   | Description |
+| -------------------- | ------ | ----------- |
+| `userId`             | integer | The user ID on the Discourse platform |
+| `username`           | string | The username on the Discourse platform |
+| `virtualOrganization`| string | The virtual organization associated with the user, if any |
+| `avatarTemplate`     | string | URL template for the user's avatar on Discourse |
