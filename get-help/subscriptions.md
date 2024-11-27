@@ -81,6 +81,7 @@ If you find that you are unable to purchase a Pro subscription whilst following 
 
 - Parental permissions are enabled which are preventing in-app purchases
 - There is a problem with your network connection
+- You do not have the most recent version of Infinite Flight installed
 - You do not have an official version of the app
 
 
