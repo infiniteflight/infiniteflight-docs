@@ -75,7 +75,7 @@ Step 5
 
 ## Unable to purchase a Pro subscription
 
-If you find that you are unable to purchase a Pro subscription whilst following the steps above, it is likely due to one of the following reasons:
+If you find that you are unable to purchase a Pro subscription while following the steps above, it is likely due to one of the following reasons:
 
 
 
@@ -108,7 +108,7 @@ Step 1
 
 Step 2
 
-: A subscription pop-up will appear, from there, tap "More Options > Sign in with Infinite Flight"
+: A subscription pop-up will appear, from there, tap "More Plans > Sign in with Infinite Flight"
 
 
 
