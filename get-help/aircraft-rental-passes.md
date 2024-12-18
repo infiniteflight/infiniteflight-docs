@@ -9,16 +9,16 @@ order: 6
 
 # Aircraft Rental Passes
 
-Aircraft Rental Passes allow you to access one aircraft, multiplayer and global scenery for 24 hours. It is a new way to access our Pro only aircraft without committing to a subscription.
+Aircraft Rental Passes allow you to access one aircraft, multiplayer, and global scenery for 24 hours. It is a new way to access our Pro-only aircraft without committing to a subscription.
 
-It is currently available in select markets and for select aircraft for users without a Pro subscription.
+This feature is currently available in select markets and for select aircraft, for users without a Pro subscription.
 
 
 ## What aircraft can I rent?
 
 Aircraft Rental Passes are available on select aircraft, and this selection will change over time.
 
-To confirm if your chosen aircraft can be rented, a RENT AIRCRAFT button will show in the bottom of the Aircraft Selection Page.
+To check if your chosen aircraft can be rented, look for the RENT AIRCRAFT button at the bottom of the Aircraft Selection Page.
 
 
 
@@ -28,7 +28,7 @@ To confirm if your chosen aircraft can be rented, a RENT AIRCRAFT button will sh
 
 Step 1
 
-: Go to the Aircraft Selection page in in the main menu.
+: Go to the Aircraft Selection page in in the main menu by tapping on the aircraft preview.
 
 
 
@@ -55,13 +55,13 @@ Step 5
 
 
 
-## Unable to purchase a Pro subscription
+## Unable to purchase an Aircraft Rental Pass
 
 If you find that you are unable to purchase an Aircraft Rental Pass while following the steps above, it is likely due to one of the following reasons:
 
 
 - Rentals are not currently available in your region
-- The selected aircraft is not available for rent.
+- The selected aircraft is not available for rent
 - Parental permissions are enabled which are preventing in-app purchases
 - There is a problem with your network connection
 - You do not have the most recent version of Infinite Flight installed
@@ -75,7 +75,7 @@ To try to fix the issue we recommend checking parental permissions, restarting y
 
 ## How to manage your Aircraft Rental Pass purchase
 
-If you decide to install Infinite Flight on a different device, your Aircraft Rental Pass can be passed over provided you are using the same Apple ID (for iOS) or Google Play account (for Android) that the previous subscription was purchased on.
+You can transfer your Aircraft Rental Pass to a different device if you use the same Apple ID (iOS) or Google Play account (Android) as the original purchase.
 
 
 
@@ -85,13 +85,13 @@ If however, you are no longer using the same platform (i.e. iOS to Android or vi
 
 Step 1
 
-: Find the "Get Pro" button will be displayed in the top left hand corner of the [Home Screen](/guide/getting-started-guide/home-user-interface/home-screen), tap it
+: Find the "Get Pro" button, which will be displayed in the top left hand corner of the [Home Screen](/guide/getting-started-guide/home-user-interface/home-screen) and tap it
 
 
 
 Step 2
 
-: A subscription pop-up will appear, from there, tap "More Plans > Sign in with Infinite Flight"
+: A subscription pop-up will appear. From there, tap "More Plans > Sign in with Infinite Flight"
 
 
 
@@ -104,7 +104,7 @@ Step 3
 If you are still unable to access your subscription after completing the steps above, please send an e-mail explaining the steps you’ve already taken as well as the information below to [support@infiniteflight.com](mailto:support@infiniteflight.com):
 
 - Display Name and Callsign
-- Device
+- Device details
 - Complete Purchase Receipt showing date, item, and item number (beginning with GPA if Android User)
 
 
