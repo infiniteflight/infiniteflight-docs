@@ -92,11 +92,11 @@ You can send questions and complaints to:
 
 European Users with questions or complaints about GDPR compliance should also address Infinite Flight LLC’s representative in the Union:
 
-Laura Laban - contact@infiniteflight.com
+Cameron Carmichael Alonso - contact@infiniteflight.com
 
 ## Changes to this policy
 
 We’ll post any changes we make to our privacy notice on this page and, if they’re significant changes we’ll let you know within the Game of through an announcement through our Services.
 
 
-Last Revision: March 3rd, 2022
+Last Revision: November 11th, 2024 (updated DPO details)
