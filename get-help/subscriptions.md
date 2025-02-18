@@ -75,12 +75,13 @@ Step 5
 
 ## Unable to purchase a Pro subscription
 
-If you find that you are unable to purchase a Pro subscription whilst following the steps above, it is likely due to one of the following reasons:
+If you find that you are unable to purchase a Pro subscription while following the steps above, it is likely due to one of the following reasons:
 
 
 
 - Parental permissions are enabled which are preventing in-app purchases
 - There is a problem with your network connection
+- You do not have the most recent version of Infinite Flight installed
 - You do not have an official version of the app
 
 
@@ -107,7 +108,7 @@ Step 1
 
 Step 2
 
-: A subscription pop-up will appear, from there, tap "More Options > Sign in with Infinite Flight"
+: A subscription pop-up will appear, from there, tap "More Plans > Sign in with Infinite Flight"
 
 
 
