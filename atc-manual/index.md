@@ -28,7 +28,7 @@ Should
 
 ## ATC Manual Version (Internal): 24.4.1
 
-## Last Updated: 1130Z - 7 FEB 24
+## Last Updated: 1730Z - 19 FEB 24
 
 
 
@@ -77,5 +77,4 @@ Should
 | 7B.2.1 / 7B.3.2                            | Clarification on where to find test locations                |
 
 +++
-
 
