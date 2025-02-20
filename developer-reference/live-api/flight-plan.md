@@ -29,6 +29,7 @@ Include your API key (`<apikey>`) by either:
 
 | Name       | Located in | Description                                                  | Required | Schema        |
 | ---------- | ---------- | ------------------------------------------------------------ | -------- | ------------- |
+| `sessionId` | path       | ID of the session returned from the Sessions endpoint | Yes      | string (uuid) |
 | `flightId` | path       | ID of the flight. The flight must be in an active session and have a filed flight plan. | Yes      | string (uuid) |
 
 ## Response
@@ -119,6 +120,7 @@ Include your API key (`<apikey>`) by either:
 | `waypoints`       | [string]         | **Deprecated**. An array of waypoint names. You can correlate these with data from the [Airport Editing Project](https://github.com/infiniteflightairportediting/) |
 | `lastUpdate`      | string           | Last report time of the flight plan in the following format: `YYYY-MM-DD HH:mm:ssZ` |
 | `flightPlanItems` | [FlightPlanItem] | An array of FlightPlanItems which contain waypoint and procedure data for points in a flight plan. |
+|`flightPlanType`|integer|Type of flightplan. *Enum:* `VFR = 0`,`IFR = 1`|
 
 #### FlightPlanItem
 
