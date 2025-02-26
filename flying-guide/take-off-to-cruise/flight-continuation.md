@@ -40,7 +40,7 @@ Step 4
 
 Step 5
 
-:Exit to the main menu
+: Exit to the main menu
 
 
 Your flight will continue in the background towards your destination following your flight plan. Once it is 30 minutes away from your destination, your flight will be paused.
