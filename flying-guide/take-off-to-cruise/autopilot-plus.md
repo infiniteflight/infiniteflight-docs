@@ -1,17 +1,17 @@
 ---
-id: flight-continuation
-title: Flight Continuation
-meta: Learn how to use the flight continuation feature in Infinite Flight
+id: autopilot-plus
+title: AutoPilot+
+meta: Learn how to use the AutoPilot+ feature in Infinite Flight
 order: 15
 ---
 
-# Flight Continuation
+# AutoPilot+
 
 
 
-## What is Flight Continuation?
+## What is AutoPilot+?
 
-Flight Continuation allows pilots to pause and resume their flights, adding flexibility to your flying experience in Infinite Flight. This feature helps manage long-haul flights and unexpected interruptions.
+AutoPilot+ allows pilots to pause and resume their flights, adding flexibility to your flying experience in Infinite Flight. This feature helps manage long-haul flights and unexpected interruptions.
 
 ## How to use
 
@@ -30,9 +30,9 @@ Step 3
 
 Step 4
 
-: Check the Pause Menu, ensure Flight Resume is marked ON. It will automatically turn on when the following conditions are met:
+: Check the Pause Menu, ensure AutoPilot+ is marked as active. It will automatically turn on when the following conditions are met:
 
-- Your altitude is above 7000ft for prop aircraft or 20000ft for jet aircraft
+- Your altitude is above 7000ft for prop aircraft or 28000ft for jet aircraft
 - You are in level flight
 - LNAV is on
 - You are more than 30 minutes from your destination
@@ -47,7 +47,7 @@ Your flight will continue in the background towards your destination following y
 
 ## Resuming Your Flight
 
-When you are ready to resume your flight, select **Active Flight** from the Mode selection menu, then tap continue.
+When you are ready to resume your flight, select **AutoPilot+** from the Mode selection menu, then tap continue.
 
 
 #### Why can't I resume my flight?
