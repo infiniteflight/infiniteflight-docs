@@ -11,7 +11,7 @@ order: 15
 
 ## What is AutoPilot+?
 
-AutoPilot+ allows pilots to pause and resume their flights, adding flexibility to your flying experience in Infinite Flight. This feature helps manage long-haul flights and unexpected interruptions.
+AutoPilot+ allows your flight to continue cruising in the background, adding flexibility to your flying experience in Infinite Flight. This feature helps manage long-haul flights and unexpected interruptions.
 
 ## How to use
 
@@ -47,7 +47,7 @@ Your flight will continue in the background towards your destination following y
 
 ## Resuming Your Flight
 
-When you are ready to resume your flight, select **AutoPilot+** from the Mode selection menu, then tap continue.
+When you are ready to resume your flight, select **Continue Flight** from the AutoPilot+ area of the mode selection on the main menu, then tap continue.
 
 
 #### Why can't I resume my flight?
