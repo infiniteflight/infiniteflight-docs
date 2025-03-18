@@ -8,7 +8,7 @@ meta: Introduction to the Infinite Flight Air Traffic Controller (IFATC) Manual.
 
 
 
-## Guide Version: 24.4.0
+## Guide Version: 25.1.0
 
 
 
@@ -26,13 +26,26 @@ Should
 
 
 
-## ATC Manual Version (Internal): 24.4.1
+## ATC Manual Version (Internal): 25.1.0
 
-## Last Updated: 1730Z - 19 FEB 24
+## Last Updated: 24 March 2025
 
 
 
-+++ Summary of Changes - Version: 24.4.1 (CURRENT VERSION)
++++ Summary of Changes - Version: 25.1.0 (CURRENT VERSION)
+
+| Location | Change                                                       |
+| -------- | ------------------------------------------------------------ |
+| 1.1.3    | Changed manual feedback point of contact                     |
+| 1A.3.1   | Controllers may use Autopilot+ while controlling or participating in TT |
+| 2.1.5    | Controllers may approve pushback without tail guidance or pushback path |
+|          |                                                              |
+
++++
+
+
+
++++ Summary of Changes - Version: 24.4.1
 
 | Location | Change                                                |
 | -------- | ----------------------------------------------------- |
@@ -40,10 +53,6 @@ Should
 | 2.1.5    | Guidance on the use of Auto Pushback added            |
 | 2.1.6    | 2.1.5 moved to 2.1.6                                  |
 | 7B.1.2   | Reference to *#leadership-hq* Discord channel removed |
-
-+++
-
-
 
 +++ Summary of Changes - Version: 24.3.2
 
