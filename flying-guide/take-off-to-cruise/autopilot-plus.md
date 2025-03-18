@@ -37,6 +37,8 @@ Step 4
 - LNAV is on
 - You are more than 30 minutes from your destination
 - You are on the path of your flight plan
+- All Engines are running
+- No active warnings (E.g. Stall)
 
 Step 5
 
@@ -51,15 +53,19 @@ When you are ready to resume your flight, select **Continue Flight** from the Au
 
 
 #### Why can't I resume my flight?
-You have up to 48hrs from the last save to resume your flight, after that you will not be able to resume.
+You have up to 48 hours from the last save to resume your flight, after that you will not be able to resume.
 
 You will also not be able to resume if your aircraft has run out of fuel
 
+Tip
 
+: Need more time? The 48 hour time limit is from the last save. Gain more time by loading up the flight to trigger a new save. You may have to extend your flightplan to increase your ETA to destination to achieve this
 
-## Limitations
+## Useful Information
 
  - You may only have one flight saved at a time, you may start another flight while one is running in the background, however you won't be able to save your new flight
  - While your flight is running in the background, it will be visible to others (on multiplayer servers). However your aircraft will not be visible to other users after it reaches the 30 minutes ETE to destination. It will reappear when you resume the flight.
+ - You can set "Last Save" in the status bar to show how many seconds have elapsed since the flight was last saved
+ - Flights are saved every 5 minutes while actively flying provided all the conditions are met. If you make a change, changing speed for example, a new save will be triggered
   
 
