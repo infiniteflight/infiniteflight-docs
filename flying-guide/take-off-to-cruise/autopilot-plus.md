@@ -40,6 +40,11 @@ Step 4
 - All Engines are running
 - No active warnings (E.g. Stall)
 
+![AutoPilot+ Pause Menu](_images/manual/frames/autopilot-plus1.png)
+
+1. Shows status of AutoPilot+ (ON/OFF). Tap to show save conditions 
+2. This pop up shows when your flight was last saved, and if all the save conditions have been met
+
 Step 5
 
 : Exit to the main menu
@@ -47,10 +52,22 @@ Step 5
 
 Your flight will continue in the background towards your destination following your flight plan. If you don’t return to your flight before it reaches approximately 30 minutes from your destination, your flight will be paused. If you resume your flight before the 30 minute ETE (estimated time en route), it will resume at the appropriate location along your route.
 
+![AutoPilot+ Exit Flight Page](_images/manual/frames/autopilot-plus2.png)
+
+1. This toggle is on by default if your flight can be saved, tap it if you don't wish to save your flight
+
+
 ## Resuming Your Flight
 
 When you are ready to resume your flight, select **Continue Flight** from the AutoPilot+ area of the mode selection on the main menu, then tap continue.
 
+![AutoPilot+ Resume Page](_images/manual/frames/autopilot-plus3.png)
+
+1. The aircraft's current speed and altitude above a flight progress bar
+2. Route, aircraft and time to destination
+3. Time until the flight will expire
+4. Tap here to delete your saved flight
+5. Tap here to continue your flight
 
 #### Why can't I resume my flight?
 You have up to 48 hours from the last save to resume your flight, after that you will not be able to resume.
