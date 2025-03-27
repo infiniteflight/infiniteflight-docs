@@ -38,8 +38,8 @@ Should
 | -------- | ------------------------------------------------------------ |
 | 1.1.3    | Changed manual feedback point of contact                     |
 | 1A.3.1   | Controllers may use Autopilot+ while controlling or participating in TT |
+| 1A.6.5   | Updated training session requirement for radar trainees      |
 | 2.1.5    | Controllers may approve pushback without tail guidance or pushback path |
-|          |                                                              |
 
 +++
 
