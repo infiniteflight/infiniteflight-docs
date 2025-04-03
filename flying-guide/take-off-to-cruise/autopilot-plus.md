@@ -85,4 +85,3 @@ Tip
  - You can set "Last Save" in the status bar to show how many seconds have elapsed since the flight was last saved
  - Flights are saved every 5 minutes while actively flying provided all the conditions are met. If you make a change, changing speed for example, a new save will be triggered
   
-
