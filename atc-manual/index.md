@@ -28,7 +28,7 @@ Should
 
 ## ATC Manual Version (Internal): 25.1.0
 
-## Last Updated: 24 March 2025
+## Last Updated: April 8th 2025
 
 
 
@@ -40,6 +40,7 @@ Should
 | 1A.3.1   | Controllers may use Autopilot+ while controlling or participating in TT |
 | 1A.6.5   | Updated training session requirement for radar trainees      |
 | 2.1.5    | Controllers may approve pushback without tail guidance or pushback path |
+| 7B.2     | Tester Role - Restructed tower practical test                |
 
 +++
 
