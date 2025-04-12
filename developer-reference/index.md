@@ -37,10 +37,6 @@ The Connect API is our local TCP API used for interacting with Infinite Flight d
 
 No API key is required. Documentation is available [here](/guide/developer-reference/connect-api/overview).
 
-## OpenTrack API
-
-[OpenTrack](https://github.com/opentrack/opentrack) is an application dedicated to tracking user's head movements and relaying the information to games and flight simulation software. Infinite Flight implements a simple API to support OpenTrack, with documentation available [here](/guide/developer-reference/opentrack/overview).
-
 ## Which one should I use?
 
 **If you're building a tool to view data from Live across a server**, use the Live API. Example uses include:
@@ -56,9 +52,3 @@ No API key is required. Documentation is available [here](/guide/developer-refer
 - Local Traffic Viewer
 - Auto Checklist
 - Auto Heading/Altitude updater when an ATC instruction is received
-
-**If you're building a head-tracking or other camera application,** use the OpenTrack API. Example uses include:
-
-- Head tracking to move camera
-- Auto-align camera for different stages of flight
-- Other camera-central applications

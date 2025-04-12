@@ -1,8 +1,8 @@
 ---
 id: liveries
-title: Get All Liveries
-meta: Overview of the All Liveries endpoint of the Infinite Flight Live API
-order: 21
+title: Get Liveries
+meta: Overview of the liveries endpoint of the Infinite Flight Live API
+order: 22
 ---
 
 # Get All Liveries

@@ -1,8 +1,8 @@
 ---
 id: 3d-airports
 title: Get 3D Airports
-meta: Overview of the 3D Airports endpoint of the Infinite Flight Live API
-order: 21
+meta: Overview of the 3D airports endpoint of the Infinite Flight Live API
+order: 25
 ---
 
 # Get 3D Airports

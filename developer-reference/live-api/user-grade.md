@@ -2,7 +2,7 @@
 id: user-grade
 title: Get User Grade
 meta: Overview of the user grade endpoint of the Infinite Flight Live API
-order: 9
+order: 10
 contributor: KaiM,sqeezelemon,Ethan_C
 ---
 

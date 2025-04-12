@@ -2,7 +2,7 @@
 id: flights
 title: Get Flights
 meta: Overview of the flights endpoint of the Infinite Flight Live API
-order: 3
+order: 4
 ---
 
 # Get Flights
@@ -53,7 +53,9 @@ Include your API key (`<apikey>`) by either:
       "aircraftId": "de510d3d-04f8-46e0-8d65-55b888f33129",
       "liveryId": "c875c0e9-19c2-420d-8fb4-32c151bd797c",
       "heading": 159.33542,
-      "virtualOrganization": "IFATC [IFATC]"
+      "virtualOrganization": "IFATC [IFATC]",
+      "pilotState": 0,
+      "isConnected": true
     }
   ]
 }
@@ -87,3 +89,5 @@ Include your API key (`<apikey>`) by either:
 | `track`               | double        | Track of the aircraft in degrees                             |
 | `heading`             | float         | Heading of the aircraft in degrees                           |
 | `lastReport`          | string        | Last position report time of the flight in the following format: `YYYY-MM-DD HH:mm:ssZ` |
+| `pilotState`          | integer       | Current state of the pilot. _Enum:_ `"Active = 0"`, `"AwayInFlight = 1"`, `"AwayParked = 2"`, `"InBackground = 3"`. **Note:** This field requires Infinite Flight version 25.1 or later to work properly. |
+| `isConnected`         | boolean       | Indicates if the pilot is currently connected to the server. **Note:** This field requires Infinite Flight version 25.1 or later to work properly. |
