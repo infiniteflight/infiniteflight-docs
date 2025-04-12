@@ -96,7 +96,7 @@ The Connect API v2 offers two mechanisms to interact with Infinite Flight:
     * `aircraft`: Everything from the aircraft's altitude, heading, bank and pitch to the position of flaps, the aircraft's livery, and autopilot settings.
     * `infiniteflight`: Settings related to the state of Infinite Flight itself such as the current camera views and angles as well as the current version of Infinite Flight being used.
     * `api_joystick`: A set of states related to joystick support in Infinite Flight.
-    * Miscellaneous: Miscellaneous other states related to the environment (such as wind speed), the simulator itself (such as current length of flight) and other one-off states.
+    * Miscellaneous: Miscellaneous other states related to the `environment` (such as wind speed) or `atmosphere` (for air density), the `simulator` itself (such as current length of flight) and other one-off states.
 * **Commands**: Commands are used to replicate actions typically taken in the Infinite Flight user interface such as toggling the parking brakes, moving the camera, starting and stopping engines, moving flaps, raising landing gear and more.
 
 #### The API Manifest
@@ -109,7 +109,7 @@ Each entry contains three fields separated by a comma:
 
 * A numeric ID (32-bit integer) for the state or command which is used to get or set a state or execute a command through the API. These numeric IDs can differ by aircraft for any given state or command.
 * A 32-bit integer indicating the data type used by the state (see "[Data Types](#data-types)" below). For commands, this field will be `-1` rather than an integer indicating a data type.
-* The name of the command or state -- a human-friendly way to understand the comamnd's intent. These names will be consistent between aircraft even if the specific set of states and commands available might differ or the numeric ID differs.
+* The name of the command or state -- a human-friendly way to understand the command's intent. These names will be consistent between aircraft even if the specific set of states and commands available might differ or the numeric ID differs.
 
 The following is an extract from a typical manifest illustrating this format for several states:
 
@@ -150,7 +150,7 @@ What's notable is that there are some key factors which distinguish commands fro
 2. The data type will be specified as `-1` -- which is not an actual data type
 3. The names will all take the format `commands/...` -- no states will have names which start with `commands`
 
-> It is important to note that currently there are commands which cannot be used -- specifically commands which require data to be passed to them. To illustrate, the command `commands/ParkingBrakes` is a simple toggle: issue the command and the parking brakes switch between off and on. But, other commands clearly don't work that way. For instance, the command `commands/FlightPlan.AddWaypoints` requires a series of waypoints to be provided -- but there is no mechanism in the API to do that currently which renders the commands effectively non-functional at this time. it is expected that in the future Infinite Flight will enable these commands.
+> It is important to note that currently there are commands which cannot be used -- specifically commands which require data to be passed to them. To illustrate, the command `commands/ParkingBrakes` is a simple toggle: issue the command and the parking brakes switch between off and on. But, other commands clearly don't work that way. For instance, the command `commands/FlightPlan.AddWaypoints` requires a series of waypoints to be provided -- but there is no mechanism in the API to do that currently which renders the commands effectively non-functional at this time. It is expected that in the future Infinite Flight will enable these commands.
 
 #### The Structure of API Requests
 
@@ -440,7 +440,7 @@ As with setting a state, after sending a request to execute a command, the API w
 
 For instance, after toggling the parking brakes state as illustrated above, retrieve the `aircraft/0/systems/parking_brake/state` state to verify the command succeeded.
 
-As mentioned earlier in "[The API Manifest](#the-api-manifest)", currently there are commands returned in the manifest which cannot be used because they require data to be passed to them. The API currently provides no mechanism to do this which renders there comamnds effectively non-functional at this time. It is expected that in the future Infinite Flight will enable these commands.
+As mentioned earlier in "[The API Manifest](#the-api-manifest)", currently there are commands returned in the manifest which cannot be used because they require data to be passed to them. The API currently provides no mechanism to do this which renders there commands effectively non-functional at this time. It is expected that in the future Infinite Flight will enable these commands.
 
 For example, the command `commands/ParkingBrakes` is a simple toggle: issue the command and the parking brakes switch between off and on. But, other commands clearly don't work that way. For instance, the command `commands/FlightPlan.AddWaypoints` requires a series of waypoints to be provided. The latter cannot be done at this time.
 
