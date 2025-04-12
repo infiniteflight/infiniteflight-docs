@@ -89,5 +89,5 @@ Include your API key (`<apikey>`) by either:
 | `track`               | double        | Track of the aircraft in degrees                             |
 | `heading`             | float         | Heading of the aircraft in degrees                           |
 | `lastReport`          | string        | Last position report time of the flight in the following format: `YYYY-MM-DD HH:mm:ssZ` |
-| `pilotState`          | integer       | Current state of the pilot. _Enum:_ `"Active = 0"`, `"AwayInFlight = 1"`, `"AwayParked = 2"`, `"InBackground = 3"` |
-| `isConnected`         | boolean       | Indicates if the pilot is currently connected to the server  |
+| `pilotState`          | integer       | Current state of the pilot. _Enum:_ `"Active = 0"`, `"AwayInFlight = 1"`, `"AwayParked = 2"`, `"InBackground = 3"`. **Note:** This field requires Infinite Flight version 25.1 or later to work properly. |
+| `isConnected`         | boolean       | Indicates if the pilot is currently connected to the server. **Note:** This field requires Infinite Flight version 25.1 or later to work properly. |

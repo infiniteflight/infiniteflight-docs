@@ -2,7 +2,7 @@
 id: overview
 title: Overview
 meta: Overview of the Infinite Flight Live API
-order: 2
+order: 1
 ---
 
 # Infinite Flight Live API Overview
