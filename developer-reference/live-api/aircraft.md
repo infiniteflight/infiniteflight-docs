@@ -1,8 +1,8 @@
 ---
 id: aircraft
 title: Get Aircraft
-meta: Overview of the Aircraft endpoint of the Infinite Flight Live API
-order: 19
+meta: Overview of the aircraft endpoint of the Infinite Flight Live API
+order: 20
 ---
 
 # Get Aircraft

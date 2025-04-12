@@ -1,8 +1,8 @@
 ---
 id: world-status
 title: Get World Status
-meta: Overview of the World Status endpoint of the Infinite Flight Live API
-order: 12
+meta: Overview of the world status endpoint of the Infinite Flight Live API
+order: 13
 contributor: sqeezelemon
 ---
 

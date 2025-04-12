@@ -2,7 +2,7 @@
 id: user-stats
 title: Get User Stats
 meta: Overview of the user stats endpoint of the Infinite Flight Live API
-order: 8
+order: 9
 contributor: sqeezelemon
 ---
 

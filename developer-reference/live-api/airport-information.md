@@ -1,8 +1,8 @@
 ---
 id: airport-information
 title: Get Airport Information
-meta: Overview of the Airport Information endpoint of the Infinite Flight Live API
-order: 22
+meta: Overview of the airport information endpoint of the Infinite Flight Live API
+order: 23
 ---
 
 # Get Airport Information

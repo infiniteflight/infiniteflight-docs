@@ -2,7 +2,7 @@
 id: overview
 title: Overview
 meta: Overview of the Infinite Flight Live API
-order: 1
+order: 2
 ---
 
 # Infinite Flight Live API Overview
@@ -29,7 +29,7 @@ The Live API uses HTTP and the endpoints require you to make a GET or POST reque
 
 ## Conditions of Use
 
-- All apps are required to have a timeout feature if the app isn’t being used. We don’t want users to have the app running for hours if no-one is looking. If no action is taken for 15 minutes, have your apps stop downloading new content unless the user presses a button (FlightRadar24 does this on their site).
+- All apps are required to have a timeout feature if the app isn't being used. We don't want users to have the app running for hours if no-one is looking. If no action is taken for 15 minutes, have your apps stop downloading new content unless the user presses a button (FlightRadar24 does this on their site).
 
 - No permanent storing of data retrieved via the API is permitted. (You cannot keep the data in your own database). Caching is permitted.
 

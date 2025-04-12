@@ -2,7 +2,7 @@
 id: notams
 title: Get NOTAMs
 meta: Overview of the NOTAMs endpoint of the Infinite Flight Live API
-order: 18
+order: 19
 contributor: sqeezelemon
 ---
 

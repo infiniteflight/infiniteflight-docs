@@ -1,8 +1,8 @@
 ---
 id: user-atc-session
 title: Get User ATC Session
-meta: Overview of the User ATC Session endpoint of the Infinite Flight Live API
-order: 17
+meta: Overview of the user ATC session endpoint of the Infinite Flight Live API
+order: 18
 contributor: sqeezelemon
 ---
 

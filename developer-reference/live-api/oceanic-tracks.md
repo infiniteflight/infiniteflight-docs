@@ -1,8 +1,8 @@
 ---
 id: oceanic-tracks
 title: Get Oceanic Tracks
-meta: Overview of the Oceanic Tracks endpoint of the Infinite Flight Live API
-order: 13
+meta: Overview of the oceanic tracks endpoint of the Infinite Flight Live API
+order: 14
 ---
 
 # Get Oceanic Tracks

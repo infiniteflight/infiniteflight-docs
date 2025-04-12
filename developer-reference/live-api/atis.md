@@ -1,8 +1,8 @@
 ---
 id: atis
-title: Get Airport ATIS
-meta: Overview of the Airport ATIS endpoint of the Infinite Flight Live API
-order: 10
+title: Get ATIS
+meta: Overview of the ATIS endpoint of the Infinite Flight Live API
+order: 11
 contributor: KaiM
 ---
 

@@ -1,8 +1,8 @@
 ---
 id: atc
-title: Get Active ATC Frequencies
+title: Get ATC
 meta: Overview of the ATC endpoint of the Infinite Flight Live API
-order: 7
+order: 8
 contributor: KaiM,sqeezelemon
 ---
 
