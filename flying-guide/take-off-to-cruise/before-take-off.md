@@ -50,3 +50,7 @@ Tip
 
 :   Performance limited? If you’re performance limited due to aircraft weight, environmental factors or the runway length, use the oversteer technique to save as much runway as possible for departure
 
+
+
+![Oversteer Technique](oversteer-technique.jpeg)
+

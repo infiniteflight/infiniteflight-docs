@@ -30,6 +30,7 @@ Include your API key (`<apikey>`) by either:
 
 | Name       | Located in | Description                                                | Required | Schema        |
 | ---------- | ---------- | ---------------------------------------------------------- | -------- | ------------- |
+| `sessionId` | path       | ID of the session returned from the Sessions endpoint | Yes      | string (uuid) |
 | `flightId` | path       | ID of the flight. The flight must be in an active session. | Yes      | string (uuid) |
 
 ## Response
