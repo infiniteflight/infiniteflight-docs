@@ -9,6 +9,10 @@ order: 3
 
 All flights and controlling sessions are recorded automatically and you can revisit them any time!
 
+Tip
+
+: You will be unable to view replays recorded on other app versions. For example you won't be able to view a replay from 24.3 in 24.4 
+
 
 
 ![Logbook](_images/manual/frames/logbook-243.png)
@@ -161,7 +165,29 @@ All flights and controlling sessions are recorded automatically and you can revi
 
 10. Radar. Tap on a pilot to bring up a menu, includes options to filter pilot details
 
+## How to Delete your Replays
 
+ ![Deleting Multiple Replays](_images/manual/frames/deleting-logbook-entries.png)
+
+Step 1
+
+: Open your "Logbook"
+
+
+
+Step 2
+
+: Long tap on the first replay you wish to delete until it has been highlighted
+
+
+
+Step 3
+
+: Tap on any other replays you wish to delete
+
+Step 4
+
+: Tap "Confirm" to delete the selected replays
 
 ## How to Export your Replay
 

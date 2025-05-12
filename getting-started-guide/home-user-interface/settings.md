@@ -55,7 +55,6 @@ The Settings menu allows you to customize your Infinite Flight experience before
 | Enable Infinite Flight Connect          | Enables Infinite Flight Connect API System (toggle this on to allow Infinite Flight and third party apps such as InFlight Assistant and Fly-By-Wire to bridge if they are on the same network) |
 | Show Touches                            | Useful when recording videos/tutorials                       |
 | Enable Automatic Low Power              | Enter low power during long flights to save battery          |
-| Automatic Engine Start                  | Always starts with the engine running (once you spawn, engines will be heard & can be seen running) |
 | Weight Units                            | Select what weight unit you want to use i.e. Kgs or Lbs (aircraft fuel quantity and consumption will then been shown in this unit) |
 | Show Performance Metrics                | Shows metrics including the current frame rate               |
 | Clear Scenery Cache                     | Clear scenery data cached on local storage (users that are experiencing issues falling through taxiways, aprons, ramps, runways or experiencing any other scenery related type of issues should tap on “Clear Cache”. If issues persist after you’ve tried that, consider making a [#support](https://community.infiniteflight.com/c/support/17) ticket to report your issue) |

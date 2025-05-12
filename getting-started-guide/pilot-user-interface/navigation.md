@@ -151,6 +151,19 @@ Step 2
 
 : The Avionics tab will appear, ADF 1 will have the NDB frequency and ident displayed. BRG (bearing) 1 or 2 can be changed to "ADF" and the selected needle will display this information on the Horizontal Situation Indicator (HSI)
 
+
+## Clearing a Navigation Frequency
+
+Step 1
+: Tap "NAV" on the Fly Screen
+
+Step 2
+
+: Tap on the frequency you wish to clear (NAV 1 / NAV 2 / ADF 1)
+
+Step 3 
+
+: Tap "Clear Frequency"
  
 
 ## Traffic Collision Avoidance System (TCAS)
