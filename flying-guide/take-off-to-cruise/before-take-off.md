@@ -52,5 +52,5 @@ Tip
 
 
 
-![Oversteer Technique](oversteer-technique.jpeg)
+![Oversteer Technique](_images/manual/graphics/oversteer-technique.jpeg)
 
