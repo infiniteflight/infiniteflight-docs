@@ -232,7 +232,20 @@ Step 3
 
 : If you have selected which one you want from the list, the information tab is displayed initially. If it was an airport that was selected, additional tabs for weather, runways and procedures will also be available
 
+## View Winds Aloft Data on the Map
 
+Wind speed and direction can be viewed on the map for a range of altitudes from surface level to FL430.
+To enable this tap on the setting cog icon on the map, then tap on "Winds Aloft". This will add the layer to the map. 
+
+Each of the icons on the map, known as wind barbs, provide you with the speed and direction of the wind. The direction the barb is facing is the direction the wind is blowing in. Speed is based on the number of lines (barbs) and triangles (pennants) shown. Each short barb (half line) is worth 5 knots, long barb (full line) is worth 10 knots, and each pennant (triangle) is worth 50 knots. See the below image for examples
+
+
+![Winds Aloft](_images/manual/getting-started/flight-planning-wind-barbs.png)
+
+1. By holding down and dragging on this control you are able to set the altitude of the wind data that is selected. Selecting "Auto" will use your aircraft's current altitude 
+2. With 2 pennants (50), 3 long barbs (10) and 1 short barb (5), this represents 135 knots of wind from the west
+3. With 1 pennant (50), 4 long barbs (10) and 1 short barb (5), this represents 95 knots of wind from the west-northwest
+4. With no pennants (50), 4 long barbs (10) and 1 short barb (5), this represents 45 knots of wind from the southwest
 
 ## Selecting Departure, Arrival and Approach Procedures
 
