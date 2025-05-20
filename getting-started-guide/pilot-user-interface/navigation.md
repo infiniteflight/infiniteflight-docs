@@ -59,7 +59,9 @@ Step 4
 
 : Tap "Set NAV 1". "NAV 1" will display in green by the runway to show it has been tuned successfully
 
- 
+Tip
+
+: Check the "Auto tune ILS" checkbox next to "Add to FPL" when adding an ILS approach procedure to your flightplan to have the ILS for your chosen runway automatically tuned
 
 ## Displaying an ILS in your Aircraft
 

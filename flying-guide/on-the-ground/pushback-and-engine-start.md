@@ -188,7 +188,13 @@ Tip
 
 :   When aligning your aircraft with the taxiway centerline, anticipation is required. Don’t forget that the larger the aircraft, the sooner you will have to start the turn!
 
- 
+## Auto Pushback
+
+Auto Pushback will automatically position your aircraft at the point on the taxiway where either you or ATC have defined. This allows you to focus on other things, such as 
+[engine start](#Engine-Start). See the below video for more information
+
+@[vimeo](41050790791)
+
 
 ## Engine Start
 
