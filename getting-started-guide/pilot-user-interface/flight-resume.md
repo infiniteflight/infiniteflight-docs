@@ -3,6 +3,7 @@ id: flight-resume
 title: Flight Resume
 meta: Learn how to use the Flight Resume function within Infinite Flight.
 order: 7
+hideFromSideMenu: true
 ---
 
 # Flight Resume
