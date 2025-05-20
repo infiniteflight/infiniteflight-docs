@@ -6,6 +6,10 @@ order: 7
 hideFromSideMenu: true
 ---
 
+
+## Feature Removed - Please refer to [AutoPilot+](/guide/flying-guide/take-off-to-cruise/autopilot-plus) instead 
+
+
 # Flight Resume
 
 If your current flight meets certain criteria, you'll be able to resume it exactly how you left it in the event of any interruption (voluntary or not).

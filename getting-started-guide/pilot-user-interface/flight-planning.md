@@ -13,7 +13,7 @@ order: 6
 
 
 
-1. The Flight Plan (FPL) section shows your next waypoint (WPT), desired track (DTK), distance (DIST), estimated time en-route (ETE) and altitude (ALT). The active waypoint is always displayed in magenta
+1. The Flight Plan (FPL) section shows your next waypoint (WPT), desired track (DTK), distance (DIST), estimated time en-route (ETE) and altitude (ALT). The active waypoint is always displayed in magenta. If the altitude displayed in orange or red it means that the rate of descent could be too high to this waypoint, so it's a good idea to investigate
 
    
 
@@ -261,7 +261,7 @@ Step 1
 
 Step 2
 
-: You have the option to select Approach (what approach you want to fly), Arrival (the STAR) or Departure (the SID)
+: You have the option to select Departure (the SID), Arrival (the STAR) or Approach (what approach you want to fly)
 
 
 
