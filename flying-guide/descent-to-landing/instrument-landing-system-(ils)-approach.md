@@ -19,7 +19,7 @@ To intercept the LOC of an ILS, Controllers will issue aircraft with an intercep
 
 
 
-![Image 6.10.3.1 - Intercepting the localizer](_images/manual/graphics/atc-intercept-loc-v2.jpeg)
+![Image 6.10.3.1 - Intercepting the localizer](_images/manual/graphics/atc-intercept-loc-v2.jpg)
 
 
 
