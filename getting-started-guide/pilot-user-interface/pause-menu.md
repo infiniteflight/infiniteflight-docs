@@ -17,7 +17,7 @@ The pause menu lets you customize your flight by changing Weather, Time and Weig
 2. [User profile](getting-started-guide/home-user-interface/user-profile.md)
 3. If flying online this shows the current server, if in solo mode, it will show "Solo"
 4. Shows the departure and arrival airport of the flight based on your departure airport and flightplan
-5. Shows an overview of Weight and Balance. Tap to enter the [Weight and Balance screen](#weight--balance)
+5. Shows an overview of Weight and Balance. Tap to enter the [Weight and Balance screen](#weight-%26-balance)
 6. Shows an overview of the Time. Use the slider or skip arrows to adjust the time. Or tap to enter the [Time screen](#time)
 7. Shows an overview of the Weather. Tap to enter the [Weather screen](#weather)
 8. Tap to exit the pause screen and resume your flight
