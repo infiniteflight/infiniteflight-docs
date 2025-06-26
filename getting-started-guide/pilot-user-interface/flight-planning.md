@@ -9,7 +9,7 @@ order: 6
 
 
 
-![Flight Plan Screen](_images/manual/frames/flight-plan-screen.png)
+![Flight Plan Screen](_images/manual/getting-started/flight-planning-wind-barbs.png)
 
 
 
@@ -273,7 +273,7 @@ Step 3
 
 Tip
 
-: Make sure to select one of the approaches that has been broadcast as in use on the ATIS (if ATC is present); or if uncontrolled, the approach that favors the weather and current traffic levels
+: Make sure to select one of the approaches that has been broadcast as in use on the ATIS (if ATC is present); or if uncontrolled, the approach that favors the weather and current traffic levels. The list of approaches will be sorted based on the wind
 
 
 
