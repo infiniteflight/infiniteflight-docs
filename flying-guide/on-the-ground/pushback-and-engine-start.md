@@ -193,7 +193,18 @@ Tip
 Auto Pushback will automatically position your aircraft at the point on the taxiway where either you or ATC have defined. This allows you to focus on other things, such as 
 [engine start](#Engine-Start). See the below video for more information
 
-@[vimeo](41050790791)
+@[vimeo](1050790791)
+
+![Auto Pushback Screen](_images/manual/flying-guide/on-the-ground/auto-pushback.png)
+
+Pitch to zoom in/out as required
+
+1. Compass - Use to comply with ATC "Tail to the (Direction)" instructions
+2. Point at which the aircraft will pushed back to
+3. Point at with the aircraft will be pulled forward to (Optional)
+4. Start/End Button - Used to Start the auto pushback sequence (Changes to End once started)
+5. Pause/Resume Button - Used to pause/resume the auto pushback sequence
+6. Pressing either "Detach Tug" or "Auto Pushback" will exit the Auto Pushback mode/camera
 
 
 ## Engine Start
