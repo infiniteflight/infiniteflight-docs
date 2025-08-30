@@ -1,0 +1,23 @@
+name: Trigger Staging Build
+
+on:
+  push:
+    branches: [ staging ]
+
+jobs:
+  trigger-staging:
+    runs-on: ubuntu-latest
+    if: github.repository == 'infiniteflight/infiniteflight-docs'
+    steps:
+      - name: Trigger Staging Build
+        run: |
+          echo "Staging branch updated, triggering staging build in main repository..."
+          
+          # Use GitHub API to trigger the repository dispatch event
+          curl -X POST \
+            -H "Accept: application/vnd.github.v3+json" \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            https://api.github.com/repos/infiniteflight/infiniteflight-www/dispatches \
+            -d '{"event_type":"docs-staging-updated","client_payload":{"branch":"staging","repository":"infiniteflight-docs"}}'
+          
+          echo "Repository dispatch event sent successfully!"
