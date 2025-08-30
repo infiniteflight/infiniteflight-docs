@@ -1,0 +1,15 @@
+name: Trigger Staging Build
+
+on:
+  push:
+    branches: [ staging ]
+
+jobs:
+  trigger-staging:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Staging Build
+        run: |
+          echo "🚀 Staging branch updated in docs repository!"
+          echo "✅ This will automatically trigger the staging build in the main repository"
+          echo "📋 The main repository will pull the latest staging content and deploy"
