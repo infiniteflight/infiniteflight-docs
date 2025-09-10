@@ -8,15 +8,18 @@ jobs:
   build:
     runs-on: ubuntu-latest
     if: github.repository == 'infiniteflight/infiniteflight-docs'
+    permissions:
+      contents: read
+      packages: read
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v2
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: "16.x"
           registry-url: "https://npm.pkg.github.com"
       - name: Install processmd
         run: yarn global add @infiniteflight/processmd
         env:
-          NODE_AUTH_TOKEN: ${{ secrets.PACKAGES_PAT }}
+          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Build documentation
         run: processmd --no-output --no-uploadImages --inputDir=.
