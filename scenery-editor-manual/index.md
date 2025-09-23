@@ -8,7 +8,7 @@ meta: Learn how to use the Infinite Flight Scenery Editor with our online docume
 
 
 
-## Guide Version: 24.4.0
+## Guide Version: 25.1.1
 
 
 
@@ -18,15 +18,27 @@ Welcome to the Scenery Editor Manual, designed to help newly qualified and veter
 
 On joining the Scenery Editor Team and uploading airports using the Scenery Editor, all Editors agree to the [Contributor License Agreement (CLA)](https://github.com/infiniteflight/infiniteflight-localization/blob/main/CONTRIBUTING.md).
 
++++ Summary of Changes - Version: 25.1.1 (CURRENT VERSION)
 
+| Location | Change                                                       |
+| -------- | ------------------------------------------------------------ |
+| 1     | Adjusted for discord move to official IF server         |
+| 2.1   | Updated Screenshot and tables for new features          |
+| 3.2   | Clarified airport properties table                      |
+| 5.2   | Clarified runway properties table                       |
+| 5.3   | Moved dos and don't to new page                         |
+| 6.3   | Moved dos and don't to new page                         |
+| 7.3   | Clarified taxiway network bullet points                 |
+| 7.4   | Moved dos and don't to new page                         |
+| 8.2   | Added new step to ensure gate stops are added correctly |
+| 9     | Rewritten for building parts                            |
+| 9.5   | Moved dos and don't to new page                         || 11.3  | New tip added for glass jetbridges                      |
+| 12.1  | Clarified reviewer feedback                             |
+| 12a.1 | Adjusted channel list for discord move                  |                              |
 
-## Scenery Editor Manual Version (Internal): 24.3.1
++++
 
-## Last Updated: 1130Z - 22 AUG 24
-
-
-
-+++ Summary of Changes - Version: 24.3.1 (CURRENT VERSION)
++++ Summary of Changes - Version: 24.3.1 
 
 | Location | Change                                                       |
 | -------- | ------------------------------------------------------------ |
@@ -50,16 +62,5 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 
 
 
-+++ Summary of Changes - Version: 23.3.1
 
-| Location | Change                                                       |
-| -------- | ------------------------------------------------------------ |
-| 1A.4.1   | Editor rank changed to Senior Editor                         |
-| 1A.4.1   | Table edited to include WIP airport view column and associated note |
-| 6.1      | Removed making red line with white line reference from Do/Do Not table |
-| 9.1      | Do/Do Not table updated - do not use construction equipment for temporary NOTAMS |
-| 9.1.1    | Objects list updated                                         |
-| 9.5.5    | Model Line Properties table updated                          |
-
-+++
 
