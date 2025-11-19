@@ -2,13 +2,19 @@
 
 ## Who are we?
 
-We are Infinite Flight LLC (“Infinite Flight”, “we,” “our,” “us”). We recognise that you care how information about you is collected and used and have created this privacy policy to inform you of our practices regarding collection, use, and sharing of information. 
+We are Infinite Flight Corporation (“Infinite Flight”, “we,” “our,” “us”). We recognise that you care how information about you is collected and used and have created this privacy policy to inform you of our practices regarding collection, use, and sharing of information. 
 
 The practices described in this privacy policy apply to information gathered through our game, “Infinite Flight” and through our main websites "infiniteflight.com", (“App”, “Game”, “Simulator”, "Website"), and do not reflect our practices with respect to information gathered through offline means or through our other services, specifically our community forum (“community.infiniteflight.com”), collectively “Services”, governed by their own Privacy Policy.
 
 This privacy policy will be published in English. If this privacy policy is published in any language other than English, the English language version will be the governing agreement and shall control interpretation of all matters discussed below.
 
 Please read the following carefully and do not hesitate to contact us via contact@infiniteflight.com if you have any questions about how we use your personal information. Use of the Game is subject to the Terms of Use and to our personal information gathering and dissemination practices and policies described below.
+
+---
+
+**NOTICE OF ENTITY CHANGE:** Effective November 19th, 2025, Infinite Flight LLC has been restructured as Infinite Flight Corporation. All references to "Infinite Flight LLC" in this privacy policy now refer to Infinite Flight Corporation. This change represents a corporate restructuring only and does not affect how we collect, use, or protect your personal information. All existing accounts and services will continue uninterrupted under Infinite Flight Corporation with the same privacy protections.
+
+---
 
 ## What information do we hold about you?
 
@@ -36,7 +42,7 @@ We use your information to provide our services. This is to:
 
 At any time while your account is active, your information may be shared with:
 
- - Our employees (either within Infinite Flight LLC, a parent or subsidiary company) and contractors who may require access to perform their jobs.
+ - Our employees (either within Infinite Flight Corporation, a parent or subsidiary company) and contractors who may require access to perform their jobs.
 
  - Business partners we use to provide our services, including software-as-a-service providers.
 
@@ -72,25 +78,25 @@ Your data is stored in the United States, although it may be processed by our em
 
 Occasionally, at our discretion, we may include or link to third party products or services in our Game. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. 
 
-## Does Infinite Flight LLC comply with the Children’s Online Privacy Protection Act?
+## Does Infinite Flight Corporation comply with the Children’s Online Privacy Protection Act?
 
-Our Game is directed to people who are at least 13 years old or older. If you are under the age of 13, per the requirements of COPPA (Children's Online Privacy Protection Act), you are not permitted to use the Game or any Infinite Flight LLC service.
+Our Game is directed to people who are at least 13 years old or older. If you are under the age of 13, per the requirements of COPPA (Children's Online Privacy Protection Act), you are not permitted to use the Game or any Infinite Flight Corporation service.
 
-## Does Infinite Flight LLC comply with the EU General Data Protection Regulation?
+## Does Infinite Flight Corporation comply with the EU General Data Protection Regulation?
 
-Infinite Flight LLC respects privacy rights under Regulation (EU) 2016/679, the European Union’s General Data Protection Regulation (GDPR). Your rights are outlined in the above section, “What are your rights?”, specifically relating to access, rectification, erasure and data portability.
+Infinite Flight Corporation respects privacy rights under Regulation (EU) 2016/679, the European Union’s General Data Protection Regulation (GDPR). Your rights are outlined in the above section, “What are your rights?”, specifically relating to access, rectification, erasure and data portability.
 
 ## How can you terminate your account?
 
 You can request for us to terminate your account by contacting us through contact@infiniteflight.com.
 
-## How can I contact Infinite Flight LLC about privacy?
+## How can I contact Infinite Flight Corporation about privacy?
 
 You can send questions and complaints to:
 
-**Infinite Flight LLC. (contact@infiniteflight.com)**
+**Infinite Flight Corporation. (contact@infiniteflight.com)**
 
-European Users with questions or complaints about GDPR compliance should also address Infinite Flight LLC’s representative in the Union:
+European Users with questions or complaints about GDPR compliance should also address Infinite Flight Corporation’s representative in the Union:
 
 Cameron Carmichael Alonso - contact@infiniteflight.com
 
@@ -99,4 +105,4 @@ Cameron Carmichael Alonso - contact@infiniteflight.com
 We’ll post any changes we make to our privacy notice on this page and, if they’re significant changes we’ll let you know within the Game of through an announcement through our Services.
 
 
-Last Revision: November 11th, 2024 (updated DPO details)
+Last Revision: November 19th, 2025 (updated entity name from Infinite Flight LLC to Infinite Flight Corporation)
