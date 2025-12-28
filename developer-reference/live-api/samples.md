@@ -14,7 +14,7 @@ Below you can find a range of samples in a variety of languages to help you get 
 - [C#](https://github.com/Velocity23/infiniteflightlive-samples/tree/master/C%23)
 - [Kotlin](https://github.com/A-FitzGerald/InfiniteLiveKt) (thanks @A-FitzGerald)
 - [PHP](https://github.com/Velocity23/infiniteflightlive-samples/tree/master/PHP)
-- [Python](https://github.com/SPEEDBIRD101-CLXVA/InfiniteFlight-LiveApi) (thanks @SPEEDBIRD101)
+- [Python](https://github.com/robinb748/InfiniteFlight-LiveApi) (thanks @SPEEDBIRD101)
 - [Swift](https://github.com/sqeezelemon/SwiftyLiveApi) (thanks @sqeezelemon)
 - [Go](https://github.com/sqeezelemon/golive) (thanks @sqeezelemon)
 
