@@ -13,7 +13,7 @@ contributor: deercrusher
 
 ## What is a DME Arc?
 
-Distance Measuring Equipment, abbreviated to DME; is most commonly used with a navigation aid (NAVAID) such as a VOR to provide distance to or from the beacon. A DME Arc is a curved route defined by a constant distance from one of these NAVAID's with the arc distance essentially a radius of the circle around the NAVAID. 
+Distance Measuring Equipment, abbreviated to DME, is most commonly used with a navigation aid (NAVAID) such as a VOR to provide distance to or from the beacon. A DME Arc is a curved route defined by a constant distance from one of these NAVAIDs with the arc distance essentially a radius of the circle around the NAVAID. 
 
 
 
@@ -63,7 +63,7 @@ Once established on the arc and to be able to follow the curved track keeping th
 
 
 
-A predetermined heading change needs to be picked; 10 degrees is used in the example below but could be higher if you prefer! Once established on the arc (i.e. the correct distance from the beacon as published on the DME Arc, with a relative bearing of 90 degrees) a 10 degree turn can be made to 'cut-across' the arc. The bearing pointer will now read 5 degrees above the 90 degree line (actual relative bearing is 85 degrees) and the aircraft will begin to cut across the arc. As the aircraft approaches the arc again, the bearing pointer will begin to move until it has dropped 5 degrees below the 90 degree line (actual relative beading is now 95 degrees); at this point, another 10 degree cut-across can be made and the technique is repeated until the arc is complete.
+A predetermined heading change needs to be picked; 10 degrees is used in the example below but could be higher if you prefer! Once established on the arc (i.e. the correct distance from the beacon as published on the DME Arc, with a relative bearing of 90 degrees) a 10 degree turn can be made to 'cut-across' the arc. The bearing pointer will now read 5 degrees above the 90 degree line (actual relative bearing is 85 degrees) and the aircraft will begin to cut across the arc. As the aircraft approaches the arc again, the bearing pointer will begin to move until it has dropped 5 degrees below the 90 degree line (actual relative bearing is now 95 degrees); at this point, another 10 degree cut-across can be made and the technique is repeated until the arc is complete.
 
 
 
@@ -158,7 +158,7 @@ Step 6
 
 Step 7
 
-: Make sure to continuously monitor the DME and ensure that this is roughly the same as the published DME distance, if it is different, [correction action could be required](/guide/flying-guide/descent-to-landing/dme-arc#dme-arc-flying-technique)
+: Make sure to continuously monitor the DME and ensure that this is roughly the same as the published DME distance, if it is different, [corrective action may be required](/guide/flying-guide/descent-to-landing/dme-arc#dme-arc-flying-technique)
 
 
 
