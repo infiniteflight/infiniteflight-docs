@@ -31,9 +31,15 @@ The Live API uses HTTP and the endpoints require you to make a GET or POST reque
 
 - All apps are required to have a timeout feature if the app isn't being used. We don't want users to have the app running for hours if no-one is looking. If no action is taken for 15 minutes, have your apps stop downloading new content unless the user presses a button (FlightRadar24 does this on their site).
 
-- No permanent storing of data retrieved via the API is permitted. (You cannot keep the data in your own database). Caching is permitted.
+- Live API data may only be stored in temporary caches needed to power your app. Permanent storage, warehousing, replication, or keeping Live API data in your own database is prohibited.
+
+- Infinite Flight retains ownership of Live API data. You may not use Live API data to train, fine-tune, evaluate, distill, ground, or otherwise improve AI or machine learning models.
+
+- If we detect prohibited storage or AI-training use, the API key and associated user accounts may be banned from the API.
 
   If you need additional functionality from the API, please contact us.
+
+- Review the [usage and polling best practices](/guide/developer-reference/live-api/best-practices) before deploying your app or integrating the API with an LLM.
 
 ## Prerequisites
 
