@@ -28,6 +28,8 @@ The Live API is our HTTP API used for requesting data from Infinite Flight. Curr
 
 An API key is required and can be requested via email to [hello@infiniteflight.com](mailto:hello@infiniteflight.com). See [the overview](/guide/developer-reference/live-api/overview) for documentation.
 
+Before building against the Live API, read the [usage and polling best practices](/guide/developer-reference/live-api/best-practices). Live API data may only be used with temporary caching, must not be persisted, and may not be used to train AI models.
+
 ## Infinite Flight Connect API
 
 The Connect API is our local TCP API used for interacting with Infinite Flight devices running on the local network.
