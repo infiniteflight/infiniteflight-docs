@@ -9,6 +9,10 @@ order: 2
 
 This document tracks changes to the Infinite Flight Live API
 
+## 2026-03-18
+- Added [Get Flight Plans (Bulk)](/guide/developer-reference/live-api/flight-plans) endpoint (`POST /v2/sessions/{sessionId}/flights/flightplans`) — retrieve detailed flight plans for up to 25 flights in a single request.
+- Fixed an issue where the Flights endpoint could occasionally return an incomplete list of flights during a cache refresh cycle.
+
 ## 2026-03-17
 - Lowered the default Live API rate limit to 30 requests per minute per API key.
 - Added a higher default rate limit of 100 requests per minute for API keys linked to users with an active paid Pro subscription.
