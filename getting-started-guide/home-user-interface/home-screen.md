@@ -47,19 +47,18 @@ When in [Free Flight](/guide/getting-started-guide/home-user-interface/mode#free
 
      
 
-3. Toggle to switch between aircraft types or operators
+3. Search all aircraft, this can be by make/model or livery
 
      
 
-4. Tapping on the 3 vertical dots opens the options pop up **(5)**
+4. Opens the filters menu
 
      
 
-5. Menu options pop up, the sorting method can be changed here along with filtering options based on engine type, older (legacy) aircraft or free aircraft (option only shown if you don't have Pro) 
+5. Moves to the livery selection screen for the currently selected aircraft (Shown with an orange border)
 
-    
 
-6. Holding and scrolling (or tapping) allows quicker scrolling throughout the large selection of aircraft available
+6. Takes you back to the previous menu
 
 7. Takes you back to the previous menu
 
