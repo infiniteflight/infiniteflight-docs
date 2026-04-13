@@ -9,11 +9,11 @@ order: 6
 
 
 
-![Flight Plan Screen](_images/manual/getting-started/flight-planning-wind-barbs.png)
+![Flight Plan Screen](_images/manual/getting-started/flight-planning-main.png)
 
 
 
-1. The Flight Plan (FPL) section shows your next waypoint (WPT), desired track (DTK), distance (DIST), estimated time en-route (ETE) and altitude (ALT). The active waypoint is always displayed in magenta. If the altitude displayed in orange or red it means that the rate of descent could be too high to this waypoint, so it's a good idea to investigate
+1. The Flight Plan (FPL) section shows your next waypoint (WPT), desired track (DTK), distance (DIST), estimated time en-route (ETE) and altitude (ALT). DIST and ETE can be changed to be cumulative. The active waypoint is always displayed in magenta. If the altitude displayed in orange or red it means that the rate of descent could be too high to this waypoint, so it's a good idea to investigate
 
    
 
@@ -23,8 +23,8 @@ order: 6
    | ------------- | ------------------------------------------------------------ |
    | -             | Delete a waypoint                                            |
    | Act. Leg      | Make a waypoint the active leg by selecting the waypoint, and then tapping this button |
-   | Clear         | Clear entire flight plan                                     |
-   | Up/Down Arrow | Move a waypoint or procedure up/down in your flight plan by selecting the waypoint/procedure, and then using the arrows to position it as desired |
+   | Clear         | Clear entire flight plan                                    |
+   | PROC | Shortcut to the procedures page of any airports in your flightplan|
    | OPT.          | Tap a waypoint and then this button to set/edit/delete an altitude target that can be used with VNAV. Tapping "Set Autopilot ALT" will change the altitude selected in the [autopilot](/guide/getting-started-guide/pilot-user-interface/autopilot) to the altitude of the waypoint selected |
    | Double Arrow  | You can open a flight plan using this button, if you already have a flight plan you can [share](/guide/getting-started-guide/pilot-user-interface/flight-planning#share-flight-plan) it, or you can load a flight plan from SimBrief |
 
@@ -61,6 +61,17 @@ Tip
 
 : If you're running an older device and/or experiencing "crashes", try selecting "Hide Airspaces" as this may improve your device performance!
 
+## Adding Items to your Flight Plan
+
+This can be done two different ways:
+
+Option 1: Tapping on the item you wish to add on the map, then tapping on the + icon in the pop up. (If there are a few nearby options you may have a list of items to chose from)
+
+Option 2: Drag a section of your flightplan line on top of the item you wish to add, then select from the list
+
+## Rearranging Flight Plan Items
+
+To reorder items, use the waypoint list on the left. Then hold and drag the item you wish to move to it's new place. A Purple line will show you where this item will be moved to
 
 
 ## Adding Coordinates to your Flight Plan
@@ -90,6 +101,11 @@ When adding a coordinate, you will need to include at least one other waypoint o
 
 
 > It is currently not possible to add seconds so these will need to be rounded to the nearest minute when adding to your flight plan
+
+
+## Adding User Created Waypoints to your Flight Plan
+
+Tap a blank area of the map, and tap the + icon to add it to your flightplan.
 
 
 

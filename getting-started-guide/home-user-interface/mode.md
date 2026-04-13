@@ -16,13 +16,14 @@ There are four modes that can be selected, these are:
 
 
 
-![Modes](_images/manual/frames/mode-242.png)
+![Modes](__images/manual/getting-started/Home-User-Interface/mode-mode.png)
 
 
 
 1. Select Single or Multi Player
-1. Select the mode type
-1. If Multi Player is selected, you can also choose the online server
+2. Select the mode type
+3. If Multi Player is selected, you can also choose the online server
+4. Select to confirm the selection
 
 
 
