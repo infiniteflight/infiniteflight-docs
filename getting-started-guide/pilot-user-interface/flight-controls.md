@@ -7,7 +7,18 @@ order: 13
 
 # Flight Controls
 
-![Flight Controls](_images/manual/frames/flight-controls.png)
+After launching your first flight you will be asked to select which control mode you would like to use, Tilt or Touch. This can be changed at any time in settings
+
+Tilt uses your device's accelerometer to control your pitch and roll, with the rudder and thottle within easy reach
+
+Touch uses 2 on screen joysticks to control the aircraft. One for roll/pitch, the other for rudder/throttle
+
+
+
+## Tilt
+
+
+![Flight Controls - Tilt](_images/manual/getting-started/Pilot-User-Interface/flight-controls-tilt.png)
 
 
 
@@ -22,4 +33,13 @@ order: 13
     
 
 2. The rudder is controlled with the RUD BRAKES symbol in the bottom right of the screen. Press and hold the symbol, and then move it left or right to move the rudder in the same direction. In addition, the rudder offers differential braking to the undercarriage. To do this, press and hold the symbol and drag your finger towards the bottom of the screen. A percentage that indicates the level of braking being achieved will show
+
+## Touch
+
+
+![Flight Controls - Touch](_images/manual/getting-started/Pilot-User-Interface/flight-controls-tilt.png)
+
+1. Throttle can be changed by dragging up/down, Rudder by dragging left/right. Brakes can be controlled by continuing to drag down
+2. Roll can be adjusted by dragging left/right, and pitch by dragging up/down
+
 

@@ -599,3 +599,31 @@ Tasks lists can be added using the following markdown:
 - [x] List item number three, which is checked by default
 ```
 
+
+
+## Special Page Properties
+
+### Hiding Pages from the Side Menu
+
+Individual pages can be hidden from the side menu navigation while still being accessible via direct URL. This is useful for:
+- Internal documentation pages
+- Pages under development
+- Supplementary content that doesn't need to be in the main navigation
+- Special purpose pages that are only relevant in specific contexts
+
+To hide a page from the side menu, add the `hideFromSideMenu: true` property to the frontmatter of the markdown file:
+
+```markdown
+---
+id: your-page-id
+title: Your Page Title
+meta: Your page description
+hideFromSideMenu: true
+---
+```
+
+The page will still be accessible via direct URL and can be linked to from other pages, but it will not appear in the sidebar navigation.
+
+There is a template for hidden pages available at `_hidden_page_template.md` that you can use as a starting point.
+
+

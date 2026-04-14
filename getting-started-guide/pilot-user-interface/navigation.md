@@ -59,7 +59,9 @@ Step 4
 
 : Tap "Set NAV 1". "NAV 1" will display in green by the runway to show it has been tuned successfully
 
- 
+Tip
+
+: Check the "Auto tune ILS" checkbox next to "Add to FPL" when adding an ILS approach procedure to your flightplan to have the ILS for your chosen runway automatically tuned
 
 ## Displaying an ILS in your Aircraft
 
@@ -151,6 +153,19 @@ Step 2
 
 : The Avionics tab will appear, ADF 1 will have the NDB frequency and ident displayed. BRG (bearing) 1 or 2 can be changed to "ADF" and the selected needle will display this information on the Horizontal Situation Indicator (HSI)
 
+
+## Clearing a Navigation Frequency
+
+Step 1
+: Tap "NAV" on the Fly Screen
+
+Step 2
+
+: Tap on the frequency you wish to clear (NAV 1 / NAV 2 / ADF 1)
+
+Step 3 
+
+: Tap "Clear Frequency"
  
 
 ## Traffic Collision Avoidance System (TCAS)

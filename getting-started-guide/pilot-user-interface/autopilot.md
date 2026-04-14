@@ -41,6 +41,11 @@ Step 4
 
 Aircraft may be fitted with the Approach (APPR) mode which allows the autopilot to intercept an ILS and perform an automatic landing if it is kept engaged until touchdown. Before engaging the APPR mode, make sure to check that the ILS has been [tuned](/guide/getting-started-guide/pilot-user-interface/navigation#tuning-to-an-ils) and [displayed](/guide/getting-started-guide/pilot-user-interface/navigation#displaying-an-ils-in-your-aircraft).
 
+Tip
+
+: APPR Mode is unable to activated if your airspeed exceeds 250 knots, or if your aircraft is over it's maximum landing weight
+
+
 
 
 When pressing the APPR button, the following displays will be shown beneath it:
