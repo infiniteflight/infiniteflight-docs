@@ -16,7 +16,7 @@ There are four modes that can be selected, these are:
 
 
 
-![Modes](__images/manual/getting-started/Home-User-Interface/mode-mode.png)
+![Modes](_images/manual/getting-started/Home-User-Interface/mode-mode.png)
 
 
 
