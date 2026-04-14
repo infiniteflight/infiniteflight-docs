@@ -36,7 +36,7 @@ When in [Free Flight](/guide/getting-started-guide/home-user-interface/mode#free
 
 
 
-![Aircraft Selection](_images/manual/getting-started/Home-User-Interface/home-screen-aircraftSelection1.png)
+![Aircraft Selection](_images/manual/getting-started/Home-User-Interface/home-screen-aircraftSelectionAircraft.png)
 
 
 
@@ -62,7 +62,7 @@ When in [Free Flight](/guide/getting-started-guide/home-user-interface/mode#free
 
 7. Takes you back to the previous menu
 
-![Livery Selection](_images/manual/getting-started/Home-User-Interface/home-screen-aircraftSelection2.png)
+![Livery Selection](_images/manual/getting-started/Home-User-Interface/home-screen-aircraftSelectionLivery.png)
 
 
 
