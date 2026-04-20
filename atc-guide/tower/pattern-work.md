@@ -27,7 +27,7 @@ For a step by step guide on how to issue pattern entries, sequencing and clearan
 
 
 
-+++ SCENARIO - Re-Sequencing
++ SCENARIO - Re-sequencing to control the size of the pattern 
 
 ::: scenario-heading
 Scenario
@@ -55,9 +55,6 @@ Scenario
 
 {.prosandcons}
 
-
-
-
 | Technique 2                                          |
 | ---------------------------------------------------- |
 | 1: Instruct *I-DRUM* to "turn base"                  |
@@ -69,6 +66,61 @@ Scenario
 | ----------------- | ------------------------------------------------------------ |
 | :fa-check-circle: | Can be efficient                                             |
 | :fa-times-circle: | Some pilots/aircraft may not be able to fly as tight a pattern |
+
+{.prosandcons}
+
++++
+
+
++ SCENARIO - Re-sequencing more then one aircraft on the opposite downwind 
+
+::: scenario-heading
+Scenario
+:::
+
+::: scenario
+*YU-MMY* is number 1 for runway 10R, *G-ZZJB* is sequenced number 2 for runway 10R, *G-RIZZ* is number 1 for runway 10L and *N623KB* is sequenced number 2 for runway 10L. *YU-MMY* then asks for a RWY change to 10L. 
+::: 
+
+[Insert requested by Regan]
+
+{.scenario}
+
+| Technique 1                                                  |
+| ------------------------------------------------------------ |
+| 1: Instruct *YU-MMY* to "enter right downwind RWY10L, number 2, traffic to follow is on left downwind” |
+| 2: If you are concerned about a conflict on base between *‌G-RIZZ* and *YU-MMY*, then you can also tell *G-RIZZ* to "turn base" ahead of *YU-MMY* to alleviate this | 
+| 3: When you clear *YU-MMY* for the option, you can then tell them to “make left traffic” if you wish to do so to move them onto that side for subsequent patterns |
+| 4: Issue *N623KB* a re-sequence to follow *‌G-RIZZ* “number 3, traffic to follow is on left downwind” |
+
+{.technique}
+
+| Technique 1       | Pro or Con?                                 |
+| ----------------- | ------------------------------------------- |
+| :fa-check-circle: | *YU-MMY* will not have to extend downwind and the controller will have to issue less commands, lightening the pilot’s and controller’s workload                             |
+| :fa-times-circle: | *N623KB* is in a C172 and you could accommodate a shorter downwind for them by sequencing *YU-UMMY* number 3 to follow *N623KB* | 
+
+{.prosandcons}
+
+
+Tip
+
+: Aircraft performance should be taken in to account when sequencing aircraft. Controllers should try to accommodate a shorter pattern for slower performance aircraft. 
+
+| Technique 2                                                  |
+| ------------------------------------------------------------ |
+| 1: Instruct *G-ZZJB* to "turn base”                     |
+| 2: Instruct *YU-MMY* to “enter right downwind RW10L, number 3 traffic to follow is on left downwind” |
+| 3: To alleviate the risk of confusion between pilots you can instruct *YU-UMMY* to “extend downwind, I’ll call your base” to ensure there is no conflict with *N623KB* |
+| 4: You can instruct *N623KB* to turn base when appropriate so *YU-UMMY* doesn’t have to extend downwind as far |
+| 5: Instruct *YU-MMY* to “turn base” when adequate spacing is achieved between them and *N623KB* | 
+
+{.technique}
+
+| Technique 2       | Pro or Con?                                                  |
+| ----------------- | ------------------------------------------------------------ |
+| :fa-check-circle: | Accommodates a shorter pattern for *N623KB*  |
+| :fa-times-circle: | Higher workload for the controller with the risk of confusion between pilots |
 
 {.prosandcons}
 
