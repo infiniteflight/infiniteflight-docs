@@ -40,6 +40,7 @@ Should
 | 1B2.2 Violation Reasons                    | Only one violation per offense should be issued              |
 | 2.2.2 Ground Taxi & 3.2.6 Tower Departures | Controllers not required to instruct jets to "Contact Tower when ready" since they're assumed ready |
 | 4.1.4 ATIS usage                           | Controllers may accomodate pilot requests based on traffic levels and workload |
+| 6.2.4 Radar Separation                     | Controllers may tap aircraft target to acknowledge collision alert and silence alarm |
 | 7a.2.3 Training Structure                  | Fixed typo                                                   |
 
 +++
