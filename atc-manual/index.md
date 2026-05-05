@@ -38,7 +38,7 @@ Should
 | ------------------------------------------ | ------------------------------------------------------------ |
 | 4.2.1 Remarks and NOTAMs                   | PA28 added to list of light aircraft                         |
 | 1B2.2 Violation Reasons                    | Only one violation per offense should be issued              |
-| 2.2.2 Ground Taxi & 3.2.6 Tower Departures | Jets not required to "Contact Tower whenr ready" since they're assumed ready |
+| 2.2.2 Ground Taxi & 3.2.6 Tower Departures | Controllers not required to instruct jets to "Contact Tower when ready" since they're assumed ready |
 | 4.1.4 ATIS usage                           | Controllers may accomodate pilot requests based on traffic levels and workload |
 | 7a.2.3 Training Structure                  | Fixed typo                                                   |
 
